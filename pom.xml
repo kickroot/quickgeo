@@ -6,11 +6,34 @@
   <version>0.1.0-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>QuickGeo - Parent</name>
+  <description>The parent POM for the QuickGeo project</description>
+  <url>https://github.com/kickroot/quickgeo</url>
+  
+  <licenses>
+    <license>
+      <name>Mozilla Public License, v. 2.0</name>
+      <url>http://mozilla.org/MPL/2.0/</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  
+  <scm>
+    <url>scm:git:git@github.com:kickroot/quickgeo.git</url>
+    <connection>scm:git:git@github.com:kickroot/quickgeo.git</connection>
+  </scm>
   
   <modules>
     <module>quickgeo-core</module>
     <module>quickgeo-us</module>
   </modules>
   
+  <build>
+    <plugins>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-release-plugin</artifactId>
+      </plugin>
+    </plugins>    
+  </build>
   
 </project>
