@@ -34,15 +34,35 @@ Managing all those country specific jar files is not your problem
 ## How do I use this in my Maven based app?
 I'm glad you asked!  You'll need to add some dependencies to your project as such:
 
- ```xml
-     <dependency>
-      <groupId>org.quickgeo</groupId>
-      <artifactId>quickgeo-core</artifactId>
-      <version>0.1.0-SNAPSHOT</version>
-    </dependency>
-    <dependency>
-      <groupId>org.quickgeo</groupId>
-      <artifactId>quickgeo-us</artifactId>
-      <version>0.1.0-SNAPSHOT</version>
-    </dependency>
- ```
+```xml
+<dependency>
+  <groupId>org.quickgeo</groupId>
+  <artifactId>quickgeo-core</artifactId>
+  <version>0.1.0-SNAPSHOT</version>
+</dependency>
+<dependency>
+  <groupId>org.quickgeo</groupId>
+  <artifactId>quickgeo-us</artifactId>
+  <version>0.1.0-SNAPSHOT</version>
+</dependency>
+```
+
+ In the above sample, you add the required *quickgeo-core* artifact (which contains the public facing interface), and the postal code database for the US. You get one country per added dependency.  So if you wanted to include Canada you would add another dependeny:
+
+```xml
+<dependency>
+  <groupId>org.quickgeo</groupId>
+  <artifactId>quickgeo-ca</artifactId>
+  <version>0.1.0-SNAPSHOT</version>
+</dependency>
+
+There are quite a few countries to choose from, and each one gets it's own Maven project within QuickGeo.
+
+***At the moment this project is not hosted in Maven Central, I'm working on that.***  
+This means to use QuickGeo you'll need to clone the repo and build it yourself.  Seriously it takes like 2 minutes.
+
+
+##Where did you get the postal code data from?  
+From the awesome people at [GeoNames](http://www.geonames.org/)
+The work is covered under the Creative Commons Attribution 3.0 License. This means you need to give them credit if you use QuickGeo in your application or service.  Sharing is caring, eh?
+
