@@ -1,7 +1,7 @@
 ## QuickGeo
 ### An awesome in-memory global postal code database for the dangerously pragmatic Java developer
 
-**What does that even mean?** 
+**What does that even mean?**  
 Rather than give you a dry feature list, let's quickly examine the types of questions that QuickGeo can answer for you:
 
 1. How many miles (or kilometers) is New York City from London?
@@ -11,7 +11,8 @@ Rather than give you a dry feature list, let's quickly examine the types of ques
 5. Give me a bounding box that covers 29 miles (or kilometers) in each direction around New Delhi, India
 
 **Why in-memory and not a web service**
-Because it's awesome.  Here's why:
+Because it's awesome.  
+Here's why:
 
 1. No need to have an Internet connection
 2. No third party service to yank your API access if your app suddenly goes viral
