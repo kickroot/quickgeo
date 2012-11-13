@@ -1,0 +1,13 @@
+LI	9485	Nendeln						7007	47.2	9.55	4
+LI	9486	Schaanwald						7008	47.2167	9.5667	4
+LI	9487	Gamprin-Bendern						7009	47.2167	9.5	4
+LI	9488	Schellenberg						7011	47.2333	9.5333	4
+LI	9489	Vaduz						7001	47.1333	9.5167	4
+LI	9490	Vaduz						7001	47.1333	9.5167	4
+LI	9492	Eschen						7007	47.2167	9.5167	4
+LI	9493	Mauren FL						7008	47.2126	9.5571	4
+LI	9494	Schaan						7005	47.1667	9.5	4
+LI	9495	Triesen						7002	47.1	9.5333	4
+LI	9496	Balzers						7003	47.0667	9.5	4
+LI	9497	Triesenberg						7004	47.1167	9.5333	4
+LI	9498	Planken						7006	47.1833	9.5333	4

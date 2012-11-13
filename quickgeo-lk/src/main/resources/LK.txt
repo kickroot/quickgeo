@@ -1,0 +1,1832 @@
+LK	50000	Anuradhapura		AD					8.35	80.3833	4
+LK	50004	Perimiyankulama		AD					8.2667	80.5333	4
+LK	50006	Galkadawala		AD					8.4	80.3833	4
+LK	50008	Saliyapura		AD					8.3389	80.4333	
+LK	50012	Viharapalugama		AD					8.4	80.3	
+LK	50014	Elayapattuwa		AD					8.4	80.3	4
+LK	50016	Tantirimale		AD					8.4	80.3	
+LK	50020	Pemaduwa		AD					8.2814	80.4588	
+LK	50022	Mahawilachchiya		AD					8.2814	80.4588	
+LK	50029	Pandulagama		AD					8.2814	80.4588	
+LK	50036	Gnanikulama		AD					8.3	80.4333	4
+LK	50042	Sravasthipura		AD					8.2667	80.4333	
+LK	50044	Hidogama		AD					8.2667	80.4	4
+LK	50046	Nachchaduwa		AD					8.2667	80.4667	4
+LK	50055	Parasangahawewa		AD					8.4333	80.4333	4
+LK	50057	Gambirigaswewa		AD					8.4667	80.3667	4
+LK	50062	Kurundankulama		AD					8.2	80.45	4
+LK	50064	Galkulama		AD					8.2667	80.5	4
+LK	50067	Uttimaduwa		AD					8.25	80.55	4
+LK	50068	Sivalakulama		AD					8.25	80.6333	4
+LK	50072	Tirappane		AD					8.2167	80.3833	4
+LK	50080	Maradankadawala		AD					8.1333	80.4833	4
+LK	50086	Walagambahuwa		AD					8.15	80.5	4
+LK	50088	Labunoruwa		AD					8.1667	80.6	4
+LK	50100	Kekirawa		AD					8.0333	80.6	4
+LK	50104	Tammennawa		AD					8.0333	80.6	
+LK	50110	Vijithapura		AD					7.4667	80.1333	
+LK	50111	Palagala		AD					7.4667	80.1333	
+LK	50112	Andiyagala		AD					7.4667	80.1333	4
+LK	50120	Galkiriyagama		AD					7.9414	80.565	4
+LK	50122	Pubbogama		AD					7.9167	80.6	4
+LK	50124	Halmillawa Dambulla		AD					7.9474	80.594	
+LK	50126	Maha Elagamuwa		AD					7.9842	80.6169	4
+LK	50130	Madatugama		AD					7.9439	80.6289	4
+LK	50132	Kitulhitiyawa		AD					7.9167	80.6333	4
+LK	50142	Ganewalpola		AD					8.0833	80.6167	4
+LK	50144	Palugaswewa		AD					8.05	80.7	4
+LK	50150	Habarana		AD					8.0333	80.75	4
+LK	50169	Awukana		AD					7.9753	80.5266	
+LK	50170	Galnewa		AD					8.2	80.3667	4
+LK	50174	Kalankuttiya		AD					8.05	80.3833	4
+LK	50176	Hurigaswewa		AD					8.1333	80.3667	4
+LK	50180	Negampaha		AD					7.9872	80.4597	4
+LK	50182	Maneruwa		AD					7.9142	80.4886	4
+LK	50184	Siyambalewa		AD					7.95	80.5167	4
+LK	50196	Mahabulankulama		AD					7.9753	80.5266	
+LK	50200	Nochchiyagama		AD					8.2667	80.2	4
+LK	50206	Pahala Halmillewa		AD					8.2167	80.1833	4
+LK	50207	Udunuwara Colony		AD					8.2417	80.1917	
+LK	50210	Galadivulwewa		AD					7.8	80.0833	
+LK	50212	Ranorawa		AD					7.8	80.0833	
+LK	50214	Dunumadalawa		AD					7.8	80.0833	4
+LK	50220	Pahala Maragahawe		AD					8.0667	80.6833	
+LK	50222	Horiwila		AD					8.0667	80.6833	4
+LK	50224	Gemunupura		AD					8.0667	80.6833	
+LK	50226	Kalaoya		AD					8.0667	80.6833	
+LK	50230	Talawa		AD					8.2167	80.35	4
+LK	50232	Karagahawewa		AD					8.2333	80.3167	4
+LK	50236	Malwanagama		AD					8.225	80.3333	
+LK	50240	Tambuttegama		AD					8.15	80.3	4
+LK	50242	Telhiriyawa		AD					8.15	80.3333	4
+LK	50244	Pahalagama		AD					8.2	80.2833	4
+LK	50246	Rajanganaya		AD					8.1708	80.2833	
+LK	50248	Angamuwa		AD					8.1833	80.2167	4
+LK	50259	Kiralogama		AD					8.1833	80.3667	4
+LK	50260	Eppawala		AD					8.1167	80.7333	4
+LK	50261	Katiyawa		AD					7.6167	80.55	4
+LK	50262	lhala Halmillewa		AD					7.8667	80.6417	
+LK	50270	Mahailluppallama		AD					8.106	80.3619	
+LK	50280	lpologama		AD					8.0833	80.4667	
+LK	50282	Kagama		AD					8.0833	80.4667	
+LK	50284	Senapura		AD					8.0833	80.4667	4
+LK	50288	Kalakarambewa		AD					8.0833	80.4667	
+LK	50300	Mihintale		AD					8.35	80.5	4
+LK	50304	lhalagama		AD					8.35	80.5	
+LK	50306	Mahakanadarawa		AD					8.35	80.5	
+LK	50308	Maradankalla		AD					8.35	80.5	
+LK	50320	Kahatagasdigiliya		AD					8.4167	80.6833	4
+LK	50324	Mulkiriyawa		AD					8.4167	80.6833	
+LK	50326	Parakumpura		AD					8.4167	80.6833	
+LK	50327	Mahapothana		AD					8.4167	80.6833	
+LK	50334	Megodawewa		AD					8.2333	80.7333	
+LK	50338	Padikaramaduwa		AD					8.2333	80.7333	4
+LK	50339	Namalpura		AD					8.2333	80.7333	
+LK	50344	Muriyakadawala		AD					8.2333	80.65	4
+LK	50349	Morakewa		AD					8.5	80.7833	4
+LK	50350	Horawpatana		AD					8.4333	80.8667	
+LK	50354	Parangiyawadiya		AD					8.4833	80.8667	4
+LK	50356	Dematawewa		AD					8.3833	80.8667	4
+LK	50358	Welimuwapotana		AD					8.4333	80.8667	
+LK	50370	Kapugallawa		AD					8.4233	80.6783	
+LK	50380	Seeppukulama		AD					8.4	80.6333	
+LK	50382	Upuldeniya		AD					8.4	80.6333	
+LK	50384	Mailagaswewa		AD					8.4	80.6333	
+LK	50386	Rampathwila		AD					8.4	80.6333	4
+LK	50390	Galenbindunuwewa		AD					8.5833	80.55	4
+LK	50392	Getalawa		AD					8.6167	80.5333	
+LK	50393	Dutuwewa		AD					8.65	80.5167	4
+LK	50394	Hurulunikawewa		AD					8.6167	80.5333	
+LK	50448	Pandukabayapura		AD					8.4625	80.5417	
+LK	50450	Rambewa		AD					8.4333	80.5	4
+LK	50452	Kendewa		AD					8.4833	80.6	4
+LK	50454	Kallanchiya		AD					8.45	80.55	4
+LK	50492	Wahamalgollewa		AD					8.4833	80.5167	4
+LK	50500	Kebithigollewa		AD					8.5333	80.4833	
+LK	50500	Medawachchiya		AD					8.5333	80.4833	4
+LK	50506	Punewa		AD					8.6167	80.4667	4
+LK	50511	Kirigalwewa		AD					8.5595	80.5476	
+LK	50512	Pihimbiyagolewa		AD					8.5595	80.5476	
+LK	50514	Rathmalgahawewa		AD					8.5595	80.5476	
+LK	50516	Walahaviddawewa		AD					8.5595	80.5476	
+LK	50518	Etaweeragollewa		AD					8.5595	80.5476	
+LK	50552	Halmillawetiya		AD					8.35	80.2667	4
+LK	50554	Gonahaddenawa		AD					8.5333	80.5083	
+LK	50556	Kalawedi Ulpotha		AD					8.5333	80.5083	
+LK	50558	Tittagonewa		AD					8.7167	80.75	4
+LK	50562	Kahatagollewa		AD					8.45	80.65	4
+LK	50564	Wahalkada		AD					8.5667	80.6222	
+LK	50566	Bogahawewa		AD					8.3167	80.2333	4
+LK	50567	Pulmoddai		AD					8.9333	80.9833	4
+LK	50570	Padaviya		AD					8.5595	80.5476	
+LK	50572	Padavi Maithripura		AD					8.5595	80.5476	
+LK	50574	Mahasenpura		AD					8.5595	80.5476	
+LK	50582	Padavi Parakramapura		AD					8.5595	80.5476	
+LK	50584	Etawatunuwewa		AD					8.5595	80.5476	
+LK	50586	Welioya Project		AD					8.5595	80.5476	
+LK	50587	Padavi Sripura		AD					8.5595	80.5476	
+LK	50588	Padavi Sritissapura		AD					8.5595	80.5476	
+LK	32000	Ampara		APR					7.2833	81.6667	4
+LK	32006	Deegawapiya		APR					7.2833	81.6667	
+LK	32008	Digamadulla Weeragoda		APR					7.2833	81.6667	
+LK	32010	Hingurana		APR					6.9167	80.4167	4
+LK	32012	Moragahapallama		APR					7.3792	80.4982	
+LK	32014	Damana		APR					7.8417	80.5797	4
+LK	32016	Madawalalanda		APR					7.3792	80.4982	
+LK	32018	Mahanagapura		APR					7.3792	80.4982	
+LK	32022	Pannalagama		APR					7.0667	81.6167	4
+LK	32024	Bakmitiyawa		APR					7.0167	81.65	4
+LK	32031	Paragahakele		APR					7.25	81.6	4
+LK	32032	Polwaga Janapadaya		APR					7.1889	81.5778	
+LK	32034	Pahalalanda		APR					7.1889	81.5778	
+LK	32035	Koknahara		APR					7.1833	81.5667	4
+LK	32037	Namaloya		APR					7.1889	81.5778	
+LK	32038	Devalahinda		APR					7.1889	81.5778	
+LK	32039	Wadinagala		APR					7.1333	81.5667	4
+LK	32046	Dadayamtalawa		APR					7.65	79.9667	
+LK	32048	Siyambalawewa		APR					7.65	79.9667	4
+LK	32050	Central Camp		APR					7.3589	81.1759	
+LK	32060	Uhana		APR					7.3667	81.6333	4
+LK	32062	Werunketagoda		APR					7.5458	81.125	
+LK	32064	Gonagolla		APR					7.45	81.6333	4
+LK	32066	Galapitagala		APR					8.0833	80.6667	4
+LK	32068	Rajagalatenna		APR					7.5458	81.125	
+LK	32069	Mangalagama		APR					7.2833	80.5667	4
+LK	32070	Mahaoya		APR					7.5	81.3333	
+LK	32072	Tempitiya		APR					7.5	81.3333	
+LK	32074	Kekirihena		APR					7.5	81.3333	4
+LK	32100	Padiyatalawa		APR					7.4	81.2333	4
+LK	32101	Serankada		APR					7.45	81.2833	4
+LK	32102	Kolamanthalawa		APR					7.4	81.2722	
+LK	32104	Dorakumbura		APR					7.35	81.3	4
+LK	32120	Nawamedagama		APR					7.2125	81.0583	
+LK	32126	Damanewela		APR					7.2125	81.0583	
+LK	32150	Dehiattakandiya		APR					7.2125	81.0583	
+LK	32155	Siripura		APR					7.2125	81.0583	
+LK	32158	Mawanagama		APR					7.2125	81.0583	
+LK	32198	Malwatta		APR					6.65	80.4167	4
+LK	32200	Samanthurai		APR					7.3833	81.8333	
+LK	32250	Karativu		APR					7.3833	81.8333	4
+LK	32280	Sainthamaruthu		APR					7.3833	81.8333	
+LK	32300	Kalmunai		APR					7.4167	81.8167	4
+LK	32308	Navithanveli		APR					7.4333	81.7833	4
+LK	32314	Marathamune		APR					7.45	81.8167	
+LK	32316	Periyaneelavanai		APR					7.45	81.8167	4
+LK	32340	Nintavur		APR					7.35	81.85	4
+LK	32350	Addalaichenai		APR					7.4833	81.75	
+LK	32354	Palamunai		APR					7.4833	81.75	4
+LK	32360	Oluvil		APR					7.2833	81.85	4
+LK	32400	Akkaraipattu		APR					7.2167	81.85	4
+LK	32405	Kannakipuram		APR					7.2167	81.85	
+LK	32415	Thambiluvil		APR					7.1333	81.85	4
+LK	32418	Komari		APR					6.9833	81.8667	4
+LK	32420	Tirukovil		APR					7.1167	81.85	4
+LK	32450	lmkkamam		APR					7.1125	81.8542	
+LK	32454	Wanagamuwa		APR					7.1125	81.8542	
+LK	32500	Pottuvil		APR					6.8667	81.8333	4
+LK	32508	Panama		APR					6.75	81.8	4
+LK	32512	Lahugala		APR					7.4	81.3	4
+LK	32514	Hulannuge		APR					7.4	81.3	
+LK	30000	Batticaloa		BC					7.7167	81.7	4
+LK	30016	Kannankudah		BC					7.6667	81.6667	4
+LK	30018	Navatkadu		BC					7.5833	81.7167	4
+LK	30022	Pillaiyaradi		BC					7.75	81.6333	
+LK	30024	Thannamunai		BC					7.75	81.6333	4
+LK	30100	Kattankudi		BC					7.675	81.73	4
+LK	30150	Araipattai		BC					7.6667	81.7333	4
+LK	30158	Puthukudiyiruppu		BC					9.05	79.85	4
+LK	30159	Kirankulam		BC					7.6	81.7667	4
+LK	30160	Kokkaddichcholai		BC					7.8597	81.4411	
+LK	30162	Ampilanthurai		BC					7.8597	81.4411	
+LK	30192	Kurukkalmadam		BC					7.5833	81.7833	4
+LK	30194	Cheddipalayam		BC					7.5833	81.7833	4
+LK	30196	Thettativu		BC					7.5833	81.7833	
+LK	30200	Kaluwanchikudi		BC					7.5167	81.7833	4
+LK	30204	Vellavely		BC					7.5	81.7333	4
+LK	30206	Bakiella		BC					7.5083	81.7583	
+LK	30220	Mandur		BC					7.4833	81.75	4
+LK	30230	Periyaporativu		BC					7.5167	81.7667	4
+LK	30234	Thirupalugamam		BC					7.525	81.725	
+LK	30236	Thikkodai		BC					7.5333	81.6833	4
+LK	30238	Navagirinagar		BC					7.525	81.725	
+LK	30249	Koddaikallar		BC					7.6389	81.6639	
+LK	30250	Kallar		BC					8.2833	81.2667	4
+LK	30254	Thuraineelavanai		BC					8.2833	81.2667	
+LK	30300	Eravur		BC					7.7667	81.6	4
+LK	30350	Chenkaladi		BC					7.7833	81.6	4
+LK	30352	Pankudavely		BC					7.75	81.5667	
+LK	30354	Karadiyanaru		BC					7.7167	81.5333	4
+LK	30358	Periyapullumalai		BC					7.75	81.5667	
+LK	30362	Ayithiyamalai		BC					7.6167	81.55	
+LK	30364	Unnichchai		BC					7.6167	81.55	4
+LK	30372	Kaluwankemy		BC					7.8	81.5667	
+LK	30376	Vantharumoolai		BC					7.8	81.5667	4
+LK	30392	Murakottanchanai		BC					7.8667	81.5333	
+LK	30394	Kiran		BC					7.8667	81.5333	4
+LK	30400	Valaichenai		BC					7.7	81.6	4
+LK	30410	Kalkudah		BC					8.1167	79.7167	4
+LK	30420	Oddamavadi		BC					7.9167	81.5167	4
+LK	30424	Vakaneri		BC					7.9167	81.4333	4
+LK	30426	Miravodai		BC					7.9	81.5167	4
+LK	30428	Punanai		BC					7.9667	81.3833	4
+LK	30442	Mankemi		BC					7.9833	81.25	
+LK	30444	Panichankemi		BC					7.9833	81.25	
+LK	30450	Vakarai		BC					8.1333	81.4333	4
+LK	30456	Kathiraveli		BC					8.2167	81.4	4
+LK	90000	Badulla		BD					6.9833	81.05	4
+LK	90008	Soranatota		BD					7.0167	81.05	4
+LK	90012	Timbirigaspitiya		BD					7.0333	81.05	4
+LK	90013	Egodawela		BD					7.0333	80.65	4
+LK	90014	Taldena		BD					7.0833	81.05	4
+LK	90015	Meegahakiula		BD					7.0833	80.9833	
+LK	90016	Ketawatta		BD					7.1	81.0833	4
+LK	90017	Arawa		BD					7.1667	81.0833	4
+LK	90019	Baduluoya		BD					7.0833	80.9833	
+LK	90020	Kandaketya		BD					7.2333	80.4667	
+LK	90022	Maliyadda		BD					7.2333	80.4667	4
+LK	90026	Rilpola		BD					7.2333	80.4667	
+LK	90028	Spring Valley		BD					7.2333	80.4667	
+LK	90034	Wineethagama		BD					7.029	80.937	
+LK	90042	Nelumgama		BD					7	81.0917	
+LK	90044	Sirimalgoda		BD					7	81.0917	
+LK	90046	Kuttiyagolla		BD					7.0167	81.0833	4
+LK	90048	Kendagolla		BD					6.9833	81.1	4
+LK	90052	Kahataruppa		BD					7.0333	81.1167	4
+LK	90060	Hali Ela		BD					6.95	81.0333	4
+LK	90061	Uva Uduwara		BD					7.0333	80.8917	
+LK	90062	Uva Deegalla		BD					7.0333	80.8917	
+LK	90063	Jangulla		BD					7.0333	80.8917	
+LK	90064	Narangala		BD					7.1	80.3667	4
+LK	90065	Galauda		BD					7.0333	80.9833	4
+LK	90066	Beramada		BD					7.05	80.9833	4
+LK	90067	Godunna		BD					7.0667	80.9833	4
+LK	90068	Landewela		BD					7	81	4
+LK	90070	Kandegedara		BD					7.4167	80.0833	4
+LK	90071	Pathanewatta		BD					7.4167	80.0833	
+LK	90072	Tennepanguwa		BD					7.4167	80.0833	
+LK	90080	Demodara		BD					6.9	81.05	4
+LK	90082	Gawarawela		BD					6.9	81.0667	4
+LK	90090	Ella		BD					6.8667	81.05	4
+LK	90091	Uva Karandagolla		BD					6.8333	81.0667	4
+LK	90092	Ballaketuwa		BD					6.8667	81.1	4
+LK	90094	Helapupula		BD					6.8556	81.0722	
+LK	90100	Bandarawela		BD					6.8369	80.9856	4
+LK	90102	Kebillawela		BD					6.8268	81.0178	
+LK	90104	Dulgolla		BD					6.8268	81.0178	
+LK	90106	Liyangahawela		BD					6.8268	81.0178	
+LK	90108	Ambadandegama		BD					6.8167	81.05	4
+LK	90112	Heeloya		BD					6.8212	80.9407	
+LK	90114	Makulella		BD					6.8212	80.9407	
+LK	90122	Helahalpe		BD					6.8212	80.9407	
+LK	90132	Diganatenna		BD					6.8667	80.9667	4
+LK	90134	Mirahawatta		BD					6.8817	80.9347	4
+LK	90138	Pattiyagedara		BD					6.8742	80.9507	
+LK	90140	Ettampitiya		BD					6.9342	80.9853	4
+LK	90150	Diyatalawa		BD					6.8	80.9667	4
+LK	90160	Haputale		BD					6.7667	80.9667	4
+LK	90164	Ratkarawwa		BD					6.8	80.9167	4
+LK	90165	Nikapotha		BD					6.7333	80.9667	4
+LK	90166	Akkarasiyaya		BD					6.7792	80.9208	
+LK	90168	Ohiya		BD					6.8167	80.8333	4
+LK	90170	Boralanda		BD					6.8319	80.8883	4
+LK	90171	Pitapola		BD					6.8319	80.8883	
+LK	90180	Haldummulla		BD					6.7667	80.8833	4
+LK	90183	Soragune		BD					6.8333	80.8778	
+LK	90184	Kiriwanagama		BD					6.9667	80.9	4
+LK	90186	Kalupahana		BD					6.7667	80.85	4
+LK	90188	Uva Tenna		BD					6.8333	80.8778	
+LK	90190	Koslanda		BD					6.7333	81.0167	4
+LK	90192	Uva Mawelagama		BD					6.7333	81.0167	
+LK	90200	Welimada		BD					6.9011	80.9228	4
+LK	90204	Amunumulla		BD					6.7333	80.75	4
+LK	90206	Galedanda		BD					6.9667	79.9333	4
+LK	90208	Gurutalawa		BD					6.8431	80.9228	4
+LK	90212	Puhulpola		BD					6.9	80.9333	4
+LK	90214	Dikkapitiya		BD					6.7381	80.9669	4
+LK	90216	Nugatalawa		BD					6.9	80.8833	4
+LK	90218	Medawela Udukinda		BD					6.846	80.9279	
+LK	90222	Perawella		BD					6.9333	80.85	4
+LK	90224	Hangunnawa		BD					6.95	80.8833	4
+LK	90226	Uduhawara		BD					6.9667	80.8667	4
+LK	90230	Uvaparanagama		BD					6.8832	80.7912	
+LK	90300	Ambagasdowa		BD					6.9239	80.8942	4
+LK	90302	Bowela		BD					6.95	80.9333	4
+LK	90310	Lunuwatta		BD					6.9917	80.9475	
+LK	90322	Bambarapana		BD					7.1167	81.0375	
+LK	90324	Dimbulana		BD					7	80.95	4
+LK	90326	Ambagahawatta		BD					7.4	81.3	4
+LK	90328	Maspanna		BD					7.0167	80.95	4
+LK	90329	Yalagamuwa		BD					7.05	80.95	4
+LK	90350	Keppetipola		BD					6.6833	80.7667	
+LK	90352	Kalubululanda		BD					6.6833	80.7667	
+LK	90354	Bogahakumbura		BD					6.6833	80.7667	4
+LK	90356	Kandepuhulpola		BD					6.6833	80.7667	
+LK	90358	Hewanakumbura		BD					6.6833	80.7667	
+LK	90364	Silmiyapura		BD					6.9097	80.8356	
+LK	90500	Passara		BD					6.9333	81.15	4
+LK	90502	Bibilegama		BD					6.9	81.1333	4
+LK	90504	Miriyabedda		BD					6.9167	81.15	4
+LK	90506	Kotamuduna		BD					6.8833	81.1833	4
+LK	90508	Hingurukaduwa		BD					6.8167	81.15	4
+LK	90512	Gamewela		BD					6.9167	81.2	4
+LK	90518	Medawelagama		BD					6.9167	81.2	
+LK	90522	Pelagahatenna		BD					6.9594	81.1552	
+LK	90524	Hopton		BD					6.9594	81.1552	
+LK	90530	Lunugala		BD					7.0333	81.2	4
+LK	90532	Arawakumbura		BD					7.0667	81.2	4
+LK	90534	Pallekiruwa		BD					7.0167	81.2333	4
+LK	90535	Madulsima		BD					7.0333	81.1667	4
+LK	90540	Metigahatenna		BD					6.9667	81.0833	4
+LK	90542	Atakiriya		BD					7.0667	81.1056	
+LK	90544	Pitamaruwa		BD					7.1167	81.1333	4
+LK	90546	Kalugahakandura		BD					7.1167	81.1	4
+LK	90580	Namunukula		BD					6.8667	81.1167	4
+LK	90582	Maussagolla		BD					6.9	81.1333	4
+LK	90584	Miyanakandura		BD					6.8667	81.15	4
+LK	90700	Mahiyanganaya		BD					7.2444	81.1167	
+LK	90702	Uraniya		BD					7.2333	81.1	4
+LK	90704	Ridimaliyadda		BD					7.2333	81.1	4
+LK	90706	Yalwela		BD					7.2667	81.15	4
+LK	90712	Arawatta		BD					7.3333	81.05	4
+LK	90714	Dambana		BD					7.3583	81.1083	
+LK	90716	Wewatta		BD					7.3833	81.1667	4
+LK	90718	Sorabora Colony		BD					7.3583	81.1083	
+LK	90722	Aluttaramma		BD					7.2167	81.0667	
+LK	90724	Hebarawa		BD					7.2167	81.0667	
+LK	90726	Divulapelessa		BD					7.2167	81.0667	
+LK	90728	Kuruwitenna		BD					7.2167	81.0667	4
+LK	90730	Mapakadawewa		BD					7.3	81.1167	
+LK	90734	Uva Tissapura		BD					7.3	81.1167	
+LK	90736	Aluketiyawa		BD					7.3	81.1167	4
+LK	90738	Keselpotha		BD					7.3	81.1167	
+LK	90750	Girandurukotte		BD					7.4	81.05	
+LK	90752	Galporuyaya		BD					7.4	81.05	
+LK	90754	Malgoda		BD					7.4	81.05	4
+LK	90756	Pahalarathkinda		BD					7.4	81.05	
+LK	96167	Idalgashinna		BD					6.7833	80.9	4
+LK	90362	Boragas		(BD)					6.9097	80.8356	4
+LK	00600	Wellawatta		CO					6.8739	79.8647	4
+LK	00800	Borella		CO					6.8739	79.8647	
+LK	01300	Kotahena		CO					7.5833	80.55	4
+LK	01500	Mutwal		CO					8.2667	79.75	4
+LK	10100	Sri Jayawardenepu		CO					6.8897	79.9359	
+LK	10115	Malabe		CO					6.9	79.95	4
+LK	10116	Talawatugoda		CO					6.8692	79.9411	4
+LK	10118	Hokandara		CO					6.8846	79.9456	
+LK	10120	Battaramulla		CO					6.9	79.9167	4
+LK	10150	Athurugiriya		CO					6.8897	79.9359	
+LK	10200	Homagama		CO					6.8408	80.0139	4
+LK	10202	Mullegama		CO					6.8833	80.0167	4
+LK	10204	Habarakada		CO					6.8667	80.0167	4
+LK	10206	Pitipana Homagama		CO					6.8477	80.016	
+LK	10208	Kiriwattuduwa		CO					6.8	80.0167	4
+LK	10230	Pannipitiya		CO					6.85	79.95	4
+LK	10232	Hiripitya		CO					6.85	79.95	
+LK	10250	Nugegoda		CO					6.8728	79.8908	4
+LK	10280	Maharagama		CO					6.8461	79.9281	4
+LK	10290	Boralesgamuwa		CO					6.8425	79.9006	4
+LK	10300	Piliyandala		CO					6.7981	79.9264	4
+LK	10302	Deltara		CO					6.7833	79.9167	4
+LK	10304	Siddamulla		CO					6.8167	79.9667	4
+LK	10306	Madapatha		CO					6.7669	79.92	4
+LK	10320	Polgasowita		CO					6.7842	79.9811	4
+LK	10350	Dehiwala		CO					6.8514	79.8653	4
+LK	10370	Mount Lavinia		CO					6.8339	79.8644	4
+LK	10400	Moratuwa		CO					6.7733	79.8825	4
+LK	10500	Padukka		CO					6.8325	80.0986	4
+LK	10502	Horagala		CO					6.8	80.05	4
+LK	10504	Meegoda		CO					6.8053	80.0829	
+LK	10508	Kahawala		CO					6.7833	80.1	4
+LK	10511	Watareka		CO					7.4	80.4333	4
+LK	10513	Batawala		CO					6.8833	80.05	4
+LK	10522	Bope		CO					6.8333	80.1167	4
+LK	10524	Handapangoda		CO					6.7931	80.1417	4
+LK	10526	Batugampola		CO					6.7833	80.15	4
+LK	10600	Kolonnawa		CO					6.9317	79.8944	4
+LK	10620	Mulleriyawa New Town		CO					6.9301	80.0549	
+LK	10640	Kaduwela		CO					6.9311	79.9736	4
+LK	10650	Hanwella		CO					6.9064	80.0911	4
+LK	10654	Ranala		CO					6.9167	80.0333	4
+LK	10656	Dedigamuwa		CO					6.9115	80.0622	
+LK	10680	Waga		CO					6.9061	80.1353	4
+LK	10682	Tummodara		CO					6.9061	80.1353	
+LK	10700	Avissawella		CO					6.9531	80.2183	4
+LK	10704	Napawela		CO					6.9531	80.2183	
+LK	10712	Puwakpitiya		CO					7.0333	80.0667	4
+LK	10714	Hewainna		CO					7.3333	80.2167	
+LK	10718	Kalatuwawa		CO					7.6333	80.3667	4
+LK	10730	Kosgama		CO					6.9333	80.1411	4
+LK	10732	Akarawita		CO					6.95	80.1	4
+LK	200	Slave lsland		CO					7.2969	80.4515	
+LK	80000	Galle		GL					6.0536	80.2117	4
+LK	80042	Wakwella		GL					6.1	80.1833	4
+LK	80044	Anangoda		GL					6.0722	80.2389	
+LK	80046	Walahanduwa		GL					6.05	80.25	4
+LK	80048	Ankokkawala		GL					6.0667	80.2833	4
+LK	80054	Gonamulla Junction		GL					6.0667	80.3	
+LK	80056	Hiyare		GL					6.0667	80.3	4
+LK	80058	Talagampola		GL					6.0667	80.3	
+LK	80062	Kottawagama		GL					6.1375	80.3419	
+LK	80064	Nakiyadeniya		GL					6.1375	80.3419	4
+LK	80070	Udugama		GL					6.2147	80.3397	4
+LK	80075	Panangala		GL					6.2606	80.3297	4
+LK	80080	Hiniduma		GL					6.3133	80.3125	4
+LK	80082	Neluwa		GL					6.3833	80.3667	4
+LK	80084	Warukandeniya		GL					6.3833	80.4167	4
+LK	80086	Pannimulla Panagoda		GL					6.36	80.3653	
+LK	80090	Akmeemana		GL					6.1845	80.3032	
+LK	80092	Meda-Keembiya		GL					6.1845	80.3032	
+LK	80100	Wanduramba		GL					6.1381	80.2439	4
+LK	80107	Yatalamatta		GL					6.1667	80.2833	4
+LK	80108	Udalamatta		GL					6.1858	80.3006	4
+LK	80110	Nagoda		GL					6.2	80.2667	4
+LK	80112	Mapalagama		GL					6.2333	80.3333	4
+LK	80114	Parana ThanaYamgoda		GL					6.2167	80.3	
+LK	80116	Mapalagama Central		GL					6.2167	80.3	
+LK	80120	Wanchawela		GL					6.0333	80.3167	
+LK	80122	Angulugaha		GL					6.0333	80.3167	4
+LK	80130	lmaduwa		GL					6.7361	80.4354	
+LK	80132	Hawpe		GL					6.1222	80.4875	4
+LK	80134	Ihala Walpola		GL					7.35	80.3833	4
+LK	80136	Kananke Bazaar		GL					6.7361	80.4354	
+LK	80142	Opatha		GL					7.1333	79.9167	4
+LK	80143	Banagala		GL					6.2706	80.42	4
+LK	80144	Malgalla Talangalla		GL					6.5791	80.2233	
+LK	80146	Halvitigala Colony		GL					6.5791	80.2233	
+LK	80148	Tawalama		GL					6.3333	80.3333	4
+LK	80150	Yakkalamulla		GL					6.1	80.35	4
+LK	80151	Karagoda		GL					6.1	80.3833	4
+LK	80152	Magedara		GL					6.1	80.4	4
+LK	80168	Uluvitike		GL					6.3056	80.309	
+LK	80170	Poddala		GL					6.1167	80.2167	4
+LK	80200	Baddegama		GL					6.1667	80.1667	4
+LK	80204	Ampegama		GL					6.2	80.15	4
+LK	80212	Agaliya		GL					6.1833	80.2	4
+LK	80214	Unenwitiya		GL					6.2417	80.225	
+LK	80216	Weihena		GL					6.3	80.25	4
+LK	80220	Ginimellagaha		GL					6.2233	80.2	
+LK	80230	Gonapinuwala		GL					6.2233	80.2	
+LK	80240	Hikkaduwa		GL					6.1403	80.1039	4
+LK	80244	Tiranagama		GL					6.1333	80.1167	4
+LK	80250	Dodanduwa		GL					6.0967	80.1456	4
+LK	80260	Ratgama		GL					6.7333	80.4833	4
+LK	80270	Boossa		GL					6.2233	80.2	
+LK	80280	Gintota		GL					6.0564	80.1839	4
+LK	80300	Ambalangoda		GL					6.7833	79.9667	4
+LK	80302	Godahena		GL					6.2333	80.0667	4
+LK	80312	Kahawa		GL					6.1833	80.0667	4
+LK	80318	Nindana		GL					6.2	80.1	4
+LK	80320	Batapola		GL					6.2167	80.1167	4
+LK	80328	Kuleegoda		GL					6.2167	80.1167	
+LK	80330	Meetiyagoda		GL					6.1833	80.1	4
+LK	80332	Aluthwala		GL					6.1833	80.1	
+LK	80340	Watugedara		GL					6.25	80.05	4
+LK	80350	Uragasmanhandiya		GL					6.3472	80.0992	4
+LK	80352	Uragaha		GL					6.35	80.1167	4
+LK	80354	Rantotuwila		GL					6.3833	80.0833	4
+LK	80360	Karandeniya		GL					6.2667	80.0667	4
+LK	80400	Elpitiya		GL					6.2933	80.1631	4
+LK	80402	Ella Tanabaddegama		GL					6.2922	80.1988	
+LK	80406	Talgaspe		GL					6.3	80.2	4
+LK	80408	Porawagama		GL					6.2833	80.2333	4
+LK	80416	Nawadagala		GL					6.3167	80.1333	4
+LK	80420	Pitigala		GL					6.35	80.2167	4
+LK	80422	Amugoda		GL					6.3222	80.2203	4
+LK	80424	Mattaka		GL					6.3	80.25	4
+LK	80432	lhalahewessa		GL					6.4415	80.1807	
+LK	80440	Ganegoda		GL					7.5833	80	4
+LK	80458	Ethkandura		GL					6.4415	80.1807	
+LK	80460	Kahaduwa		GL					6.2244	80.21	4
+LK	80470	Talgaswela		GL					6.4415	80.1807	
+LK	80500	Bentota		GL					6.4211	79.9989	4
+LK	80502	Gonagalpura		GL					6.6307	80.0169	
+LK	80506	Haburugala		GL					6.4	80.0333	4
+LK	80508	Miriswatta		GL					7.0711	80.0183	4
+LK	80510	lnduruwa		GL					6.4681	80.0257	
+LK	80550	Balapitiya		GL					6.2667	80.0369	4
+LK	80562	Ahungalla		GL					6.3167	80.0333	4
+LK	80570	Kosgoda		GL					6.3333	80.0333	4
+LK	80600	Unawatuna		GL					6.0167	80.25	4
+LK	80615	Talpe		GL					6.0061	80.2961	4
+LK	80630	Habaraduwa		GL					6.0043	80.326	
+LK	80650	Ahangama		GL					5.9778	80.3744	4
+LK	80654	Dikkumbura		GL					6.0167	80.3833	4
+LK	10660	Pugoda		GQ					6.9703	80.1222	4
+LK	10662	Kapugoda		GQ					6.9486	80.1	4
+LK	10664	Tittapattara		GQ					6.9297	80.0889	4
+LK	11000	Gampaha		GQ					7.0917	79.9942	4
+LK	11010	Ragama		GQ					7.0308	79.9167	4
+LK	11011	Batuwatta		GQ					7.0528	79.9347	4
+LK	11012	Walpola (WP)		GQ					7.0418	79.9257	
+LK	11020	Ganemulla		GQ					7.0667	79.95	4
+LK	11024	Bollete (WP)		GQ					7.0667	79.95	
+LK	11030	Udugampola		GQ					7.1167	79.9833	4
+LK	11033	Madelgamuwa		GQ					7.1167	79.95	4
+LK	11034	Uggalboda		GQ					7.1333	79.95	4
+LK	11040	Bemmulla		GQ					7.1167	80.0167	4
+LK	11043	Pethiyagoda		GQ					7.1167	80.0167	
+LK	11052	Ambagaspitiya		GQ					7.0833	80.0667	4
+LK	11054	Udathuthiripitiya		GQ					7.075	80.0333	
+LK	11056	Mudungoda		GQ					7.0667	80	4
+LK	11061	Mandawala		GQ					7.0167	80.0833	4
+LK	11062	Lunugama		GQ					7.2	80.5667	4
+LK	11063	Naranwala		GQ					7	80.0167	4
+LK	11066	Nedungamuwa		GQ					7.05	80.0333	4
+LK	11068	Wanaluwewa		GQ					7.0667	80.175	
+LK	11100	Veyangoda		GQ					7.1519	80.0633	4
+LK	11102	Dewalapola		GQ					7.1667	80	4
+LK	11104	Watinapaha		GQ					7.2	79.9833	4
+LK	11104	Wattala		GQ					6.9897	79.8933	4
+LK	11105	Kumbaloluwa		GQ					7.1833	80.0833	4
+LK	11108	Essella		GQ					7.1833	80.0167	4
+LK	11112	Muddaragama		GQ					7.2167	80.05	4
+LK	11114	Mabodale		GQ					7.2	80.0167	4
+LK	11116	Ellakkala		GQ					7.1333	80.1333	4
+LK	11120	Attanagalla		GQ					7.1119	80.1328	4
+LK	11122	Alawala		GQ					7.2	80.3	4
+LK	11126	Urapola		GQ					7.0972	80.1483	4
+LK	11128	Nikahetikanda		GQ					7.1	80.1833	4
+LK	11129	Rukmale		GQ					7.2	80.4833	4
+LK	11134	Bopagama		GQ					7.0833	80.15	4
+LK	11142	Ruggahawila		GQ					7.0667	80.1167	
+LK	11144	Kahatowita		GQ					7.0667	80.1167	
+LK	11146	Walgammulla		GQ					7.0667	80.1167	4
+LK	11150	Pallewela		GQ					7.4667	79.9833	4
+LK	11160	Kaleliya		GQ					7.195	80.1136	4
+LK	11200	Mirigama		GQ					7.2414	80.1325	4
+LK	11204	Loluwagoda		GQ					7.3	80.1333	4
+LK	11206	Kitalawalana		GQ					7.3	80.1	4
+LK	11208	Divuldeniya		GQ					7.3	80.1	4
+LK	11212	Ambepussa		GQ					7.25	80.1667	4
+LK	11214	Pamunuwatta		GQ					7.2167	80.1333	4
+LK	11216	Bokalagama		GQ					7.2333	80.15	
+LK	11222	Nawana		GQ					7.2667	80.1	4
+LK	11224	Kaluaggala		GQ					6.9167	80.1	4
+LK	11226	Walpita		GQ					7.2514	80.0453	4
+LK	11228	Delwagura		GQ					7.2667	80	4
+LK	11232	Kotadeniyawa		GQ					7.2833	80.0667	4
+LK	11234	Mellawagedara		GQ					7.2833	80.0667	
+LK	11242	Kitulwala		GQ					7.5	80.5333	4
+LK	11244	Banduragoda		GQ					7.2319	80.0678	4
+LK	11250	Divulapitiya		GQ					7.2167	80.0156	4
+LK	11260	Marandagahamula		GQ					7.2447	79.9696	
+LK	11262	Hunumulla		GQ					7.25	79.9833	4
+LK	11264	Dunagaha		GQ					7.2342	79.9756	4
+LK	11265	Ihala Madampella		GQ					7.25	79.95	4
+LK	11270	Demanhandiya		GQ					7.2333	79.9	4
+LK	11320	Kandana		GQ					7.0478	79.8939	4
+LK	11324	Polpithimukulana		GQ					7.0444	79.8782	
+LK	11328	Uswetakeiyawa		GQ					7.0411	79.8625	4
+LK	11350	Ja-Ela		GQ					7.0844	79.8947	4
+LK	11354	Niwandama		GQ					7.0833	79.9333	4
+LK	11358	Makewita		GQ					7.1	79.9333	4
+LK	11370	Pamunugama		GQ					7.1006	79.8481	4
+LK	11380	Ekala		GQ					7.1022	79.9131	4
+LK	11390	Kotugoda		GQ					7.1217	79.9297	4
+LK	11400	Raddolugama		GQ					7.1407	79.8782	
+LK	11410	Seeduwa		GQ					7.1167	79.8833	4
+LK	11420	Katunayake(FTZ)		GQ					7.1407	79.8782	
+LK	11440	Katunayake Air Force Camp		GQ					7.1407	79.8782	
+LK	11450	Katunayake		GQ					7.1647	79.8731	4
+LK	11500	Negombo		GQ					7.2086	79.8358	4
+LK	11504	Talahena		GQ					7.1667	79.8167	4
+LK	11522	Kimbulapitiya		GQ					7.2064	79.9033	4
+LK	11524	Dagonna		GQ					7.2167	79.9167	4
+LK	11526	Katuwellegama		GQ					7.2167	79.9333	4
+LK	11532	Thimbirigaskatuwa		GQ					7.2669	79.9495	
+LK	11534	Katana		GQ					7.2517	79.9078	4
+LK	11536	Akaragama		GQ					7.2667	79.95	4
+LK	11538	Badalgama		GQ					7.2822	79.9908	4
+LK	11540	Kochchikade		GQ					7.2581	79.8542	4
+LK	11550	Minuwangoda		GQ					7.1733	79.9619	4
+LK	11558	Andiambalama		GQ					7.1869	79.9	4
+LK	11562	Wegowwa		GQ					7.1667	79.95	4
+LK	11564	Horampella		GQ					7.1667	79.95	
+LK	11566	Yatiyana(WP)		GQ					7.1667	79.95	
+LK	11568	Hinatiyana Madawala		GQ					7.1667	79.95	
+LK	11600	Kelaniya		GQ					6.96	79.8978	4
+LK	11607	Siyambalape		GQ					6.9667	79.9833	4
+LK	11618	Heiyanthuduwa		GQ					6.9612	79.9992	
+LK	11630	GonawalaWP		GQ					6.9612	79.9992	
+LK	11640	Makola		GQ					6.9694	79.9539	4
+LK	11650	Biyagama		GQ					6.9408	79.9889	4
+LK	11670	Malwana		GQ					6.9492	80.0153	4
+LK	11672	Biyagama IPZ		GQ					6.9492	80.0153	
+LK	11680	Dompe		GQ					6.9522	80.0542	4
+LK	11690	Dekatana		GQ					6.9678	80.0503	4
+LK	11692	Demalagama		GQ					6.9833	80.05	4
+LK	11700	Delgoda		GQ					6.9833	80.0167	4
+LK	11710	Weliveriya		GQ					6.7167	80.0333	
+LK	11715	Henegama		GQ					6.7167	80.0333	4
+LK	11720	Buthpitiya		GQ					7.05	80.05	4
+LK	11724	Wathurugama		GQ					7.0421	80.0701	
+LK	11725	Radawana		GQ					7.0342	80.0903	4
+LK	11730	Kirindiwela		GQ					7.04	80.1336	4
+LK	11734	Hiswella		GQ					7.04	80.1336	
+LK	11741	Pepiliyawala		GQ					6.9648	80.0648	
+LK	11742	Mithirigala		GQ					6.9648	80.0648	
+LK	11830	Peliyagoda		GQ					6.95	79.9	4
+LK	11850	Kadawatha		GQ					7.0258	79.9882	
+LK	11856	Imbulgoda		GQ					7.035	79.9931	4
+LK	11858	Weboda		GQ					7.0167	79.9833	4
+LK	11870	Yakkala		GQ					7.1167	80.05	
+LK	11875	Kalagedihena		GQ					7.1167	80.05	4
+LK	11880	Nittambuwa		GQ					7.1389	80.0981	4
+LK	11889	Debahera		GQ					7.1389	80.0981	
+LK	11890	Pasyala		GQ					7.1642	80.1247	4
+LK	11892	Radawadunna		GQ					7.1833	80.1333	4
+LK	11894	Weweldeniya		GQ					7.1834	80.1446	
+LK	11896	Danowita		GQ					7.2028	80.1758	4
+LK	82000	Hambantota		HB					6.1167	81.1167	4
+LK	82002	Bundala		HB					6.1833	81.1389	
+LK	82004	Weligatta		HB					6.2	81.2	4
+LK	82005	Bandagiriya Colony		HB					6.1833	81.1389	
+LK	82006	Gonnoruwa		HB					6.2333	81.1	4
+LK	82008	Pahala Andarawewa		HB					6.1833	81.1389	
+LK	82010	Sooriyawewa Town		HB					6.1833	81.1389	
+LK	82014	Migahajandur		HB					6.1833	81.1389	
+LK	82016	Mahagalwewa		HB					6.1833	81.1389	
+LK	82018	Ranmuduwewa		HB					6.1833	81.1389	
+LK	82100	Ambalantota		HB					6.1167	81.0167	4
+LK	82102	Beragama		HB					6.15	81.0667	4
+LK	82106	RU/Ridiyagama		HB					6.1375	81.0042	
+LK	82108	Lunama		HB					6.1167	80.9667	4
+LK	82109	Mamadala		HB					6.1667	80.9667	4
+LK	82110	Barawakumbuka		HB					6.1667	80.8167	4
+LK	82120	Hungama		HB					6.1	80.9333	4
+LK	82125	Ranna		HB					6.1	80.8667	4
+LK	82126	Kahandamodara		HB					6.0686	80.8944	4
+LK	82135	Netolpitiya		HB					6.0667	80.8333	4
+LK	82200	Tangalla		HB					6.0231	80.7889	4
+LK	82220	Angunakolapelessa		HB					6.1644	80.8981	4
+LK	82232	Vitharandeniya		HB					6.1824	80.806	
+LK	82240	Weeraketiya		HB					6.135	80.7865	
+LK	82242	Mulkirigala		HB					6.12	80.7397	4
+LK	82246	Wekandawela		HB					6.135	80.7865	
+LK	82248	Hakuruwela		HB					6.15	80.8333	4
+LK	82252	Julampitiya		HB					6.2261	80.7403	4
+LK	82254	Medamulana		HB					6.1833	80.7667	4
+LK	82270	Middeniya		HB					6.2494	80.7672	4
+LK	82274	Kariyamaditta		HB					6.2583	80.8292	
+LK	82276	Ratmalwala		HB					6.2667	80.85	4
+LK	82278	Uswewa		HB					6.2589	80.8703	4
+LK	82300	Nakulugamuwa		HB					6.1842	80.9063	
+LK	82400	Beliatta		HB					6.0333	80.75	4
+LK	82401	Goda Koggalla		HB					6.0333	80.75	
+LK	82412	Ihala Beligalla		HB					6.0947	80.7411	4
+LK	82414	Nihiluwa		HB					6.0833	80.7	4
+LK	82416	Modarawana		HB					6.1167	80.7167	4
+LK	82418	Yatigala		HB					6.1	80.6833	4
+LK	82420	Getamanna		HB					6.0333	80.6833	4
+LK	82450	Walasmulla		HB					6.15	80.7	4
+LK	82454	Pallekanda		HB					6.6333	80.6667	4
+LK	82456	Horewelagoda		HB					6.3917	80.6833	
+LK	82458	Bowalagama		HB					6.3917	80.6833	
+LK	82462	Ittademaliya		HB					6.1667	80.7333	4
+LK	82500	Katuwana		HB					6.2667	80.6972	4
+LK	82504	Uda Gomadiya		HB					6.2667	80.6972	
+LK	82550	Kirama		HB					6.2117	80.6653	4
+LK	82554	Rammalawarapitiya		HB					6.2117	80.6653	
+LK	82586	Gangulandeniya		HB					6.2833	80.7167	4
+LK	82600	Tissamaharama		HB					6.2833	81.2833	4
+LK	82602	Gonagamuwa Uduwila		HB					6.25	81.2917	
+LK	82608	Magama		HB					6.2167	81.3	4
+LK	82612	Ranakeliya		HB					6.2167	81.3	4
+LK	82614	Kirinda		HB					6.2167	81.3333	4
+LK	82615	Weerawila NewTown		HB					6.2556	81.2944	
+LK	82618	Beralihela		HB					6.2556	81.2944	
+LK	82619	Ellagala		HB					6.3333	81.25	4
+LK	82622	Kawantissapura		HB					6.2786	81.2524	
+LK	82632	Weerawila		HB					6.3417	81.15	
+LK	82634	Lunugamwehera		HB					6.3417	81.15	
+LK	82636	Padawkema		HB					6.35	81.1667	4
+LK	82638	Udamattala		HB					6.3333	81.1333	4
+LK	 *	Thondamanaru		JA							
+LK	40000	Jaffna		JA					9.6667	80	4
+LK	71000	Kegalle		KE					7.2531	80.3506	4
+LK	71009	Deldeniya		KE					7.2833	80.3667	4
+LK	71014	Hiriwadunna		KE					7.2833	80.3833	4
+LK	71016	Molagoda		KE					7.25	80.3833	4
+LK	71022	Deewala Pallegama		KE					7.2333	80.2667	
+LK	71029	Yattogoda		KE					7.2333	80.2667	4
+LK	71034	Damunupola		KE					7.1833	80.3333	4
+LK	71035	Watura		KE					7.1833	80.3833	4
+LK	71037	Debathgama		KE					7.1833	80.3583	
+LK	71039	Pothukoladeniya		KE					7.1833	80.3583	
+LK	71041	Aruggammana		KE					7.1167	80.3	4
+LK	71044	Beligala(Sab)		KE					7.2167	80.2917	
+LK	71046	Helamada		KE					7.3167	80.2833	4
+LK	71050	Dewalegama		KE					7.2853	80.3186	4
+LK	71055	Imbulgasdeniya		KE					7.2853	80.3186	
+LK	71060	Nelundeniya		KE					7.2319	80.2669	4
+LK	71062	Tuntota		KE					7.5	79.9167	4
+LK	71063	Mahapallegama		KE					7.366	80.0918	
+LK	71100	Rambukkana		KE					7.3164	80.3906	4
+LK	71105	Parape		KE					7.3667	80.4167	4
+LK	71106	Thotawella		KE					7.3555	80.3969	
+LK	71108	Hewadiwela		KE					7.3833	80.3833	4
+LK	71113	Udagaldeniya		KE					7.3583	80.35	
+LK	71115	Dombemada		KE					7.3833	80.35	4
+LK	71116	Yatagama		KE					7.3333	80.35	4
+LK	71130	Pattampitiya		KE					7.3566	80.3781	
+LK	71200	Undugoda		KE					7.1361	80.3631	4
+LK	71202	Kabagamuwa		KE					7.1333	80.35	4
+LK	71204	Alawatura		KE					7.1333	80.3333	4
+LK	71208	Bossella		KE					7.1333	80.4	4
+LK	71210	Hettimulla		KE					6.4667	80	4
+LK	71211	Maharangalla		KE					6.4667	80	
+LK	71220	Morontota		KE					7.1667	80.3667	4
+LK	71222	Gantuna		KE					7.1667	80.3667	
+LK	71230	Bulathkohupitiya		KE					7.1017	80.3369	4
+LK	71232	Ampagala		KE					7.0833	80.2833	4
+LK	71234	Wegalla		KE					7.1	80.3167	4
+LK	71236	Udapotha		KE					7.1	80.3667	4
+LK	71237	Dedugala		KE					7.1	80.4	4
+LK	71300	Ruwanwella		KE					7.0456	80.2539	4
+LK	71303	Wahakula		KE					7.05	80.2167	4
+LK	71304	Waharaka		KE					7.0833	80.2	4
+LK	71312	Galpatha(Sab)		KE					7.05	80.2333	
+LK	71313	Imbulana		KE					7.0667	80.25	4
+LK	71315	Lewangama		KE					7.05	80.2333	
+LK	71318	Gonagala		KE					7.0333	80.2167	4
+LK	71320	Amitirigala		KE					7.0306	80.1839	4
+LK	71321	Batuwita		KE					7.05	80.1667	4
+LK	71325	Malmaduwa		KE					7.15	80.2833	4
+LK	71326	Yatapana		KE					7.1333	80.3	4
+LK	71350	Galigamuwa Town		KE					7.2	80.3	
+LK	71352	Hakahinna		KE					7.2	80.3	4
+LK	71360	Pitagaldeniya		KE					6.45	80.2667	
+LK	71363	Atale		KE					6.45	80.2667	4
+LK	71370	Kotiyakumbura		KE					7.0833	80.2667	
+LK	71372	Kannattota		KE					7.0833	80.2667	4
+LK	71400	Dehiowita		KE					6.9706	80.2675	4
+LK	71401	Deloluwa		KE					6.9653	80.3181	4
+LK	71403	Anhettigama		KE					6.9167	80.3667	4
+LK	71407	Noori		KE					6.9508	80.3174	
+LK	71411	Maliboda		KE					6.8867	80.4128	4
+LK	71417	Hinguralakanda		KE					6.9167	80.3	4
+LK	71418	Boralankada		KE					6.9667	80.3333	4
+LK	71430	Deraniyagala		KE					6.9333	80.3333	4
+LK	71432	Miyanawita		KE					6.9	80.3667	4
+LK	71500	Mawanella		KE					7.2467	80.4425	4
+LK	71501	Kondeniya		KE					7.2667	80.4333	4
+LK	71503	Ambulugala		KE					7.2333	80.4167	4
+LK	71505	Galatara		KE					7.2167	80.4167	4
+LK	71507	Makehelwala		KE					7.2833	80.4667	4
+LK	71508	Alutnuwara		KE					7.2333	80.4667	4
+LK	71510	Ussapitiya		KE					7.2183	80.4514	4
+LK	71520	Hingula		KE					7.25	80.4667	4
+LK	71521	Udumulla		KE					7.45	80.4	4
+LK	71527	Dewanagala		KE					7.2167	80.4667	4
+LK	71530	Hemmatagama		KE					7.1667	80.5	4
+LK	71533	Kehelpannala		KE					7.1667	80.5167	4
+LK	71540	Aranayaka		KE					7.1431	80.4658	4
+LK	71541	Talgaspitiya		KE					7.1667	80.4833	4
+LK	71546	Ambalakanda		KE					7.1333	80.45	4
+LK	71600	Warakapola		KE					7.2258	80.2025	4
+LK	71601	Dorawaka		KE					7.1833	80.2167	4
+LK	71602	Niyadurupola		KE					7.1667	80.2167	4
+LK	71603	Galapitamada		KE					7.14	80.2364	4
+LK	71605	Dunumala		KE					7.1738	80.2074	
+LK	71607	Algama		KE					7.1533	80.165	4
+LK	71610	Tulhiriya		KE					7.2833	80.2167	4
+LK	71612	Bopitiya (SAB)		KE					7.2583	80.2167	
+LK	71619	Tholangamuwa		KE					7.2333	80.2167	4
+LK	71622	Weragala		KE					6.5219	79.9969	4
+LK	71700	Yatiyantota		KE					7.0242	80.3006	4
+LK	71702	Weeoya		KE					7.0469	80.3502	
+LK	71704	Malalpola		KE					7.05	80.35	4
+LK	71706	Berannawa		KE					7.0667	80.4	4
+LK	71708	Seaforth Colony		KE					7.0469	80.3502	
+LK	71712	Welihelatenna		KE					7.0333	80.3333	4
+LK	71715	Hakbellawaka		KE					7.0333	80.3333	
+LK	71716	Migastenna Sabara		KE					7.0333	80.3333	
+LK	71720	Kitulgala		KE					6.9944	80.4114	4
+LK	71722	Mahabage		KE					7.0225	80.4333	4
+LK	71724	Teligama		KE					7.0033	80.3647	4
+LK	60000	Kurunegala		KG					7.4867	80.3647	4
+LK	60003	Kudagalgamuwa		KG					7.535	80.3324	
+LK	60004	Minhettiya		KG					7.5833	80.3	4
+LK	60013	Doratiyawa		KG					7.4667	80.3833	4
+LK	60016	Indulgodakanda		KG					7.4167	80.4	4
+LK	60024	Demataluwa		KG					7.5167	80.2833	4
+LK	60025	Ithanawatta		KG					7.4458	80.3458	
+LK	60027	Boyagane		KG					7.45	80.35	4
+LK	60028	Kohilagedara		KG					7.4167	80.3667	4
+LK	60029	Kosgolla		KG					7.4	80.3833	4
+LK	60034	Hindagolla		KG					7.4833	80.4167	4
+LK	60036	Ambakote		KG					7.4833	80.4667	4
+LK	60038	Morathiha		KG					7.5167	80.4833	4
+LK	60040	Ridigama		KG					7.55	80.4833	4
+LK	60044	Delwite		KG					7.55	80.5583	
+LK	60045	Iriyagolla		KG					7.55	80.6333	4
+LK	60047	Alawatuwala		KG					7.55	80.5583	
+LK	60052	Panagamuwa		KG					7.55	80.4667	4
+LK	60053	Pihimbuwa		KG					7.45	80.5167	4
+LK	60054	Kanadeniyawala		KG					7.4333	80.5333	4
+LK	60058	Pilessa		KG					7.45	80.4167	4
+LK	60060	Mawathagama		KG					7.4167	80.3167	4
+LK	60062	Kahapathwala		KG					7.3	80.4583	
+LK	60064	Inguruwatta		KG					7.1833	80.6	4
+LK	60066	Meetanwala		KG					7.3	80.4583	
+LK	60072	Puswelitenna		KG					7.3667	80.3667	
+LK	60074	Anhandiya		KG					7.2667	80.2667	4
+LK	60076	Buluwala		KG					7.4667	80.4667	4
+LK	60080	Weuda		KG					7.4	80.1667	4
+LK	60094	Uhumiya		KG					7.4667	80.2833	4
+LK	60096	Kalugamuwa		KG					7.45	80.2667	4
+LK	60100	Narammala		KG					7.4344	80.2214	4
+LK	60106	Karagahagedara		KG					7.4833	80.2	4
+LK	60107	Bogamulla		KG					7.4589	80.2107	
+LK	60108	Lonahettiya		KG					7.4589	80.2107	
+LK	60112	Pahamune		KG					7.4833	80.2	4
+LK	60121	Metiyagane		KG					7.3942	80.1861	4
+LK	60122	Muruthenge		KG					7.3942	80.1861	
+LK	60130	Dambadeniya		KG					7.3672	80.1467	4
+LK	60135	Ihala Katugampala		KG					7.3672	80.1467	
+LK	60140	Giriulla		KG					7.3275	80.1267	4
+LK	60152	Narangoda		KG					7.1908	80.3072	4
+LK	60155	Bopitiya		KG					7.1667	80.2	4
+LK	60156	Elibichchiya		KG					7.3	80.05	4
+LK	60160	Pannala		KG					6.4833	80	4
+LK	60162	Labbala		KG					6.4833	80	
+LK	60170	Gonawila		KG					7.3167	80	4
+LK	60174	Daraluwa		KG					7.35	79.9833	4
+LK	60176	Sandalankawa		KG					7.3333	79.9917	
+LK	60181	Horambawa		KG					7.45	80.1833	4
+LK	60182	Alahitiyawa		KG					7.4833	80.1667	4
+LK	60183	Kekunagolla		KG					7.5	80.1667	4
+LK	60184	Kirimetiyawa		KG					7.5247	80.1408	4
+LK	60186	Nakkawatta		KG					7.45	80.15	4
+LK	60188	Kithalawa		KG					7.4816	80.1615	
+LK	60195	Wewagama		KG					7.4167	80.1	4
+LK	60198	Walakumburumulla		KG					7.4167	80.0167	4
+LK	60200	Kuliyapitiya		KG					7.4708	80.0456	4
+LK	60202	Yakwila		KG					7.3833	80.0333	4
+LK	60204	Wadumunnegedara		KG					7.4167	79.9667	4
+LK	60206	Welpalla		KG					7.4333	80.05	4
+LK	60208	Thalahitimulla		KG					7.4308	80.0191	
+LK	60209	Madakumburumulla		KG					7.45	80	4
+LK	60211	Ihala Gomugomuwa		KG					7.5167	80.0833	4
+LK	60212	Kirindawa		KG					7.5	80.1	4
+LK	60214	Anukkane		KG					7.5	80.1167	4
+LK	60218	Munamaldeniya		KG					7.55	80.0667	4
+LK	60221	Magulagama		KG					7.55	80.1	4
+LK	60226	Nagollagoda		KG					7.5333	80.0667	
+LK	60227	Tharana Udawela		KG					7.5333	80.0667	
+LK	60228	Deegalla		KG					7.5167	80.0333	4
+LK	60232	llukhena		KG					7.5436	79.9819	
+LK	60236	Padiwela		KG					7.5436	79.9819	4
+LK	60238	lhala Kadigamuwa		KG					7.5436	79.9819	
+LK	60240	Welipennagahamulla		KG					7.4581	80.0603	
+LK	60250	Udubaddawa		KG					7.4828	79.9753	4
+LK	60260	Dummalasuriya		KG					7.4833	79.9	4
+LK	60262	Watuwatta		KG					7.5167	79.9167	4
+LK	60266	Etungahakotuwa		KG					7.5167	79.9667	4
+LK	60280	Alawwa		KG					7.2875	80.2536	4
+LK	60284	Wennoruwa		KG					7.3667	80.2167	4
+LK	60286	Maharachchimulla		KG					7.3428	80.2208	4
+LK	60288	Keppitiwalana		KG					7.3353	80.1786	4
+LK	60291	Bujjomuwa		KG					7.4581	80.0603	
+LK	60292	Nawatalwatta		KG					7.4581	80.0603	
+LK	60300	Polgahawela		KG					7.3344	80.3031	4
+LK	60304	Metikumbura		KG					7.3615	80.3177	
+LK	60306	Talawattegedara		KG					7.3833	80.3	4
+LK	60308	Aragoda		KG					7.3667	80.35	4
+LK	60312	Panaliya		KG					7.3333	80.3333	4
+LK	60314	Yatigaloluwa		KG					7.3333	80.2667	4
+LK	60318	Wadakada		KG					7.4039	80.2656	4
+LK	60330	Pothuhera		KG					7.4181	80.3317	4
+LK	60344	Maspotha		KG					7.8667	80.2167	
+LK	60347	Bamunukotuwa		KG					7.8667	80.2167	
+LK	60348	Panadaragama		KG					7.8667	80.2167	4
+LK	60350	Katupota		KG					7.5331	80.1897	4
+LK	60354	Moragane		KG					7.5499	80.1615	
+LK	60356	Kosdeniya		KG					7.5667	80.1333	4
+LK	60400	Wariyapola		KG					7.6333	80.2333	4
+LK	60402	Wellagala		KG					7.6167	80.2833	4
+LK	60404	Malagane		KG					7.65	80.2667	4
+LK	60406	Minuwangete		KG					7.7167	80.25	4
+LK	60408	Mirihanagama		KG					7.6542	80.2583	
+LK	60410	Kobeigane		KG					7.6558	80.1303	4
+LK	60414	Hengamuwa		KG					7.7	80.1	4
+LK	60416	Alahengama		KG					7.6779	80.1151	
+LK	60422	Kanattewewa		KG					7.6167	80.2	4
+LK	60424	Bandara Koswatta		KG					7.6083	80.1667	
+LK	60426	Tuttiripitigama		KG					7.6	80.1333	4
+LK	60430	Hettipola		KG					7.6031	80.0814	4
+LK	60434	Mandapola		KG					7.6333	80.1167	4
+LK	60436	Sunandapura		KG					7.6299	80.0953	
+LK	60437	Boraluwewa		KG					7.6833	80.05	4
+LK	60438	Kuratihena		KG					7.6	80.1333	4
+LK	60439	Pihimbiya Ratmale		KG					7.6299	80.0953	
+LK	60441	Halmillawewa		KG					7.5953	79.9972	4
+LK	60450	Bingiriya		KG					7.6	79.9333	4
+LK	60453	Tisogama		KG					7.6065	79.9406	
+LK	60454	Weerapokuna		KG					7.6528	79.9883	4
+LK	60456	Wellarawa		KG					7.5667	79.9	4
+LK	60458	Hiruwalpola		KG					7.6065	79.9406	
+LK	60461	Padeniya		KG					7.6569	80.2203	4
+LK	60462	Awulegama		KG					7.6569	80.2203	
+LK	60464	Welawa Juncton		KG					7.6569	80.2203	
+LK	60465	Wannigama		KG					7.6569	80.2203	
+LK	60470	Nikaweratiya		KG					7.7475	80.1156	4
+LK	60472	Divullegoda		KG					7.75	80.2	4
+LK	60474	Hulogedara		KG					7.7833	80.1833	4
+LK	60476	Thimbiriyawa		KG					7.7667	80.1333	4
+LK	60477	Hulugalla		KG					7.7825	80.1378	4
+LK	60478	Sirisetagama		KG					7.7772	80.1506	
+LK	60479	Mahagirilla		KG					7.8333	80.1333	4
+LK	60482	Nabadewa		KG					7.6833	80.0667	4
+LK	60483	Kotawehera		KG					7.7911	80.1023	
+LK	60484	Meewellawa		KG					7.85	80.15	4
+LK	60485	Digannewa		KG					7.8811	80.1092	4
+LK	60486	Hilogama		KG					7.75	80.0833	4
+LK	60490	Wannirasnayakapura		KG					7.6889	80.1556	
+LK	60492	Kadigawa		KG					7.7167	80	4
+LK	60495	Monnekulama		KG					7.8333	80.0667	4
+LK	60499	Torayaya		KG					7.5167	80.4	4
+LK	60500	lbbagamuwa		KG					7.675	80.3667	
+LK	60502	Kirindigalla		KG					7.5667	80.4833	4
+LK	60506	Kumbukwewa		KG					7.7833	80.25	4
+LK	60508	Kumbukgeta		KG					7.675	80.3667	
+LK	60512	Maeliya		KG					7.7411	80.4169	4
+LK	60514	Makulpotha		KG					7.7422	80.4467	4
+LK	60516	Mahamukalanyaya		KG					7.7417	80.4318	
+LK	60518	Periyakadneluwa		KG					7.7417	80.4318	
+LK	60522	Gokaralla		KG					7.6301	80.3775	
+LK	60530	Dodangaslanda		KG					7.5667	80.5333	4
+LK	60532	Maduragoda		KG					7.5667	80.5333	
+LK	60540	Melsiripura		KG					7.65	80.5	4
+LK	60544	Diddeniya		KG					7.6794	80.4753	4
+LK	60546	Hiriyala Lenawa		KG					7.6709	80.4751	
+LK	60548	Kimbulwanaoya		KG					7.6709	80.4751	
+LK	60549	Nelliya		KG					7.6833	80.45	4
+LK	60552	Madahapola		KG					7.7061	80.4964	4
+LK	60554	Pansiyagama		KG					7.7061	80.4964	
+LK	60558	Panliyadda		KG					7.7061	80.4964	
+LK	60570	Wellawa		KG					7.5553	80.3717	4
+LK	60572	Thalwita		KG					7.5943	80.2108	
+LK	60578	Makulwewa		KG					7.6333	80.05	4
+LK	60580	Nikadalupotha		KG					7.1167	80.1333	
+LK	60582	Hunupola		KG					7.1167	80.1333	4
+LK	60584	Thambagalla		KG					7.1167	80.1333	
+LK	60590	Nagollagama		KG					7.7667	80.3	4
+LK	60600	Maho		KG					7.8228	80.2778	4
+LK	60602	Karambe		KG					7.7833	80.3333	4
+LK	60604	Balalla		KG					7.8	80.25	4
+LK	60606	Ridibendiella		KG					7.802	80.287	
+LK	60612	Medivawa		KG					7.7678	80.2858	
+LK	60620	Polpitigama		KG					7.8142	80.4042	4
+LK	60622	Ulpotha Pallekele		KG					7.8071	80.4188	
+LK	60624	Thalakolawewa		KG					7.8	80.4333	4
+LK	60630	Konwewa		KG					7.8	80.0667	4
+LK	60640	Moragollagama		KG					7.6333	80.2167	4
+LK	60646	Siyambalangamuwa		KG					7.5333	80.35	4
+LK	60650	Ambanpola		KG					7.9236	80.2403	4
+LK	60700	Galgamuwa		KG					8	80.2683	4
+LK	60704	Palukadawala		KG					7.9392	80.2853	4
+LK	60706	Ataragalla		KG					7.9696	80.2768	
+LK	60712	Gallewa		KG					7.9667	80.3333	4
+LK	60714	Makulewa		KG					7.9833	80.35	4
+LK	60716	Ehetuwewa		KG					7.9333	80.35	4
+LK	60718	Embogama		KG					7.9214	80.3608	4
+LK	60721	Wannikudawewa		KG					7.9977	80.2964	
+LK	60722	Wannilhalagama		KG					7.9977	80.2964	
+LK	60724	Mahananneriya		KG					7.9977	80.2964	
+LK	60731	Mahagalkadawala		KG					8.05	80.2833	4
+LK	60732	Usgala Siyabmalangamuwa		KG					8.0833	80.2111	
+LK	60734	Tambutta		KG					8.0833	80.2167	4
+LK	60735	Pahalagiribawa		KG					8.0833	80.2111	
+LK	60736	Saliya Asokapura		KG					8.0833	80.2111	
+LK	60737	Solepura		KG					8.0833	80.2111	
+LK	60738	Solewewa		KG					8.0833	80.2111	
+LK	60739	Warawewa		KG					8.1167	80.1333	4
+LK	60750	Meegalawa		KG					7.9833	80.3833	
+LK	60752	Girathalana		KG					7.9833	80.3833	
+LK	60754	Kudakatnoruwa		KG					7.9833	80.3833	4
+LK	12000	Kalutara		KT					6.5761	79.9658	4
+LK	12005	Galpatha		KT					6.5983	80.0015	
+LK	12006	Yatawara Junction		KT					6.5983	80.0015	
+LK	12007	Koholana		KT					6.6189	80.0219	4
+LK	12008	Bolossagama		KT					6.5983	80.0015	
+LK	12009	Remunagoda		KT					6.6	80.0167	4
+LK	12016	Gamagoda		KT					6.6	80	4
+LK	12020	Dodangoda		KT					6.55	80.0167	4
+LK	12024	Bombuwala		KT					6.5833	80.0167	4
+LK	12025	Tebuwana		KT					6.5944	80.0611	4
+LK	12030	Neboda		KT					6.5906	80.0842	4
+LK	12050	Paiyagala		KT					6.5167	80.0167	
+LK	12055	Halkandawila		KT					6.5167	80.0167	4
+LK	12060	Maggona		KT					6.5031	79.9822	4
+LK	12070	Beruwala		KT					6.4739	79.9842	4
+LK	12074	Padagoda		KT					6.45	80.0167	4
+LK	12078	Kalawila Kiranthidiya		KT					6.4619	80.0004	
+LK	12080	Alutgama		KT					7.7667	79.9333	4
+LK	12090	Dharga Town		KT					6.648	80.0089	
+LK	12094	Meegama		KT					6.648	80.0089	
+LK	12100	Matugama		KT					6.5222	80.1144	4
+LK	12104	Yatadolawatta		KT					6.5333	80.0667	4
+LK	12106	Nawattuduwa		KT					6.5019	80.0937	
+LK	12108	Welipenna		KT					6.45	80.1	4
+LK	12112	Walagedara		KT					6.45	80.0667	4
+LK	12114	Pannila		KT					6.8667	80.3167	4
+LK	12116	Ittapana		KT					6.4167	80.0833	4
+LK	12118	Halwala		KT					6.4167	80.1	4
+LK	12122	Paraigama		KT					6.4167	80.1167	4
+LK	12124	Yagirala		KT					6.3667	80.1667	4
+LK	12126	Mahakalupahana		KT					6.3917	80.1417	
+LK	12127	Utumgama		KT					6.3917	80.1417	
+LK	12130	Meegahatenna		KT					6.3637	80.285	
+LK	12134	Walallawita		KT					6.3667	80.2	4
+LK	12136	Polgampola		KT					6.3244	80.4383	4
+LK	12138	Pelawatta		KT					6.4	80.2167	4
+LK	12142	Boralugoda		KT					6.4333	80.2667	4
+LK	12144	Pahalahewessa		KT					6.4333	80.2667	
+LK	12148	Danawala Thiniyawala		KT					6.4333	80.2667	
+LK	12200	Agalawatta		KT					6.5422	80.1583	4
+LK	12204	Veyangalla		KT					6.5422	80.1583	
+LK	12210	Mahagama		KT					6.6167	80.1667	4
+LK	12214	Pelanda		KT					6.6056	80.2333	
+LK	12216	Molkawa		KT					6.6167	80.2333	4
+LK	12218	Kelinkanda		KT					6.5833	80.3	4
+LK	12222	Kitulgoda		KT					6.5167	80.1833	4
+LK	12224	Bellana		KT					6.5167	80.1833	4
+LK	12230	Baduraliya		KT					6.5333	80.2667	
+LK	12232	Morapitiya		KT					6.5333	80.2667	4
+LK	12234	Hedigalla Colony		KT					6.5333	80.2667	
+LK	12236	Gurulubadda		KT					6.5333	80.2667	
+LK	12300	Bulathsinhala		KT					6.675	80.1958	
+LK	12302	Paragoda		KT					6.6167	80.2333	4
+LK	12304	Delmella		KT					6.6833	80.2	4
+LK	12306	Halwatura		KT					6.7	80.2	4
+LK	12308	Diwalakada		KT					6.7	80.15	4
+LK	12310	Govinna		KT					6.6667	80.1167	4
+LK	12320	Anguruwatota		KT					6.6383	80.0861	4
+LK	12322	Uduwara		KT					6.6167	80.0667	4
+LK	12400	Horana		KT					6.7167	80.06	4
+LK	12404	Pokunuwita		KT					6.7333	80.0333	4
+LK	12410	Gonapola Junction		KT					6.6944	80.0333	
+LK	12412	Millaniya		KT					6.6944	80.0333	
+LK	12414	Paragastota		KT					6.6667	80	4
+LK	12416	Dombagoda		KT					6.65	80.05	4
+LK	12418	Kananwila		KT					6.7667	80.05	4
+LK	12422	Millewa		KT					6.7833	80.0667	4
+LK	12424	Miwanapalana		KT					6.75	80.1	4
+LK	12426	Kuda Uduwa		KT					6.7667	80.0667	4
+LK	12428	Kandanagama		KT					6.7667	80.0778	
+LK	12432	Poruwedanda		KT					6.7333	80.1167	4
+LK	12440	lngiriya		KT					6.7296	80.0604	
+LK	12500	Panadura		KT					6.7133	79.9042	4
+LK	12524	Alubomulla		KT					6.7103	79.9342	4
+LK	12530	Bandaragama		KT					6.7144	79.9867	4
+LK	12534	Welmilla Junction		KT					6.7072	80.01	
+LK	12538	Haltota		KT					6.7	80.0333	4
+LK	12550	Kehelwatta		KT					6.75	79.9167	4
+LK	12560	Wadduwa		KT					6.6642	79.9286	4
+LK	12564	Morontuduwa		KT					6.65	79.9667	4
+LK	12580	Waskaduwa		KT					6.6317	79.9442	4
+LK	20000	Kandy		KY					7.2964	80.635	4
+LK	20032	Halloluwa		KY					7.2	80.35	4
+LK	20034	Yatihalagala		KY					7.3	80.6	4
+LK	20042	lhala Kobbekaduwa		KY					7.3167	80.5833	
+LK	20044	Sangarajapura		KY					7.3167	80.5833	
+LK	20048	Kulugammana		KY					7.3167	80.5833	4
+LK	20052	Uduwa		KY					7.1167	80.3833	4
+LK	20060	Hataraliyadda		KY					7.3333	80.4667	4
+LK	20062	Aludeniya		KY					7.3667	80.4667	4
+LK	20068	Dedunupitiya		KY					7.3333	80.4333	4
+LK	20072	Nugawela		KY					7.3333	80.2167	4
+LK	20080	Werellagama		KY					7.3167	80.5833	4
+LK	20084	Pallekotuwa		KY					7.3333	80.5667	
+LK	20086	Kumburegama		KY					7.35	80.55	4
+LK	20092	Harankahawa		KY					7.3	80.15	4
+LK	20094	Udahingulwala		KY					7.3	80.15	
+LK	20095	Gallellagama		KY					7.3	80.15	
+LK	20100	Galagedara		KY					7.3683	80.5275	4
+LK	20106	Poholiyadda		KY					7.3508	80.5221	
+LK	20108	Wettawa		KY					7.3508	80.5221	
+LK	20109	Minigamuwa		KY					7.3333	80.5167	4
+LK	20112	Pujapitiya		KY					7.3833	80.3167	4
+LK	20118	Pattiya Watta		KY					7.3833	80.3167	
+LK	20120	Medawala Harispattuwa		KY					7.3417	80.6833	
+LK	20126	Dolapihilla		KY					7.3833	80.5833	4
+LK	20128	Rambukwella		KY					7.3	80.7833	4
+LK	20132	Batugoda		KY					7.3667	80.5833	4
+LK	20134	Watagoda Harispattuwa		KY					7.3569	80.6012	
+LK	20136	Ambatenna		KY					7.3472	80.6192	4
+LK	20140	Alawatugoda		KY					6.4167	80	4
+LK	20142	Wilanagama		KY					6.4167	80	
+LK	20150	Ankumbura		KY					7.4333	80.5667	4
+LK	20152	Galhinna		KY					7.4167	80.5667	4
+LK	20154	Batagolladeniya		KY					7.425	80.5667	
+LK	20160	Ampitiya		KY					7.2667	80.65	4
+LK	20164	Uduwela		KY					7.2722	80.6667	
+LK	20166	Tennekumbura		KY					7.2833	80.6667	4
+LK	20168	Kundasale		KY					7.2667	80.6833	4
+LK	20170	Menikhinna		KY					7.3167	80.7	4
+LK	20172	Lunuketiya Maditta		KY					7.3292	80.716	
+LK	20176	Naranpanawa		KY					7.3417	80.7319	4
+LK	20180	Rajawella		KY					7.2944	80.7111	
+LK	20184	Gomagoda		KY					7.3167	80.7333	4
+LK	20186	Kengalla		KY					7.3	80.7167	4
+LK	20189	Gurudeniya		KY					7.2667	80.6833	4
+LK	20194	Nattarampotha		KY					7.1167	80.35	
+LK	20196	Pilawala		KY					7.1167	80.35	4
+LK	20198	Ketawala Leula		KY					7.1167	80.35	
+LK	20200	Talatuoya		KY					7.2536	80.6925	4
+LK	20202	Etulgama		KY					7.2333	80.65	4
+LK	20204	Nugaliyadda		KY					7.2333	80.7	4
+LK	20206	Kapuliyadde		KY					7.2401	80.6808	
+LK	20210	Marassana		KY					7.2167	80.7333	4
+LK	20212	Kolabissa		KY					7.225	80.7167	
+LK	20214	Godamunna		KY					7.2333	80.7	4
+LK	20216	Mahamedagama		KY					7.225	80.7167	
+LK	20218	Bawlana		KY					7.225	80.7167	
+LK	20232	Murutalawa		KY					7.3	80.5667	4
+LK	20234	Yahalatenna		KY					7.3	80.5667	
+LK	20250	Polgolla		KY					7.4167	80.5333	4
+LK	20260	Madawala Bazaar		KY					7.2696	80.6537	
+LK	20270	Gunnepana		KY					7.2696	80.6537	
+LK	20300	Kadugannawa		KY					7.2536	80.5275	4
+LK	20306	Ketakumbura		KY					7.2167	80.5833	4
+LK	20308	Balana		KY					7.2667	80.4833	4
+LK	20400	Peradeniya		KY					7.2631	80.6028	4
+LK	20404	Uda Peradeniya		KY					7.2631	80.6028	
+LK	20409	Megoda Kalugamuwa		KY					7.2631	80.6028	
+LK	20414	Hindagala		KY					7.2333	80.6	4
+LK	20418	Nillambe		KY					7.15	80.6333	4
+LK	20420	Galaha		KY					7.2	80.6661	4
+LK	20430	Deltota		KY					7.2	80.6667	4
+LK	20438	Handawalapitiya		KY					7.2	80.6667	
+LK	20440	Hewaheta		KY					7.1108	80.7547	4
+LK	20442	Kiribathkumbura		KY					7.1108	80.7547	
+LK	20450	Pilimatalawa		KY					7.2333	80.5333	
+LK	20454	Wattappola		KY					7.2333	80.5333	4
+LK	20465	Danture		KY					7.2833	80.5333	4
+LK	20470	Menikdiwela		KY					7.2833	80.5	4
+LK	20480	Handessa		KY					7.2333	80.5833	4
+LK	20482	Leemagahakotuwa		KY					7.2333	80.5833	
+LK	20500	Gampola		KY					7.1647	80.5767	4
+LK	20506	Udahentenna		KY					7.0889	80.5189	4
+LK	20510	Dolosbage		KY					7.0806	80.4731	4
+LK	20511	Pattitalawa		KY					7.1167	80.4667	4
+LK	20512	Meetalawa		KY					7.0986	80.4699	
+LK	20524	Hondiyadeniya		KY					7.1364	80.5766	
+LK	20526	Muruthagahamulla		KY					7.1364	80.5766	
+LK	20532	Doluwa		KY					7.6167	80.4167	4
+LK	20544	Panwilatenna		KY					7.1556	80.6314	4
+LK	20546	Pupuressa		KY					7.1272	80.6661	4
+LK	20562	Ulapane		KY					7.1042	80.5628	4
+LK	20564	Mawatura		KY					7.1	80.5667	4
+LK	20574	Atabage		KY					7.1333	80.6	4
+LK	20578	Paradeka		KY					7.1167	80.6167	4
+LK	20580	Pussellawa		KY					7.1089	80.6339	4
+LK	20610	Weligalla		KY					7.1833	80.2	4
+LK	20620	Gelioya		KY					7.2136	80.6017	4
+LK	20640	Velamboda		KY					7.0523	80.5023	
+LK	20644	Bambaragahaela		KY					7.0523	80.5023	
+LK	20650	Nawalapitiya		KY					7.055	80.5358	4
+LK	20654	Pasbage		KY					7.0358	80.5262	
+LK	20656	Gonawalapatana		KY					7.0358	80.5262	
+LK	20658	Dekinda		KY					7.0167	80.5167	4
+LK	20662	Mapakanda		KY					7.0271	80.5493	
+LK	20664	Galaboda		KY					6.9875	80.5319	4
+LK	20666	Weligampola		KY					7.0271	80.5493	
+LK	20676	Rambukpitiya		KY					7.0333	80.5	4
+LK	20702	Mailapitiya		KY					7.1517	80.7118	
+LK	20708	Unuwinna		KY					7.1517	80.7118	
+LK	20710	Hanguranketha		KY					7.1517	80.7118	
+LK	20712	Gonagantenna		KY					7.1517	80.7118	
+LK	20714	Marymount Colony		KY					7.1517	80.7118	
+LK	20722	Udawatta		KY					7.4333	80.1333	4
+LK	20724	lllagolla		KY					7.4333	80.1333	
+LK	20730	Rikillagaskada		KY					7.1453	80.7825	4
+LK	20732	Ekiriya		KY					7.15	80.75	4
+LK	20734	Pallebowala		KY					7.1151	80.8108	
+LK	20738	Karandagolla		KY					7.05	80.9	4
+LK	20742	Elamulla		KY					7.0833	80.8	
+LK	20744	Mandaram Nuwara		KY					7.0833	80.8	
+LK	20748	Maturata		KY					7.0833	80.8	4
+LK	20800	Katugastota		KY					7.3161	80.6211	4
+LK	20802	Udatalawinna		KY					7.3161	80.6211	
+LK	20810	Wattegama		KY					7.5833	79.9333	4
+LK	20816	Doragamuwa		KY					7.5833	79.9333	
+LK	20818	Rathukohodigala		KY					7.5833	79.9333	
+LK	20822	Jambugahapitiya		KY					7.3833	80.6333	
+LK	20824	Dunuwila		KY					7.3833	80.6333	4
+LK	20828	Makkanigama		KY					7.3833	80.6333	
+LK	20830	Panvila		KY					7.0667	80.6833	
+LK	20838	Tawalantenna		KY					7.0667	80.6833	4
+LK	20840	Madulkele		KY					7.3975	80.7319	4
+LK	20850	Akurana		KY					7.65	80.0167	4
+LK	20900	Teldeniya		KY					7.2969	80.7686	4
+LK	20902	Kumbukkandura		KY					7.2969	80.7686	
+LK	20904	Senarathwela		KY					7.2969	80.7686	
+LK	20906	Putuhapuwa		KY					7.2969	80.7686	
+LK	20908	Werapitya		KY					7.2969	80.7686	
+LK	20914	Wendaruwa		KY					7.3552	80.8375	
+LK	20916	Udispattuwa		KY					7.3552	80.8375	
+LK	20921	Makuldeniya		KY					7.3333	80.7833	4
+LK	20922	Rangala		KY					7.3539	80.7853	4
+LK	20923	Mimure		KY					7.4333	80.8333	4
+LK	20924	Kahataliyadda		KY					7.376	80.8213	
+LK	20926	Kalugala		KY					7.3833	80.8833	4
+LK	20928	Kobonila		KY					7.376	80.8213	
+LK	20932	Bopana		KY					7.3	80.9	4
+LK	20934	Uduwahinna		KY					7.2833	80.8917	
+LK	20938	Madugalla		KY					7.2667	80.8833	4
+LK	20940	Medamahanuwara		KY					7.3	80.85	
+LK	20945	Mahadoraliyadda		KY					7.3	80.85	
+LK	20948	Hunnasgiriya		KY					7.3	80.85	4
+LK	20950	Ududumbara		KY					7.3552	80.8375	
+LK	20960	Hasalaka		KY					7.5667	80.625	
+LK	20965	Ulpothagama		KY					7.7167	80.3167	4
+LK	20966	Batumulla		KY					7.4167	80.9333	4
+LK	20967	Barawardhana Oya		KY					7.5667	80.625	
+LK	20971	Kolongoda		KY					7.3552	80.8375	
+LK	20982	Weragantota		KY					7.3167	80.9833	4
+LK	20983	Minipe		KY					7.2167	80.9833	4
+LK	20984	Handaganawa		KY					7.2833	80.9833	4
+LK	20986	Ambagahapelessa		KY					7.2722	80.9833	
+LK	20990	Rantembe		KY					7.3552	80.8375	
+LK	41000	Mannar		MB					8.9833	79.9	4
+LK	81000	Matara		MH					5.9486	80.5428	4
+LK	81017	Naimana		MH					6.0715	80.5193	
+LK	81020	Kekanadurra		MH					6.0715	80.5193	
+LK	81030	Ratmale		MH					6.45	80.2	4
+LK	81032	Aparekka		MH					6	80.6	4
+LK	81034	Yatiyana		MH					6.0333	80.6	4
+LK	81038	Diyagaha		MH					5.9833	80.5667	4
+LK	81050	Palatuwa		MH					5.9833	80.5167	4
+LK	81051	Sultanagoda		MH					5.9667	80.5	4
+LK	81060	Telijjawila		MH					6.0715	80.5193	
+LK	81064	Ransegoda		MH					6.0715	80.5193	
+LK	81070	Makandura		MH					6.1333	80.55	4
+LK	81071	Mulatiyana Junction		MH					6.1833	80.5667	
+LK	81072	Gomilamawarala		MH					6.1833	80.5667	
+LK	81074	Rotumba		MH					6.2333	80.5833	4
+LK	81082	Karagoda Uyangoda		MH					6.0715	80.5193	
+LK	81092	Nadugala		MH					5.9833	80.5333	4
+LK	81100	Kamburupitiya		MH					6.0833	80.5667	4
+LK	81106	Karaputugala		MH					6.0833	80.6	4
+LK	81108	Horapawita		MH					6.1167	80.5833	4
+LK	81160	Devinuwara (Dondra)		MH					5.9319	80.6069	4
+LK	81170	Gandara		MH					5.9333	80.6	4
+LK	81180	Kottegoda		MH					6.1667	80.1	4
+LK	81200	Dikwella		MH					5.9667	80.6833	4
+LK	81220	Walasgala		MH					5.9911	80.7019	4
+LK	81230	Urugamuwa		MH					6.0116	80.6437	
+LK	81280	Thihagoda		MH					6.0167	80.5667	4
+LK	81290	Puhulwella		MH					6.05	80.6167	4
+LK	81294	Walakanda		MH					6.0333	80.65	4
+LK	81300	Hakmana		MH					7.3167	80.8	4
+LK	81302	Narawelpita		MH					7.3167	80.8	
+LK	81312	Miella		MH					6.1167	80.6833	4
+LK	81314	Denagama		MH					6.1	80.65	4
+LK	81316	Radawela		MH					6.1333	80.6167	4
+LK	81318	Karatota		MH					6.0667	80.6667	4
+LK	81320	Deiyandara		MH					6.15	80.6	4
+LK	81322	Parapamulla		MH					6.15	80.6167	4
+LK	81326	Handugala		MH					6.2	80.6167	4
+LK	81400	Akuressa		MH					6.0964	80.4808	4
+LK	81402	Athuraliya		MH					6.0982	80.4988	
+LK	81404	Wilpita		MH					6.1	80.5167	4
+LK	81408	Godapitiya		MH					6.0982	80.4988	
+LK	81412	Bopagoda		MH					6.1561	80.4903	4
+LK	81414	Urumutta		MH					6.1667	80.5167	4
+LK	81416	Maramba		MH					6.1614	80.5035	
+LK	81422	Diyalape		MH					6.1333	80.45	4
+LK	81424	Maliduwa		MH					6.1333	80.4167	4
+LK	81450	Pitabeddara		MH					6.2167	80.45	4
+LK	81452	Deegala Lenama		MH					6.2333	80.45	
+LK	81454	Derangala		MH					6.25	80.45	4
+LK	81456	Kiriwelkele		MH					6.2333	80.45	
+LK	81462	Siyambalagoda		MH					6.7833	79.9667	4
+LK	81470	Morawaka		MH					6.25	80.4833	4
+LK	81472	Pahala Millawa		MH					6.3428	80.4418	
+LK	81474	Paragala		MH					6.6	80.3333	4
+LK	81475	Alapaladeniya		MH					6.2833	80.45	4
+LK	81477	Dellawa		MH					6.3333	80.45	4
+LK	81478	Kalubowitiyana		MH					6.3167	80.4	4
+LK	81479	Waralla		MH					6.2736	80.5339	4
+LK	81480	Kotapola		MH					6.3	80.5333	4
+LK	81500	Deniyaya		MH					6.3436	80.5639	4
+LK	81508	Viharahena		MH					6.3667	80.5833	4
+LK	81514	Kiriweldola		MH					6.3667	80.5333	4
+LK	81522	Kolawenigama		MH					6.35	80.4667	
+LK	81524	Mediripitiya		MH					6.35	80.4667	
+LK	81526	Lankagama		MH					6.35	80.4667	4
+LK	81532	Moragala Kirillapone		MH					6.8333	80.3	
+LK	81538	Pothdeniya		MH					6.8333	80.3	4
+LK	81541	Beralapanathara		MH					6.4521	80.4894	
+LK	81600	Urubokka		MH					6.3047	80.6297	4
+LK	81612	Dampahala		MH					6.2778	80.6256	4
+LK	81614	Bengamuwa		MH					6.2667	80.6	4
+LK	81615	Pasgoda		MH					6.2722	80.6128	
+LK	81700	Weligama		MH					5.9667	80.4167	4
+LK	81722	Penetiyana		MH					6.0333	80.45	4
+LK	81730	Denipitiya		MH					5.9667	80.45	4
+LK	81740	Mirissa		MH					5.9333	80.45	4
+LK	81750	Kamburugamuwa		MH					5.9486	80.5006	4
+LK	70250	Sewanagala		MJ					6.3406	80.7804	
+LK	70252	Kiriibbanwewa		MJ					6.3406	80.7804	
+LK	70254	Ekamutugama		MJ					6.3406	80.7804	
+LK	70256	Mahagama Colony		MJ					6.3406	80.7804	
+LK	91000	Monaragala		MJ					6.8667	81.35	4
+LK	91002	Pangura		MJ					6.9833	81.3167	4
+LK	91003	Nakkala		MJ					6.8833	81.3	4
+LK	91004	Hulandawa		MJ					6.85	81.3333	4
+LK	91005	Wedikumbura		MJ					6.8333	81.3833	4
+LK	91006	Marawa		MJ					6.8167	81.3667	4
+LK	91007	Obbegoda		MJ					6.8786	81.3476	
+LK	91008	Galabedda		MJ					6.9167	81.3833	4
+LK	91010	Dombagahawela		MJ					6.9	81.4333	4
+LK	91020	Ethimalewewa		MJ					6.9216	81.3833	
+LK	91022	Wilaoya		MJ					6.9216	81.3833	
+LK	91024	Kotiyagala		MJ					6.8	80.6833	
+LK	91030	Siyambalanduwa		MJ					6.9	81.55	4
+LK	91032	Kandaudapanguwa		MJ					6.9667	81.5167	
+LK	91038	Buddama		MJ					7.0333	81.4833	4
+LK	91040	Inginiyagala		MJ					7.2167	81.5333	4
+LK	91042	Nelliyadda		MJ					7.2167	81.5333	
+LK	91050	Dambagalla		MJ					6.95	81.3667	4
+LK	91052	Mariarawa		MJ					6.9833	81.4667	4
+LK	91054	Uva Gangodagama		MJ					7.0056	81.4222	
+LK	91056	Ruwalwela		MJ					7.0056	81.4222	
+LK	91058	Baduluwela		MJ					7.0833	81.4333	4
+LK	91060	Okkampitiya		MJ					6.75	81.2833	4
+LK	91070	Badalkumbura		MJ					6.9	81.2333	4
+LK	91098	Kumbukkana		MJ					6.8	81.3	4
+LK	91100	Buttala		MJ					6.75	81.2333	4
+LK	91108	Moretuwegama		MJ					6.75	81.2333	
+LK	91112	Uva Pelwatta		MJ					6.75	81.2333	
+LK	91198	Warunagama		MJ					6.75	81.2333	
+LK	91200	Wellawaya		MJ					6.7333	81.1	4
+LK	91202	Siyambalagune		MJ					6.8	81.1333	4
+LK	91204	Randeniya		MJ					6.8	81.1167	4
+LK	91206	Weherayaya Handapanagala		MJ					6.7778	81.1167	
+LK	91250	Ettiliwewa		MJ					6.73	81.12	
+LK	91295	Balaharuwa		MJ					6.5667	81.05	4
+LK	91298	Uva Kudaoya		MJ					6.75	81.2	4
+LK	91300	Tanamalwila		MJ					6.4333	81.1333	4
+LK	91302	Angunakolawewa		MJ					6.4167	81.0833	4
+LK	91306	Suriara		MJ					6.4636	81.053	
+LK	91308	Hambegamuwa		MJ					6.5408	80.9422	4
+LK	91312	Kotawehera Mankada		MJ					6.4636	81.053	
+LK	91400	Kataragama		MJ					6.4167	81.3333	4
+LK	91405	Sella Kataragama		MJ					6.4167	81.3333	
+LK	91500	Bibile		MJ					7.1667	81.2167	4
+LK	91502	Ekiriyankumbura		MJ					7.3	81.2167	4
+LK	91505	Pitakumbura		MJ					7.1833	81.2833	4
+LK	91508	Nilgala		MJ					7.1833	81.3667	4
+LK	91512	Kotagama		MJ					7.1333	81.1833	4
+LK	91514	Diyakobala		MJ					7.1056	81.2222	
+LK	91516	Ayiwela		MJ					7.1	81.2333	4
+LK	91519	Nannapurawa		MJ					7.0833	81.25	4
+LK	91550	Medagana		MJ					6.9333	81.2833	
+LK	91552	Kandawinna		MJ					6.9333	81.2833	
+LK	91554	Bakinigahawela		MJ					6.9333	81.2833	4
+LK	42000	Mullativu		MP							
+LK	21000	Matale		MT					7.4717	80.6244	4
+LK	21004	Alwatta		MT					7.45	80.6667	4
+LK	21006	Udatenna		MT					7.4167	80.65	4
+LK	21008	Leliambe		MT					7.4346	80.6519	
+LK	21009	Wehigala		MT					7.4	80.6667	4
+LK	21012	Elkaduwa		MT					7.4208	80.6831	4
+LK	21014	Karagahinna		MT					7.3604	80.3832	
+LK	21016	Katudeniya		MT					7.3	80.0833	4
+LK	21020	Ovilikanda		MT					7.45	80.5667	4
+LK	21032	Dankanda		MT					7.5333	80.7	4
+LK	21042	Kiwula		MT					7.4917	80.625	
+LK	21044	Muwandeniya		MT					7.4667	80.65	4
+LK	21046	Dunkolawatta		MT					7.4917	80.625	
+LK	21048	Walawela		MT					7.5167	80.6	4
+LK	21051	Udasgiriya		MT					7.5333	80.5667	4
+LK	21054	Dullewa		MT					7.5	80.6	4
+LK	21055	Melipitiya		MT					7.5458	80.5833	
+LK	21056	Yatawatta		MT					7.5667	80.5831	4
+LK	21058	Selagama		MT					7.5833	80.5833	4
+LK	21062	Metihakka		MT					7.5333	80.65	4
+LK	21064	Imbulgolla		MT					7.5667	80.6667	4
+LK	21066	Kaikawala		MT					7.5	80.65	4
+LK	21068	Gammaduwa		MT					7.5667	80.7	4
+LK	21070	Palapathwela		MT					7.9	80.2	4
+LK	21072	Kavudupelella		MT					7.5914	80.6258	4
+LK	21074	Madawala Ulpotha		MT					7.703	80.5051	
+LK	21076	Opalgala		MT					7.6175	80.6894	4
+LK	21082	Nalanda		MT					7.6756	80.6431	4
+LK	21090	Naula		MT					7.7047	80.6542	4
+LK	21094	Lenadora		MT					7.7519	80.6608	4
+LK	21100	Dambulla		MT					7.86	80.6517	4
+LK	21106	Kandalama		MT					7.8667	80.7167	4
+LK	21108	Erawula Junction		MT					7.8633	80.6842	
+LK	21112	Kalundawa		MT					7.8	80.7167	4
+LK	21114	Wewalawewa		MT					7.8103	80.6669	
+LK	21116	Talakiriyagama		MT					7.8206	80.6172	4
+LK	21120	Sigiriya		MT					7.95	80.75	4
+LK	21122	Kibissa		MT					7.9397	80.7278	4
+LK	21124	Inamaluwa		MT					7.9325	80.685	4
+LK	21140	Mahawela		MT					7.5839	80.6094	4
+LK	21142	Akuramboda		MT					7.65	80.6	4
+LK	21144	Mananwatta		MT					7.6169	80.6047	
+LK	21152	Pallepola		MT					7.6244	80.6014	4
+LK	21154	Millawana		MT					7.6503	80.5772	4
+LK	21156	Madipola		MT					7.6833	80.5833	4
+LK	21160	Wahacotte		MT					7.7142	80.5972	4
+LK	21200	Galewela		MT					7.7589	80.5683	4
+LK	21206	Dewahuwa		MT					7.7589	80.5683	
+LK	21212	Bambaragaswewa		MT					7.7833	80.5333	4
+LK	21214	Beligamuwa		MT					7.7167	80.55	4
+LK	21300	Ukuwela		MT					7.4133	80.6422	4
+LK	21400	Rattota		MT					7.5217	80.6847	4
+LK	21402	Etanawala		MT					7.5217	80.6847	
+LK	21404	Gangala Puwakpitiya		MT					7.5217	80.6847	
+LK	21406	lllukkumbura		MT					7.5217	80.6847	
+LK	21408	Welangahawatte		MT					7.5217	80.6847	
+LK	21500	Kongahawela		MT					7.6833	80.7	4
+LK	21502	Pubbiliya		MT					7.3833	80.4833	4
+LK	21504	Ambana		MT					7.65	80.6833	4
+LK	21506	Talagoda Junction		MT					7.5722	80.6222	
+LK	21512	Ataragallewa		MT					7.5333	80.6067	
+LK	21514	Hattota Amuna		MT					7.5333	80.6067	
+LK	21520	Laggala Pallegama		MT					7.5333	80.6067	
+LK	21524	Ranamuregama		MT					7.5333	80.6067	
+LK	21530	Wilgamuwa		MT					7.3667	80.2	4
+LK	21532	Perakanatta		MT					7.3667	80.2	
+LK	21534	Nugagolla		MT					7.3667	80.2	
+LK	21536	Handungamuwa		MT					7.3667	80.2	
+LK	21538	Dunuwilapitiya		MT					7.3667	80.2	
+LK	21552	Devagiriya		MT					7.5833	80.9667	
+LK	21554	Maraka		MT					7.5833	80.9667	4
+LK	20560	Kotmale		NW					7.0214	80.5942	4
+LK	20566	Maswela		NW					7.0667	80.6333	4
+LK	20567	Doragala		NW					7.0731	80.5892	
+LK	20568	Nayapana Janapadaya		NW					7.0731	80.5892	
+LK	20588	Katukitula		NW					7.1089	80.6339	
+LK	20590	Ramboda		NW					7.0442	80.6919	4
+LK	20592	Labukele		NW					7.0442	80.6919	
+LK	20660	Ketaboola		NW					7.0271	80.5493	
+LK	20668	Hapugastalawa		NW					7.0667	80.5667	4
+LK	20669	Harangalagama		NW					7.0271	80.5493	
+LK	20670	Nawathispane		NW					7.0333	80.5	
+LK	20678	Ambagamuwa Udabulathgama		NW					7.0333	80.5	
+LK	20680	Ginigathena		NW					6.9864	80.4894	4
+LK	20682	Pitawala		NW					7	80.45	4
+LK	20684	Dagampitiya		NW					6.9833	80.4667	4
+LK	20686	Ambatalawa		NW					7.05	80.6667	4
+LK	20688	Kelanigama		NW					7.0049	80.5182	
+LK	20750	Padiyapelella		NW					7.0833	80.8	4
+LK	20752	Munwatta		NW					7.1167	80.8167	4
+LK	22000	Hatton		NW					6.8972	80.5958	4
+LK	22002	Dunukedeniya		NW					7	80.6333	4
+LK	22008	Rozella		NW					6.9306	80.5531	4
+LK	22010	Watawala		NW					6.9547	80.5253	4
+LK	22012	Patana		NW					6.1333	80.1167	4
+LK	22018	Wijebahukanda		NW					7.0167	80.6167	4
+LK	22021	Maldeniya		NW					6.9306	80.2747	4
+LK	22024	Hedunuwewa		NW					6.9306	80.2747	
+LK	22032	Widulipura		NW					6.8952	80.5088	
+LK	22034	Laxapana		NW					6.8952	80.5088	
+LK	22036	Morahenagama		NW					6.8952	80.5088	
+LK	22040	Kottellena		NW					6.9333	80.4583	
+LK	22044	Hangarapitiya		NW					6.9167	80.4667	4
+LK	22046	Hitigegama		NW					6.95	80.45	4
+LK	22050	Dikoya		NW					6.8786	80.6272	4
+LK	22058	Norwood		NW					6.8333	80.6167	4
+LK	22060	Bogawantalawa		NW					6.8	80.6833	4
+LK	22070	Maskeliya		NW					6.8358	80.5703	4
+LK	22075	Nissanka Uyana		NW					6.8358	80.5703	
+LK	22080	Kotagala		NW					7.45	80.2333	4
+LK	22090	Lindula		NW					6.9011	80.6694	4
+LK	22094	Agarapathana		NW					6.9011	80.6694	
+LK	22095	Bopattalawa		NW					6.9011	80.6694	
+LK	22096	Dayagama Bazaar		NW					6.9011	80.6694	
+LK	22100	Talawakele		NW					6.9367	80.6611	4
+LK	22110	Watagoda		NW					7.4	80.5833	4
+LK	22120	Pundaluoya		NW					7.0147	80.6717	4
+LK	22150	Nanuoya		NW					7.1171	80.6387	
+LK	22200	Nuwara Eliya		NW					6.9697	80.77	4
+LK	22202	Santhipura		NW					6.9697	80.77	
+LK	22208	Haggala		NW					6.9697	80.77	
+LK	22212	Ruwaneliya		NW					6.8667	80.8167	
+LK	22214	Mipilimana		NW					6.8667	80.8167	
+LK	22216	Ambewela		NW					6.8667	80.8167	4
+LK	22220	Kandapola		NW					6.9917	80.8194	4
+LK	22226	Gonakele		NW					6.9917	80.8194	
+LK	22240	Halgranoya		NW					7.0417	80.8917	
+LK	22245	Rupaha		NW					7.0333	80.9	4
+LK	22246	Kumbukwela		NW					7.05	80.8833	4
+LK	22250	Udapussallawa		NW					7.0333	80.9111	
+LK	22252	Kurupanawela		NW					7.0167	80.9	4
+LK	22254	Mipanawa		NW					7.0333	80.9167	4
+LK	22256	Madulla		NW					7.05	80.9167	4
+LK	22262	Harasbedda		NW					7.0517	80.875	4
+LK	22270	Walapane		NW					7.1108	80.8581	
+LK	22272	Kumbalgamuwa		NW					7.1108	80.8581	4
+LK	22274	Keerthi Bandarapura		NW					7.1108	80.8581	
+LK	22280	Nildandahinna		NW					7.0833	80.8833	4
+LK	22282	Kalaganwatta		NW					7.1	80.9	4
+LK	22285	Udamadura		NW					7.1	80.9167	4
+LK	22287	Teripeha		NW					7.1189	80.9244	4
+LK	51000	Polonnaruwa		PR					7.9333	81	4
+LK	51002	Kalingaela		PR					7.9583	81.0417	
+LK	51004	Onegama		PR					7.9833	81.0833	4
+LK	51006	Lakshauyana		PR					7.9583	81.0417	
+LK	51008	Unagalavehera		PR					7.9583	81.0417	
+LK	51014	Alutwewa		PR					7.8667	79.95	4
+LK	51016	Parakramasamudraya		PR					7.8667	79.95	
+LK	51024	Jayanthipura		PR					8	81	4
+LK	51026	Giritale		PR					7.9833	80.9333	4
+LK	51031	Dimbulagala		PR					7.9167	80.55	
+LK	51032	Kashyapapura		PR					7.9167	80.55	
+LK	51033	Pelatiyawa		PR					7.9167	80.55	
+LK	51034	Ellewewa		PR					7.9167	80.55	4
+LK	51037	Kalukele Badanagala		PR					7.9167	80.55	
+LK	51039	Nuwaragala		PR					7.9167	80.55	
+LK	51042	Wijayabapura		PR					8.0167	81.0833	
+LK	51044	Talpotha		PR					8.0167	81.0833	
+LK	51046	Palugasdamana		PR					8.0167	81.0833	
+LK	51049	Tambala		PR					8.0167	81.0833	4
+LK	51050	Pulastigama		PR					7.67	80.565	
+LK	51052	Sungavila		PR					7.67	80.565	
+LK	51062	Sevanapitiya		PR					7.3667	80.1667	
+LK	51064	Mutugala		PR					7.3667	80.1667	4
+LK	51066	Nawasenapura		PR					7.3667	80.1667	
+LK	51070	Welikanda		PR					6.3167	80.0333	4
+LK	51072	Aselapura		PR					6.3167	80.0333	
+LK	51076	Mahawela Sinhapura		PR					6.3167	80.0333	
+LK	51089	Tamankaduwa		PR					7.67	80.565	
+LK	51090	Mampitiya		PR					7.3167	79.85	4
+LK	51092	Dalukana		PR					7.3167	79.85	
+LK	51094	Dewagala		PR					7.3167	79.85	
+LK	51096	Nelumwewa		PR					7.3167	79.85	
+LK	51098	Hansayapalama		PR					7.3167	79.85	
+LK	51100	Aralaganwila		PR					7.696	80.5842	
+LK	51102	Pimburattewa		PR					7.696	80.5842	
+LK	51104	Divuldamana		PR					7.696	80.5842	
+LK	51106	Damminna		PR					7.696	80.5842	
+LK	51108	Maduruoya		PR					7.696	80.5842	
+LK	51225	Diyabeduma		PR					7.8833	80.8833	4
+LK	51235	Attanakadawala		PR					7.85	80.8667	4
+LK	51244	Kottapitiya		PR					7.6333	79.8167	4
+LK	51246	Jayasiripura		PR					7.6333	79.8167	
+LK	51250	Bakamuna		PR					7.7833	80.8167	4
+LK	51256	Orubendi Siyambalawa		PR					7.7539	80.8025	
+LK	51258	Elahera		PR					7.7244	80.7883	4
+LK	51375	Galoya Junction		PR					7.696	80.5842	
+LK	51378	Sinhagama		PR					7.696	80.5842	
+LK	51400	Hingurakgoda		PR					8.0333	80.95	4
+LK	51408	Hingurakdamana		PR					8.0375	81.0297	4
+LK	51410	Minneriya		PR					8.0333	80.9	4
+LK	51412	Kumaragama		PR					7.75	80.3833	
+LK	51414	Kawudulla		PR					7.75	80.3833	
+LK	51416	Galamuna		PR					7.4667	79.8667	4
+LK	51422	Yodaela		PR					7.5833	79.8667	4
+LK	51424	Yudaganawa		PR					6.7667	81.2333	4
+LK	51428	Divulankadawala		PR					7.175	80.55	
+LK	51500	Medirigiriya		PR					7.8167	80.1833	
+LK	51504	Diyasenpura		PR					7.8167	80.1833	
+LK	51506	Mahatalakolawewa		PR					7.8167	80.1833	
+LK	51508	Meegaswewa		PR					7.8167	80.1833	4
+LK	51514	Kawuduluwewa Stagell		PR					7.8167	80.1833	
+LK	51518	Maha Ambagaswewa		PR					7.8167	80.1833	
+LK	61000	Chilaw		PX					7.5758	79.7953	4
+LK	61004	Udappuwa		PX					7.5758	79.7953	
+LK	61006	Wijeyakatupotha		PX					7.5758	79.7953	
+LK	61008	Wilpotha		PX					7.5758	79.7953	
+LK	61012	Adippala		PX					7.5833	79.8417	
+LK	61014	Mugunuwatawana		PX					7.5833	79.85	4
+LK	61018	Ilippadeniya		PX					7.5833	79.8333	4
+LK	61022	Karawitagara		PX					7.5333	79.8	
+LK	61024	Ambakandawila		PX					7.5333	79.8	4
+LK	61032	Kumarakattuwa		PX					7.65	79.9	4
+LK	61040	Pallama		PX					7.6828	79.9222	4
+LK	61042	Serukele		PX					7.7333	79.9167	4
+LK	61110	Waikkal		PX					7.2833	79.85	4
+LK	61120	Nainamadama		PX					7.3714	79.8837	
+LK	61130	Dankotuwa		PX					7.2967	79.8883	4
+LK	61136	Bujjampola		PX					7.3333	79.9	4
+LK	61138	Lihiriyagama		PX					7.3447	79.9425	4
+LK	61144	Yogiyana		PX					7.2833	79.9167	4
+LK	61150	Lunuwila		PX					7.3436	79.8617	4
+LK	61154	Ihala Kottaramulla		PX					7.3814	79.8742	4
+LK	61158	Koswatta		PX					7.3667	79.9	4
+LK	61162	Pothuwatawana		PX					7.4833	79.9	4
+LK	61170	Wennappuwa		PX					7.3467	79.8367	4
+LK	61180	Katuneriya		PX					7.3667	79.8333	4
+LK	61190	Nattandiya		PX					7.4086	79.8683	4
+LK	61192	Dunkannawa		PX					7.4167	79.9	4
+LK	61195	Muttibendiwila		PX					7.45	79.8833	4
+LK	61198	Watugahamulla		PX					7.4667	79.9	4
+LK	61210	Marawila		PX					7.4094	79.8322	4
+LK	61220	Mahawewa		PX					7.5167	79.9167	4
+LK	61224	Toduwawa		PX					7.4861	79.8022	4
+LK	61226	Kudawewa		PX					6.4167	81.0333	4
+LK	61230	Madampe		PX					7.5	79.8333	4
+LK	61233	Galmuruwa		PX					7.5	79.8833	4
+LK	61234	Panirendawa		PX					7.55	79.8833	4
+LK	61236	Kakkapalliya		PX					7.5333	79.8267	4
+LK	61238	Bangadeniya		PX					7.6275	79.8267	4
+LK	61242	Rajakadaluwa		PX					7.6486	79.8333	4
+LK	61244	Nalladarankattuwa		PX					7.7	79.8333	4
+LK	61246	Battuluoya		PX					7.6743	79.8333	
+LK	61250	Mundel		PX					7.7958	79.8283	4
+LK	61252	Kottantivu		PX					7.85	79.7833	4
+LK	61262	Baranankattuwa		PX					7.7833	79.85	4
+LK	61264	Angunawila		PX					7.7667	79.85	4
+LK	61266	Mangalaeliya		PX					7.775	79.85	
+LK	61270	Madurankuliya		PX					7.875	79.825	
+LK	61272	Mahakumbukkadawala		PX					7.85	79.9	4
+LK	61274	Mukkutoduwawa		PX					7.9	79.75	4
+LK	61280	Palaviya		PX					7.5785	79.9098	
+LK	61300	Puttalam		PX					8.0333	79.8167	4
+LK	61302	Ismailpuram		PX					8.0333	79.8167	
+LK	61306	Vanathawilluwa		PX					8.0333	79.8167	
+LK	61307	Karativponparappi		PX					8.0333	79.8167	
+LK	61308	Eluwankulama		PX					8.0333	79.8167	
+LK	61312	Sirambiadiya		PX					8.1	80.2667	
+LK	61314	Karuwalagaswewa		PX					8.05	79.9667	4
+LK	61316	Ihala Puliyankulama		PX					8.15	80.5667	4
+LK	61322	Tabbowa		PX					7.4167	79.8833	4
+LK	61324	Saliyawewa Junction		PX					7.4167	79.8833	
+LK	61326	Puttalam Cement Factory		PX					7.4167	79.8833	
+LK	61328	Attawilluwa		PX					7.4167	79.8833	
+LK	61341	Mampuri		PX					7.9964	79.7411	4
+LK	61342	Norachcholai		PX					7.9964	79.7411	
+LK	61343	Ettale		PX					7.9964	79.7411	
+LK	61344	Talawila Church		PX					7.9964	79.7411	
+LK	61354	Palliwasalturai		PX					7.98	79.9569	
+LK	61356	Kurinjanpitiya		PX					7.98	79.9569	
+LK	61358	Kandakuliya		PX					7.98	79.9569	
+LK	61360	Kalpitiya		PX					8.2333	79.7667	4
+LK	61362	Kirimundalama		PX					8.2333	79.7667	
+LK	61500	Anamaduwa		PX					7.8775	80.0144	4
+LK	61502	Uridyawa		PX					7.8239	79.978	
+LK	61504	Siyambalagashene		PX					7.8239	79.978	
+LK	61506	Mudalakkuliya		PX					7.8167	79.9667	4
+LK	61508	Andigama		PX					7.7775	79.9528	4
+LK	61512	Mahauswewa		PX					7.9575	80.0683	4
+LK	61514	Inginimitiya		PX					7.95	80.1333	4
+LK	61516	Kuruketiyawa		PX					8.0167	80.05	4
+LK	61520	Nawagattegama		PX					8	80.1167	4
+LK	61532	Kottukachchiya		PX					7.95	79.9333	4
+LK	61534	Kalladiya		PX					7.95	79.9333	
+LK	70000	Ratnapura		RN					6.6828	80.3992	4
+LK	70001	Malwala Junction		RN					6.7	80.4333	4
+LK	70002	Gillimale		RN					6.729	80.4415	
+LK	70004	Sri Palabaddala		RN					6.7833	80.45	4
+LK	70005	Kudawa		RN					6.75	80.4833	4
+LK	70012	Hidellana		RN					6.7192	80.3842	4
+LK	70016	Kahangama		RN					6.7033	80.3583	4
+LK	70017	Dodampe		RN					6.7333	80.3333	4
+LK	70018	Karangoda		RN					6.6833	80.3667	4
+LK	70019	Dambuluwana		RN					6.7167	80.3333	4
+LK	70021	Medagalatur		RN					6.6414	80.2882	
+LK	70024	Ayagama		RN					6.6406	80.3097	4
+LK	70026	Gawaragiriya		RN					6.6422	80.2667	4
+LK	70032	Elapatha		RN					6.65	80.3667	4
+LK	70034	Udaniriella		RN					6.65	80.3667	
+LK	70036	Ratna Hangamuwa		RN					6.65	80.3667	
+LK	70038	Niralagama		RN					6.65	80.3667	
+LK	70041	Marapana		RN					7.2333	80.35	4
+LK	70042	Dela		RN					6.6258	80.4486	4
+LK	70044	Udakarawita		RN					6.7317	80.4287	
+LK	70045	Pebotuwa		RN					6.55	80.45	4
+LK	70046	Delwala		RN					6.5178	80.4661	4
+LK	70056	Lellopitiya		RN					6.6667	80.4833	4
+LK	70062	Gallella		RN					6.85	80.35	4
+LK	70066	Wewelwatta		RN					6.85	80.35	
+LK	70070	Pelmadulla		RN					6.6244	80.5519	4
+LK	70080	Opanayaka		RN					6.5833	80.6667	
+LK	70082	Akarella		RN					6.5833	80.6667	4
+LK	70100	Balangoda		RN					6.6492	80.6722	4
+LK	70101	Talakolahinna		RN					6.5844	80.7332	
+LK	70104	Weligepola		RN					6.5667	80.7	4
+LK	70105	Hatangala		RN					6.5397	80.7436	4
+LK	70106	Handagiriya		RN					6.5167	80.8	4
+LK	70108	Hatarabage		RN					6.65	80.75	4
+LK	70112	Mahawalatenna		RN					6.5833	80.75	4
+LK	70114	Wikiliya		RN					6.6203	80.7467	4
+LK	70116	Rajawaka		RN					6.6	80.7833	4
+LK	70117	Mulgama		RN					6.65	80.8167	4
+LK	70118	Tanjantenna		RN					6.6361	80.8536	4
+LK	70122	Kaltota		RN					6.6833	80.6833	
+LK	70124	Welipathayaya		RN					6.6833	80.6833	
+LK	70127	Meddekanda		RN					6.6833	80.6833	
+LK	70129	Morahela		RN					6.6833	80.6833	4
+LK	70130	Pinnawala		RN					6.7167	80.6833	4
+LK	70131	Bolthumbe		RN					6.7159	80.6375	
+LK	70133	Pambagolla		RN					6.7333	80.6833	4
+LK	70134	lmbulpe		RN					6.7159	80.6375	
+LK	70135	Rassagala		RN					6.6964	80.6375	4
+LK	70136	Gurubewilagama		RN					6.7	80.5667	4
+LK	70138	Waleboda		RN					6.7333	80.6167	4
+LK	70140	Belihuloya		RN					7.2667	80.2167	
+LK	70142	Samanalawewa		RN					7.2667	80.2167	
+LK	70144	Ihalagama		RN					7.2667	80.3333	4
+LK	70145	Halpe		RN					7.2667	80.1	4
+LK	70150	Kahawatta		RN					6.7167	80.3	4
+LK	70152	Panapitiya		RN					7.4167	80.1833	4
+LK	70154	Udaha Hawupe		RN					7.05	80.2833	
+LK	70156	Gabbela		RN					6.7167	80.35	4
+LK	70158	Madalagama		RN					7.35	80.3	4
+LK	70160	Godakawela		RN					6.5003	80.6497	4
+LK	70162	Ranwala		RN					6.55	80.6833	4
+LK	70164	Hapugastenna		RN					7.1	80.1667	4
+LK	70165	NawinnaPinnakanda		RN					6.7168	80.4999	
+LK	70170	Pallebedda		RN					6.45	80.7333	4
+LK	70171	Halwinna		RN					6.6833	80.7167	4
+LK	70180	Kolambageara		RN					6.7516	80.5927	
+LK	70190	Udawalawe		RN					6.7516	80.5927	
+LK	70195	Gangeyaya		RN					6.7516	80.5927	
+LK	70200	Embilipitiya		RN					6.3439	80.8489	4
+LK	70205	Tunkama		RN					6.2833	80.8833	4
+LK	70212	Mulendiyawala		RN					6.3	80.75	4
+LK	70215	Omalpe		RN					6.3333	80.6833	4
+LK	70218	Panamura		RN					6.3167	80.7167	
+LK	70230	Padalangala		RN					6.25	80.9167	4
+LK	70294	Atakalanpanna		RN					6.5333	80.6	
+LK	70296	Hiramadagama		RN					6.5333	80.6	4
+LK	70298	Makandura Sabara		RN					6.5333	80.6	
+LK	70300	Rakwana		RN					7.9	80.4	4
+LK	70332	Demuwatha		RN					7.35	80.1667	
+LK	70338	Pothupitiya		RN					7.35	80.1667	4
+LK	70342	Ittakanda		RN					6.4	80.6333	
+LK	70344	Bomluwageaina		RN					6.4	80.6333	
+LK	70345	Ullinduwawa		RN					6.3667	80.6167	4
+LK	70346	Bulutota		RN					6.4333	80.65	4
+LK	70348	Vijeriya		RN					6.4	80.6333	
+LK	70350	Kolonna		RN					6.4	80.6833	4
+LK	70352	Kella Junction		RN					6.4	80.6833	
+LK	70400	Nivitigala		RN					6.6	80.4553	4
+LK	70403	Kolombugama		RN					6.5667	80.4833	4
+LK	70404	Doloswalakanda		RN					6.5833	80.4693	
+LK	70408	Watapotha		RN					6.5833	80.4693	
+LK	70450	Kalawana		RN					6.5369	80.4078	4
+LK	70455	Daugala		RN					6.4901	80.4248	
+LK	70456	Waturawa		RN					6.4833	80.4333	4
+LK	70459	Veddagala		RN					6.45	80.4333	4
+LK	70461	Panapola		RN					6.4333	80.4667	4
+LK	70469	Nawalakanda		RN					6.5167	80.3333	4
+LK	70472	Pimbura		RN					6.5667	80.15	4
+LK	70480	Kiriella		RN					6.75	80.2667	4
+LK	70482	Matuwagalagama		RN					6.7667	80.2333	
+LK	70488	Karandana		RN					6.7833	80.2	4
+LK	70492	Ellagawa		RN					6.5687	80.363	
+LK	70494	Minipura Dumbara		RN					6.5687	80.363	
+LK	70495	Dumbara Manana		RN					6.5687	80.363	
+LK	70500	Kuruwita		RN					6.7792	80.3686	4
+LK	70502	Sudagala		RN					6.7833	80.4	4
+LK	70504	Batatota		RN					6.8333	80.3667	4
+LK	70506	Eratna		RN					6.7986	80.3784	
+LK	70512	Teppanawa		RN					6.75	80.3167	4
+LK	70550	Parakaduwa		RN					6.8333	80.3	4
+LK	70552	Ellaulla		RN					6.8583	80.3083	
+LK	70556	Godagampola		RN					6.8833	80.3167	4
+LK	70600	Eheliyagoda		RN					6.85	80.2667	4
+LK	70602	Erepola		RN					6.8	80.2333	4
+LK	70604	Mitipola		RN					6.8333	80.2167	4
+LK	70606	Ellawala		RN					6.8	80.2667	4
+LK	70612	Panawala		RN					6.9833	80.0333	4
+LK	70620	Getahetta		RN					6.9128	80.2358	4
+LK	31000	Trincomalee		TC					8.5667	81.2333	4
+LK	31006	Sampaltivu		TC					8.6167	81.2	4
+LK	31010	Nilaveli		TC					8.6833	81.2	4
+LK	31012	Kumburupiddy		TC					8.7333	81.15	4
+LK	31014	Kuchchaveli		TC					8.8167	81.1	4
+LK	31016	Tiriyayi		TC					8.7444	81.15	
+LK	31026	Gomarankadawala		TC					8.6667	80.95	4
+LK	31028	Buckmigama		TC					8.6667	80.95	
+LK	31032	Kanniya		TC					8.6333	81.0167	
+LK	31034	Pankulam		TC					8.6333	81.0167	4
+LK	31036	Mahadivulwewa		TC					8.6333	81.0167	
+LK	31038	Rottawewa		TC					8.6333	81.0167	
+LK	31046	Tampalakamam		TC					8.4925	81.0964	4
+LK	31050	Chinabay		TC					8.5167	81.1833	
+LK	31053	Vellamanal		TC					8.5167	81.1833	4
+LK	31100	Kinniya		TC					8.4989	81.1897	4
+LK	31106	Maharugiramam		TC					8.4989	81.1897	
+LK	31112	Kurinchakemy		TC					8.4989	81.1897	
+LK	31200	Mutur		TC					8.45	81.2667	4
+LK	31212	Kaddaiparichchan		TC					8.45	81.2833	4
+LK	31216	Sampur		TC					8.4833	81.2833	4
+LK	31220	Kiliveddy		TC					8.4458	81.2875	
+LK	31222	Somapura		TC					8.4458	81.2875	
+LK	31224	Mallikativu		TC					8.4458	81.2875	
+LK	31226	Dehiwatte		TC					8.4458	81.2875	
+LK	31228	Neelapola		TC					8.4458	81.2875	
+LK	31232	Serunuwara		TC					8.4458	81.2875	
+LK	31234	Lankapatuna		TC					8.4458	81.2875	
+LK	31236	Echchilampattai		TC					8.4458	81.2875	
+LK	31238	Mawadichenai		TC					8.4458	81.2875	
+LK	31250	Toppur		TC					8.4	81.3167	4
+LK	31260	Seruwila		TC					8.4458	81.2875	
+LK	31300	Kantalai		TC					8.3683	81.0281	4
+LK	31304	Agbopura		TC					8.3683	81.0281	
+LK	31306	Kantalai Sugar Factory		TC					8.3683	81.0281	
+LK	31308	Wanela		TC					8.3683	81.0281	
+LK	31312	Mullipothana		TC					8.3683	81.0281	
+LK	31314	Sirajnagar		TC					8.3683	81.0281	
+LK	31318	Galmetiyawa		TC					8.3683	81.0281	
+LK	43000	Vavuniya		VA					8.75	80.5	4

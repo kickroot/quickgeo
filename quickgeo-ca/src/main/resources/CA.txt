@@ -1,0 +1,1621 @@
+CA	T0A	Eastern Alberta (St. Paul)	Alberta	AB					53.9225	-111.0585	
+CA	T0B	Wainwright Region (Tofield)	Alberta	AB					53.0635	-112.3067	
+CA	T0C	Central Alberta (Stettler)	Alberta	AB					51.9565	-110.0761	
+CA	T0E	Western Alberta (Jasper)	Alberta	AB					53.8486	-114.4361	
+CA	T0G	North Central Alberta (Slave Lake)	Alberta	AB					54.2653	-115.3827	
+CA	T0H	Northwestern Alberta (High Level)	Alberta	AB					56.6598	-117.2896	
+CA	T0J	Southeastern Alberta (Drumheller)	Alberta	AB					49.8442	-110.78	
+CA	T0K	International Border Region (Cardston)	Alberta	AB					49.7318	-112.6171	
+CA	T0L	Kananaskis Country (Claresholm)	Alberta	AB					49.8736	-113.5074	
+CA	T0M	Central Foothills (Sundre)	Alberta	AB					52.0306	-113.9565	
+CA	T0P	Northeastern Alberta (Fort Chipewyan)	Alberta	AB					58.759	-111.0874	
+CA	T0V	Remote Northeast (Fitzgerald)	Alberta	AB					59.8685	-111.6329	
+CA	T1A	Medicine Hat Central	Alberta	AB					50.0365	-110.661	
+CA	T1B	Medicine Hat South	Alberta	AB					50.0172	-110.651	
+CA	T1C	Medicine Hat North	Alberta	AB					50.0556	-110.6822	
+CA	T1G	Taber	Alberta	AB					49.7773	-112.158	
+CA	T1H	Lethbridge North	Alberta	AB					49.7118	-112.8196	
+CA	T1J	Lethbridge West and Central	Alberta	AB					49.6915	-112.8294	
+CA	T1K	Lethbridge Southeast	Alberta	AB					49.6765	-112.8035	
+CA	T1L	Banff	Alberta	AB					51.1791	-115.5697	
+CA	T1M	Coaldale	Alberta	AB					49.7285	-112.6146	
+CA	T1P	Strathmore	Alberta	AB					51.0459	-113.3967	
+CA	T1R	Brooks	Alberta	AB					50.5659	-111.8896	
+CA	T1S	Okotoks	Alberta	AB					50.7064	-113.9554	
+CA	T1V	High River	Alberta	AB					50.5775	-113.8747	
+CA	T1W	Canmore	Alberta	AB					51.0868	-115.3384	
+CA	T1X	Chestermere	Alberta	AB					51.0512	-113.8155	
+CA	T1Y	Calgary (Rundle / Whitehorn / Monterey Park)	Alberta	AB					51.0759	-114.0015	
+CA	T2A	Calgary (Penbrooke Meadows / Marlborough)	Alberta	AB					51.0402	-113.9844	
+CA	T2B	Calgary (Forest Lawn / Dover / Erin Woods)	Alberta	AB					51.0318	-113.9786	
+CA	T2C	Calgary (Lynnwood Ridge / Ogden / Foothills Industrial / Great Plains)	Alberta	AB					50.9878	-114.0001	
+CA	T2E	Calgary (Bridgeland / Greenview / Zoo / YYC)	Alberta	AB					51.0632	-114.0614	
+CA	T2G	Calgary (Inglewood / Burnsland / Chinatown / East Victoria Park / Saddledome)	Alberta	AB					51.0415	-114.0599	
+CA	T2H	Calgary (Highfield / Burns Industrial)	Alberta	AB					50.9857	-114.0631	
+CA	T2J	Calgary (Queensland Downs / Lake Bonavista / Willow Park / Acadia)	Alberta	AB					50.9693	-114.0514	
+CA	T2K	Calgary (Thornecliffe / Tuxedo)	Alberta	AB					51.0857	-114.0714	
+CA	T2L	Calgary (Brentwood / Collingwood / Nose Hill)	Alberta	AB					51.0917	-114.1127	
+CA	T2M	Calgary (Mount Pleasant / Capitol Hill / Banff Trail)	Alberta	AB					51.0696	-114.0862	
+CA	T2N	Calgary (Kensington / Westmont / Parkdale / University)	Alberta	AB					51.0591	-114.1146	
+CA	T2P	Calgary (City Centre / Calgary Tower)	Alberta	AB					51.0472	-114.0802	
+CA	T2R	Calgary (Connaught / West Victoria Park)	Alberta	AB					51.0426	-114.0791	
+CA	T2S	Calgary (Elbow Park / Britannia / Parkhill / Mission)	Alberta	AB					51.0171	-114.0812	
+CA	T2T	Calgary South (Altadore / Bankview / Richmond)	Alberta	AB					51.0316	-114.0994	
+CA	T2V	Calgary (Oak Ridge / Haysboro / Kingsland / Windsor Park)	Alberta	AB					50.9909	-114.074	
+CA	T2W	Calgary (Braeside / Woodbine)	Alberta	AB					50.9604	-114.1001	
+CA	T2X	Calgary (Midnapore / Sundance)	Alberta	AB					50.9204	-114.0674	
+CA	T2Y	Calgary (Millrise / Somerset / Bridlewood / Evergreen)	Alberta	AB					50.9093	-114.0721	
+CA	T2Z	Calgary (Douglas Glen / McKenzie Lake / Copperfield / East Shepard)	Alberta	AB					50.9023	-113.9873	
+CA	T3A	Calgary (Dalhousie / Edgemont / Hamptons / Hidden Valley)	Alberta	AB					51.0922	-114.1479	
+CA	T3B	Calgary (Montgomery / Bowness / Silver Springs / Greenwood)	Alberta	AB					51.0809	-114.1616	
+CA	T3C	Calgary (Rosscarrock / Wildwood / Shaganappi / Sunalta)	Alberta	AB					51.0388	-114.098	
+CA	T3E	Calgary (Lakeview / Glendale / Killarney / Glamorgan)	Alberta	AB					51.0227	-114.1342	
+CA	T3G	Calgary (Hawkwood / Arbour Lake / Royal Oak / Rocky Ridge)	Alberta	AB					51.1147	-114.1796	
+CA	T3H	Calgary (Discovery Ridge / Signal Hill / Aspen Woods / Patterson / Cougar Ridge)	Alberta	AB					51.0566	-114.1815	
+CA	T3J	Calgary (Martindale / Taradale / Falconridge / Saddle Ridge)	Alberta	AB					51.0999	-113.9422	
+CA	T3K	Calgary (Sandstone / Harvest Hills / Coventry Hills / Panorama Hills / Beddington)	Alberta	AB					51.127	-114.0787	
+CA	T3L	Calgary (Tuscany / Scenic Acres)	Alberta	AB					51.1162	-114.2089	
+CA	T3M	Calgary (Cranston)	Alberta	AB					50.8902	-113.9892	
+CA	T3N	Calgary Northeast	Alberta	AB					51.1494	-114.0019	
+CA	T3P	Calgary (Symons Valley)	Alberta	AB					51.1793	-114.1333	
+CA	T3R	Calgary Northwest	Alberta	AB					51.1497	-114.2695	
+CA	T3Z	Redwood Meadows	Alberta	AB					50.9821	-114.5178	
+CA	T4A	Airdrie East	Alberta	AB					51.2733	-113.9909	
+CA	T4B	Airdrie West	Alberta	AB					51.2816	-114.0153	
+CA	T4C	Cochrane	Alberta	AB					51.1896	-114.4774	
+CA	T4E	Red Deer County	Alberta	AB					52.2911	-113.7027	
+CA	T4G	Innisfail	Alberta	AB					52.029	-113.9474	
+CA	T4H	Olds	Alberta	AB					51.7956	-114.0944	
+CA	T4J	Ponoka	Alberta	AB					52.6649	-113.5823	
+CA	T4L	Lacombe	Alberta	AB					52.36	-114.3736	
+CA	T4N	Red Deer Central	Alberta	AB					52.2592	-113.8237	
+CA	T4P	Red Deer North	Alberta	AB					52.2887	-113.8394	
+CA	T4R	Red Deer South	Alberta	AB					52.2451	-113.7855	
+CA	T4S	Sylvan Lake	Alberta	AB					52.3083	-114.0949	
+CA	T4T	Rocky Mountain House	Alberta	AB					52.378	-114.9307	
+CA	T4V	Camrose	Alberta	AB					53.0204	-112.8129	
+CA	T4X	Beaumont	Alberta	AB					53.3571	-113.4129	
+CA	T5A	Edmonton (West Clareview / East Londonderry)	Alberta	AB					53.5899	-113.4413	
+CA	T5B	Edmonton (East North Central / West Beverly)	Alberta	AB					53.5766	-113.4608	
+CA	T5C	Edmonton (Central Londonderry)	Alberta	AB					53.6129	-113.4572	
+CA	T5E	Edmonton (West Londonderry / East Calder)	Alberta	AB					53.5923	-113.5168	
+CA	T5G	Edmonton (North Central / Queen Mary Park / YXD)	Alberta	AB					53.5682	-113.4822	
+CA	T5H	Edmonton (North and East Downtown Fringe)	Alberta	AB					53.555	-113.4822	
+CA	T5J	Edmonton (North Downtown)	Alberta	AB					53.5421	-113.4989	
+CA	T5K	Edmonton (South Downtown / South Downtown Fringe)	Alberta	AB					53.535	-113.501	
+CA	T5L	Edmonton (North Westmount / West Calder / East Mistatim)	Alberta	AB					53.5801	-113.541	
+CA	T5M	Edmonton (South Westmount / Groat Estate / East Northwest Industrial)	Alberta	AB					53.5614	-113.5461	
+CA	T5N	Edmonton (Glenora / SW Downtown Fringe)	Alberta	AB					53.5495	-113.5453	
+CA	T5P	Edmonton (North Jasper Place)	Alberta	AB					53.5529	-113.584	
+CA	T5R	Edmonton (Central Jasper Place / Buena Vista)	Alberta	AB					53.5224	-113.5763	
+CA	T5S	Edmonton (West Northwest Industrial / Winterburn)	Alberta	AB					53.5416	-113.6249	
+CA	T5T	Edmonton West (West Jasper Place / West Edmonton Mall)	Alberta	AB					53.5157	-113.6339	
+CA	T5V	Edmonton (Central Mistatim)	Alberta	AB					53.58	-113.5873	
+CA	T5W	Edmonton (Central Beverly)	Alberta	AB					53.5705	-113.4036	
+CA	T5X	Edmonton (East Castledowns)	Alberta	AB					53.6072	-113.5183	
+CA	T5Y	Edmonton (Landbank / Oliver / East Lake District)	Alberta	AB					53.6026	-113.3837	
+CA	T5Z	Edmonton (West Lake District)	Alberta	AB					53.5966	-113.4882	
+CA	T6A	Edmonton (North Capilano)	Alberta	AB					53.5483	-113.408	
+CA	T6B	Edmonton (SE Capilano / West Southeast Industrial / East Bonnie Doon)	Alberta	AB					53.5322	-113.4404	
+CA	T6C	Edmonton (Central Bonnie Doon)	Alberta	AB					53.5182	-113.4769	
+CA	T6E	Edmonton (South Bonnie Doon / East University)	Alberta	AB					53.5087	-113.5078	
+CA	T6G	Edmonton (West University / Strathcona Place)	Alberta	AB					53.5248	-113.5334	
+CA	T6H	Edmonton (Southgate / North Riverbend)	Alberta	AB					53.4839	-113.5227	
+CA	T6J	Edmonton (Kaskitayo)	Alberta	AB					53.4822	-113.5269	
+CA	T6K	Edmonton (West Mill Woods)	Alberta	AB					53.4816	-113.4623	
+CA	T6L	Edmonton (East Mill Woods)	Alberta	AB					53.4681	-113.4339	
+CA	T6M	Edmonton Southwest	Alberta	AB					53.4967	-113.6162	
+CA	T6N	Edmonton (South Industrial)	Alberta	AB					53.458	-113.4826	
+CA	T6P	Edmonton (East Southeast Industrial / South Clover Bar)	Alberta	AB					53.4996	-113.3678	
+CA	T6R	Edmonton (Riverbend)	Alberta	AB					53.4782	-113.5873	
+CA	T6S	Edmonton (North Clover Bar)	Alberta	AB					53.5729	-113.3518	
+CA	T6T	Edmonton (Meadows)	Alberta	AB					53.4768	-113.3662	
+CA	T6V	Edmonton (West Castledowns)	Alberta	AB					53.6202	-113.543	
+CA	T6W	Edmonton (Heritage Valley)	Alberta	AB					53.4129	-113.4957	
+CA	T6X	Edmonton (Ellerslie)	Alberta	AB					53.4154	-113.4917	
+CA	T7A	Drayton Valley	Alberta	AB					53.2165	-114.9893	
+CA	T7E	Edson	Alberta	AB					53.5908	-116.4104	
+CA	T7N	Barrhead	Alberta	AB					54.1136	-114.3932	
+CA	T7P	Westlock	Alberta	AB					54.166	-113.8452	
+CA	T7S	Whitecourt	Alberta	AB					54.1407	-115.6873	
+CA	T7V	Hinton	Alberta	AB					53.3981	-117.5552	
+CA	T7X	Spruce Grove North	Alberta	AB					53.549	-113.8995	
+CA	T7Y	Spruce Grove South	Alberta	AB					53.4495	-113.7135	
+CA	T7Z	Stony Plain	Alberta	AB					53.5202	-114.0135	
+CA	T8A	Sherwood Park West	Alberta	AB					53.519	-113.3216	
+CA	T8B	Sherwood Park Outer Southwest	Alberta	AB					53.4482	-113.2706	
+CA	T8C	Sherwood Park Inner Southwest	Alberta	AB					53.4162	-113.148	
+CA	T8E	Sherwood Park Central	Alberta	AB					53.4548	-113.0498	
+CA	T8G	Sherwood Park East	Alberta	AB					53.4749	-112.9512	
+CA	T8H	Sherwood Park Northwest	Alberta	AB					53.5462	-113.2562	
+CA	T8L	Fort Saskatchewan	Alberta	AB					53.6916	-113.2286	
+CA	T8N	St. Albert	Alberta	AB					53.6199	-113.6377	
+CA	T8R	Morinville	Alberta	AB					53.7903	-113.646	
+CA	T8S	Peace River	Alberta	AB					56.2539	-117.2849	
+CA	T8V	Grande Prairie Central	Alberta	AB					55.1726	-118.7997	
+CA	T8W	Grande Prairie South	Alberta	AB					55.1389	-118.773	
+CA	T8X	Grande Prairie East	Alberta	AB					55.1749	-118.7633	
+CA	T9A	Wetaskiwin	Alberta	AB					52.9741	-113.3646	
+CA	T9C	Vegreville	Alberta	AB					53.4874	-112.0636	
+CA	T9E	Leduc	Alberta	AB					53.2524	-113.5388	
+CA	T9G	Devon	Alberta	AB					53.3632	-113.7286	
+CA	T9H	Fort McMurray Outer Central	Alberta	AB					56.6977	-111.3389	
+CA	T9J	Fort McMurray Inner Central	Alberta	AB					56.7057	-111.3723	
+CA	T9K	Fort McMurray Northwest	Alberta	AB					56.7273	-111.4361	
+CA	T9M	Cold Lake	Alberta	AB					54.4127	-110.2162	
+CA	T9N	Bonnyville	Alberta	AB					54.2678	-110.7324	
+CA	T9S	Athabasca	Alberta	AB					54.7139	-113.2942	
+CA	T9V	Lloydminster	Alberta	AB					53.2786	-110.0233	
+CA	T9W	Wainwright	Alberta	AB					52.8403	-110.8704	
+CA	T9X	Vermilion	Alberta	AB					53.3515	-110.8451	
+CA	V0A	Upper Columbia Region (Golden)	British Columbia	BC					50.5402	-116.0019	
+CA	V0B	East Kootenays (Fernie)	British Columbia	BC					49.4539	-116.763	
+CA	V0C	Northern British Columbia (Fort Nelson)	British Columbia	BC					56.2478	-120.8491	
+CA	V0E	Central Okanagan and High Country (Revelstoke)	British Columbia	BC					50.9647	-119.1638	
+CA	V0G	West Kootenays (Rossland)	British Columbia	BC					49.7332	-116.913	
+CA	V0H	South Okanagan (Summerland)	British Columbia	BC					49.2357	-119.0117	
+CA	V0J	Omineca and Yellowhead (Smithers)	British Columbia	BC					55.2046	-129.0828	
+CA	V0K	Cariboo and West Okanagan (100 Mile House)	British Columbia	BC					50.7372	-121.2713	
+CA	V0L	Chilcotin (Alexis Creek)	British Columbia	BC					52.4018	-124.0226	
+CA	V0M	Harrison Lake Region (Agassiz)	British Columbia	BC					49.2341	-121.7705	
+CA	V0N	North Island, Sunshine Coast, and Southern Gulf Islands (Whistler)	British Columbia	BC					50.5899	-126.9517	
+CA	V0P	North Central Island and Bute Inlet Region (Gold River)	British Columbia	BC					50.898	-124.8633	
+CA	V0R	Central Island (Chemainus)	British Columbia	BC					49.2818	-126.0627	
+CA	V0S	Juan de Fuca Shore (Sooke)	British Columbia	BC					48.5788	-123.4637	
+CA	V0T	Inside Passage and the Queen Charlottes (Queen Charlotte City)	British Columbia	BC					54.7992	-130.0782	
+CA	V0V	Lower Skeena (Port Edward)	British Columbia	BC					53.4242	-129.263	
+CA	V0W	Atlin Region (Atlin)	British Columbia	BC					59.4808	-133.6312	
+CA	V0X	Similkameen (Hope)	British Columbia	BC					49.0538	-122.476	
+CA	V1A	Kimberley	British Columbia	BC					49.6626	-115.9667	
+CA	V1B	Vernon East	British Columbia	BC					50.2158	-119.2709	
+CA	V1C	Cranbrook	British Columbia	BC					49.512	-115.7703	
+CA	V1E	Salmon Arm	British Columbia	BC					50.6947	-119.2915	
+CA	V1G	Dawson Creek	British Columbia	BC					55.7741	-120.2533	
+CA	V1H	Vernon West	British Columbia	BC					50.2629	-119.3037	
+CA	V1J	Fort St. John	British Columbia	BC					56.2306	-120.8277	
+CA	V1K	Merritt	British Columbia	BC					50.1076	-120.7755	
+CA	V1L	Nelson	British Columbia	BC					49.4832	-117.3031	
+CA	V1M	Langley Township North	British Columbia	BC					49.164	-122.656	
+CA	V1N	Castlegar	British Columbia	BC					49.3298	-117.6607	
+CA	V1P	Kelowna East	British Columbia	BC					49.8808	-119.3647	
+CA	V1R	Trail	British Columbia	BC					49.1135	-117.716	
+CA	V1S	Kamloops Southwest	British Columbia	BC					50.6553	-120.3811	
+CA	V1T	Vernon Central	British Columbia	BC					50.2533	-119.2798	
+CA	V1V	Kelowna North	British Columbia	BC					49.929	-119.4676	
+CA	V1W	Kelowna Southwest	British Columbia	BC					49.842	-119.4903	
+CA	V1X	Kelowna East Central	British Columbia	BC					49.8754	-119.3958	
+CA	V1Y	Kelowna Central	British Columbia	BC					49.8803	-119.5004	
+CA	V1Z	Kelowna West	British Columbia	BC					49.88	-119.5355	
+CA	V2A	Penticton	British Columbia	BC					49.5031	-119.5905	
+CA	V2B	Kamloops Northwest	British Columbia	BC					50.6903	-120.3634	
+CA	V2C	Kamloops Central and Southeast	British Columbia	BC					50.6764	-120.3399	
+CA	V2E	Kamloops South and West	British Columbia	BC					50.6598	-120.3837	
+CA	V2G	Williams Lake	British Columbia	BC					52.1276	-122.1271	
+CA	V2H	Kamloops North	British Columbia	BC					50.6902	-120.0461	
+CA	V2J	Quesnel	British Columbia	BC					52.9692	-122.5057	
+CA	V2K	Prince George North	British Columbia	BC					53.9313	-122.7823	
+CA	V2L	Prince George East Central	British Columbia	BC					53.9112	-122.728	
+CA	V2M	Prince George West Central	British Columbia	BC					53.928	-122.7878	
+CA	V2N	Prince George South	British Columbia	BC					53.9103	-122.7835	
+CA	V2P	Chilliwack Central	British Columbia	BC					49.1551	-121.9459	
+CA	V2R	Chilliwack West	British Columbia	BC					49.1409	-121.962	
+CA	V2S	Abbotsford Southeast	British Columbia	BC					49.0312	-122.3012	
+CA	V2T	Abbotsford Southwest	British Columbia	BC					49.0382	-122.335	
+CA	V2V	Mission East	British Columbia	BC					49.1337	-122.3434	
+CA	V2W	Maple Ridge East	British Columbia	BC					49.2201	-122.4985	
+CA	V2X	Maple Ridge West	British Columbia	BC					49.2007	-122.6641	
+CA	V2Y	Langley Township Northwest	British Columbia	BC					49.1175	-122.6684	
+CA	V2Z	Langley Township Southwest	British Columbia	BC					49.0501	-122.6745	
+CA	V3A	Langley City	British Columbia	BC					49.0764	-122.6797	
+CA	V3B	Port Coquitlam Central	British Columbia	BC					49.2733	-122.7965	
+CA	V3C	Port Coquitlam South	British Columbia	BC					49.2334	-122.77	
+CA	V3E	Port Coquitlam North	British Columbia	BC					49.2796	-122.8105	
+CA	V3G	Abbotsford East	British Columbia	BC					49.0625	-122.2457	
+CA	V3H	Port Moody	British Columbia	BC					49.2707	-122.883	
+CA	V3J	Coquitlam North	British Columbia	BC					49.2536	-122.9085	
+CA	V3K	Coquitlam South	British Columbia	BC					49.2358	-122.8693	
+CA	V3L	New Westminster Northeast	British Columbia	BC					49.2136	-122.8949	
+CA	V3M	New Westminster Southwest (Includes Annacis Island)	British Columbia	BC					49.2007	-122.9074	
+CA	V3N	Burnaby (East Big Bend / Stride Avenue / Edmonds / Cariboo-Armstrong)	British Columbia	BC					49.2201	-122.9478	
+CA	V3R	Surrey North	British Columbia	BC					49.1641	-122.8193	
+CA	V3S	Surrey East	British Columbia	BC					49.1011	-122.8141	
+CA	V3T	Surrey Inner Northwest	British Columbia	BC					49.1783	-122.8665	
+CA	V3V	Surrey Outer Northwest	British Columbia	BC					49.1647	-122.8487	
+CA	V3W	Surrey Upper West	British Columbia	BC					49.0992	-122.8691	
+CA	V3X	Surrey Lower West	British Columbia	BC					49.1173	-122.8234	
+CA	V3Y	Pitt Meadows	British Columbia	BC					49.2273	-122.6883	
+CA	V4A	Surrey Southwest	British Columbia	BC					49.0168	-122.7738	
+CA	V4B	White Rock	British Columbia	BC					49.0268	-122.8369	
+CA	V4C	Delta Northeast	British Columbia	BC					49.1348	-122.9131	
+CA	V4E	Delta East	British Columbia	BC					49.0482	-122.9587	
+CA	V4G	Delta East Central	British Columbia	BC					49.1367	-123.0115	
+CA	V4K	Delta Central	British Columbia	BC					49.0798	-123.0882	
+CA	V4L	Delta Southeast	British Columbia	BC					49.0023	-123.0368	
+CA	V4M	Delta Southwest	British Columbia	BC					49.0025	-123.0746	
+CA	V4N	Surrey Northeast	British Columbia	BC					49.1636	-122.7677	
+CA	V4P	Surrey South	British Columbia	BC					49.0499	-122.804	
+CA	V4R	Maple Ridge Northwest	British Columbia	BC					49.2225	-122.4984	
+CA	V4S	Mission West	British Columbia	BC					49.1589	-122.3089	
+CA	V4T	Westbank	British Columbia	BC					49.838	-119.6667	
+CA	V4V	Winfield	British Columbia	BC					50.0734	-119.4444	
+CA	V4W	Langley Township East	British Columbia	BC					49.1307	-122.5369	
+CA	V4X	Abbotsford West	British Columbia	BC					49.0024	-122.4419	
+CA	V4Z	Chilliwack East	British Columbia	BC					49.146	-121.9435	
+CA	V5A	Burnaby (Government Road / Lake City / SFU / Burnaby Mountain)	British Columbia	BC					49.2869	-122.958	
+CA	V5B	Burnaby (Parkcrest-Aubrey / Ardingley-Sprott)	British Columbia	BC					49.2846	-122.9914	
+CA	V5C	Burnaby (Burnaby Heights / Willingdon Heights / West Central Valley)	British Columbia	BC					49.2848	-123.0222	
+CA	V5E	Burnaby (Lakeview-Mayfield / Richmond Park / Kingsway-Beresford)	British Columbia	BC					49.2124	-122.9696	
+CA	V5G	Burnaby (Cascade-Schou / Douglas-Gilpin)	British Columbia	BC					49.2591	-123.0226	
+CA	V5H	Burnaby (Maywood / Marlborough / Oakalla / Windsor)	British Columbia	BC					49.2371	-123.0229	
+CA	V5J	Burnaby (Suncrest / Sussex-Nelson / Clinton-Glenwood / West Big Bend)	British Columbia	BC					49.2218	-123.022	
+CA	V5K	Vancouver (North Hastings- Sunrise)	British Columbia	BC					49.293	-123.0489	
+CA	V5L	Vancouver (North Grandview- Woodlands)	British Columbia	BC					49.2835	-123.0786	
+CA	V5M	Vancouver (South Hastings-Sunrise / North Renfrew- Collingwood)	British Columbia	BC					49.2695	-123.0556	
+CA	V5N	Vancouver (South Grandview- Woodlands / NE Kensington)	British Columbia	BC					49.2699	-123.0765	
+CA	V5P	Vancouver (SE Kensington / Victoria- Fraserview)	British Columbia	BC					49.2393	-123.0729	
+CA	V5R	Vancouver (South Renfrew- Collingwood)	British Columbia	BC					49.2499	-123.0556	
+CA	V5S	Vancouver (Killarney)	British Columbia	BC					49.2286	-123.057	
+CA	V5T	Vancouver (East Mount Pleasant)	British Columbia	BC					49.2701	-123.1038	
+CA	V5V	Vancouver (West Kensington / NE Riley Park- Little Mountain)	British Columbia	BC					49.2558	-123.1037	
+CA	V5W	Vancouver (SE Riley Park- Little Mountain / SW Kensington / NE Oakridge / North Sunset)	British Columbia	BC					49.2396	-123.0984	
+CA	V5X	Vancouver (SE Oakridge / East Marpole / South Sunset)	British Columbia	BC					49.2249	-123.1052	
+CA	V5Y	Vancouver (West Mount Pleasant / West Riley Park- Little Mountain)	British Columbia	BC					49.2702	-123.1017	
+CA	V5Z	Vancouver (East Fairview / South Cambie)	British Columbia	BC					49.2658	-123.1151	
+CA	V6A	Vancouver (Strathcona / Chinatown / Downtown Eastside)	British Columbia	BC					49.2862	-123.0925	
+CA	V6B	Vancouver (NE Downtown / Harbour Centre / Gastown / Yaletown)	British Columbia	BC					49.2836	-123.1041	
+CA	V6C	Vancouver (Waterfront / Coal Harbour / Canada Place)	British Columbia	BC					49.2857	-123.1142	
+CA	V6E	Vancouver (South West End)	British Columbia	BC					49.2848	-123.1228	
+CA	V6G	Vancouver (North West End / Stanley Park)	British Columbia	BC					49.289	-123.1294	
+CA	V6H	Vancouver (West Fairview / Granville Island / NE Shaughnessy)	British Columbia	BC					49.2661	-123.1276	
+CA	V6J	Vancouver (NW Shaughnessy / East Kitsilano / Quilchena)	British Columbia	BC					49.2768	-123.1469	
+CA	V6K	Vancouver (Central Kitsilano)	British Columbia	BC					49.2738	-123.161	
+CA	V6L	Vancouver (NW Arbutus Ridge)	British Columbia	BC					49.2571	-123.1662	
+CA	V6M	Vancouver (South Shaughnessy / NW Oakridge / NE Kerrisdale / SE Arbutus Ridge)	British Columbia	BC					49.2417	-123.1293	
+CA	V6N	Vancouver (Dunbar- Southlands / Musqueam)	British Columbia	BC					49.2376	-123.1639	
+CA	V6P	Vancouver (SE Kerrisdale / SW Oakridge / West Marpole)	British Columbia	BC					49.2254	-123.1176	
+CA	V6R	Vancouver (West Kitsilano / Jericho)	British Columbia	BC					49.273	-123.185	
+CA	V6S	Vancouver (Chaldecutt / South University Endowment Lands)	British Columbia	BC					49.2574	-123.1836	
+CA	V6T	Vancouver (UBC)	British Columbia	BC					49.2765	-123.2177	
+CA	V6V	Richmond Northeast	British Columbia	BC					49.1699	-123.0912	
+CA	V6W	Richmond Southeast	British Columbia	BC					49.1261	-123.0897	
+CA	V6X	Richmond North	British Columbia	BC					49.1701	-123.1438	
+CA	V6Y	Richmond Central	British Columbia	BC					49.1483	-123.1469	
+CA	V6Z	Vancouver (SW Downtown)	British Columbia	BC					49.2814	-123.12	
+CA	V7A	Richmond South	British Columbia	BC					49.1467	-123.1463	
+CA	V7B	Richmond (Sea Island / YVR)	British Columbia	BC					49.178	-123.1701	
+CA	V7C	Richmond West	British Columbia	BC					49.1745	-123.1978	
+CA	V7E	Richmond Southwest	British Columbia	BC					49.1476	-123.1897	
+CA	V7G	North Vancouver Outer East	British Columbia	BC					49.304	-122.9689	
+CA	V7H	North Vancouver Inner East	British Columbia	BC					49.3011	-123.0205	
+CA	V7J	North Vancouver East Central	British Columbia	BC					49.3016	-123.0309	
+CA	V7K	North Vancouver North Central	British Columbia	BC					49.3322	-123.0518	
+CA	V7L	North Vancouver South Central	British Columbia	BC					49.3042	-123.0651	
+CA	V7M	North Vancouver Southwest Central	British Columbia	BC					49.3111	-123.0798	
+CA	V7N	North Vancouver Northwest Central	British Columbia	BC					49.3325	-123.0674	
+CA	V7P	North Vancouver Southwest	British Columbia	BC					49.3181	-123.096	
+CA	V7R	North Vancouver Northwest	British Columbia	BC					49.3328	-123.1043	
+CA	V7S	West Vancouver North	British Columbia	BC					49.3585	-123.1186	
+CA	V7T	West Vancouver Southeast	British Columbia	BC					49.324	-123.1036	
+CA	V7V	West Vancouver South	British Columbia	BC					49.3271	-123.1578	
+CA	V7W	West Vancouver West	British Columbia	BC					49.3465	-123.238	
+CA	V7X	Vancouver (Bentall Centre)	British Columbia	BC					49.2935	-123.1162	
+CA	V7Y	Vancouver (Pacific Centre)	British Columbia	BC					49.2816	-123.1247	
+CA	V8A	Powell River	British Columbia	BC					49.8021	-124.5124	
+CA	V8B	Squamish	British Columbia	BC					49.7497	-123.136	
+CA	V8C	Kitimat	British Columbia	BC					54.0662	-128.6508	
+CA	V8G	Terrace	British Columbia	BC					54.5058	-128.5823	
+CA	V8J	Prince Rupert	British Columbia	BC					54.3146	-130.3413	
+CA	V8K	Saltspring Island	British Columbia	BC					48.9145	-123.5657	
+CA	V8L	Sidney	British Columbia	BC					48.6128	-123.4198	
+CA	V8M	Central Saanich	British Columbia	BC					48.566	-123.4579	
+CA	V8N	Saanich East	British Columbia	BC					48.471	-123.3438	
+CA	V8P	Saanich Southeast	British Columbia	BC					48.4458	-123.3328	
+CA	V8R	Oak Bay North	British Columbia	BC					48.4266	-123.3444	
+CA	V8S	Oak Bay South	British Columbia	BC					48.4061	-123.3504	
+CA	V8T	Victoria North	British Columbia	BC					48.4278	-123.3574	
+CA	V8V	Victoria South	British Columbia	BC					48.4192	-123.3856	
+CA	V8W	Victoria Central British Columbia Provincial Government	British Columbia	BC					48.4202	-123.3671	
+CA	V8X	Saanich South	British Columbia	BC					48.4488	-123.3501	
+CA	V8Y	Saanich North	British Columbia	BC					48.501	-123.3804	
+CA	V8Z	Saanich Central	British Columbia	BC					48.4449	-123.3745	
+CA	V9A	Esquimalt	British Columbia	BC					48.449	-123.3842	
+CA	V9B	Highlands	British Columbia	BC					48.4519	-123.4417	
+CA	V9C	Metchosin	British Columbia	BC					48.4544	-123.458	
+CA	V9E	Saanich West	British Columbia	BC					48.4633	-123.4538	
+CA	V9G	Ladysmith	British Columbia	BC					50.089	-125.3444	
+CA	V9H	Campbell River Outskirts	British Columbia	BC					49.9164	-125.1875	
+CA	V9J	Courtenay Northern Outskirts	British Columbia	BC					49.8684	-125.1252	
+CA	V9K	Qualicum Beach	British Columbia	BC					49.3506	-124.409	
+CA	V9L	Duncan	British Columbia	BC					48.7768	-123.7077	
+CA	V9M	Comox	British Columbia	BC					49.6728	-124.947	
+CA	V9N	Courtenay Central	British Columbia	BC					49.686	-125.0191	
+CA	V9P	Parksville	British Columbia	BC					49.3233	-124.3227	
+CA	V9R	Nanaimo South	British Columbia	BC					49.136	-123.9483	
+CA	V9S	Nanaimo Central	British Columbia	BC					49.174	-123.9422	
+CA	V9T	Nanaimo North	British Columbia	BC					49.2079	-123.979	
+CA	V9V	Nanaimo Northwest	British Columbia	BC					49.2477	-124.0501	
+CA	V9W	Campbell River Central	British Columbia	BC					50.0059	-125.2343	
+CA	V9X	Cedar	British Columbia	BC					49.1207	-123.9284	
+CA	V9Y	Port Alberni	British Columbia	BC					49.2197	-124.8101	
+CA	R0A	Southeastern Manitoba (Lorette)	Manitoba	MB					49.0563	-96.1126	
+CA	R0B	Northern Manitoba (Norway House)	Manitoba	MB					55.8244	-98.8348	
+CA	R0C	North Interlake (Stonewall)	Manitoba	MB					50.7011	-97.1462	
+CA	R0E	Eastern Manitoba (Beausejour)	Manitoba	MB					50.4275	-95.3439	
+CA	R0G	South Central Manitoba (Altona)	Manitoba	MB					49.0698	-98.7619	
+CA	R0H	South Interlake (MacGregor)	Manitoba	MB					49.7223	-99.0009	
+CA	R0J	Riding Mountain (Neepawa)	Manitoba	MB					50.7774	-99.5546	
+CA	R0K	Brandon Region (Killarney)	Manitoba	MB					49.0694	-99.527	
+CA	R0L	Western Manitoba (Swan River)	Manitoba	MB					52.4175	-100.9577	
+CA	R0M	Southwestern Manitoba (Virden)	Manitoba	MB					50.0226	-101.3637	
+CA	R1A	Selkirk	Manitoba	MB					50.1483	-96.8756	
+CA	R1B	Lockport	Manitoba	MB					50.0958	-96.9329	
+CA	R1N	Portage la Prairie	Manitoba	MB					49.9694	-98.3131	
+CA	R2C	Winnipeg (Transcona)	Manitoba	MB					49.9069	-97.0011	
+CA	R2E	East St. Paul	Manitoba	MB					49.9611	-97.0212	
+CA	R2G	Winnipeg (River East North)	Manitoba	MB					49.9465	-97.0585	
+CA	R2H	Winnipeg (St. Boniface NW)	Manitoba	MB					49.8792	-97.1062	
+CA	R2J	Winnipeg (St. Boniface NE)	Manitoba	MB					49.8717	-97.0765	
+CA	R2K	Winnipeg (River East Central)	Manitoba	MB					49.9225	-97.0947	
+CA	R2L	Winnipeg (River East South)	Manitoba	MB					49.9069	-97.0845	
+CA	R2M	Winnipeg (St. Vital North)	Manitoba	MB					49.853	-97.0998	
+CA	R2N	Winnipeg (St. Vital SW)	Manitoba	MB					49.819	-97.0926	
+CA	R2P	Winnipeg (Seven Oaks West)	Manitoba	MB					49.9585	-97.1796	
+CA	R2R	Winnipeg (Inkster West)	Manitoba	MB					49.9324	-97.1988	
+CA	R2V	Winnipeg (Seven Oaks East)	Manitoba	MB					49.9378	-97.1183	
+CA	R2W	Winnipeg (Point Douglas East)	Manitoba	MB					49.9241	-97.1292	
+CA	R2X	Winnipeg (Point Douglas West / Inkster East)	Manitoba	MB					49.928	-97.1618	
+CA	R2Y	Winnipeg (St. James-Assiniboia NW)	Manitoba	MB					49.8963	-97.297	
+CA	R3A	Winnipeg (Centennial)	Manitoba	MB					49.9004	-97.1457	
+CA	R3B	Winnipeg (Chinatown / Civic Centre / Exchange District)	Manitoba	MB					49.8972	-97.1366	
+CA	R3C	Winnipeg (Broadway / The Forks / Portage and Main) Manitoba Provincial Government	Manitoba	MB					49.8788	-97.159	
+CA	R3E	Winnipeg (Sargent Park / Daniel McIntyre / Inkster SE)	Manitoba	MB					49.9139	-97.1847	
+CA	R3G	Winnipeg (Minto / St. Mathews / Wolseley)	Manitoba	MB					49.8826	-97.1623	
+CA	R3H	Winnipeg (St. James-Assiniboia NE / YWG)	Manitoba	MB					49.8971	-97.2163	
+CA	R3J	Winnipeg (St. James-Assiniboia SE)	Manitoba	MB					49.8858	-97.2601	
+CA	R3K	Winnipeg (St. James-Assiniboia SW)	Manitoba	MB					49.8811	-97.3194	
+CA	R3L	Winnipeg (River Heights East)	Manitoba	MB					49.8671	-97.1225	
+CA	R3M	Winnipeg (River Heights Central)	Manitoba	MB					49.8663	-97.1639	
+CA	R3N	Winnipeg (River Heights West)	Manitoba	MB					49.8722	-97.1888	
+CA	R3P	Winnipeg (Fort Garry NW / Tuxedo)	Manitoba	MB					49.834	-97.1865	
+CA	R3R	Winnipeg (Assiniboine South / Betsworth)	Manitoba	MB					49.854	-97.2712	
+CA	R3S	Winnipeg (Wilkes South)	Manitoba	MB					49.842	-97.3083	
+CA	R3T	Winnipeg (Fort Garry NE / University of Manitoba)	Manitoba	MB					49.849	-97.1497	
+CA	R3V	Winnipeg (Fort Garry South)	Manitoba	MB					49.7732	-97.1561	
+CA	R3W	Winnipeg (Grassie / Pequis)	Manitoba	MB					49.8968	-97.0279	
+CA	R3X	Winnipeg (St. Boniface South / St. Vital SE)	Manitoba	MB					49.8378	-97.0675	
+CA	R3Y	Winnipeg (Fort Garry West)	Manitoba	MB					49.8275	-97.183	
+CA	R4A	West St. Paul	Manitoba	MB					49.977	-97.0633	
+CA	R4H	Headingley East	Manitoba	MB					49.8628	-97.3348	
+CA	R4J	Headingley West	Manitoba	MB					49.8987	-97.3843	
+CA	R4K	Cartier	Manitoba	MB					49.8298	-97.7549	
+CA	R4L	St. Francois Xavier	Manitoba	MB					49.8943	-97.5178	
+CA	R5A	St. Adolphe	Manitoba	MB					49.7082	-96.9867	
+CA	R5G	Steinbach	Manitoba	MB					49.5264	-96.6867	
+CA	R5H	Ste. Anne	Manitoba	MB					49.6667	-96.648	
+CA	R6M	Morden	Manitoba	MB					49.1861	-98.1204	
+CA	R6W	Winkler	Manitoba	MB					49.1859	-97.9396	
+CA	R7A	Brandon Southeast	Manitoba	MB					49.8431	-99.9452	
+CA	R7B	Brandon Southwest	Manitoba	MB					49.8373	-99.9747	
+CA	R7C	Brandon North	Manitoba	MB					49.8688	-99.9684	
+CA	R7N	Dauphin	Manitoba	MB					51.1465	-100.0421	
+CA	R8A	Flin Flon	Manitoba	MB					54.76	-101.8704	
+CA	R8N	Thompson	Manitoba	MB					55.7428	-97.8779	
+CA	R9A	The Pas	Manitoba	MB					53.8228	-101.2356	
+CA	E1A	Dieppe Moncton East	New Brunswick	NB					46.0625	-64.7105	
+CA	E1B	Riverview	New Brunswick	NB					46.0738	-64.755	
+CA	E1C	Moncton Central	New Brunswick	NB					46.0888	-64.7723	
+CA	E1E	Moncton West	New Brunswick	NB					46.0599	-64.844	
+CA	E1G	Moncton Northwest	New Brunswick	NB					46.1117	-64.834	
+CA	E1H	Lakeville, Shediac Bridge	New Brunswick	NB					46.1506	-64.6799	
+CA	E1J	Coverdale	New Brunswick	NB					45.9829	-64.8634	
+CA	E1N	Miramichi South	New Brunswick	NB					47.0155	-65.5071	
+CA	E1V	Miramichi North	New Brunswick	NB					47.0085	-65.5833	
+CA	E1W	Caraquet	New Brunswick	NB					47.7624	-65.0324	
+CA	E1X	Tracadie-Sheila	New Brunswick	NB					47.4883	-64.9189	
+CA	E2A	Bathurst	New Brunswick	NB					47.6605	-65.6414	
+CA	E2E	Rothesay, Quispamsis	New Brunswick	NB					45.4165	-65.9913	
+CA	E2G	Quispamsis	New Brunswick	NB					45.4397	-65.9392	
+CA	E2H	Saint John Northeast, Renforth	New Brunswick	NB					45.3481	-66.0186	
+CA	E2J	Saint John East	New Brunswick	NB					45.286	-66.0421	
+CA	E2K	Saint John North	New Brunswick	NB					45.2746	-66.0871	
+CA	E2L	Saint John Central	New Brunswick	NB					45.2742	-66.0645	
+CA	E2M	Saint John West	New Brunswick	NB					45.2758	-66.0845	
+CA	E2N	Saint John Lakewood	New Brunswick	NB					45.3151	-65.9615	
+CA	E2P	Saint John Red Head	New Brunswick	NB					45.2488	-66.0025	
+CA	E2R	Saint John Grandview	New Brunswick	NB					45.2735	-66.0099	
+CA	E2S	Saint John Loch Lomond	New Brunswick	NB					45.3679	-65.9564	
+CA	E2V	Oromocto	New Brunswick	NB					45.8509	-66.467	
+CA	E3A	Fredericton North	New Brunswick	NB					45.9784	-66.6905	
+CA	E3B	Fredericton South New Brunswick Provincial Government	New Brunswick	NB					45.9535	-66.6704	
+CA	E3C	Fredericton Southwest, New Maryland	New Brunswick	NB					45.9356	-66.6609	
+CA	E3E	Kingsclear	New Brunswick	NB					45.8134	-66.932	
+CA	E3L	St. Stephen	New Brunswick	NB					45.1728	-67.2946	
+CA	E3N	Campbellton	New Brunswick	NB					48.0091	-66.6707	
+CA	E3V	Edmundston	New Brunswick	NB					47.3614	-68.3218	
+CA	E3Y	Grand Falls Northeast	New Brunswick	NB					47.052	-67.7368	
+CA	E3Z	Grand Falls Central	New Brunswick	NB					47.0471	-67.7527	
+CA	E4A	Bathurst	New Brunswick	NB					46.1655	-65.872	
+CA	E4B	Minto	New Brunswick	NB					45.9393	-66.09	
+CA	E4C	Youngs Cove	New Brunswick	NB					45.808	-65.9652	
+CA	E4E	Sussex	New Brunswick	NB					45.7223	-65.5108	
+CA	E4G	Smiths Creek	New Brunswick	NB					45.9078	-65.5334	
+CA	E4H	Hillsborough	New Brunswick	NB					45.9078	-64.8245	
+CA	E4J	Salisbury	New Brunswick	NB					45.9787	-64.9898	
+CA	E4K	Dorchester	New Brunswick	NB					46.0477	-64.6202	
+CA	E4L	Sackville	New Brunswick	NB					45.8919	-64.3699	
+CA	E4M	Bayfield	New Brunswick	NB					46.0957	-63.9068	
+CA	E4N	Cap-Pelé	New Brunswick	NB					46.2313	-64.2615	
+CA	E4P	Shediac	New Brunswick	NB					46.2165	-64.5128	
+CA	E4R	Cocagne	New Brunswick	NB					46.2324	-64.785	
+CA	E4S	Bouctouche	New Brunswick	NB					46.4171	-64.9241	
+CA	E4T	Bass River	New Brunswick	NB					46.3026	-64.9648	
+CA	E4V	Saint-Antoine	New Brunswick	NB					46.3131	-64.5853	
+CA	E4W	Richibucto	New Brunswick	NB					46.6493	-64.8842	
+CA	E4X	St-Louis-de-Kent	New Brunswick	NB					46.735	-64.9744	
+CA	E4Y	Rogersville	New Brunswick	NB					46.7333	-65.4489	
+CA	E4Z	Petitcodiac	New Brunswick	NB					45.751	-65.048	
+CA	E5A	Moores Mills	New Brunswick	NB					45.2441	-66.9929	
+CA	E5B	St. Andrews	New Brunswick	NB					45.0732	-67.0428	
+CA	E5C	St. George	New Brunswick	NB					45.2441	-66.9929	
+CA	E5E	Campobello Island	New Brunswick	NB					44.887	-66.95	
+CA	E5G	Grand Manan Island	New Brunswick	NB					44.6586	-66.8625	
+CA	E5H	Pennfield	New Brunswick	NB					45.0766	-66.77	
+CA	E5J	Lepreau	New Brunswick	NB					45.2116	-66.3491	
+CA	E5K	Grand Bay-Westfield	New Brunswick	NB					45.331	-66.2095	
+CA	E5L	Fredericton Junction	New Brunswick	NB					45.5281	-66.511	
+CA	E5M	Gagetown	New Brunswick	NB					45.6287	-66.1751	
+CA	E5N	Hampton	New Brunswick	NB					45.5263	-65.8155	
+CA	E5P	Apohaqui	New Brunswick	NB					45.8489	-65.788	
+CA	E5R	St. Martins	New Brunswick	NB					45.3849	-65.6331	
+CA	E5S	Kingston	New Brunswick	NB					45.3571	-66.0858	
+CA	E5T	Norton	New Brunswick	NB					45.6769	-65.884	
+CA	E5V	Deer Island	New Brunswick	NB					45.0481	-66.9556	
+CA	E6A	Boiestown	New Brunswick	NB					46.2767	-66.7384	
+CA	E6B	Stanley	New Brunswick	NB					46.2324	-66.6683	
+CA	E6C	Durham Bridge	New Brunswick	NB					45.9523	-66.6717	
+CA	E6E	Millville	New Brunswick	NB					46.1296	-67.1953	
+CA	E6G	Nackawic	New Brunswick	NB					45.9942	-67.2397	
+CA	E6H	Canterbury	New Brunswick	NB					45.7207	-67.6516	
+CA	E6J	McAdam	New Brunswick	NB					45.5927	-67.2973	
+CA	E6K	Harvey	New Brunswick	NB					45.6975	-66.9557	
+CA	E6L	Burtts Corner	New Brunswick	NB					46.12	-66.9477	
+CA	E7A	Baker Brook	New Brunswick	NB					47.2542	-68.7211	
+CA	E7B	Saint-Jacques	New Brunswick	NB					47.4785	-68.415	
+CA	E7C	Saint-Basile	New Brunswick	NB					47.3516	-68.2208	
+CA	E7E	Saint-Leonard	New Brunswick	NB					47.1717	-67.925	
+CA	E7G	Plaster Rock	New Brunswick	NB					46.9097	-67.3971	
+CA	E7H	Perth-Andover	New Brunswick	NB					46.7284	-67.7057	
+CA	E7J	Bath	New Brunswick	NB					46.5082	-67.5871	
+CA	E7K	Centreville	New Brunswick	NB					46.4328	-67.7105	
+CA	E7L	Florenceville	New Brunswick	NB					46.4418	-67.63	
+CA	E7M	Woodstock	New Brunswick	NB					46.1368	-67.5817	
+CA	E7N	Debec	New Brunswick	NB					46.0089	-67.7236	
+CA	E7P	Hartland	New Brunswick	NB					46.3709	-67.445	
+CA	E8A	Saint-Quentin	New Brunswick	NB					47.5021	-67.3897	
+CA	E8B	Kedgwick	New Brunswick	NB					47.6454	-67.3437	
+CA	E8C	Dalhousie	New Brunswick	NB					48.0477	-66.4004	
+CA	E8E	Balmoral	New Brunswick	NB					47.9879	-66.5145	
+CA	E8G	Belledune	New Brunswick	NB					47.8741	-65.9102	
+CA	E8J	Petit-Rocher	New Brunswick	NB					47.7634	-65.8276	
+CA	E8K	Beresford	New Brunswick	NB					47.6736	-65.6795	
+CA	E8L	Allardville	New Brunswick	NB					47.5887	-65.0979	
+CA	E8M	Saint-Isidore	New Brunswick	NB					47.8022	-65.1862	
+CA	E8N	Grande-Anse	New Brunswick	NB					47.8219	-65.0917	
+CA	E8P	Inkerman	New Brunswick	NB					47.6656	-64.9543	
+CA	E8R	Paquetville	New Brunswick	NB					47.7443	-64.7222	
+CA	E8S	Shippagan	New Brunswick	NB					47.7456	-64.7143	
+CA	E8T	Lamèque	New Brunswick	NB					47.792	-64.652	
+CA	E9A	Baie-Sainte-Anne	New Brunswick	NB					46.7385	-65.8528	
+CA	E9B	Blackville	New Brunswick	NB					46.7772	-65.8638	
+CA	E9C	Doaktown	New Brunswick	NB					46.4477	-66.2584	
+CA	E9E	Red Bank	New Brunswick	NB					46.9795	-65.6715	
+CA	E9G	Neguac	New Brunswick	NB					47.2316	-65.1378	
+CA	E9H	Brantville	New Brunswick	NB					47.3272	-65.011	
+CA	A0A	Southeastern Avalon Peninsula (Ferryland)	Newfoundland and Labrador	NL					47.0073	-52.9589	
+CA	A0B	Western Avalon Peninsula (Argentia)	Newfoundland and Labrador	NL					47.7609	-53.9834	
+CA	A0C	Bonavista Peninsula (Bonavista)	Newfoundland and Labrador	NL					48.3464	-53.9646	
+CA	A0E	Burin Peninsula (Marystown)	Newfoundland and Labrador	NL					47.3597	-54.8984	
+CA	A0G	Northeast Newfoundland (Lewisporte)	Newfoundland and Labrador	NL					49.4536	-54.1045	
+CA	A0H	Central Newfoundland (Bishops Falls)	Newfoundland and Labrador	NL					49.1301	-56.0845	
+CA	A0J	Northern Newfoundland (Springdale)	Newfoundland and Labrador	NL					49.5959	-55.6739	
+CA	A0K	Northwest Newfoundland/Eastern Labrador (Mary's Harbour)	Newfoundland and Labrador	NL					51.2327	-56.7969	
+CA	A0L	Western Newfoundland (Lark Harbour)	Newfoundland and Labrador	NL					48.9934	-58.1009	
+CA	A0M	Southwestern Newfoundland (Channel-Port aux Basques)	Newfoundland and Labrador	NL					48.1816	-58.858	
+CA	A0N	Port au Port Peninsula region (St. George's)	Newfoundland and Labrador	NL					48.6113	-58.8736	
+CA	A0P	Central Labrador (Happy Valley-Goose Bay)	Newfoundland and Labrador	NL					55.8889	-60.8805	
+CA	A0R	North/Western Labrador (Churchill Falls)	Newfoundland and Labrador	NL					53.5329	-64.0145	
+CA	A1A	St. John's North	Newfoundland and Labrador	NL					47.571	-52.6961	
+CA	A1B	St. John's Northwest Newfoundland & Labrador Provincial Government	Newfoundland and Labrador	NL					47.5736	-52.7083	
+CA	A1C	St. John's North Central	Newfoundland and Labrador	NL					47.5677	-52.7031	
+CA	A1E	St. John's Central	Newfoundland and Labrador	NL					47.5507	-52.7147	
+CA	A1G	St. John's South	Newfoundland and Labrador	NL					47.5295	-52.7417	
+CA	A1H	St. John's Southwest	Newfoundland and Labrador	NL					47.4926	-52.8123	
+CA	A1K	Torbay	Newfoundland and Labrador	NL					47.6542	-52.7367	
+CA	A1L	Paradise	Newfoundland and Labrador	NL					47.5363	-52.8389	
+CA	A1M	Portugal Cove-St. Philips	Newfoundland and Labrador	NL					47.5982	-52.8384	
+CA	A1N	Mount Pearl	Newfoundland and Labrador	NL					47.5203	-52.7789	
+CA	A1S	Goulds	Newfoundland and Labrador	NL					47.462	-52.7895	
+CA	A1V	Gander	Newfoundland and Labrador	NL					48.9632	-54.6169	
+CA	A1W	Manuels	Newfoundland and Labrador	NL					47.5329	-52.9132	
+CA	A1X	Conception Bay	Newfoundland and Labrador	NL					47.5238	-52.9595	
+CA	A1Y	Carbonear	Newfoundland and Labrador	NL					48.9268	-55.6613	
+CA	A2A	Grand Falls	Newfoundland and Labrador	NL					48.9249	-55.6493	
+CA	A2B	Windsor	Newfoundland and Labrador	NL					48.949	-55.6725	
+CA	A2H	Corner Brook	Newfoundland and Labrador	NL					48.9654	-57.9225	
+CA	A2N	Stephenville	Newfoundland and Labrador	NL					48.5656	-58.6	
+CA	A2V	Labrador City	Newfoundland and Labrador	NL					52.9348	-66.9145	
+CA	A5A	Clarenville	Newfoundland and Labrador	NL					48.1666	-53.9628	
+CA	A8A	Deer Lake	Newfoundland and Labrador	NL					49.1778	-57.413	
+CA	B0C	North Victoria County (Dingwall)	Nova Scotia	NS					46.2811	-60.2825	
+CA	B0E	West Cape Breton Island (Baddeck)	Nova Scotia	NS					45.5148	-60.966	
+CA	B0H	Canso region (Havre Boucher)	Nova Scotia	NS					45.6051	-61.6975	
+CA	B0J	Mainland east shore (Lunenburg)	Nova Scotia	NS					45.1458	-61.8108	
+CA	B0K	Southern Northumberland Strait (Pictou)	Nova Scotia	NS					45.5808	-62.1969	
+CA	B0L	Isthmus of Chignecto (River Hébert)	Nova Scotia	NS					45.5802	-64.6646	
+CA	B0M	Cobequid Bay north shore (Springhill)	Nova Scotia	NS					45.3317	-64.7596	
+CA	B0N	Hants County (Shubenacadie)	Nova Scotia	NS					44.8794	-63.7254	
+CA	B0P	Kings County (Kingston)	Nova Scotia	NS					45.0191	-64.8882	
+CA	B0R	West Lunenburg County (New Germany)	Nova Scotia	NS					44.7424	-65.5111	
+CA	B0S	West Annapolis County (Middleton)	Nova Scotia	NS					44.6491	-65.5472	
+CA	B0T	Queens County (Shelburne)	Nova Scotia	NS					43.7029	-65.1119	
+CA	B0V	Digby Neck (Digby)	Nova Scotia	NS					44.03	-65.9445	
+CA	B0W	Southwest Mainland (Weymouth)	Nova Scotia	NS					43.8187	-65.9517	
+CA	B1A	Glace Bay	Nova Scotia	NS					46.1794	-59.9477	
+CA	B1B	Port Morien	Nova Scotia	NS					46.1365	-59.8717	
+CA	B1C	Louisbourg	Nova Scotia	NS					46.2152	-60.2452	
+CA	B1E	Reserve Mines	Nova Scotia	NS					46.2003	-60.0215	
+CA	B1G	Dominion	Nova Scotia	NS					46.2063	-60.0255	
+CA	B1H	New Waterford	Nova Scotia	NS					46.2295	-60.0941	
+CA	B1J	East Bay	Nova Scotia	NS					45.8365	-60.4435	
+CA	B1K	Marion Bridge	Nova Scotia	NS					46.1309	-60.1864	
+CA	B1L	Sydney Southwest	Nova Scotia	NS					46.0911	-60.2462	
+CA	B1M	Sydney East	Nova Scotia	NS					46.169	-60.1013	
+CA	B1N	Sydney North	Nova Scotia	NS					46.167	-60.1943	
+CA	B1P	Sydney North Central	Nova Scotia	NS					46.1337	-60.1939	
+CA	B1R	Sydney West	Nova Scotia	NS					46.1224	-60.2236	
+CA	B1S	Sydney Central	Nova Scotia	NS					46.1334	-60.1947	
+CA	B1T	Christmas Island	Nova Scotia	NS					46.1122	-60.2372	
+CA	B1V	North Sydney North	Nova Scotia	NS					46.2383	-60.2165	
+CA	B1W	Eskasoni	Nova Scotia	NS					45.9245	-60.6449	
+CA	B1X	Big Bras d'Or	Nova Scotia	NS					46.2667	-60.4333	
+CA	B1Y	Alder Point	Nova Scotia	NS					46.1811	-60.5067	
+CA	B2A	North Sydney South Central	Nova Scotia	NS					46.2397	-60.0998	
+CA	B2C	Iona	Nova Scotia	NS					45.6218	-62.0004	
+CA	B2E	Loch Lomond	Nova Scotia	NS					45.6272	-61.9977	
+CA	B2G	Antigonish	Nova Scotia	NS					45.6243	-61.9996	
+CA	B2H	New Glasgow	Nova Scotia	NS					45.5937	-62.6585	
+CA	B2J	Fourchu	Nova Scotia	NS					45.3747	-63.2951	
+CA	B2N	Truro	Nova Scotia	NS					45.3486	-63.3029	
+CA	B2R	Waverley	Nova Scotia	NS					44.7431	-63.5144	
+CA	B2S	Lantz	Nova Scotia	NS					44.9775	-63.4209	
+CA	B2T	Enfield	Nova Scotia	NS					44.8488	-63.5999	
+CA	B2V	Dartmouth Morris Lake	Nova Scotia	NS					44.669	-63.5019	
+CA	B2W	Dartmouth East Central	Nova Scotia	NS					44.6449	-63.5433	
+CA	B2X	Dartmouth North Central	Nova Scotia	NS					44.6829	-63.5442	
+CA	B2Y	Dartmouth South Central	Nova Scotia	NS					44.7314	-63.6482	
+CA	B2Z	Dartmouth East	Nova Scotia	NS					44.7104	-63.4759	
+CA	B3A	Dartmouth Southwest	Nova Scotia	NS					44.6663	-63.5763	
+CA	B3B	Dartmouth Northwest	Nova Scotia	NS					44.6886	-63.6076	
+CA	B3E	Porters Lake	Nova Scotia	NS					44.7227	-63.3973	
+CA	B3G	Eastern Passage	Nova Scotia	NS					44.6156	-63.4929	
+CA	B3H	Halifax Lower Harbour	Nova Scotia	NS					44.6224	-63.5736	
+CA	B3J	Halifax Mid-Harbour Nova Scotia Provincial Government	Nova Scotia	NS					44.641	-63.5682	
+CA	B3K	Halifax Upper Harbour	Nova Scotia	NS					44.6514	-63.5818	
+CA	B3L	Halifax Central	Nova Scotia	NS					44.6464	-63.5929	
+CA	B3M	Halifax Bedford Basin	Nova Scotia	NS					44.6617	-63.6291	
+CA	B3N	Halifax South Central	Nova Scotia	NS					44.6327	-63.6219	
+CA	B3P	Halifax North West Arm	Nova Scotia	NS					44.6284	-63.596	
+CA	B3R	Halifax South	Nova Scotia	NS					44.5829	-63.5671	
+CA	B3S	Halifax West	Nova Scotia	NS					44.6408	-63.6723	
+CA	B3T	Lakeside	Nova Scotia	NS					44.6404	-63.6888	
+CA	B3V	Harrietsfield	Nova Scotia	NS					44.5682	-63.6177	
+CA	B3Z	Tantallon	Nova Scotia	NS					44.5539	-63.8307	
+CA	B4A	Bedford Southeast	Nova Scotia	NS					44.7089	-63.6676	
+CA	B4B	Bedford Northwest	Nova Scotia	NS					44.7235	-63.6899	
+CA	B4C	Lower Sackville South	Nova Scotia	NS					44.7765	-63.6854	
+CA	B4E	Lower Sackville West	Nova Scotia	NS					44.7803	-63.6916	
+CA	B4G	Lower Sackville North	Nova Scotia	NS					44.805	-63.667	
+CA	B4H	Amherst	Nova Scotia	NS					45.8353	-64.2182	
+CA	B4N	Kentville	Nova Scotia	NS					45.0899	-64.4963	
+CA	B4P	Wolfville	Nova Scotia	NS					45.0917	-64.3599	
+CA	B4R	Coldbrook	Nova Scotia	NS					44.3695	-64.5197	
+CA	B4V	Bridgewater	Nova Scotia	NS					44.3683	-64.506	
+CA	B5A	Yarmouth	Nova Scotia	NS					43.8245	-66.1207	
+CA	B9A	Port Hawkesbury	Nova Scotia	NS					45.612	-61.3486	
+CA	X0E	Central Northwest Territories (Inuvik)	Northwest Territory	NT					62.4043	-110.7417	
+CA	X0G	Southwestern Northwest Territories (Fort Liard)	Northwest Territory	NT					60.25	-123.41	
+CA	X1A	Yellowknife	Northwest Territory	NT					62.4725	-114.3417	
+CA	X0A	Outer Nunavut (Iqaluit)	Nunavut Territory	NU					70.4643	-68.4789	
+CA	X0B	Central Nunavut (Cambridge Bay)	Nunavut Territory	NU					67.6963	-107.9068	
+CA	X0C	Inner Nunavut (Rankin Inlet)	Nunavut Territory	NU					62.2237	-92.5904	
+CA	K0A	National Capital Region (Almonte)	Ontario	ON					45.1953	-76.1496	
+CA	K0B	Prescott and Russell United Counties (Alfred)	Ontario	ON					45.4131	-74.9148	
+CA	K0C	Stormont, Dundas and Glengarry United Counties (Alexandria)	Ontario	ON					45.2228	-75.032	
+CA	K0E	South Leeds and Grenville United Counties (Prescott)	Ontario	ON					44.6478	-75.7656	
+CA	K0G	Rideau Lakes area (Kemptville)	Ontario	ON					45.0113	-75.6459	
+CA	K0H	Frontenac County, Addington County, Loyalist Shores and Southwest Leeds (Inverary)	Ontario	ON					44.2166	-76.6455	
+CA	K0J	Renfrew County and Lanark Highlands Township (Deep River)	Ontario	ON					45.3985	-78.0836	
+CA	K0K	Quinte Shores, East Northumberland County & Prince Edward County (Picton)	Ontario	ON					44.0594	-77.386	
+CA	K0L	Peterborough County and North Hastings County (Lakefield)	Ontario	ON					44.8324	-77.9302	
+CA	K0M	Kawartha lakes and Haliburton County (Bobcaygeon)	Ontario	ON					44.438	-78.6828	
+CA	K1A	Government of Canada Ottawa and Gatineau offices	Ontario	ON					45.4207	-75.7023	
+CA	K1B	Gloucester (Blackburn Hamlet / Pine View)	Ontario	ON					45.4325	-75.5624	
+CA	K1C	Gloucester (West Orleans)	Ontario	ON					45.4805	-75.5237	
+CA	K1E	Orleans (Queenswood)	Ontario	ON					45.4882	-75.5199	
+CA	K1G	Ottawa (Riverview / Hawthorne)	Ontario	ON					45.4118	-75.6304	
+CA	K1H	Ottawa (Alta Vista)	Ontario	ON					45.3938	-75.6639	
+CA	K1J	Gloucester (Beacon Hill / Cyrville)	Ontario	ON					45.422	-75.6303	
+CA	K1K	Ottawa (Overbrook)	Ontario	ON					45.4354	-75.6475	
+CA	K1L	Ottawa (Vanier)	Ontario	ON					45.44	-75.6524	
+CA	K1M	Ottawa (Rockcliffe Park / New Edinburgh)	Ontario	ON					45.4461	-75.6744	
+CA	K1N	Ottawa (Lower Town / Sandy Hill / University of Ottawa)	Ontario	ON					45.3176	-75.895	
+CA	K1P	Ottawa (Parliament Hill)	Ontario	ON					45.423	-75.702	
+CA	K1R	Ottawa (West Downtown area)	Ontario	ON					45.4	-75.7235	
+CA	K1S	Ottawa (The Glebe / Ottawa South / Ottawa East)	Ontario	ON					45.4127	-75.6742	
+CA	K1T	Gloucester (Blossom Park / Hunt Club East / Leitrim)	Ontario	ON					45.352	-75.6421	
+CA	K1V	Ottawa (Riverside Park / Hunt Club West / Riverside South / YOW)	Ontario	ON					45.3523	-75.6512	
+CA	K1W	Gloucester (South Orleans)	Ontario	ON					45.436	-75.5471	
+CA	K1X	Gloucester South	Ontario	ON					45.2884	-75.5992	
+CA	K1Y	Ottawa West	Ontario	ON					45.399	-75.7304	
+CA	K1Z	Ottawa (Westboro)	Ontario	ON					45.3956	-75.7462	
+CA	K2A	Ottawa (Highland Park / Carlingwood)	Ontario	ON					45.3778	-75.7632	
+CA	K2B	Ottawa (Britannia / Pinecrest)	Ontario	ON					45.3679	-75.7888	
+CA	K2C	Ottawa (Queensway / Copeland / Carlington / Carleton Heights)	Ontario	ON					45.3594	-75.7523	
+CA	K2E	Nepean East	Ontario	ON					45.3353	-75.7209	
+CA	K2G	Nepean (Davidson Heights)	Ontario	ON					45.3286	-75.7703	
+CA	K2H	Nepean (Bells Corners)	Ontario	ON					45.3155	-75.837	
+CA	K2J	Nepean (Barrhaven)	Ontario	ON					45.2882	-75.7566	
+CA	K2K	Kanata (Beaverbrook / South March)	Ontario	ON					45.3339	-75.9098	
+CA	K2L	Kanata (Katimavik-Hazeldean / Glen Cairn)	Ontario	ON					45.3125	-75.8838	
+CA	K2M	Kanata (Bridlewood)	Ontario	ON					45.2884	-75.8648	
+CA	K2P	Ottawa (Centre Town)	Ontario	ON					45.4129	-75.6901	
+CA	K2R	Nepean (Fallowfield Village / Cedarhill Estates / Orchard Estates)	Ontario	ON					45.2776	-75.7902	
+CA	K2S	Stittsville	Ontario	ON					45.2573	-75.9153	
+CA	K2T	Kanata (Marchwood)	Ontario	ON					45.3121	-75.9217	
+CA	K2V	Kanata (Terry Fox / Palladium)	Ontario	ON					45.3018	-75.9081	
+CA	K2W	Kanata (North March)	Ontario	ON					45.3564	-75.9445	
+CA	K4A	Orleans (Fallingbrook)	Ontario	ON					45.4769	-75.4835	
+CA	K4B	Cumberland Township	Ontario	ON					45.4251	-75.4288	
+CA	K4C	Cumberland	Ontario	ON					45.5177	-75.4108	
+CA	K4K	Rockland	Ontario	ON					45.5415	-75.3062	
+CA	K4M	Manotick	Ontario	ON					45.2289	-75.6817	
+CA	K4P	Greely	Ontario	ON					45.258	-75.5762	
+CA	K4R	Russell	Ontario	ON					45.2573	-75.3675	
+CA	K6A	Hawkesbury	Ontario	ON					45.6101	-74.6085	
+CA	K6H	Cornwall East	Ontario	ON					45.0186	-74.7129	
+CA	K6J	Cornwall West	Ontario	ON					45.0149	-74.7279	
+CA	K6K	Cornwall North	Ontario	ON					45.0607	-74.7542	
+CA	K6T	Elizabethtown	Ontario	ON					44.618	-75.6895	
+CA	K6V	Brockville	Ontario	ON					44.5906	-75.6808	
+CA	K7A	Smiths Falls	Ontario	ON					44.8995	-76.021	
+CA	K7C	Carleton Place	Ontario	ON					45.135	-76.1313	
+CA	K7G	Gananoque	Ontario	ON					44.3319	-76.1471	
+CA	K7H	Perth	Ontario	ON					44.902	-76.2457	
+CA	K7K	Kingston (SW Pittsburgh Township)	Ontario	ON					44.2322	-76.4799	
+CA	K7L	Kingston (Downtown)	Ontario	ON					44.231	-76.4791	
+CA	K7M	Kingston (Reddendale / Cataraqui / Collins Bay)	Ontario	ON					44.2274	-76.5134	
+CA	K7N	Amherstview	Ontario	ON					44.2255	-76.629	
+CA	K7P	Kingston (Westbrook / Cataraqui Woods / Cedarwood)	Ontario	ON					44.2507	-76.5828	
+CA	K7R	Napanee	Ontario	ON					44.2538	-76.943	
+CA	K7S	Arnprior	Ontario	ON					45.4238	-76.3624	
+CA	K7V	Renfrew	Ontario	ON					45.4779	-76.6731	
+CA	K8A	Pembroke Central and northern subdivisions	Ontario	ON					45.8173	-77.1174	
+CA	K8B	Pembroke (Pleasant View / Fairview)	Ontario	ON					45.815	-77.1107	
+CA	K8H	Petawawa	Ontario	ON					45.9151	-77.2754	
+CA	K8N	Belleville East	Ontario	ON					44.1607	-77.369	
+CA	K8P	Belleville West	Ontario	ON					44.1605	-77.3846	
+CA	K8R	Belleville (SE Sidney Township / Avondale)	Ontario	ON					44.1312	-77.4521	
+CA	K8V	Trenton	Ontario	ON					44.1106	-77.5569	
+CA	K9A	Cobourg	Ontario	ON					43.9851	-78.1621	
+CA	K9H	Peterborough North	Ontario	ON					44.299	-78.3145	
+CA	K9J	Peterborough South	Ontario	ON					44.2763	-78.313	
+CA	K9K	Peterborough (Fairbairn Meadows / Jackson Heights)	Ontario	ON					44.279	-78.3659	
+CA	K9L	Peterborough (Terra View Heights / Woodland Acres / Donwood)	Ontario	ON					44.3238	-78.303	
+CA	K9V	Lindsay	Ontario	ON					44.3512	-78.7192	
+CA	L0A	West Northumberland County (Millbrook)	Ontario	ON					44.1836	-78.5563	
+CA	L0B	East Durham Regional Municipality (Orono)	Ontario	ON					44.0286	-79.0015	
+CA	L0C	West Durham Regional Municipality (Sunderland)	Ontario	ON					44.0371	-79.1964	
+CA	L0E	Lake Simcoe Southeast Shore (Sutton West)	Ontario	ON					44.2406	-79.357	
+CA	L0G	Ontario Centre (Queensville)	Ontario	ON					44.1595	-79.8733	
+CA	L0H	Whitby Region (Gormley)	Ontario	ON					43.9282	-79.1201	
+CA	L0J	North Peel Regional Municipality (Kleinburg)	Ontario	ON					43.7788	-79.4991	
+CA	L0K	Lake Simcoe North Shore (Coldwater)	Ontario	ON					44.6072	-79.6291	
+CA	L0L	Lake Simcoe West Shore (Oro)	Ontario	ON					44.1535	-79.8683	
+CA	L0M	Georgian Bay South Shore (Angus)	Ontario	ON					44.1476	-79.872	
+CA	L0N	Dufferin County (Shelburne)	Ontario	ON					43.8582	-80.0696	
+CA	L0P	Halton Regional Municipality (Campbellville)	Ontario	ON					43.7882	-79.6754	
+CA	L0R	East Haldimand County (Waterdown)	Ontario	ON					43.1661	-80.0702	
+CA	L0S	Niagara Regional Municipality (Fonthill)	Ontario	ON					43.0796	-79.199	
+CA	L1A	Port Hope	Ontario	ON					43.9427	-78.2944	
+CA	L1B	Bowmanville East	Ontario	ON					43.8966	-78.6309	
+CA	L1C	Bowmanville West	Ontario	ON					43.9014	-78.6755	
+CA	L1E	Courtice	Ontario	ON					43.914	-78.6925	
+CA	L1G	Oshawa Central	Ontario	ON					43.898	-78.8656	
+CA	L1H	Oshawa Southeast	Ontario	ON					43.8973	-78.8641	
+CA	L1J	Oshawa Southwest	Ontario	ON					43.8587	-78.8341	
+CA	L1K	Oshawa East	Ontario	ON					43.9091	-78.8088	
+CA	L1L	Oshawa North	Ontario	ON					43.9527	-78.8795	
+CA	L1M	Whitby North	Ontario	ON					43.9561	-78.9556	
+CA	L1N	Whitby Southeast	Ontario	ON					43.8581	-78.9319	
+CA	L1P	Whitby Southwest	Ontario	ON					43.8744	-78.9638	
+CA	L1R	Whitby Central	Ontario	ON					43.9018	-78.9347	
+CA	L1S	Ajax Southwest	Ontario	ON					43.8265	-78.9991	
+CA	L1T	Ajax Northwest	Ontario	ON					43.8603	-79.0434	
+CA	L1V	Pickering Southwest	Ontario	ON					43.8087	-79.1307	
+CA	L1W	Pickering South	Ontario	ON					43.8125	-79.0827	
+CA	L1X	Pickering Central	Ontario	ON					43.8449	-79.0996	
+CA	L1Y	Pickering North	Ontario	ON					43.9903	-79.1004	
+CA	L1Z	Ajax East	Ontario	ON					43.8627	-79.0136	
+CA	L2A	Fort Erie	Ontario	ON					42.8845	-78.9398	
+CA	L2E	Niagara Falls Central	Ontario	ON					43.0939	-79.0699	
+CA	L2G	Niagara Falls Southeast	Ontario	ON					43.0963	-79.074	
+CA	L2H	Niagara Falls West	Ontario	ON					43.1148	-79.1238	
+CA	L2J	Niagara Falls North	Ontario	ON					43.1155	-79.0916	
+CA	L2M	St. Catharines Northeast	Ontario	ON					43.2237	-79.2191	
+CA	L2N	St. Catharines Northwest	Ontario	ON					43.1751	-79.2389	
+CA	L2P	St. Catharines East	Ontario	ON					43.1418	-79.2133	
+CA	L2R	St. Catharines Central	Ontario	ON					43.1719	-79.227	
+CA	L2S	St. Catharines Southwest	Ontario	ON					43.1275	-79.2631	
+CA	L2T	St. Catharines South	Ontario	ON					43.1334	-79.1989	
+CA	L2V	St. Catharines Southeast	Ontario	ON					43.1017	-79.1997	
+CA	L2W	St. Catharines West	Ontario	ON					43.1743	-79.2744	
+CA	L3B	Welland East	Ontario	ON					42.9859	-79.2232	
+CA	L3C	Welland West	Ontario	ON					42.9989	-79.2466	
+CA	L3K	Port Colborne	Ontario	ON					42.8754	-79.237	
+CA	L3M	Grimsby	Ontario	ON					43.2005	-79.6292	
+CA	L3P	Markham Central	Ontario	ON					43.8605	-79.3279	
+CA	L3R	Markham Outer Southwest	Ontario	ON					43.86	-79.3605	
+CA	L3S	Markham Southeast	Ontario	ON					43.831	-79.2768	
+CA	L3T	Thornhill East	Ontario	ON					43.7984	-79.4186	
+CA	L3V	Orillia	Ontario	ON					44.6039	-79.4126	
+CA	L3X	Newmarket Southwest	Ontario	ON					44.0464	-79.4874	
+CA	L3Y	Newmarket Northeast	Ontario	ON					44.0414	-79.4534	
+CA	L3Z	Bradford	Ontario	ON					44.1208	-79.5656	
+CA	L4A	Stouffville	Ontario	ON					43.9707	-79.2503	
+CA	L4B	Richmond Hill Southeast	Ontario	ON					43.8417	-79.4011	
+CA	L4C	Richmond Hill Southwest	Ontario	ON					43.8759	-79.4381	
+CA	L4E	Richmond Hill North	Ontario	ON					43.9423	-79.4595	
+CA	L4G	Aurora	Ontario	ON					43.9909	-79.4639	
+CA	L4H	Woodbridge North	Ontario	ON					43.8084	-79.6089	
+CA	L4J	Thornhill West	Ontario	ON					43.7964	-79.4278	
+CA	L4K	Concord	Ontario	ON					43.7848	-79.4811	
+CA	L4L	Woodbridge South	Ontario	ON					43.7886	-79.5919	
+CA	L4M	Barrie North	Ontario	ON					44.3885	-79.6886	
+CA	L4N	Barrie South	Ontario	ON					44.3891	-79.6901	
+CA	L4P	Keswick	Ontario	ON					44.2421	-79.4818	
+CA	L4R	Midland	Ontario	ON					44.7542	-79.9005	
+CA	L4S	Richmond Hill Central	Ontario	ON					43.8975	-79.4415	
+CA	L4T	Mississauga (Malton)	Ontario	ON					43.6951	-79.6525	
+CA	L4V	Mississauga (Wildwood)	Ontario	ON					43.6879	-79.6072	
+CA	L4W	Mississauga (Matheson / East Rathwood)	Ontario	ON					43.6272	-79.6222	
+CA	L4X	Mississauga (East Applewood / East Dixie / NE Lakeview)	Ontario	ON					43.5996	-79.5664	
+CA	L4Y	Mississauga (West Applewood / West Dixie / NW Lakeview)	Ontario	ON					43.5854	-79.583	
+CA	L4Z	Mississauga (West Rathwood / East Hurontario / SE Gateway)	Ontario	ON					43.6092	-79.6201	
+CA	L5A	Mississauga (Mississauga Valleys / East Cooksville)	Ontario	ON					43.5701	-79.5985	
+CA	L5B	Mississauga (West Cooksville / Fairview / City Centre / East Creditview)	Ontario	ON					43.5665	-79.6035	
+CA	L5C	Mississauga (West Creditview / Mavis / Erindale)	Ontario	ON					43.5591	-79.6186	
+CA	L5E	Mississauga (Central Lakeview)	Ontario	ON					43.571	-79.5668	
+CA	L5G	Mississauga (SW Lakeview / Mineola / East Port Credit)	Ontario	ON					43.5581	-79.5738	
+CA	L5H	Mississauga (West Port Credit / Lorne Park / East Sheridan)	Ontario	ON					43.5472	-79.585	
+CA	L5J	Mississauga (Clarkson / Southdown)	Ontario	ON					43.5146	-79.6063	
+CA	L5K	Mississauga (West Sheridan)	Ontario	ON					43.5319	-79.6403	
+CA	L5L	Mississauga (Erin Mills / Western Business Park)	Ontario	ON					43.5372	-79.6667	
+CA	L5M	Mississauga (Churchill Meadows / Central Erin Mills / South Streetsville)	Ontario	ON					43.5747	-79.7278	
+CA	L5N	Mississauga (Lisgar / Meadowvale)	Ontario	ON					43.5892	-79.7239	
+CA	L5P	Mississauga (YYZ)	Ontario	ON					43.6904	-79.6238	
+CA	L5R	Mississauga (West Hurontario / SW Gateway)	Ontario	ON					43.5974	-79.6402	
+CA	L5S	Mississauga (Cardiff / NE Gateway)	Ontario	ON					43.6975	-79.6615	
+CA	L5T	Mississauga (Courtney Park / East Gateway)	Ontario	ON					43.6578	-79.6607	
+CA	L5V	Mississauga (East Credit)	Ontario	ON					43.6097	-79.704	
+CA	L5W	Mississauga (Meadowvale Village / West Gateway)	Ontario	ON					43.6261	-79.729	
+CA	L6A	Maple	Ontario	ON					43.857	-79.514	
+CA	L6B	Markham East	Ontario	ON					43.8845	-79.2339	
+CA	L6C	Markham Northwest	Ontario	ON					43.8842	-79.3359	
+CA	L6E	Markham Northeast	Ontario	ON					43.8927	-79.2641	
+CA	L6G	Markham Inner Southwest	Ontario	ON					43.8478	-79.3447	
+CA	L6H	Oakville North	Ontario	ON					43.4543	-79.6921	
+CA	L6J	Oakville Northeast	Ontario	ON					43.4427	-79.6664	
+CA	L6K	Oakville East	Ontario	ON					43.4401	-79.669	
+CA	L6L	Oakville South	Ontario	ON					43.4037	-79.6934	
+CA	L6M	Oakville West	Ontario	ON					43.4453	-79.7095	
+CA	L6P	Brampton North	Ontario	ON					43.7794	-79.7284	
+CA	L6R	Brampton Northwest	Ontario	ON					43.7494	-79.7511	
+CA	L6S	Brampton North Central	Ontario	ON					43.7153	-79.7321	
+CA	L6T	Brampton East	Ontario	ON					43.6892	-79.7079	
+CA	L6V	Brampton Central	Ontario	ON					43.7074	-79.7853	
+CA	L6W	Brampton Southeast	Ontario	ON					43.6746	-79.724	
+CA	L6X	Brampton Southwest	Ontario	ON					43.6858	-79.7602	
+CA	L6Y	Brampton South	Ontario	ON					43.6699	-79.7444	
+CA	L6Z	Brampton West Central	Ontario	ON					43.7304	-79.8042	
+CA	L7A	Brampton West	Ontario	ON					43.7023	-79.7909	
+CA	L7B	King City	Ontario	ON					43.9327	-79.5104	
+CA	L7C	Caledon	Ontario	ON					43.7467	-79.8304	
+CA	L7E	Bolton	Ontario	ON					43.8628	-79.7147	
+CA	L7G	Georgetown	Ontario	ON					43.644	-79.8787	
+CA	L7J	Acton	Ontario	ON					43.634	-80.0491	
+CA	L7L	Burlington Northeast	Ontario	ON					43.3479	-79.7593	
+CA	L7M	Burlington North	Ontario	ON					43.3585	-79.8093	
+CA	L7N	Burlington East	Ontario	ON					43.3336	-79.7771	
+CA	L7P	Burlington West	Ontario	ON					43.3503	-79.8117	
+CA	L7R	Burlington Southeast	Ontario	ON					43.3248	-79.7957	
+CA	L7S	Burlington South	Ontario	ON					43.304	-79.7991	
+CA	L7T	Burlington Southwest	Ontario	ON					43.3018	-79.8497	
+CA	L8E	Hamilton (Confederation Park / Nashdale / East Kentley / Riverdale / Lakely / Grayside / North Stoney Creek)	Ontario	ON					43.2318	-79.7696	
+CA	L8G	Hamilton (Greenford / North Gershome / West Stoney Creek)	Ontario	ON					43.2298	-79.7722	
+CA	L8H	Hamilton (West Kentley / McQuesten / Parkview / Hamilton Beach / East Industrial Sector / Normanhurst / Homeside / East Crown Point)	Ontario	ON					43.2369	-79.7991	
+CA	L8J	Hamilton (East Albion Falls / South Stoney Creek)	Ontario	ON					43.1907	-79.7878	
+CA	L8K	Hamilton (East Delta / Bartonville / Glenview / Rosedale / Lower King's Forest / Red Hill / Corman / Vincent / South Gershome)	Ontario	ON					43.2424	-79.8192	
+CA	L8L	Hamilton (West Industrial Sector / West Crown Point / North Stipley / North Gibson / Landsdale / Keith / North End / Beasley)	Ontario	ON					43.2645	-79.8664	
+CA	L8M	Hamilton (West Delta / Blakeley / South Stipley / South Gibson / St. Clair)	Ontario	ON					43.2522	-79.8489	
+CA	L8N	Hamilton (Stinson / Corktown)	Ontario	ON					43.2566	-79.8683	
+CA	L8P	Hamilton (Durand / Kirkendall / Chedoke Park)	Ontario	ON					43.257	-79.8697	
+CA	L8R	Hamilton (Central / Strathcona / South Dundurn)	Ontario	ON					43.2574	-79.8676	
+CA	L8S	Hamilton (Westdale / Cootes Paradise / Ainslie Wood)	Ontario	ON					43.2604	-79.8961	
+CA	L8T	Hamilton (Sherwood / Huntington / Upper King's Forest / Lisgar / Berrisfield / Hampton Heights / Sunninghill)	Ontario	ON					43.2365	-79.8338	
+CA	L8V	Hamilton (Raleigh / Macassa / Lawfield / Thorner / Burkholme / Eastmount)	Ontario	ON					43.2428	-79.8524	
+CA	L8W	Hamilton (West Albion Falls / Hannon / Rymal / Trenholme / Quinndale / Templemead / Broughton / Eleanor / Randall / Rushdale / Butler / East Chappel)	Ontario	ON					43.2141	-79.8626	
+CA	L9A	Hamilton (Crerar / Bruleville / Hill Park / Inch Park / Centremount / Balfour / Greeningdon / Jerome)	Ontario	ON					43.241	-79.8452	
+CA	L9B	Hamilton (Barnstown / West Chappel / Allison / Ryckmans / Mewburn / Sheldon / Falkirk / Carpenter / Kennedy / Southwest Outskirts)	Ontario	ON					43.2116	-79.8915	
+CA	L9C	Hamilton (Southam / Bonnington / Yeoville / Kernighan / Gourley / Rolston / Buchanan / Mohawk / Westcliffe / Gilbert / Gilkson / Gurnett / Fessenden / Mountview)	Ontario	ON					43.2432	-79.876	
+CA	L9G	Ancaster West	Ontario	ON					43.2199	-79.9874	
+CA	L9H	Dundas	Ontario	ON					43.2638	-79.9505	
+CA	L9K	Ancaster East	Ontario	ON					43.2359	-79.9403	
+CA	L9L	Port Perry	Ontario	ON					44.0905	-78.9479	
+CA	L9M	Penetanguishene	Ontario	ON					44.7672	-79.9385	
+CA	L9N	Holland Landing	Ontario	ON					44.1315	-79.4823	
+CA	L9P	Uxbridge	Ontario	ON					44.1065	-79.1427	
+CA	L9R	Alliston	Ontario	ON					44.1513	-79.8744	
+CA	L9S	Innisfil	Ontario	ON					44.2871	-79.6703	
+CA	L9T	Milton	Ontario	ON					43.5034	-79.8773	
+CA	L9V	Orangeville North	Ontario	ON					43.9471	-80.1091	
+CA	L9W	Orangeville South	Ontario	ON					43.9258	-80.1056	
+CA	L9Y	Collingwood	Ontario	ON					44.5029	-80.2176	
+CA	L9Z	Wasaga Beach	Ontario	ON					44.5208	-80.0162	
+CA	M1B	Scarborough (Malvern / Rouge River)	Ontario	ON					43.7976	-79.227	
+CA	M1C	Scarborough (Rouge Hill / Port Union / Highland Creek)	Ontario	ON					43.7882	-79.1911	
+CA	M1E	Scarborough (Guildwood / Morningside / Ellesmere)	Ontario	ON					43.7385	-79.2021	
+CA	M1G	Scarborough (Woburn)	Ontario	ON					43.7563	-79.2224	
+CA	M1H	Scarborough (Cedarbrae)	Ontario	ON					43.7563	-79.2417	
+CA	M1J	Scarborough (Eglinton)	Ontario	ON					43.7315	-79.246	
+CA	M1K	Scarborough (Kennedy Park / Ionview / East Birchmount Park)	Ontario	ON					43.7025	-79.2656	
+CA	M1L	Scarborough (The Golden Mile / Clairlea / Oakridge / Birchmount Park East)	Ontario	ON					43.6905	-79.2857	
+CA	M1M	Scarborough (Cliffside / Cliffcrest / Scarborough Village West)	Ontario	ON					43.7041	-79.2446	
+CA	M1N	Scarborough (Birch Cliff / Cliffside West)	Ontario	ON					43.6748	-79.2764	
+CA	M1P	Scarborough (Dorset Park / Wexford Heights / Scarborough Town Centre)	Ontario	ON					43.7422	-79.2818	
+CA	M1R	Scarborough (Wexford / Maryvale)	Ontario	ON					43.7293	-79.3038	
+CA	M1S	Scarborough (Agincourt)	Ontario	ON					43.7807	-79.2855	
+CA	M1T	Scarborough (Clarks Corners / Tam O'Shanter / Sullivan)	Ontario	ON					43.7719	-79.3213	
+CA	M1V	Scarborough (Milliken / Agincourt North / Steeles East / L'Amoreaux East)	Ontario	ON					43.813	-79.2781	
+CA	M1W	Scarborough (Steeles West / L'Amoreaux West)	Ontario	ON					43.7822	-79.3261	
+CA	M1X	Scarborough (Upper Rouge)	Ontario	ON					43.8275	-79.2437	
+CA	M2H	North York (Hillcrest Village)	Ontario	ON					43.7895	-79.3735	
+CA	M2J	North York (Fairview / Henry Farm / Oriole)	Ontario	ON					43.7685	-79.3584	
+CA	M2K	North York (Bayview Village)	Ontario	ON					43.7657	-79.3835	
+CA	M2L	North York (York Mills / Silver Hills)	Ontario	ON					43.7352	-79.3818	
+CA	M2M	Willowdale East (Newtonbrook)	Ontario	ON					43.784	-79.4263	
+CA	M2N	Willowdale South	Ontario	ON					43.7521	-79.4202	
+CA	M2P	North York (York Mills West)	Ontario	ON					43.7393	-79.4005	
+CA	M2R	Willowdale West	Ontario	ON					43.7648	-79.4325	
+CA	M3A	North York (York Heights / Victoria Village / Parkway East)	Ontario	ON					43.7358	-79.328	
+CA	M3B	Don Mills North	Ontario	ON					43.7363	-79.3498	
+CA	M3C	Don Mills South (Flemingdon Park)	Ontario	ON					43.7122	-79.3237	
+CA	M3H	North York (Armour Heights / Wilson Heights / Downsview North)	Ontario	ON					43.7387	-79.4337	
+CA	M3J	North York (Northwood Park / York University)	Ontario	ON					43.7496	-79.4886	
+CA	M3K	Downsview East (CFB Toronto)	Ontario	ON					43.7271	-79.4666	
+CA	M3L	Downsview West	Ontario	ON					43.7183	-79.5119	
+CA	M3M	Downsview Central	Ontario	ON					43.72	-79.5085	
+CA	M3N	North York (Jane and Finch)	Ontario	ON					43.7387	-79.5166	
+CA	M4A	North York (Sweeney Park / Wigmore Park)	Ontario	ON					43.7159	-79.3037	
+CA	M4B	East York (Parkview Hill / Woodbine Gardens)	Ontario	ON					43.6979	-79.2986	
+CA	M4C	East York (Woodbine Heights)	Ontario	ON					43.68	-79.3218	
+CA	M4E	East Toronto (The Beaches)	Ontario	ON					43.6675	-79.296	
+CA	M4G	East York (Leaside)	Ontario	ON					43.6918	-79.3708	
+CA	M4H	East York (Thorncliffe Park)	Ontario	ON					43.7018	-79.3578	
+CA	M4J	East Toronto (The Danforth East)	Ontario	ON					43.6713	-79.3412	
+CA	M4K	East Toronto (The Danforth West / Riverdale)	Ontario	ON					43.6668	-79.3501	
+CA	M4L	East Toronto (India Bazaar / The Beaches West)	Ontario	ON					43.662	-79.3281	
+CA	M4M	East Toronto (Studio District)	Ontario	ON					43.6505	-79.3369	
+CA	M4N	Central Toronto (Lawrence Park East)	Ontario	ON					43.7168	-79.3998	
+CA	M4P	Central Toronto (Davisville North)	Ontario	ON					43.7066	-79.398	
+CA	M4R	Central Toronto (North Toronto West)	Ontario	ON					43.7066	-79.3996	
+CA	M4S	Central Toronto (Davisville)	Ontario	ON					43.6964	-79.3953	
+CA	M4T	Central Toronto (Moore Park / Summerhill East)	Ontario	ON					43.6825	-79.3897	
+CA	M4V	Central Toronto (Summerhill West / Rathnelly / South Hill / Forest Hill SE / Deer Park)	Ontario	ON					43.6778	-79.3992	
+CA	M4W	Downtown Toronto (Rosedale)	Ontario	ON					43.6699	-79.3887	
+CA	M4X	Downtown Toronto (St. James Town / Cabbagetown)	Ontario	ON					43.6647	-79.3695	
+CA	M4Y	Downtown Toronto (Church and Wellesley)	Ontario	ON					43.6618	-79.3847	
+CA	M5A	Downtown Toronto (Regent Park / Port of Toronto)	Ontario	ON					43.6369	-79.3505	
+CA	M5B	Downtown Toronto (Ryerson)	Ontario	ON					43.6543	-79.3796	
+CA	M5C	Downtown Toronto (St. James Park)	Ontario	ON					43.687	-79.5318	
+CA	M5E	Downtown Toronto (Berczy Park)	Ontario	ON					43.639	-79.4499	
+CA	M5G	Downtown Toronto (Central Bay Street)	Ontario	ON					43.6519	-79.3874	
+CA	M5H	Downtown Toronto (Richmond / Adelaide / King)	Ontario	ON					43.649	-79.3784	
+CA	M5J	Downtown Toronto (Harbourfront East / Union Station / Toronto Island)	Ontario	ON					43.6441	-79.3801	
+CA	M5K	Downtown Toronto (Toronto Dominion Centre / Design Exchange)	Ontario	ON					43.6469	-79.3823	
+CA	M5L	Downtown Toronto (Commerce Court / Victoria Hotel)	Ontario	ON					43.6492	-79.3823	
+CA	M5M	North York (Bedford Park / Lawrence Park West / Lawrence Manor East)	Ontario	ON					43.7248	-79.4033	
+CA	M5N	Central Toronto (Roselawn)	Ontario	ON					43.7043	-79.4093	
+CA	M5P	Central Toronto (Forest Hill North & West)	Ontario	ON					43.6981	-79.3987	
+CA	M5R	Central Toronto (The Annex / North Midtown / Yorkville)	Ontario	ON					43.6705	-79.3901	
+CA	M5S	Downtown Toronto (University of Toronto / Harbord)	Ontario	ON					43.6619	-79.3952	
+CA	M5T	Downtown Toronto (Kensington Market / Chinatown / Grange Park)	Ontario	ON					43.6497	-79.3952	
+CA	M5V	Downtown Toronto (CN Tower / King and Spadina / Railway Lands / Harbourfront West / Bathurst Quay / South Niagara / YTZ)	Ontario	ON					43.6525	-79.3686	
+CA	M5W	Downtown Toronto Stn A PO Boxes 25 The Esplanade (Enclave of M5E)	Ontario	ON					43.6437	-79.3787	
+CA	M5X	Downtown Toronto (Underground city)	Ontario	ON					43.6492	-79.3823	
+CA	M6A	North York (Lawrence Manor / Lawrence Heights)	Ontario	ON					43.7193	-79.43	
+CA	M6B	North York (Glencairn)	Ontario	ON					43.7054	-79.4272	
+CA	M6C	York (Cedarvale)	Ontario	ON					43.683	-79.4184	
+CA	M6E	York (Fairbank / Oakwood)	Ontario	ON					43.6797	-79.4358	
+CA	M6G	Downtown Toronto (Christie)	Ontario	ON					43.6565	-79.4079	
+CA	M6H	West Toronto (Dufferin / Dovercourt Village)	Ontario	ON					43.6536	-79.4258	
+CA	M6J	West Toronto (Rua Aþores / Trinity)	Ontario	ON					43.644	-79.4062	
+CA	M6K	West Toronto (Brockton / Parkdale Village / Exhibition Place)	Ontario	ON					43.6392	-79.4058	
+CA	M6L	North York (North Park / Maple Leaf Park / Upwood Park)	Ontario	ON					43.7103	-79.4714	
+CA	M6M	York (Del Ray / Keelsdale / Mount Dennis / Silverthorne)	Ontario	ON					43.6815	-79.4668	
+CA	M6N	York (Runnymede / The Junction North)	Ontario	ON					43.668	-79.4515	
+CA	M6P	West Toronto (High Park / The Junction South)	Ontario	ON					43.6558	-79.4663	
+CA	M6R	West Toronto (Parkdale / Roncesvalles Village)	Ontario	ON					43.6403	-79.4374	
+CA	M6S	West Toronto (Bloor West Village / Swansea)	Ontario	ON					43.6358	-79.4668	
+CA	M7A	Queen's Park Ontario Provincial Government	Ontario	ON					43.6641	-79.3889	
+CA	M7Y	East Toronto Business Reply Mail Processing Centre 969 Eastern (Enclave of M4L)	Ontario	ON					43.7804	-79.2505	
+CA	M8V	Etobicoke (New Toronto / Mimico South / Humber Bay Shores)	Ontario	ON					43.6305	-79.4762	
+CA	M8W	Etobicoke (Alderwood / Long Branch)	Ontario	ON					43.5908	-79.5218	
+CA	M8X	Etobicoke (The Kingsway / Montgomery Road / Old Mill North)	Ontario	ON					43.649	-79.4977	
+CA	M8Y	Etobicoke (Old Mill South / King's Mill Park / Sunnylea / Humber Bay / Mimico NE / The Queensway East / Royal York South East / Kingsway Park South East)	Ontario	ON					43.6181	-79.4967	
+CA	M8Z	Etobicoke (Mimico NW / The Queensway West / South of Bloor / Kingsway Park South West / Royal York South West)	Ontario	ON					43.6053	-79.5201	
+CA	M9A	Etobicoke (Islington Avenue)	Ontario	ON					43.6434	-79.5297	
+CA	M9B	Etobicoke (West Deane Park / Princess Gardens / Martin Grove / Islington / Cloverdale)	Ontario	ON					43.6383	-79.5356	
+CA	M9C	Etobicoke (Eringate / Bloordale Gardens / Old Burnhamthorpe / Markland Woods)	Ontario	ON					43.6088	-79.5574	
+CA	M9L	North York (Humber Summit)	Ontario	ON					43.7494	-79.5614	
+CA	M9M	North York (Humberlea / Emery)	Ontario	ON					43.7182	-79.5216	
+CA	M9N	Weston	Ontario	ON					43.7087	-79.5287	
+CA	M9P	Etobicoke (Westmount)	Ontario	ON					43.6814	-79.5367	
+CA	M9R	Etobicoke (Kingsview Village / St. Phillips / Martin Grove Gardens / Richview Gardens)	Ontario	ON					43.6808	-79.5438	
+CA	M9V	Etobicoke (South Steeles / Silverstone / Humbergate / Jamestown / Mount Olive / Beaumond Heights / Thistletown / Albion Gardens)	Ontario	ON					43.73	-79.5542	
+CA	M9W	Etobicoke Northwest (Clairville / Humberwood / Woodbine Downs / West Humber / Kipling Heights / Rexdale / Elms / Tandridge / Old Rexdale)	Ontario	ON					43.6772	-79.5894	
+CA	N0A	West Haldimand (Port Dover)	Ontario	ON					42.9466	-79.8509	
+CA	N0B	Wellington (Elora)	Ontario	ON					43.7722	-80.6586	
+CA	N0C	Georgian Bay Southwest Shore (Dundalk)	Ontario	ON					44.2999	-80.4804	
+CA	N0E	Brant and Norfolk (Waterford)	Ontario	ON					43.0986	-80.5633	
+CA	N0G	Huron (Wingham)	Ontario	ON					43.8567	-81.4023	
+CA	N0H	Bruce Peninsula (Wiarton)	Ontario	ON					44.3483	-80.914	
+CA	N0J	Oxford (Norwich)	Ontario	ON					43.221	-80.5613	
+CA	N0K	Perth (Mitchell)	Ontario	ON					43.5838	-81.2351	
+CA	N0L	Elgin (Dorchester)	Ontario	ON					42.8188	-81.6437	
+CA	N0M	Middlesex (Clinton)	Ontario	ON					43.5651	-81.6986	
+CA	N0N	Lambton (Forest)	Ontario	ON					42.7967	-81.7938	
+CA	N0P	Kent (Blenheim)	Ontario	ON					42.5323	-81.7991	
+CA	N0R	Essex (Belle River)	Ontario	ON					42.2932	-82.7075	
+CA	N1A	Dunnville	Ontario	ON					42.9132	-79.6101	
+CA	N1C	Guelph South	Ontario	ON					43.5036	-80.2394	
+CA	N1E	Guelph North	Ontario	ON					43.5749	-80.2688	
+CA	N1G	Guelph Central	Ontario	ON					43.5325	-80.2531	
+CA	N1H	Guelph Northwest	Ontario	ON					43.555	-80.2868	
+CA	N1K	Guelph West	Ontario	ON					43.5156	-80.2827	
+CA	N1L	Guelph East	Ontario	ON					43.5225	-80.2095	
+CA	N1M	Fergus	Ontario	ON					43.7157	-80.387	
+CA	N1P	Cambridge South	Ontario	ON					43.3372	-80.3021	
+CA	N1R	Cambridge Central	Ontario	ON					43.3831	-80.3191	
+CA	N1S	Cambridge Southwest	Ontario	ON					43.3742	-80.3457	
+CA	N1T	Cambridge East	Ontario	ON					43.4067	-80.3037	
+CA	N2A	Kitchener East	Ontario	ON					43.4353	-80.4527	
+CA	N2B	Kitchener Northeast	Ontario	ON					43.448	-80.4589	
+CA	N2C	Kitchener South Central	Ontario	ON					43.4346	-80.4532	
+CA	N2E	Kitchener Southwest	Ontario	ON					43.4236	-80.48	
+CA	N2G	Kitchener Central	Ontario	ON					43.4497	-80.4893	
+CA	N2H	Kitchener North Central	Ontario	ON					43.4487	-80.4849	
+CA	N2J	Waterloo Southeast	Ontario	ON					43.4613	-80.507	
+CA	N2K	Kitchener North	Ontario	ON					43.4801	-80.4801	
+CA	N2L	Waterloo South	Ontario	ON					43.4529	-80.5281	
+CA	N2M	Kitchener Northwest	Ontario	ON					43.4422	-80.4968	
+CA	N2N	Kitchener West	Ontario	ON					43.4241	-80.5214	
+CA	N2P	Kitchener Southeast	Ontario	ON					43.3938	-80.4443	
+CA	N2R	Kitchener South	Ontario	ON					43.3965	-80.4575	
+CA	N2T	Waterloo Southwest	Ontario	ON					43.4511	-80.5572	
+CA	N2V	Waterloo Northwest	Ontario	ON					43.5036	-80.5413	
+CA	N2Z	Kincardine	Ontario	ON					44.1821	-81.6373	
+CA	N3A	Baden	Ontario	ON					43.4161	-80.688	
+CA	N3B	Elmira	Ontario	ON					43.5852	-80.5662	
+CA	N3C	Cambridge Northeast	Ontario	ON					43.4317	-80.3112	
+CA	N3E	Cambridge Northwest	Ontario	ON					43.4244	-80.3364	
+CA	N3H	Cambridge West	Ontario	ON					43.4061	-80.3503	
+CA	N3L	Paris	Ontario	ON					43.1834	-80.3749	
+CA	N3P	Brantford Northeast	Ontario	ON					43.1884	-80.2422	
+CA	N3R	Brantford Central	Ontario	ON					43.1501	-80.2766	
+CA	N3S	Brantford Southeast	Ontario	ON					43.1242	-80.2412	
+CA	N3T	Brantford Southwest	Ontario	ON					43.1094	-80.275	
+CA	N3V	Brantford Northwest	Ontario	ON					43.1704	-80.2937	
+CA	N3W	Caledonia	Ontario	ON					43.0776	-79.9639	
+CA	N3Y	Simcoe	Ontario	ON					42.8126	-80.3091	
+CA	N4B	Delhi	Ontario	ON					42.824	-80.4811	
+CA	N4G	Tillsonburg	Ontario	ON					42.8806	-80.7527	
+CA	N4K	Owen Sound	Ontario	ON					44.5519	-80.9385	
+CA	N4L	Meaford	Ontario	ON					44.6079	-80.5922	
+CA	N4N	Hanover	Ontario	ON					44.1385	-81.0237	
+CA	N4S	Woodstock Central	Ontario	ON					43.1277	-80.7743	
+CA	N4T	Woodstock North	Ontario	ON					43.1477	-80.7285	
+CA	N4V	Woodstock South	Ontario	ON					43.1127	-80.7368	
+CA	N4W	Listowel	Ontario	ON					43.7315	-80.9533	
+CA	N4X	St. Mary's	Ontario	ON					43.261	-81.1516	
+CA	N4Z	Stratford South	Ontario	ON					43.3555	-80.9961	
+CA	N5A	Stratford North	Ontario	ON					43.3717	-80.9844	
+CA	N5C	Ingersoll	Ontario	ON					43.027	-80.8706	
+CA	N5H	Aylmer	Ontario	ON					42.7797	-80.9864	
+CA	N5L	Port Stanley	Ontario	ON					42.6652	-81.2018	
+CA	N5P	St. Thomas North	Ontario	ON					42.7788	-81.2134	
+CA	N5R	St. Thomas South	Ontario	ON					42.7725	-81.2003	
+CA	N5V	London (YXU / North and East Argyle / East Huron Heights)	Ontario	ON					42.9927	-81.1686	
+CA	N5W	London East (SW Argyle / Hamilton Road)	Ontario	ON					42.9778	-81.1941	
+CA	N5X	London (Fanshawe / Stoneybrook / Stoney Creek / Uplands / East Masonville)	Ontario	ON					43.0303	-81.2676	
+CA	N5Y	London (West Huron Heights / Carling)	Ontario	ON					43.0093	-81.21	
+CA	N5Z	London (Glen Cairn)	Ontario	ON					42.9743	-81.1946	
+CA	N6A	London North (UWO)	Ontario	ON					42.9793	-81.2556	
+CA	N6B	London Central	Ontario	ON					42.9759	-81.229	
+CA	N6C	London South (East Highland / North White Oaks / North Westminster)	Ontario	ON					42.9799	-81.2609	
+CA	N6E	London (South White Oaks / Central Westminster / East Longwoods / West Brockley)	Ontario	ON					42.9419	-81.2475	
+CA	N6G	London (Sunningdale / West Masonville / Medway / NE Hyde Park / East Fox Hollow)	Ontario	ON					42.9943	-81.2623	
+CA	N6H	London West (Central Hyde Park / Oakridge)	Ontario	ON					42.9899	-81.2607	
+CA	N6J	London (Southcrest / East Westmount / West Highland)	Ontario	ON					42.9797	-81.2639	
+CA	N6K	London (Riverbend / Woodhull / North Sharon Creek / Byron / West Westmount)	Ontario	ON					42.9627	-81.2948	
+CA	N6L	London (East Tempo)	Ontario	ON					42.9344	-81.2802	
+CA	N6M	London (Jackson / Old Victoria / Bradley / North Highbury)	Ontario	ON					42.9922	-81.1398	
+CA	N6N	London (South Highbury / Glanworth / East Brockley / SE Westminster)	Ontario	ON					42.9324	-81.1916	
+CA	N6P	London (Talbot / Lambeth / West Tempo / South Sharon Creek)	Ontario	ON					42.9114	-81.2999	
+CA	N7A	Goderich	Ontario	ON					43.7347	-81.7105	
+CA	N7G	Strathroy	Ontario	ON					42.9625	-81.6081	
+CA	N7L	Chatham Northwest	Ontario	ON					42.4029	-82.1941	
+CA	N7M	Chatham Southeast	Ontario	ON					42.3997	-82.1996	
+CA	N7S	Sarnia Central	Ontario	ON					42.9607	-82.3718	
+CA	N7T	Sarnia Southwest	Ontario	ON					42.971	-82.4084	
+CA	N7V	Sarnia Northwest	Ontario	ON					42.9891	-82.399	
+CA	N7W	Sarnia Southeast	Ontario	ON					42.9838	-82.3214	
+CA	N7X	Sarnia Northeast	Ontario	ON					43.0147	-82.3417	
+CA	N8A	Wallaceburg	Ontario	ON					42.5799	-82.3823	
+CA	N8H	Leamington	Ontario	ON					42.0606	-82.6029	
+CA	N8M	Essex	Ontario	ON					42.1754	-82.8226	
+CA	N8N	Tecumseh Outskirts	Ontario	ON					42.3326	-82.8926	
+CA	N8P	Windsor (East Riverside)	Ontario	ON					42.3391	-82.9279	
+CA	N8R	Windsor (East Forest Glade)	Ontario	ON					42.3136	-82.9338	
+CA	N8S	Windsor (Riverside)	Ontario	ON					42.3307	-82.9752	
+CA	N8T	Windsor (West Forest Glade / East Fontainbleu)	Ontario	ON					42.3188	-82.965	
+CA	N8V	Tecumseh (YQG)	Ontario	ON					42.2679	-82.9699	
+CA	N8W	Windsor (South Walkerville / West Fontainbleu / Walker Farm / Devonshire)	Ontario	ON					42.3062	-83.0017	
+CA	N8X	Windsor South Central (West Walkerville / Remington Park)	Ontario	ON					42.3039	-83.0308	
+CA	N8Y	Windsor East (East Walkerville)	Ontario	ON					42.3251	-83.0171	
+CA	N9A	Windsor (City Centre / NW Walkerville)	Ontario	ON					42.3159	-83.0393	
+CA	N9B	Windsor (University / South Cameron)	Ontario	ON					42.3158	-83.0568	
+CA	N9C	Windsor (Sandwich / Ojibway / West Malden)	Ontario	ON					42.3077	-83.0724	
+CA	N9E	Windsor South (East Malden)	Ontario	ON					42.2736	-83.0416	
+CA	N9G	Windsor (Roseland)	Ontario	ON					42.2581	-82.9988	
+CA	N9H	La Salle East	Ontario	ON					42.2351	-82.998	
+CA	N9J	La Salle West	Ontario	ON					42.247	-83.1	
+CA	N9K	Tecumseh Central	Ontario	ON					42.049	-83.1032	
+CA	N9V	Amherstburg	Ontario	ON					42.1106	-83.1115	
+CA	N9Y	Kingsville	Ontario	ON					42.0377	-82.7394	
+CA	P0A	Nipissing Central (Burk's Falls)	Ontario	ON					45.4139	-79.6728	
+CA	P0B	Nipissing South (Utterson)	Ontario	ON					45.1103	-79.158	
+CA	P0C	Parry Sound Mid-Shore (Bala)	Ontario	ON					44.8462	-79.7954	
+CA	P0E	Parry Sound South Shore (Kilworthy)	Ontario	ON					44.8935	-79.741	
+CA	P0G	Parry Sound North Shore (Nobel)	Ontario	ON					45.9033	-80.5762	
+CA	P0H	Nipissing North (Callander)	Ontario	ON					45.8738	-79.8846	
+CA	P0J	Timiskaming South (Temiskaming Shores)	Ontario	ON					47.6756	-79.5424	
+CA	P0K	Timiskaming North (Iroquois Falls A)	Ontario	ON					48.1346	-80.0769	
+CA	P0L	Cochrane Region (Hearst)	Ontario	ON					52.923	-82.4173	
+CA	P0M	Algoma, Sudbury District and Greater Sudbury (Chelmsford)	Ontario	ON					46.1329	-80.8231	
+CA	P0N	Timmins Region (South Porcupine)	Ontario	ON					48.4466	-80.8161	
+CA	P0P	Manitoulin (Little Current)	Ontario	ON					46.0182	-82.2507	
+CA	P0R	Algoma Southwest (Blind River)	Ontario	ON					46.1849	-82.8228	
+CA	P0S	Lake Superior East Shore (Wawa)	Ontario	ON					46.9551	-84.5005	
+CA	P0T	Lake Superior North Shore (Marathon)	Ontario	ON					50.139	-89.0561	
+CA	P0V	Northwestern Ontario (Red Lake)	Ontario	ON					50.2407	-90.2024	
+CA	P0W	Rainy River Region (Emo)	Ontario	ON					48.7778	-93.962	
+CA	P0X	Kenora Region (Keewatin)	Ontario	ON					49.7003	-94.8583	
+CA	P0Y	Lake of the Woods East Shore (Ingolf)	Ontario	ON					49.7857	-95.1168	
+CA	P1A	North Bay South	Ontario	ON					46.3036	-79.4624	
+CA	P1B	North Bay Central	Ontario	ON					46.3094	-79.464	
+CA	P1C	North Bay North	Ontario	ON					46.3411	-79.4457	
+CA	P1H	Huntsville	Ontario	ON					45.3272	-79.2151	
+CA	P1L	Bracebridge	Ontario	ON					45.057	-79.3366	
+CA	P1P	Gravenhurst	Ontario	ON					44.9451	-79.3549	
+CA	P2A	Parry Sound	Ontario	ON					45.3405	-80.0365	
+CA	P2B	Sturgeon Falls	Ontario	ON					46.3664	-79.9178	
+CA	P2N	Kirkland Lake	Ontario	ON					48.151	-80.0328	
+CA	P3A	Greater Sudbury (New Sudbury)	Ontario	ON					46.5076	-80.9872	
+CA	P3B	Greater Sudbury (Downtown / Minnow Lake)	Ontario	ON					46.4769	-80.9099	
+CA	P3C	Greater Sudbury (Gatchell / West End / Little Britain)	Ontario	ON					46.4727	-81.0291	
+CA	P3E	Greater Sudbury (Robinson / Lockerby)	Ontario	ON					46.4918	-80.9955	
+CA	P3G	Greater Sudbury (Lo-Ellen / McFarlane Lake)	Ontario	ON					46.4106	-81.0517	
+CA	P3L	Greater Sudbury (Garson)	Ontario	ON					46.5625	-80.8665	
+CA	P3N	Greater Sudbury (Val Caron)	Ontario	ON					46.6191	-81.0356	
+CA	P3P	Greater Sudbury (Hanmer)	Ontario	ON					46.6318	-81.0147	
+CA	P3Y	Greater Sudbury (Lively)	Ontario	ON					46.4223	-81.1165	
+CA	P4N	Timmins Southeast	Ontario	ON					48.4757	-81.3366	
+CA	P4P	Timmins North	Ontario	ON					48.4951	-81.3513	
+CA	P4R	Timmins West	Ontario	ON					48.473	-81.3765	
+CA	P5A	Elliot Lake	Ontario	ON					46.372	-82.6721	
+CA	P5E	Espanola	Ontario	ON					46.2629	-81.7719	
+CA	P5N	Kapuskasing	Ontario	ON					49.4134	-82.4203	
+CA	P6A	Sault Ste. Marie East	Ontario	ON					46.5175	-84.3414	
+CA	P6B	Sault Ste. Marie Central	Ontario	ON					46.5105	-84.321	
+CA	P6C	Sault Ste. Marie North	Ontario	ON					46.5245	-84.3768	
+CA	P7A	Thunder Bay Northeast	Ontario	ON					48.4578	-89.1885	
+CA	P7B	Thunder Bay North Central	Ontario	ON					48.4349	-89.2192	
+CA	P7C	Thunder Bay Central	Ontario	ON					48.3852	-89.242	
+CA	P7E	Thunder Bay South Central	Ontario	ON					48.3775	-89.2704	
+CA	P7G	Thunder Bay North	Ontario	ON					48.4511	-89.273	
+CA	P7J	Thunder Bay South	Ontario	ON					48.3187	-89.3415	
+CA	P7K	Thunder Bay West	Ontario	ON					48.3959	-89.3556	
+CA	P8N	Dryden	Ontario	ON					49.7856	-92.8364	
+CA	P8T	Sioux Lookout	Ontario	ON					50.0885	-91.9086	
+CA	P9A	Fort Frances	Ontario	ON					48.6075	-93.3869	
+CA	P9N	Kenora	Ontario	ON					49.7667	-94.4848	
+CA	C0A	Montague	Prince Edward Island	PE					46.1668	-62.6487	
+CA	C0A	Kings and Queens counties (Elmira)	Prince Edward Island	PE					46.0497	-62.8105	
+CA	C0B	Prince County (Portage)	Prince Edward Island	PE					46.3182	-63.5586	
+CA	C1A	Charlottetown Southeast Prince Edward Island Provincial Government	Prince Edward Island	PE					46.2318	-63.1192	
+CA	C1B	Stratford	Prince Edward Island	PE					46.2067	-63.0729	
+CA	C1C	Charlottetown North	Prince Edward Island	PE					46.2688	-63.1097	
+CA	C1E	Charlottetown West	Prince Edward Island	PE					46.2607	-63.16	
+CA	C1N	Summerside	Prince Edward Island	PE					46.3907	-63.7868	
+CA	G0A	Capitale-Nationale (Stoneham)	Quebec	QC					46.8524	-72.0259	
+CA	G0B	Cap-aux-Meules	Quebec	QC					47.3983	-61.7742	
+CA	G0C	Gaspésie-Sud (New Richmond)	Quebec	QC					48.1496	-65.7053	
+CA	G0E	Gaspésie-Nord (Grande-Vallée)	Quebec	QC					48.9298	-64.3438	
+CA	G0G	Côte-Nord/Anticosti (Schefferville)	Quebec	QC					50.1169	-62.4136	
+CA	G0H	Manicouagan (Baie-Trinité)	Quebec	QC					49.1633	-68.3335	
+CA	G0J	Gaspésie-Ouest (Causapscal)	Quebec	QC					49.0226	-66.8158	
+CA	G0K	Bas-St-Laurent- Est (Sainte-Luce)	Quebec	QC					48.3473	-68.3948	
+CA	G0L	Bas-St-Laurent- Ouest (Trois-Pistoles)	Quebec	QC					47.6843	-68.8681	
+CA	G0M	Région de Beauce (Saint-Prosper-De- Dorchester)	Quebec	QC					46.2057	-70.8326	
+CA	G0N	Chaudière-Sud (Disraeli)	Quebec	QC					46.0651	-71.4352	
+CA	G0P	Centre-du- Québec-Est (Saint-Valère)	Quebec	QC					45.8641	-71.6523	
+CA	G0R	Appalaches (La Pocatière)	Quebec	QC					46.9055	-70.7456	
+CA	G0S	Chaudière-Nord (Saint-Joseph- De-Beauce)	Quebec	QC					46.2635	-70.7929	
+CA	G0T	Le Fjord (Forestville)	Quebec	QC					47.6525	-70.4067	
+CA	G0V	Saguenay- Lac-St-Jean (Alouette)	Quebec	QC					48.3448	-70.9869	
+CA	G0W	Région de Mistassini (Chambord)	Quebec	QC					48.8854	-72.4433	
+CA	G0X	Mauricie (Parent)	Quebec	QC					46.6996	-72.643	
+CA	G0Y	L'Erable (Nantes)	Quebec	QC					45.6544	-71.0379	
+CA	G0Z	Centre-du- Québec-Nord (Daveluyville)	Quebec	QC					46.152	-72.1347	
+CA	G1A	Quebec Provincial Government	Quebec	QC					46.9181	-71.2036	
+CA	G1B	Beauport North	Quebec	QC					46.9179	-71.1964	
+CA	G1C	Beauport Central	Quebec	QC					46.8886	-71.2212	
+CA	G1E	Beauport South	Quebec	QC					46.876	-71.192	
+CA	G1G	Jean-Talon Southeast	Quebec	QC					46.8921	-71.3056	
+CA	G1H	Charlesbourg South	Quebec	QC					46.8615	-71.2698	
+CA	G1J	Quebec City Lower Riverbank	Quebec	QC					46.8483	-71.234	
+CA	G1K	Quebec City Mid-Riverbank	Quebec	QC					46.8143	-71.2431	
+CA	G1L	Quebec City Northeast	Quebec	QC					46.8396	-71.2506	
+CA	G1M	Quebec City North Central	Quebec	QC					46.8165	-71.236	
+CA	G1N	Quebec City South Central	Quebec	QC					46.81	-71.2526	
+CA	G1P	Quebec City West	Quebec	QC					46.8257	-71.331	
+CA	G1R	Quebec City East	Quebec	QC					46.8128	-71.2194	
+CA	G1S	Quebec City South	Quebec	QC					46.7867	-71.2436	
+CA	G1T	Quebec City Upper Riverbank	Quebec	QC					46.7863	-71.2579	
+CA	G1V	Sainte-Foy Northeast	Quebec	QC					46.789	-71.2936	
+CA	G1W	Sainte-Foy Southeast	Quebec	QC					46.7673	-71.2857	
+CA	G1X	Sainte-Foy West	Quebec	QC					46.7828	-71.3149	
+CA	G1Y	Cap-Rouge	Quebec	QC					46.7595	-71.3433	
+CA	G2A	Loretteville North	Quebec	QC					46.8681	-71.3787	
+CA	G2B	Loretteville South	Quebec	QC					46.8569	-71.3506	
+CA	G2C	Quebec City Northwest	Quebec	QC					46.8342	-71.3463	
+CA	G2E	L'Ancienne- Lorette Northeast	Quebec	QC					46.8175	-71.371	
+CA	G2G	L'Ancienne- Lorette Southwest	Quebec	QC					46.8119	-71.3906	
+CA	G2J	Quebec City Inner North	Quebec	QC					46.8428	-71.2774	
+CA	G2K	Quebec City Outer North	Quebec	QC					46.8105	-71.2426	
+CA	G2L	Charlesbourg North	Quebec	QC					46.8921	-71.2732	
+CA	G2M	Jean-Talon Northeast	Quebec	QC					46.9159	-71.3163	
+CA	G2N	Jean-Talon West	Quebec	QC					46.9338	-71.3446	
+CA	G3A	St-Augustin- De-Desmaures	Quebec	QC					46.7529	-71.3734	
+CA	G3E	Saint-Émile	Quebec	QC					46.8765	-71.3233	
+CA	G3G	Lac-Saint-Charles	Quebec	QC					46.9445	-71.4133	
+CA	G3H	Pont-Rouge	Quebec	QC					46.756	-71.6969	
+CA	G3J	Val-Bélair North	Quebec	QC					46.8617	-71.4241	
+CA	G3K	Val-Bélair South	Quebec	QC					46.8388	-71.3998	
+CA	G3L	Saint-Raymond	Quebec	QC					46.8897	-71.8349	
+CA	G3M	Donnacona	Quebec	QC					46.6725	-71.7368	
+CA	G3Z	Baie-Saint-Paul	Quebec	QC					47.4454	-70.5199	
+CA	G4A	Clermont	Quebec	QC					47.695	-70.2239	
+CA	G4R	Sept-Îles Southeast	Quebec	QC					50.2206	-66.3581	
+CA	G4S	Sept-Îles Northwest	Quebec	QC					50.2309	-66.3901	
+CA	G4T	Les Îles-De-La- Madeleine	Quebec	QC					47.5371	-61.5387	
+CA	G4V	Sainte-Anne- Des-Monts	Quebec	QC					49.1283	-66.4906	
+CA	G4W	Matane	Quebec	QC					48.8526	-67.518	
+CA	G4X	Gaspé	Quebec	QC					48.8319	-64.4813	
+CA	G4Z	Baie-Comeau Northeast	Quebec	QC					49.2446	-68.1442	
+CA	G5A	La Malbaie	Quebec	QC					47.6259	-70.0967	
+CA	G5B	Port-Cartier	Quebec	QC					50.0382	-66.8659	
+CA	G5C	Baie-Comeau Southwest	Quebec	QC					49.1962	-68.2976	
+CA	G5H	Mont-Joli	Quebec	QC					48.5949	-68.1883	
+CA	G5J	Amqui	Quebec	QC					48.4584	-67.4333	
+CA	G5L	Rimouski Central	Quebec	QC					48.4525	-68.5232	
+CA	G5M	Rimouski Northeast	Quebec	QC					48.4547	-68.4973	
+CA	G5N	Rimouski Southwest	Quebec	QC					48.4277	-68.5122	
+CA	G5R	Rivière-du-Loup	Quebec	QC					47.8559	-69.5376	
+CA	G5T	Degelis	Quebec	QC					47.5521	-68.6441	
+CA	G5V	Montmagny	Quebec	QC					46.9984	-70.5595	
+CA	G5X	Beauceville	Quebec	QC					46.2093	-70.7788	
+CA	G5Y	Saint-Georges Central	Quebec	QC					46.13	-70.6557	
+CA	G5Z	Saint-Georges Southeast	Quebec	QC					46.1231	-70.647	
+CA	G6A	Saint-Georges Northwest	Quebec	QC					46.1379	-70.6715	
+CA	G6B	Lac-Megantic	Quebec	QC					45.5946	-70.9176	
+CA	G6C	Pintendre	Quebec	QC					46.7557	-71.124	
+CA	G6E	Sainte-Marie	Quebec	QC					46.4691	-71.0427	
+CA	G6G	Thetford Mines	Quebec	QC					46.1134	-71.3108	
+CA	G6H	Black Lake	Quebec	QC					46.0654	-71.356	
+CA	G6J	Saint-Etienne- De-Lauzon	Quebec	QC					46.6561	-71.3095	
+CA	G6K	Saint- Redempteur	Quebec	QC					46.7038	-71.2837	
+CA	G6L	Plessisville	Quebec	QC					46.2255	-71.7779	
+CA	G6P	Victoriaville Central	Quebec	QC					46.0606	-71.9477	
+CA	G6R	Victoriaville South	Quebec	QC					46.0388	-71.9596	
+CA	G6S	Victoriaville East	Quebec	QC					46.0714	-71.9332	
+CA	G6T	Victoriaville Northwest	Quebec	QC					46.0477	-71.9549	
+CA	G6V	Lévis North	Quebec	QC					46.8207	-71.1787	
+CA	G6W	Lévis South	Quebec	QC					46.7933	-71.1885	
+CA	G6X	Charny	Quebec	QC					46.7228	-71.2788	
+CA	G6Z	Saint-Jean- Chrysostome	Quebec	QC					46.7391	-71.2055	
+CA	G7A	Saint-Nicolas	Quebec	QC					46.6709	-71.3548	
+CA	G7B	La Baie	Quebec	QC					48.3133	-70.8557	
+CA	G7G	Chicoutimi North	Quebec	QC					48.4572	-71.0591	
+CA	G7H	Chicoutimi East	Quebec	QC					48.4337	-71.0225	
+CA	G7J	Chicoutimi West	Quebec	QC					48.4377	-71.1244	
+CA	G7K	Chicoutimi Southwest	Quebec	QC					48.3976	-71.11	
+CA	G7N	Laterrière	Quebec	QC					48.3084	-71.1104	
+CA	G7P	Saint-Ambroise	Quebec	QC					48.51	-71.268	
+CA	G7S	Jonquière Northeast	Quebec	QC					48.4099	-71.1961	
+CA	G7T	Jonquière Southeast	Quebec	QC					48.4112	-71.2149	
+CA	G7X	Jonquière Central	Quebec	QC					48.4359	-71.2318	
+CA	G7Y	Jonquière Southwest	Quebec	QC					48.3933	-71.267	
+CA	G7Z	Jonquière Northwest	Quebec	QC					48.4327	-71.262	
+CA	G8A	Jonquière West	Quebec	QC					48.4244	-71.2619	
+CA	G8B	Alma Southeast	Quebec	QC					48.5468	-71.6399	
+CA	G8C	Alma Southwest	Quebec	QC					48.5292	-71.642	
+CA	G8E	Alma North	Quebec	QC					48.5592	-71.6416	
+CA	G8G	Métabetchouan- Lac-a-la-Croix	Quebec	QC					48.4223	-71.8737	
+CA	G8H	Roberval	Quebec	QC					48.5044	-72.2165	
+CA	G8J	Saint-Prime	Quebec	QC					48.5774	-72.441	
+CA	G8K	Saint-Félicien	Quebec	QC					48.6556	-72.4469	
+CA	G8L	Dolbeau- Mistassini	Quebec	QC					48.8707	-72.2141	
+CA	G8M	Albanel	Quebec	QC					48.8892	-72.1938	
+CA	G8N	Hébertville	Quebec	QC					48.3942	-71.6775	
+CA	G8P	Chibougamau	Quebec	QC					49.9214	-74.3601	
+CA	G8T	Cap-de-la- Madeleine Central and southeast	Quebec	QC					46.419	-72.6006	
+CA	G8V	Cap-de-la- Madeleine Northeast	Quebec	QC					46.3887	-72.4875	
+CA	G8W	Cap-de-la- Madeleine West	Quebec	QC					46.4024	-72.5846	
+CA	G8Y	Trois-Rivières Central	Quebec	QC					46.3688	-72.58	
+CA	G8Z	Trois-Rivières Northeast	Quebec	QC					46.3648	-72.5564	
+CA	G9A	Trois-Rivières East	Quebec	QC					46.3647	-72.5558	
+CA	G9B	Trois-Rivières South	Quebec	QC					46.3111	-72.5718	
+CA	G9C	Trois-Rivières West	Quebec	QC					46.3938	-72.6534	
+CA	G9H	Becancour	Quebec	QC					46.3445	-72.4369	
+CA	G9N	Shawinigan Central	Quebec	QC					46.5429	-72.748	
+CA	G9P	Shawinigan Southeast	Quebec	QC					46.5258	-72.7381	
+CA	G9R	Shawinigan Northwest	Quebec	QC					46.576	-72.7764	
+CA	G9T	Grand-Mère	Quebec	QC					46.6168	-72.7336	
+CA	G9X	La Tuque	Quebec	QC					47.4583	-72.7729	
+CA	H0H	Reserved (Santa Claus)	Quebec	QC					90	0	
+CA	H0M	Akwesasne Region (Akwesasne)	Quebec	QC					45.6986	-73.5025	
+CA	H1A	Pointe-Aux-Trembles	Quebec	QC					45.6587	-73.5236	
+CA	H1B	Montreal East	Quebec	QC					45.6454	-73.5502	
+CA	H1C	Rivière-des-Prairies Northeast	Quebec	QC					45.6596	-73.5704	
+CA	H1E	Rivière-Des-Prairies Southwest	Quebec	QC					45.6595	-73.5729	
+CA	H1G	Montreal North North	Quebec	QC					45.6061	-73.6389	
+CA	H1H	Montreal North South	Quebec	QC					45.5829	-73.6524	
+CA	H1J	Anjou West	Quebec	QC					45.6036	-73.569	
+CA	H1K	Anjou East	Quebec	QC					45.6077	-73.5428	
+CA	H1L	Mercier North	Quebec	QC					45.5943	-73.5362	
+CA	H1M	Mercier West	Quebec	QC					45.5902	-73.5559	
+CA	H1N	Mercier Southeast	Quebec	QC					45.5719	-73.5499	
+CA	H1P	Saint-Léonard North	Quebec	QC					45.6105	-73.6048	
+CA	H1R	Saint-Léonard West	Quebec	QC					45.5844	-73.6229	
+CA	H1S	Saint-Léonard Southeast	Quebec	QC					45.5716	-73.5985	
+CA	H1T	Rosemont North	Quebec	QC					45.5653	-73.5869	
+CA	H1V	Maisonneuve	Quebec	QC					45.5702	-73.551	
+CA	H1W	Hochelaga	Quebec	QC					45.5423	-73.5616	
+CA	H1X	Rosemont Central	Quebec	QC					45.5577	-73.5935	
+CA	H1Y	Rosemont South	Quebec	QC					45.5525	-73.598	
+CA	H1Z	Saint-Michel West	Quebec	QC					45.5652	-73.6444	
+CA	H2A	Saint-Michel East	Quebec	QC					45.5583	-73.6118	
+CA	H2B	Ahuntsic North	Quebec	QC					45.5664	-73.647	
+CA	H2C	Ahuntsic Central	Quebec	QC					45.5593	-73.6719	
+CA	H2E	Villeray Northeast	Quebec	QC					45.5522	-73.6256	
+CA	H2G	Petite-Patrie Northeast	Quebec	QC					45.5434	-73.6061	
+CA	H2H	Plateau Mont-Royal North	Quebec	QC					45.5377	-73.5837	
+CA	H2J	Plateau Mont-Royal North Central	Quebec	QC					45.5289	-73.5928	
+CA	H2K	Centre-Sud North	Quebec	QC					45.53	-73.5672	
+CA	H2L	Centre-Sud South	Quebec	QC					45.5252	-73.5744	
+CA	H2M	Ahuntsic East	Quebec	QC					45.55	-73.6515	
+CA	H2N	Ahuntsic Southeast	Quebec	QC					45.5402	-73.659	
+CA	H2P	Villeray West	Quebec	QC					45.5409	-73.6418	
+CA	H2R	Villeray Southeast	Quebec	QC					45.5452	-73.6266	
+CA	H2S	Petite-Patrie Southwest	Quebec	QC					45.5356	-73.6144	
+CA	H2T	Plateau Mont-Royal West	Quebec	QC					45.5278	-73.6024	
+CA	H2V	Outremont	Quebec	QC					45.5298	-73.6153	
+CA	H2W	Plateau Mont-Royal South Central	Quebec	QC					45.5194	-73.5839	
+CA	H2X	Plateau Mont-Royal Southeast	Quebec	QC					45.5148	-73.5739	
+CA	H2Y	Old Montreal	Quebec	QC					45.508	-73.554	
+CA	H2Z	Downtown Montreal Northeast	Quebec	QC					45.5066	-73.5623	
+CA	H3A	Downtown Montreal North	Quebec	QC					45.5078	-73.5804	
+CA	H3B	Downtown Montreal East	Quebec	QC					45.5058	-73.5672	
+CA	H3C	Griffintown (Includes Île Notre-Dame & Île Sainte-Hélène)	Quebec	QC					45.503	-73.5679	
+CA	H3E	L'Île-Des-Soeurs	Quebec	QC					45.4679	-73.5457	
+CA	H3G	Downtown Montreal Southeast	Quebec	QC					45.5019	-73.5853	
+CA	H3H	Downtown Montreal South & West	Quebec	QC					45.5123	-73.5967	
+CA	H3J	Petite-Bourgogne	Quebec	QC					45.4922	-73.5725	
+CA	H3K	Pointe-Saint-Charles	Quebec	QC					45.4858	-73.564	
+CA	H3L	Ahuntsic Southwest	Quebec	QC					45.5529	-73.6754	
+CA	H3M	Cartierville Northeast	Quebec	QC					45.5459	-73.6979	
+CA	H3N	Parc-Extension	Quebec	QC					45.5335	-73.6464	
+CA	H3P	Mount Royal North	Quebec	QC					45.5209	-73.653	
+CA	H3R	Mount Royal Central	Quebec	QC					45.5181	-73.6545	
+CA	H3S	Côte-des-Neiges North	Quebec	QC					45.5155	-73.6292	
+CA	H3T	Côte-des-Neiges Northeast	Quebec	QC					45.5115	-73.616	
+CA	H3V	Côte-des-Neiges East	Quebec	QC					45.4965	-73.6177	
+CA	H3W	Côte-des-Neiges Southwest	Quebec	QC					45.4988	-73.6442	
+CA	H3X	Hampstead	Quebec	QC					45.4915	-73.6483	
+CA	H3Y	Westmount West	Quebec	QC					45.489	-73.618	
+CA	H3Z	Westmount East	Quebec	QC					45.4909	-73.5885	
+CA	H4A	Notre-Dame-de-GrÔce Northeast	Quebec	QC					45.4781	-73.6252	
+CA	H4B	Notre-Dame-de-GrÔce Southwest	Quebec	QC					45.4681	-73.636	
+CA	H4C	Saint-Henri	Quebec	QC					45.478	-73.5922	
+CA	H4E	Ville Émard	Quebec	QC					45.468	-73.5863	
+CA	H4G	Verdun North	Quebec	QC					45.4644	-73.5798	
+CA	H4H	Verdun South	Quebec	QC					45.4532	-73.5818	
+CA	H4J	Cartierville Central	Quebec	QC					45.5353	-73.7231	
+CA	H4K	Cartierville Southwest	Quebec	QC					45.5248	-73.7392	
+CA	H4L	Saint-Laurent Inner Northeast	Quebec	QC					45.5269	-73.6974	
+CA	H4M	Saint-Laurent East	Quebec	QC					45.5067	-73.6906	
+CA	H4N	Saint-Laurent Outer Northeast	Quebec	QC					45.5329	-73.6807	
+CA	H4P	Mount Royal South	Quebec	QC					45.4991	-73.6722	
+CA	H4R	Saint-Laurent Central	Quebec	QC					45.5148	-73.7309	
+CA	H4S	Saint-Laurent Southwest	Quebec	QC					45.4958	-73.754	
+CA	H4T	Saint-Laurent Southeast	Quebec	QC					45.4954	-73.6798	
+CA	H4V	Côte-Saint-Luc East	Quebec	QC					45.4755	-73.6555	
+CA	H4W	Côte-Saint-Luc West	Quebec	QC					45.478	-73.6704	
+CA	H4X	Montreal West	Quebec	QC					45.4575	-73.6649	
+CA	H4Y	Dorval Central	Quebec	QC					45.5103	-73.6818	
+CA	H4Z	Tour de la Bourse	Quebec	QC					45.5003	-73.5621	
+CA	H5A	Place Bonaventure	Quebec	QC					45.503	-73.5679	
+CA	H5B	Place Desjardins	Quebec	QC					45.5066	-73.5623	
+CA	H7A	Duvernay-Est	Quebec	QC					45.6736	-73.5919	
+CA	H7B	Saint-Franþois	Quebec	QC					45.6346	-73.6769	
+CA	H7C	Saint-Vincent-de-Paul	Quebec	QC					45.6176	-73.6637	
+CA	H7E	Duvernay	Quebec	QC					45.6142	-73.669	
+CA	H7G	Pont-Viau	Quebec	QC					45.5565	-73.6791	
+CA	H7H	Auteuil West	Quebec	QC					45.6429	-73.7494	
+CA	H7J	Auteuil Northeast	Quebec	QC					45.6837	-73.6728	
+CA	H7K	Auteuil South	Quebec	QC					45.6121	-73.7898	
+CA	H7L	Sainte-Rose	Quebec	QC					45.6303	-73.7802	
+CA	H7M	Vimont	Quebec	QC					45.6089	-73.7331	
+CA	H7N	Laval-des-Rapides	Quebec	QC					45.5772	-73.7007	
+CA	H7P	Fabreville	Quebec	QC					45.5917	-73.8293	
+CA	H7R	Laval-sur-le-Lac	Quebec	QC					45.5483	-73.8578	
+CA	H7S	Chomedey Northeast	Quebec	QC					45.5732	-73.7444	
+CA	H7T	Chomedey Northwest	Quebec	QC					45.5569	-73.748	
+CA	H7V	Chomedey East	Quebec	QC					45.5364	-73.7267	
+CA	H7W	Chomedey South	Quebec	QC					45.549	-73.7641	
+CA	H7X	Sainte-Dorothée	Quebec	QC					45.5359	-73.8231	
+CA	H7Y	Îles-Laval	Quebec	QC					45.5209	-73.8354	
+CA	H8N	LaSalle Northwest	Quebec	QC					45.4551	-73.6084	
+CA	H8P	LaSalle Southeast	Quebec	QC					45.4371	-73.5979	
+CA	H8R	Saint-Pierre	Quebec	QC					45.4473	-73.6557	
+CA	H8S	Lachine East	Quebec	QC					45.4496	-73.6811	
+CA	H8T	Lachine West	Quebec	QC					45.4648	-73.7192	
+CA	H8Y	Roxboro	Quebec	QC					45.5145	-73.8162	
+CA	H8Z	Pierrefonds	Quebec	QC					45.5135	-73.8389	
+CA	H9A	Dollard-Des- Ormeaux Northwest	Quebec	QC					45.5055	-73.823	
+CA	H9B	Dollard-Des- Ormeaux East	Quebec	QC					45.4937	-73.8132	
+CA	H9C	L'Île Bizard Northeast	Quebec	QC					45.5141	-73.9012	
+CA	H9E	L'Île-Bizard Southwest	Quebec	QC					45.5106	-73.91	
+CA	H9G	Dollard-Des- Ormeaux Southwest	Quebec	QC					45.4794	-73.8446	
+CA	H9H	Sainte-Geneviève	Quebec	QC					45.4873	-73.8635	
+CA	H9J	Kirkland	Quebec	QC					45.469	-73.8862	
+CA	H9K	Senneville	Quebec	QC					45.4643	-73.8936	
+CA	H9P	Dorval Outskirts	Quebec	QC					45.4617	-73.7305	
+CA	H9R	Pointe-Claire	Quebec	QC					45.4748	-73.8207	
+CA	H9S	L'Île-Dorval	Quebec	QC					45.4409	-73.7733	
+CA	H9W	Beaconsfield	Quebec	QC					45.4407	-73.8727	
+CA	H9X	Sainte-Anne-De- Bellevue	Quebec	QC					45.418	-73.9515	
+CA	J0A	Centre-du- Québec-Sud (Warwick)	Quebec	QC					45.6999	-72.0033	
+CA	J0B	Estrie-Est (Stanstead)	Quebec	QC					45.242	-72.0177	
+CA	J0C	Centre-du- Québec-Ouest (Saint- Bonaventure)	Quebec	QC					45.9914	-72.3216	
+CA	J0E	Estrie-Ouest (Fulford)	Quebec	QC					45.3973	-72.8797	
+CA	J0G	Bois-Francs-Nord (Odanak)	Quebec	QC					46.0668	-72.8043	
+CA	J0H	Bois-Francs-Sud (Saint-Nazaire- D'Acton)	Quebec	QC					45.6125	-72.5205	
+CA	J0J	Montérégie-Est (Bedford)	Quebec	QC					45.0784	-73.0291	
+CA	J0K	Lanaudière-Nord (Saint-Esprit)	Quebec	QC					46.104	-73.256	
+CA	J0L	Montérégie-Nord (Saint-Antoine- Sur-Richelieu)	Quebec	QC					45.7317	-73.2793	
+CA	J0M	Nunavik (Kuujjuaq)	Quebec	QC					60.0342	-70.0118	
+CA	J0N	Région d'Oka (Oka)	Quebec	QC					45.718	-73.6354	
+CA	J0P	Vaudreuil- Soulanges (Coteau-du-Lac)	Quebec	QC					45.4487	-74.1015	
+CA	J0R	Lanaudière-Sud (Prévost)	Quebec	QC					45.8373	-74.1387	
+CA	J0S	Montérégie- Ouest (Saint-Anicet)	Quebec	QC					45.0131	-74.1744	
+CA	J0T	Laurentides-Nord (Montcalm)	Quebec	QC					46.2634	-74.7687	
+CA	J0V	Laurentides-Sud (Chénéville)	Quebec	QC					45.7631	-74.4624	
+CA	J0W	Outaouais-Nord (Ferme-Neuve)	Quebec	QC					46.7019	-75.437	
+CA	J0X	Outaouais-Sud (Thurso)	Quebec	QC					45.5234	-76.4392	
+CA	J0Y	Abitibi- Témiscamingue- Est (Radisson)	Quebec	QC					48.4606	-78.1936	
+CA	J0Z	Abitibi- Témiscamingue- Ouest (Guigues)	Quebec	QC					47.4822	-79.2102	
+CA	J1A	Coaticook	Quebec	QC					45.1563	-71.8095	
+CA	J1E	Sherbrooke Northeast	Quebec	QC					45.4301	-71.8901	
+CA	J1G	Sherbrooke East	Quebec	QC					45.4038	-71.8853	
+CA	J1H	Sherbrooke Central	Quebec	QC					45.4117	-71.9074	
+CA	J1J	Sherbrooke North	Quebec	QC					45.4242	-71.9188	
+CA	J1K	Sherbrooke West	Quebec	QC					45.3928	-71.9441	
+CA	J1L	Sherbrooke Northwest	Quebec	QC					45.4053	-71.9387	
+CA	J1M	Sherbrooke Southeast	Quebec	QC					45.3672	-71.8692	
+CA	J1N	Rock Forest	Quebec	QC					45.3814	-71.9827	
+CA	J1S	Windsor	Quebec	QC					45.582	-72.0094	
+CA	J1T	Asbestos	Quebec	QC					45.7808	-71.9348	
+CA	J1X	Magog	Quebec	QC					45.282	-72.139	
+CA	J1Z	Saint-Cyrille- De-Wendover	Quebec	QC					45.8852	-72.414	
+CA	J2A	Drummondville Southeast	Quebec	QC					45.8459	-72.44	
+CA	J2B	Drummondville South	Quebec	QC					45.8845	-72.4841	
+CA	J2C	Drummondville Central	Quebec	QC					45.9092	-72.4808	
+CA	J2E	Drummondville Northwest	Quebec	QC					45.9037	-72.5297	
+CA	J2G	Granby Central	Quebec	QC					45.4109	-72.7103	
+CA	J2H	Granby East	Quebec	QC					45.4036	-72.7097	
+CA	J2J	Granby West	Quebec	QC					45.3915	-72.7799	
+CA	J2K	Cowansville	Quebec	QC					45.2214	-72.7567	
+CA	J2L	Bromont	Quebec	QC					45.3161	-72.6501	
+CA	J2N	Farnham	Quebec	QC					45.2925	-72.978	
+CA	J2R	Saint-Hyacinthe Northwest	Quebec	QC					45.648	-73.0056	
+CA	J2S	Saint-Hyacinthe Southwest	Quebec	QC					45.6352	-72.9726	
+CA	J2T	Saint-Hyacinthe East	Quebec	QC					45.6414	-72.9243	
+CA	J2W	Saint-Luc	Quebec	QC					45.3988	-73.3723	
+CA	J2X	Saint-Jean- sur-Richelieu East	Quebec	QC					45.3167	-73.2338	
+CA	J2Y	Saint-Jean- sur-Richelieu West	Quebec	QC					45.3172	-73.3346	
+CA	J3A	Saint-Jean- sur-Richelieu North	Quebec	QC					45.334	-73.2662	
+CA	J3B	Saint-Jean- sur-Richelieu Central	Quebec	QC					45.3234	-73.2662	
+CA	J3E	Sainte-Julie	Quebec	QC					45.5806	-73.336	
+CA	J3G	Beloeil West	Quebec	QC					45.5462	-73.2339	
+CA	J3H	Beloeil East	Quebec	QC					45.5413	-73.2215	
+CA	J3L	Chambly	Quebec	QC					45.4694	-73.289	
+CA	J3M	Marieville	Quebec	QC					45.4355	-73.1738	
+CA	J3N	Saint-Basile- Le-Grand	Quebec	QC					45.5355	-73.2719	
+CA	J3P	Sorel Central	Quebec	QC					46.045	-73.1172	
+CA	J3R	Sorel Southwest	Quebec	QC					46.0476	-73.1263	
+CA	J3T	Nicolet	Quebec	QC					46.2326	-72.5995	
+CA	J3V	Saint-Bruno	Quebec	QC					45.5392	-73.3598	
+CA	J3X	Varennes	Quebec	QC					45.6911	-73.4312	
+CA	J3Y	Saint-Hubert Central	Quebec	QC					45.4841	-73.4329	
+CA	J3Z	Saint-Hubert East	Quebec	QC					45.4732	-73.3716	
+CA	J4B	Boucherville	Quebec	QC					45.5685	-73.423	
+CA	J4G	Longueuil North	Quebec	QC					45.5535	-73.4987	
+CA	J4H	Longueuil West	Quebec	QC					45.5428	-73.5083	
+CA	J4J	Longueuil Central	Quebec	QC					45.529	-73.5039	
+CA	J4K	Longueuil Southwest	Quebec	QC					45.5284	-73.5246	
+CA	J4L	Longueuil Southeast	Quebec	QC					45.5291	-73.4708	
+CA	J4M	Longueuil East	Quebec	QC					45.544	-73.4505	
+CA	J4N	Longueuil Northeast	Quebec	QC					45.5382	-73.4577	
+CA	J4P	Saint-Lambert North	Quebec	QC					45.4993	-73.5157	
+CA	J4R	Saint-Lambert Central	Quebec	QC					45.4876	-73.5092	
+CA	J4S	Saint-Lambert South	Quebec	QC					45.4832	-73.5067	
+CA	J4T	Saint-Hubert West	Quebec	QC					45.4966	-73.4481	
+CA	J4V	Greenfield Park	Quebec	QC					45.4926	-73.4473	
+CA	J4W	Brossard Northwest	Quebec	QC					45.4769	-73.4992	
+CA	J4X	Brossard Southwest	Quebec	QC					45.4564	-73.4931	
+CA	J4Y	Brossard South	Quebec	QC					45.4605	-73.4651	
+CA	J4Z	Brossard Northeast	Quebec	QC					45.4814	-73.4649	
+CA	J5A	Saint-Constant	Quebec	QC					45.384	-73.5591	
+CA	J5B	Delson	Quebec	QC					45.4024	-73.5376	
+CA	J5J	Saint-Sophie	Quebec	QC					45.8184	-73.8983	
+CA	J5K	Saint-Colomban	Quebec	QC					45.7334	-74.1309	
+CA	J5L	Saint-Jérôme West	Quebec	QC					45.8052	-74.1051	
+CA	J5M	Saint-Lin- Laurentides	Quebec	QC					45.8522	-73.7577	
+CA	J5R	La Prairie	Quebec	QC					45.3973	-73.5284	
+CA	J5T	Lavaltrie	Quebec	QC					45.905	-73.2594	
+CA	J5V	Louiseville	Quebec	QC					46.2675	-72.9382	
+CA	J5W	L'Assomption	Quebec	QC					45.8313	-73.4233	
+CA	J5X	L'Épiphanie	Quebec	QC					45.8508	-73.4824	
+CA	J5Y	Repentigny Northeast	Quebec	QC					45.7599	-73.4343	
+CA	J5Z	Repentigny West	Quebec	QC					45.7289	-73.4907	
+CA	J6A	Repentigny South	Quebec	QC					45.7134	-73.4778	
+CA	J6E	Joliette	Quebec	QC					46.0551	-73.432	
+CA	J6J	ChÔteauguay North	Quebec	QC					45.3944	-73.7494	
+CA	J6K	ChÔteauguay South	Quebec	QC					45.3631	-73.7085	
+CA	J6N	Beauharnois	Quebec	QC					45.3577	-73.7851	
+CA	J6R	Mercier	Quebec	QC					45.3063	-73.748	
+CA	J6S	Salaberry-de- Valleyfield North	Quebec	QC					45.2788	-74.1422	
+CA	J6T	Salaberry-de- Valleyfield South	Quebec	QC					45.2571	-74.12	
+CA	J6V	Terrebonne East	Quebec	QC					45.7005	-73.5298	
+CA	J6W	Terrebonne Central	Quebec	QC					45.6908	-73.6308	
+CA	J6X	Terrebonne Northwest	Quebec	QC					45.6986	-73.6632	
+CA	J6Y	Terrebonne Southwest	Quebec	QC					45.6999	-73.8112	
+CA	J6Z	Sainte-Thérèse- de-Blainville Northeast	Quebec	QC					45.6693	-73.7484	
+CA	J7A	Sainte-Thérèse- de-Blainville East	Quebec	QC					45.6179	-73.8038	
+CA	J7B	Sainte-Thérèse- de-Blainville North	Quebec	QC					45.6462	-73.8092	
+CA	J7C	Sainte-Thérèse- de-Blainville Northwest	Quebec	QC					45.6488	-73.8466	
+CA	J7E	Sainte-Thérèse- de-Blainville Central	Quebec	QC					45.6318	-73.8261	
+CA	J7G	Sainte-Thérèse- de-Blainville South	Quebec	QC					45.5999	-73.8301	
+CA	J7H	Sainte-Thérèse- de-Blainville Southwest	Quebec	QC					45.62	-73.8564	
+CA	J7J	Mirabel Northeast	Quebec	QC					45.6563	-73.9753	
+CA	J7K	Mascouche Extremities	Quebec	QC					45.7551	-73.5959	
+CA	J7L	Mascouche Central	Quebec	QC					45.7567	-73.6263	
+CA	J7M	La Plaine	Quebec	QC					45.7915	-73.7559	
+CA	J7N	Mirabel Southwest	Quebec	QC					45.72	-74.0327	
+CA	J7P	Saint-Eustache Northeast	Quebec	QC					45.5618	-73.8881	
+CA	J7R	Saint-Eustache Southwest	Quebec	QC					45.5321	-73.894	
+CA	J7T	Vaudreuil- Dorion RCM	Quebec	QC					45.3135	-74.0573	
+CA	J7V	Vaudreuil- Dorion	Quebec	QC					45.4042	-74.034	
+CA	J7X	Valleyfield	Quebec	QC					45.2616	-74.2078	
+CA	J7Y	Saint-Jérôme North	Quebec	QC					45.814	-74.0176	
+CA	J7Z	Saint-Jérôme Southeast	Quebec	QC					45.795	-74.0017	
+CA	J8A	Saint-Hippolyte	Quebec	QC					45.9261	-74.0244	
+CA	J8B	Sainte-Adèle	Quebec	QC					45.9454	-74.1327	
+CA	J8C	Sainte-Agathe- Des-Monts	Quebec	QC					46.0469	-74.2901	
+CA	J8E	Mont-Tremblant	Quebec	QC					46.156	-74.5627	
+CA	J8G	Chatham	Quebec	QC					45.6068	-74.4387	
+CA	J8H	Lachute	Quebec	QC					45.6484	-74.3406	
+CA	J8L	Buckingham	Quebec	QC					45.599	-75.4206	
+CA	J8M	Masson-Angers	Quebec	QC					45.5555	-75.4352	
+CA	J8N	Val-des-Monts	Quebec	QC					45.688	-75.7837	
+CA	J8P	Gatineau Southeast	Quebec	QC					45.495	-75.5883	
+CA	J8R	Gatineau Northeast	Quebec	QC					45.4914	-75.6057	
+CA	J8T	Gatineau Southwest	Quebec	QC					45.4979	-75.7043	
+CA	J8V	Gatineau Northwest	Quebec	QC					45.488	-75.7474	
+CA	J8X	Hull Southeast	Quebec	QC					45.4465	-75.7156	
+CA	J8Y	Hull Central	Quebec	QC					45.4603	-75.7606	
+CA	J8Z	Hull North	Quebec	QC					45.4659	-75.7558	
+CA	J9A	Hull Southwest	Quebec	QC					45.4206	-75.7538	
+CA	J9B	Chelsea	Quebec	QC					45.4039	-75.826	
+CA	J9E	Maniwaki	Quebec	QC					46.3741	-75.9823	
+CA	J9H	Aylmer South	Quebec	QC					45.3958	-75.8259	
+CA	J9J	Aylmer North	Quebec	QC					45.4202	-75.7748	
+CA	J9L	Mont-Laurier	Quebec	QC					46.5442	-75.4972	
+CA	J9P	Val-d'Or	Quebec	QC					48.1068	-77.7833	
+CA	J9T	Amos	Quebec	QC					48.5837	-78.1002	
+CA	J9V	Ville-Marie	Quebec	QC					47.3288	-79.441	
+CA	J9X	Rouyn-Noranda South	Quebec	QC					48.25	-79.0253	
+CA	J9Y	Rouyn-Noranda North	Quebec	QC					48.8054	-79.1991	
+CA	J9Z	La Sarre	Quebec	QC					48.8131	-79.2026	
+CA	S0A	Yorkton Region (Melville)	Saskatchewan	SK					51.8194	-103.5644	
+CA	S0C	Southeastern Saskatchewan (Carlyle)	Saskatchewan	SK					49.1895	-104.4374	
+CA	S0E	Eastern Saskatchewan (Melfort)	Saskatchewan	SK					53.1325	-104.6719	
+CA	S0G	South Central Saskatchewan (Fort Qu'Appelle)	Saskatchewan	SK					51.3669	-105.9973	
+CA	S0H	Southern Saskatchewan (Assiniboia)	Saskatchewan	SK					50.1971	-105.8481	
+CA	S0J	Northern Saskatchewan (La Ronge)	Saskatchewan	SK					52.7586	-107.4669	
+CA	S0K	Central Saskatchewan (Humboldt)	Saskatchewan	SK					52.807	-105.3626	
+CA	S0L	Western Saskatchewan (Kindersley)	Saskatchewan	SK					51.2296	-108.702	
+CA	S0M	Northwestern Saskatchewan (Battleford)	Saskatchewan	SK					54.2836	-109.2415	
+CA	S0N	Southwestern Saskatchewan (Maple Creek)	Saskatchewan	SK					50.3599	-108.5139	
+CA	S0P	Northeastern Saskatchewan (Creighton)	Saskatchewan	SK					54.663	-102.0822	
+CA	S2V	Buena Vista	Saskatchewan	SK					50.7763	-104.9291	
+CA	S3N	Yorkton	Saskatchewan	SK					51.202	-102.457	
+CA	S4A	Estevan	Saskatchewan	SK					49.1433	-102.9987	
+CA	S4H	Weyburn	Saskatchewan	SK					49.6719	-103.8491	
+CA	S4L	Regina East	Saskatchewan	SK					50.4395	-104.5758	
+CA	S4N	Regina Northeast and East Central	Saskatchewan	SK					50.4399	-104.574	
+CA	S4P	Regina Central	Saskatchewan	SK					50.4423	-104.6116	
+CA	S4R	Regina North Central	Saskatchewan	SK					50.4707	-104.6116	
+CA	S4S	Regina South Saskatchewan Provincial Government	Saskatchewan	SK					50.4253	-104.6347	
+CA	S4T	Regina West	Saskatchewan	SK					50.4552	-104.6376	
+CA	S4V	Regina Southeast	Saskatchewan	SK					50.4364	-104.5438	
+CA	S4W	Regina Southwest	Saskatchewan	SK					50.4896	-104.6694	
+CA	S4X	Regina Northwest	Saskatchewan	SK					50.4722	-104.6828	
+CA	S4Y	Regina Outer Northwest	Saskatchewan	SK					50.478	-104.6987	
+CA	S4Z	Regina Northeast	Saskatchewan	SK					50.4529	-104.5345	
+CA	S6H	Moose Jaw Southeast	Saskatchewan	SK					50.4019	-105.5325	
+CA	S6J	Moose Jaw Northeast	Saskatchewan	SK					50.4241	-105.5467	
+CA	S6K	Moose Jaw West	Saskatchewan	SK					50.3768	-105.5819	
+CA	S6V	Prince Albert Central	Saskatchewan	SK					53.2027	-105.7503	
+CA	S6W	Prince Albert Southwest	Saskatchewan	SK					53.1744	-105.7636	
+CA	S6X	Prince Albert East	Saskatchewan	SK					53.1922	-105.7055	
+CA	S7H	Saskatoon East Central	Saskatchewan	SK					52.1131	-106.622	
+CA	S7J	Saskatoon South Central	Saskatchewan	SK					52.1068	-106.6552	
+CA	S7K	Saskatoon North Central	Saskatchewan	SK					52.1542	-106.6415	
+CA	S7L	Saskatoon West	Saskatchewan	SK					52.1449	-106.6704	
+CA	S7M	Saskatoon Southwest	Saskatchewan	SK					52.1261	-106.6985	
+CA	S7N	Saskatoon Northeast Central	Saskatchewan	SK					52.1193	-106.6594	
+CA	S7P	Saskatoon North	Saskatchewan	SK					52.1695	-106.5869	
+CA	S7R	Saskatoon Northwest	Saskatchewan	SK					52.2022	-106.6765	
+CA	S7S	Saskatoon Northeast	Saskatchewan	SK					52.1584	-106.5955	
+CA	S7T	Saskatoon South	Saskatchewan	SK					52.0554	-106.7036	
+CA	S7V	Saskatoon Southeast	Saskatchewan	SK					52.1103	-106.5698	
+CA	S9A	North Battleford	Saskatchewan	SK					52.779	-108.2983	
+CA	S9H	Swift Current	Saskatchewan	SK					50.2875	-107.8113	
+CA	S9V	Lloydminster	Saskatchewan	SK					53.2719	-110.0044	
+CA	S9X	Meadow Lake	Saskatchewan	SK					54.132	-108.4314	
+CA	Y0A	Southeastern Yukon (Watson Lake)	Yukon	YT					60.1734	-129.0159	
+CA	Y0B	Central Yukon (Dawson City)	Yukon	YT					64.062	-139.4351	
+CA	Y1A	Whitehorse	Yukon	YT					60.7227	-135.0534	

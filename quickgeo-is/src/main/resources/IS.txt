@@ -1,0 +1,148 @@
+IS	101	Reykjavík - 1							64.141	-21.9183	4
+IS	102	(Millilanda Póstur)							64.15	-21.95	
+IS	103	Reykjavík - 3							64.15	-21.95	4
+IS	104	Reykjavík - 4							64.15	-21.95	4
+IS	105	Reykjavík - 5							64.1413	-21.915	4
+IS	107	Reykjavík - 7							64.15	-21.95	4
+IS	108	Reykjavík - 8							64.1364	-21.9018	4
+IS	109	Reykjavík - 9							64.15	-21.95	4
+IS	110	Reykjavík - 10							64.1114	-21.9058	4
+IS	111	Reykjavík - 11							64.15	-21.95	4
+IS	112	Reykjavík - 12							64.15	-21.95	4
+IS	113	Reykjavík - 13							64.15	-21.95	4
+IS	116	Kjalarnesi							64.15	-21.95	
+IS	121	Reykjavík - 1							64.15	-21.95	
+IS	123	Reykjavík - 3							64.15	-21.95	4
+IS	124	Reykjavík - 4							64.15	-21.95	4
+IS	125	Reykjavík - 5							64.1396	-21.915	4
+IS	127	Reykjavík - 7							64.15	-21.95	4
+IS	128	Reykjavík - 8							64.15	-21.95	4
+IS	129	Reykjavík - 9							64.15	-21.95	4
+IS	130	Reykjavík - 10							64.15	-21.95	4
+IS	132	Reykjavík - 12							64.15	-21.95	4
+IS	150	Reykjavík							64.15	-21.95	
+IS	155	Reykjavík							64.15	-21.95	
+IS	170	Seltjarnarnesi									
+IS	172	Seltjarnarnesi									
+IS	190	Vogum									
+IS	200	Kópavogi									
+IS	201	Kópavogi									
+IS	202	Kópavogi									
+IS	203	Kópavogi									
+IS	210	Garðabæ									
+IS	212	Garðabæ									
+IS	220	Hafnarfirði									
+IS	221	Hafnarfirði									
+IS	222	Hafnarfirði									
+IS	225	Álftanesi									
+IS	230	Reykjanesbæ									
+IS	232	Reykjanesbæ									
+IS	233	Reykjanesbæ									
+IS	235	Keflavíkurflugvelli									
+IS	240	Grindavík							63.8333	-22.4333	4
+IS	245	Sandgerði							64.05	-22.7	4
+IS	250	Garði									
+IS	260	Reykjanesbæ									
+IS	270	Mosfellsbæ									
+IS	300	Akranesi									
+IS	301	Akranesi									
+IS	302	Akranesi									
+IS	310	Borgarnesi									
+IS	311	Borgarnesi									
+IS	320	Reykholt í Borgarfirði									
+IS	340	Stykkishólmi									
+IS	345	Flatey á Breiðafirði									
+IS	350	Grundarfirði							64.8833	-23.7167	
+IS	355	Ólafsvík							64.8833	-23.7167	4
+IS	356	Snæfellsbæ							64.8833	-23.7167	
+IS	360	Hellissandi									
+IS	370	Búðardal									
+IS	371	Búðardal									
+IS	380	Reykhólahreppi									
+IS	400	Ísafirði									
+IS	401	Ísafirði									
+IS	410	Hnífsdal							66.15	-23.25	
+IS	415	Bolungarvík							66.15	-23.25	4
+IS	420	Súðavík							66.0333	-23	4
+IS	425	Flateyri							66.05	-23.5167	4
+IS	430	Suðureyri							66.1167	-23.5333	4
+IS	450	Patreksfirði									
+IS	451	Patreksfirði									
+IS	460	Tálknafirði									
+IS	465	Bíldudal									
+IS	470	Þingeyri							65.8667	-23.5	4
+IS	471	Þingeyri							65.8667	-23.5	4
+IS	500	Stað									
+IS	510	Hólmavík							65.7167	-21.6833	4
+IS	512	Hólmavík							65.7167	-21.6833	4
+IS	520	Drangsnesi									
+IS	522	Kjörvogi									
+IS	523	Bæ									
+IS	524	Norðurfirði									
+IS	530	Hvammstanga									
+IS	531	Hvammstanga									
+IS	540	Blönduósi							65.8333	-20.3167	
+IS	541	Blönduósi							65.8333	-20.3167	
+IS	545	Skagaströnd							65.8333	-20.3167	4
+IS	550	Sauðárkróki									
+IS	551	Sauðárkróki									
+IS	560	Varmahlíð							65.9	-19.4333	
+IS	565	Hofsós							65.9	-19.4333	4
+IS	566	Hofsós							65.9	-19.4333	4
+IS	570	Fljótum									
+IS	580	Siglufirði									
+IS	600	Akureyri							65.6932	-18.127	4
+IS	601	Akureyri							65.6667	-18.1	4
+IS	602	Akureyri							65.6667	-18.1	4
+IS	603	Akureyri							65.6667	-18.1	4
+IS	610	Grenivík							65.95	-18.1833	4
+IS	611	Grímsey							65.95	-18.1833	
+IS	620	Dalvík							65.9667	-18.5333	4
+IS	621	Dalvík							65.9667	-18.5333	4
+IS	625	Ólafsfirði							65.9667	-18.5333	
+IS	630	Hrísey									
+IS	640	Húsavík							65.4	-13.6833	4
+IS	641	Húsavík							66.05	-17.35	4
+IS	645	Fosshólli							65.725	-15.5167	
+IS	650	Laugum									
+IS	660	Mývatni									
+IS	670	Kópaskeri							66.45	-15.95	
+IS	671	Kópaskeri							66.45	-15.95	
+IS	675	Raufarhöfn							66.45	-15.95	4
+IS	680	Þórshöfn							66.2	-15.3333	4
+IS	681	Þórshöfn							66.2	-15.3333	4
+IS	685	Bakkafirði							66.2	-15.3333	
+IS	690	Vopnafirði									
+IS	700	Egilsstöðum									
+IS	701	Egilsstöðum									
+IS	710	Seyðisfirði									
+IS	715	Mjóafirði									
+IS	720	Borgarfirði (eystri)									
+IS	730	Reyðarfirði									
+IS	735	Eskifirði									
+IS	740	Neskaupstað									
+IS	750	Fáskrúðsfirði									
+IS	755	Stöðvarfirði									
+IS	760	Breiðdalsvík							64.8	-14	4
+IS	765	Djúpavogi							64.8	-14	
+IS	780	Höfn í Hornafirði									
+IS	781	Höfn í Hornafirði									
+IS	785	Öræfum									
+IS	800	Selfossi									
+IS	801	Selfossi									
+IS	802	Selfossi									
+IS	810	Hveragerði							64	-21.2	4
+IS	815	Þorlákshöfn							63.85	-21.3667	4
+IS	820	Eyrarbakka							63.8333	-21.0667	
+IS	825	Stokkseyri							63.8333	-21.0667	4
+IS	840	Laugarvatni									
+IS	845	Flúðum									
+IS	850	Hellu									
+IS	851	Hellu									
+IS	860	Hvolsvelli									
+IS	861	Hvolsvelli									
+IS	870	Vík							63.4167	-19.0167	4
+IS	871	Vík							66.1333	-18.7667	4
+IS	880	Kirkjubæjarklaustri									
+IS	900	Vestmannaeyjum									
+IS	902	Vestmannaeyjum									

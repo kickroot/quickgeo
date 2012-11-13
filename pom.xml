@@ -17,6 +17,10 @@
     </license>
   </licenses>
   
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+    
   <scm>
     <url>scm:git:git@github.com:kickroot/quickgeo.git</url>
     <connection>scm:git:git@github.com:kickroot/quickgeo.git</connection>
@@ -24,7 +28,78 @@
   
   <modules>
     <module>quickgeo-core</module>
+    <module>quickgeo-generate</module>
+    <module>quickgeo-ad</module>
+    <module>quickgeo-ar</module>
+    <module>quickgeo-as</module>
+    <module>quickgeo-at</module>
+    <module>quickgeo-au</module>
+    <module>quickgeo-bd</module>
+    <module>quickgeo-be</module>
+    <module>quickgeo-bg</module>
+    <module>quickgeo-br</module>
+    <module>quickgeo-ca</module>
+    <module>quickgeo-ch</module>
+    <module>quickgeo-cz</module>
+    <module>quickgeo-de</module>
+    <module>quickgeo-dk</module>
+    <module>quickgeo-do</module>
+    <module>quickgeo-dz</module>
+    <module>quickgeo-es</module>
+    <module>quickgeo-fi</module>
+    <module>quickgeo-fo</module>
+    <module>quickgeo-fr</module>
+    <module>quickgeo-gb</module>
+    <module>quickgeo-gf</module>
+    <module>quickgeo-gg</module>
+    <module>quickgeo-gl</module>
+    <module>quickgeo-gp</module>
+    <module>quickgeo-gt</module>
+    <module>quickgeo-gu</module>
+    <module>quickgeo-gy</module>
+    <module>quickgeo-hr</module>
+    <module>quickgeo-hu</module>
+    <module>quickgeo-im</module>
+    <module>quickgeo-in</module>
+    <module>quickgeo-is</module>
+    <module>quickgeo-it</module>
+    <module>quickgeo-je</module>
+    <module>quickgeo-jp</module>
+    <module>quickgeo-li</module>
+    <module>quickgeo-lk</module>
+    <module>quickgeo-lt</module>
+    <module>quickgeo-lu</module>
+    <module>quickgeo-mc</module>
+    <module>quickgeo-md</module>
+    <module>quickgeo-mh</module>
+    <module>quickgeo-mk</module>
+    <module>quickgeo-mp</module>
+    <module>quickgeo-mq</module>
+    <module>quickgeo-mx</module>
+    <module>quickgeo-my</module>
+    <module>quickgeo-nl</module>
+    <module>quickgeo-no</module>
+    <module>quickgeo-nz</module>
+    <module>quickgeo-ph</module>
+    <module>quickgeo-pk</module>
+    <module>quickgeo-pl</module>
+    <module>quickgeo-pm</module>
+    <module>quickgeo-pr</module>
+    <module>quickgeo-pt</module>
+    <module>quickgeo-re</module>
+    <module>quickgeo-ru</module>
+    <module>quickgeo-se</module>
+    <module>quickgeo-si</module>
+    <module>quickgeo-sj</module>
+    <module>quickgeo-sk</module>
+    <module>quickgeo-sm</module>
+    <module>quickgeo-th</module>
+    <module>quickgeo-tr</module>
     <module>quickgeo-us</module>
+    <module>quickgeo-va</module>
+    <module>quickgeo-vi</module>
+    <module>quickgeo-yt</module>
+    <module>quickgeo-za</module>
   </modules>
   
   <build>

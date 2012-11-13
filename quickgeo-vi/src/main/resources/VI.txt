@@ -1,0 +1,16 @@
+VI	00820	Christiansted	Vi	78	St. Croix	010			17.7342	-64.7347	
+VI	00821	Christiansted	Vi	78	St. Croix	010			17.7342	-64.7347	
+VI	00822	Christiansted	Vi	78	St. Croix	010			17.7342	-64.7347	
+VI	00823	Christiansted	Vi	78	St. Croix	010			17.7342	-64.7347	
+VI	00824	Christiansted	Vi	78	St. Croix	010			17.7342	-64.7347	
+VI	00840	Frederiksted	Vi	78	St. Croix	010			17.7342	-64.7347	
+VI	00841	Frederiksted	Vi	78	St. Croix	010			17.7342	-64.7347	
+VI	00850	Kingshill	Vi	78	St. Croix	010			17.7342	-64.7347	
+VI	00851	Kingshill	Vi	78	St. Croix	010			17.7342	-64.7347	
+VI	00830	St John	Vi	78	St. John	020			18.3282	-64.7407	
+VI	00831	St John	Vi	78	St. John	020			18.3282	-64.7407	
+VI	00801	St Thomas	Vi	78	St. Thomas	030			18.3223	-64.9637	
+VI	00802	St Thomas	Vi	78	St. Thomas	030			18.3223	-64.9637	
+VI	00803	St Thomas	Vi	78	St. Thomas	030			18.3223	-64.9637	
+VI	00804	St Thomas	Vi	78	St. Thomas	030			18.3223	-64.9637	
+VI	00805	St Thomas	Vi	78	St. Thomas	030			18.3223	-64.9637	

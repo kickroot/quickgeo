@@ -1,0 +1,9 @@
+GY	97312	St Elie									
+GY	97314	Saul									
+GY	97316	Grand Santi Papa Ichton									
+GY	97319	Awala Yalimapo									
+GY	97340	Grand Santi Papa Ichton									
+GY	97340	Grand Santi									
+GY	97352	Cacao									
+GY	97353	Kaw									
+GY	97360	Mana									

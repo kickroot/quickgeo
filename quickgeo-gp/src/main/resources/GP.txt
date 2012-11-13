@@ -1,0 +1,33 @@
+GP	97100	Basse-Terre	Région Guadeloupe	GP	Département de la Guadeloupe	971	Arrondissement de la Basse-Terre	9711	16	-61.7167	5
+GP	97110	Pointe-à-Pitre	Région Guadeloupe	GP	Département de la Guadeloupe	971	Arrondissement de Pointe-à-Pitre	9712	16.2333	-61.5167	5
+GP	97111	Morne-à-l'Eau	Région Guadeloupe	GP	Département de la Guadeloupe	971	Arrondissement de Pointe-à-Pitre	9712	16.3333	-61.45	5
+GP	97112	Grand-Bourg	Région Guadeloupe	GP	Département de la Guadeloupe	971	Arrondissement de Pointe-à-Pitre	9712	15.8833	-61.3	5
+GP	97113	Gourbeyre	Région Guadeloupe	GP	Département de la Guadeloupe	971	Arrondissement de la Basse-Terre	9711	15.9833	-61.6833	5
+GP	97114	Trois-Rivières	Région Guadeloupe	GP	Département de la Guadeloupe	971	Arrondissement de la Basse-Terre	9711	15.9667	-61.6333	5
+GP	97115	Sainte-Rose	Région Guadeloupe	GP	Département de la Guadeloupe	971	Arrondissement de la Basse-Terre	9711	16.3333	-61.6833	5
+GP	97116	Pointe-Noire	Région Guadeloupe	GP	Département de la Guadeloupe	971	Arrondissement de la Basse-Terre	9711	16.2333	-61.7833	5
+GP	97117	Port-Louis	Région Guadeloupe	GP	Département de la Guadeloupe	971	Arrondissement de Pointe-à-Pitre	9712	16.4167	-61.5167	5
+GP	97118	Saint-François	Région Guadeloupe	GP	Département de la Guadeloupe	971	Arrondissement de Pointe-à-Pitre	9712	16.25	-61.2667	5
+GP	97119	Vieux-Habitants	Région Guadeloupe	GP	Département de la Guadeloupe	971	Arrondissement de la Basse-Terre	9711	16.05	-61.75	5
+GP	97120	Saint-Claude	Région Guadeloupe	GP	Département de la Guadeloupe	971	Arrondissement de la Basse-Terre	9711	16.0167	-61.6833	5
+GP	97121	Anse-Bertrand	Région Guadeloupe	GP	Département de la Guadeloupe	971	Arrondissement de Pointe-à-Pitre	9712	16.4667	-61.5	5
+GP	97122	Baie-Mahault	Région Guadeloupe	GP	Département de la Guadeloupe	971	Arrondissement de la Basse-Terre	9711	16.2667	-61.5833	5
+GP	97123	Baillif	Région Guadeloupe	GP	Département de la Guadeloupe	971	Arrondissement de la Basse-Terre	9711	16.0167	-61.7333	5
+GP	97125	Bouillante	Région Guadeloupe	GP	Département de la Guadeloupe	971	Arrondissement de la Basse-Terre	9711	16.1333	-61.7667	5
+GP	97126	Deshaies	Région Guadeloupe	GP	Département de la Guadeloupe	971	Arrondissement de la Basse-Terre	9711	16.3	-61.7833	5
+GP	97127	La Désirade	Région Guadeloupe	GP	Département de la Guadeloupe	971	Arrondissement de Pointe-à-Pitre	9712	16.3167	-61.0333	5
+GP	97128	Goyave	Région Guadeloupe	GP	Département de la Guadeloupe	971	Arrondissement de la Basse-Terre	9711	16.1333	-61.5667	5
+GP	97129	Lamentin	Région Guadeloupe	GP	Département de la Guadeloupe	971	Arrondissement de la Basse-Terre	9711	16.2667	-61.6167	5
+GP	97130	Capesterre-Belle-Eau	Région Guadeloupe	GP	Département de la Guadeloupe	971	Arrondissement de la Basse-Terre	9711	16.05	-61.55	5
+GP	97131	Petit-Canal	Région Guadeloupe	GP	Département de la Guadeloupe	971	Arrondissement de Pointe-à-Pitre	9712	16.3833	-61.4833	5
+GP	97134	Saint-Louis	Région Guadeloupe	GP	Département de la Guadeloupe	971	Arrondissement de Pointe-à-Pitre	9712	15.95	-61.3	5
+GP	97136	Terre-de-Bas	Région Guadeloupe	GP	Département de la Guadeloupe	971	Arrondissement de la Basse-Terre	9711	15.85	-61.6333	5
+GP	97137	Terre-de-Haut	Région Guadeloupe	GP	Département de la Guadeloupe	971	Arrondissement de la Basse-Terre	9711	15.8667	-61.5667	5
+GP	97139	Les Abymes	Région Guadeloupe	GP	Département de la Guadeloupe	971	Arrondissement de Pointe-à-Pitre	9712	16.2667	-61.5	5
+GP	97140	Capesterre-de-Marie-Galante	Région Guadeloupe	GP	Département de la Guadeloupe	971	Arrondissement de Pointe-à-Pitre	9712	15.8833	-61.2167	5
+GP	97141	Vieux-Fort	Région Guadeloupe	GP	Département de la Guadeloupe	971	Arrondissement de la Basse-Terre	9711	15.95	-61.6833	5
+GP	97142	Les Abymes	Région Guadeloupe	GP	Département de la Guadeloupe	971	Arrondissement de Pointe-à-Pitre	9712	16.2667	-61.5	5
+GP	97160	Le Moule	Région Guadeloupe	GP	Département de la Guadeloupe	971	Arrondissement de Pointe-à-Pitre	9712	16.3333	-61.3333	5
+GP	97170	Petit-Bourg	Région Guadeloupe	GP	Département de la Guadeloupe	971	Arrondissement de la Basse-Terre	9711	16.1833	-61.5833	5
+GP	97180	Sainte-Anne	Région Guadeloupe	GP	Département de la Guadeloupe	971	Arrondissement de Pointe-à-Pitre	9712	16.2333	-61.3667	5
+GP	97190	Le Gosier	Région Guadeloupe	GP	Département de la Guadeloupe	971	Arrondissement de Pointe-à-Pitre	9712	16.2	-61.4833	5

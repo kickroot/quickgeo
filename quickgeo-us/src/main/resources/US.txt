@@ -4129,8 +4129,8 @@ US	95024	Hollister	California	CA	San Benito	069			36.8586	-121.3982
 US	95043	Paicines	California	CA	San Benito	069			36.4985	-120.9744	
 US	95045	San Juan Bautista	California	CA	San Benito	069			36.8463	-121.5346	
 US	95075	Tres Pinos	California	CA	San Benito	069			36.767	-121.3017	
-US	91701	Rancho Cucamonga	California	CA	San Bernardino	071			34.1376	-117.5999	
 US	91701	Alta Loma	California	CA	San Bernardino	071			34.1376	-117.5999	
+US	91701	Rancho Cucamonga	California	CA	San Bernardino	071			34.1376	-117.5999	
 US	91708	Chino	California	CA	San Bernardino	071			33.954	-117.6404	
 US	91709	Chino Hills	California	CA	San Bernardino	071			33.9797	-117.7308	
 US	91710	Chino	California	CA	San Bernardino	071			34.0125	-117.6844	
@@ -6947,8 +6947,8 @@ US	33324	Fort Lauderdale	Florida	FL	Broward	011			26.1255	-80.2644
 US	33325	Fort Lauderdale	Florida	FL	Broward	011			26.1097	-80.3215	
 US	33326	Fort Lauderdale	Florida	FL	Broward	011			26.1158	-80.3681	
 US	33326	Weston	Florida	FL	Broward	011			26.1158	-80.3681	
-US	33327	Weston	Florida	FL	Broward	011			26.1136	-80.417	
 US	33327	Fort Lauderdale	Florida	FL	Broward	011			26.1168	-80.4156	
+US	33327	Weston	Florida	FL	Broward	011			26.1136	-80.417	
 US	33328	Fort Lauderdale	Florida	FL	Broward	011			26.0671	-80.2723	
 US	33329	Fort Lauderdale	Florida	FL	Broward	011			26.1457	-80.4483	
 US	33330	Fort Lauderdale	Florida	FL	Broward	011			26.0663	-80.3339	
@@ -8136,8 +8136,8 @@ US	34988	Port Saint Lucie	Florida	FL	St. Lucie	111			27.3868	-80.5037
 US	32530	Bagdad	Florida	FL	Santa Rosa	113			30.5986	-87.0315	
 US	32561	Gulf Breeze	Florida	FL	Santa Rosa	113			30.3847	-87.0439	
 US	32562	Gulf Breeze	Florida	FL	Santa Rosa	113			30.6592	-87.0497	
-US	32563	Harold	Florida	FL	Santa Rosa	113			30.3962	-87.0274	
 US	32563	Gulf Breeze	Florida	FL	Santa Rosa	113			30.3962	-87.0274	
+US	32563	Harold	Florida	FL	Santa Rosa	113			30.3962	-87.0274	
 US	32565	Jay	Florida	FL	Santa Rosa	113			30.8985	-87.1332	
 US	32566	Navarre	Florida	FL	Santa Rosa	113			30.4212	-86.8926	
 US	32566	Gulf Breeze	Florida	FL	Santa Rosa	113			30.4277	-86.9271	
@@ -22007,8 +22007,8 @@ US	39236	Jackson	Mississippi	MS	Hinds	049			32.3113	-90.3972
 US	39250	Jackson	Mississippi	MS	Hinds	049			32.3113	-90.3972	
 US	39269	Jackson	Mississippi	MS	Hinds	049			32.3003	-90.1886	
 US	39271	Jackson	Mississippi	MS	Hinds	049			32.3113	-90.3972	
-US	39272	Byram	Mississippi	MS	Hinds	049			32.1888	-90.2595	
 US	39272	Jackson	Mississippi	MS	Hinds	049			32.1888	-90.2595	
+US	39272	Byram	Mississippi	MS	Hinds	049			32.1888	-90.2595	
 US	39282	Jackson	Mississippi	MS	Hinds	049			32.3113	-90.3972	
 US	39283	Jackson	Mississippi	MS	Hinds	049			32.3113	-90.3972	
 US	39284	Jackson	Mississippi	MS	Hinds	049			32.3113	-90.3972	
@@ -22248,8 +22248,8 @@ US	39167	Star	Mississippi	MS	Rankin	121			32.0961	-90.0615
 US	39193	Whitfield	Mississippi	MS	Rankin	121			32.2348	-90.0726	
 US	39208	Pearl	Mississippi	MS	Rankin	121			32.2604	-90.0897	
 US	39208	Jackson	Mississippi	MS	Rankin	121			32.2604	-90.0897	
-US	39218	Richland	Mississippi	MS	Rankin	121			32.2287	-90.1591	
 US	39218	Jackson	Mississippi	MS	Rankin	121			32.2287	-90.1591	
+US	39218	Richland	Mississippi	MS	Rankin	121			32.2287	-90.1591	
 US	39232	Flowood	Mississippi	MS	Rankin	121			32.3299	-90.0915	
 US	39288	Pearl	Mississippi	MS	Rankin	121			32.2338	-90.1235	
 US	39288	Jackson	Mississippi	MS	Rankin	121			32.3131	-89.7996	
@@ -41997,8 +41997,8 @@ US	53227	Milwaukee	Wisconsin	WI	Milwaukee	079			42.9949	-88.0364
 US	53228	Milwaukee	Wisconsin	WI	Milwaukee	079			42.9676	-88.0434	
 US	53233	Milwaukee	Wisconsin	WI	Milwaukee	079			43.0407	-87.9357	
 US	53234	Milwaukee	Wisconsin	WI	Milwaukee	079			43.0174	-87.5697	
-US	53235	Saint Francis	Wisconsin	WI	Milwaukee	079			42.9731	-87.8687	
 US	53235	Milwaukee	Wisconsin	WI	Milwaukee	079			42.9731	-87.8687	
+US	53235	Saint Francis	Wisconsin	WI	Milwaukee	079			42.9731	-87.8687	
 US	53237	Milwaukee	Wisconsin	WI	Milwaukee	079			43.0174	-87.5697	
 US	53259	Milwaukee	Wisconsin	WI	Milwaukee	079			43.0387	-87.9139	
 US	53263	Milwaukee	Wisconsin	WI	Milwaukee	079			43.0746	-88.0604	

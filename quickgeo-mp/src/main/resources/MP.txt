@@ -1,0 +1,4 @@
+MP	96950	Saipan	Mp	69	Saipan	110			15.1861	-0.0071	
+MP	96951	Rota	Mp	69	Saipan	110			15.1901	145.7408	
+MP	96952	Tinian	Mp	69	Saipan	110			15.1901	145.7408	
+MP	96950	Saipan	Northern Mariana Islands 	MP	Northern Mariana Islands				15.1861	-0.0071	

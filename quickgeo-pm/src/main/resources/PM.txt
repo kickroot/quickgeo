@@ -1,0 +1,2 @@
+PM	97500	Miquelon	Collectivité territoriale de Saint-Pierre-et-Miquelon	975	Commune de Miquelon-Langlade	97501			47.0975	-56.3814	5
+PM	97500	Saint-Pierre	Collectivité territoriale de Saint-Pierre-et-Miquelon	975	Commune de Saint-Pierre	97502			46.7667	-56.1833	5

@@ -1,0 +1,17 @@
+YT	97600	Acoua	Mayotte (general)	00					-12.7225	45.0564	5
+YT	97600	Koungou	Mayotte (general)	00					-12.7336	45.2042	5
+YT	97600	Mamoudzou	Mayotte (general)	00					-12.7794	45.2272	5
+YT	97615	Dzaoudzi	Mayotte (general)	00					-12.7794	45.2536	5
+YT	97615	Pamandzi	Mayotte (general)	00					-12.7964	45.2736	5
+YT	97620	Bandrélé	Mayotte (general)	00					-12.9067	45.1914	5
+YT	97620	Bouéni	Mayotte (general)	00					-12.9025	45.0761	5
+YT	97620	Chirongui	Mayotte (general)	00					-12.9319	45.1483	5
+YT	97625	Kani Kéli	Mayotte (general)	00					-12.9536	45.1033	5
+YT	97630	Mtsamboro	Mayotte (general)	00					-12.6967	45.0667	5
+YT	97640	Sada	Mayotte (general)	00					-12.8481	45.0975	5
+YT	97650	Mtsamgamouji	Mayotte (general)	00					-12.7594	45.0836	5
+YT	97650	Bandraboua	Mayotte (general)	00					-12.7017	45.1206	5
+YT	97670	Chiconi	Mayotte (general)	00					-12.8333	45.1106	5
+YT	97670	Ouangani	Mayotte (general)	00					-12.8464	45.1361	5
+YT	97680	Tsingoni	Mayotte (general)	00					-12.7872	45.1028	5
+YT	97660	Dembeni							-12.8436	45.1844	5

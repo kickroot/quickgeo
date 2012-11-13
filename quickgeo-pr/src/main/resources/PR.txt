@@ -1,0 +1,187 @@
+PR	00601	Adjuntas	Pr	72	Adjuntas	001			18.1653	-66.7226	
+PR	00602	Aguada	Pr	72	Aguada	003			18.3931	-67.181	
+PR	00603	Aguadilla	Pr	72	Aguadilla	005			18.4559	-67.1458	
+PR	00604	Aguadilla	Pr	72	Aguadilla	005			18.493	-67.1396	
+PR	00605	Aguadilla	Pr	72	Aguadilla	005			18.4652	-67.1415	
+PR	00690	San Antonio	Pr	72	Aguadilla	005			18.4762	-67.1396	
+PR	00703	Aguas Buenas	Pr	72	Aguas Buenas	007			18.2504	-66.1284	
+PR	00705	Aibonito	Pr	72	Aibonito	009			18.1281	-66.2687	
+PR	00786	La Plata	Pr	72	Aibonito	009			18.1281	-66.2687	
+PR	00610	Anasco	Pr	72	Anasco	011			18.2887	-67.1397	
+PR	00612	Arecibo	Pr	72	Arecibo	013			18.4507	-66.6983	
+PR	00613	Arecibo	Pr	72	Arecibo	013			18.4581	-66.7327	
+PR	00614	Arecibo	Pr	72	Arecibo	013			18.4297	-66.6745	
+PR	00616	Bajadero	Pr	72	Arecibo	013			18.4448	-66.6407	
+PR	00652	Garrochales	Pr	72	Arecibo	013			18.4573	-66.6034	
+PR	00688	Sabana Hoyos	Pr	72	Arecibo	013			18.4297	-66.6745	
+PR	00714	Arroyo	Pr	72	Arroyo	015			17.9675	-66.0414	
+PR	00617	Barceloneta	Pr	72	Barceloneta	017			18.4471	-66.5443	
+PR	00794	Barranquitas	Pr	72	Barranquitas	019			18.2009	-66.3072	
+PR	00934	Fort Buchanan	Pr	72	Bayamon	021			18.3449	-66.166	
+PR	00956	Bayamon	Pr	72	Bayamon	021			18.3267	-66.1742	
+PR	00957	Bayamon	Pr	72	Bayamon	021			18.3666	-66.1839	
+PR	00958	Bayamon	Pr	72	Bayamon	021			18.3449	-66.166	
+PR	00959	Bayamon	Pr	72	Bayamon	021			18.3871	-66.159	
+PR	00960	Bayamon	Pr	72	Bayamon	021			18.3449	-66.166	
+PR	00961	Bayamon	Pr	72	Bayamon	021			18.4132	-66.1687	
+PR	00622	Boqueron	Pr	72	Cabo Rojo	023			17.9985	-67.1873	
+PR	00623	Cabo Rojo	Pr	72	Cabo Rojo	023			18.0622	-67.1495	
+PR	00725	Caguas	Pr	72	Caguas	025			18.213	-66.058	
+PR	00726	Caguas	Pr	72	Caguas	025			18.213	-66.058	
+PR	00627	Camuy	Pr	72	Camuy	027			18.4779	-66.8548	
+PR	00729	Canovanas	Pr	72	Canovanas	029			18.3331	-65.8839	
+PR	00983	Carolina	Pr	72	Carolina	031			18.4143	-65.9773	
+PR	00984	Carolina	Pr	72	Carolina	031			18.3934	-65.9725	
+PR	00985	Carolina	Pr	72	Carolina	031			18.3457	-65.9389	
+PR	00986	Carolina	Pr	72	Carolina	031			18.3934	-65.9725	
+PR	00987	Carolina	Pr	72	Carolina	031			18.3735	-65.9599	
+PR	00988	Carolina	Pr	72	Carolina	031			18.3934	-65.9725	
+PR	00962	Catano	Pr	72	Catano	033			18.4376	-66.1404	
+PR	00963	Catano	Pr	72	Catano	033			18.4432	-66.1393	
+PR	00736	Cayey	Pr	72	Cayey	035			18.103	-66.1393	
+PR	00737	Cayey	Pr	72	Cayey	035			18.103	-66.1393	
+PR	00735	Ceiba	Pr	72	Ceiba	037			18.2649	-65.5948	
+PR	00742	Roosevelt Roads	Pr	72	Ceiba	037			18.2649	-65.5948	
+PR	00638	Ciales	Pr	72	Ciales	039			18.3362	-66.4721	
+PR	00739	Cidra	Pr	72	Cidra	041			18.1815	-66.1695	
+PR	00769	Coamo	Pr	72	Coamo	043			18.096	-66.3508	
+PR	00782	Comerio	Pr	72	Comerio	045			18.225	-66.2199	
+PR	00783	Corozal	Pr	72	Corozal	047			18.3044	-66.3305	
+PR	00775	Culebra	Pr	72	Culebra	049			18.3237	-65.2965	
+PR	00646	Dorado	Pr	72	Dorado	051			18.4361	-66.282	
+PR	00738	Fajardo	Pr	72	Fajardo	053			18.3594	-65.6114	
+PR	00740	Puerto Real	Pr	72	Fajardo	053			18.332	-65.6388	
+PR	00650	Florida	Pr	72	Florida	054			18.3601	-66.5623	
+PR	00647	Ensenada	Pr	72	Guanica	055			17.9696	-66.9398	
+PR	00653	Guanica	Pr	72	Guanica	055			17.9725	-66.8987	
+PR	00704	Aguirre	Pr	72	Guayama	057			17.9923	-66.1393	
+PR	00784	Guayama	Pr	72	Guayama	057			17.9923	-66.1393	
+PR	00656	Guayanilla	Pr	72	Guayanilla	059			18.0233	-66.7869	
+PR	00785	Guayama	Pr	72	Guayanilla	059			18.0188	-66.7956	
+PR	00965	Guaynabo	Pr	72	Guaynabo	061			18.4288	-66.1154	
+PR	00966	Guaynabo	Pr	72	Guaynabo	061			18.3916	-66.1146	
+PR	00969	Guaynabo	Pr	72	Guaynabo	061			18.3623	-66.1137	
+PR	00970	Guaynabo	Pr	72	Guaynabo	061			18.3591	-66.1123	
+PR	00971	Guaynabo	Pr	72	Guaynabo	061			18.3094	-66.1136	
+PR	00778	Gurabo	Pr	72	Gurabo	063			18.2591	-65.9746	
+PR	00659	Hatillo	Pr	72	Hatillo	065			18.4814	-66.8087	
+PR	00660	Hormigueros	Pr	72	Hormigueros	067			18.1455	-67.1353	
+PR	00741	Punta Santiago	Pr	72	Humacao	069			18.1622	-65.7535	
+PR	00791	Humacao	Pr	72	Humacao	069			18.1406	-65.803	
+PR	00792	Humacao	Pr	72	Humacao	069			18.138	-65.7885	
+PR	00662	Isabela	Pr	72	Isabela	071			18.4803	-67.0282	
+PR	00664	Jayuya	Pr	72	Jayuya	073			18.2176	-66.5983	
+PR	00795	Juana Diaz	Pr	72	Juana Diaz	075			17.9974	-66.4932	
+PR	00777	Juncos	Pr	72	Juncos	077			18.2065	-65.9018	
+PR	00667	Lajas	Pr	72	Lajas	079			18.0151	-67.056	
+PR	00631	Castaner	Pr	72	Lares	081			18.2692	-66.865	
+PR	00669	Lares	Pr	72	Lares	081			18.296	-66.8819	
+PR	00670	Las Marias	Pr	72	Las Marias	083			18.2521	-66.991	
+PR	00771	Las Piedras	Pr	72	Las Piedras	085			18.1966	-65.872	
+PR	00772	Loiza	Pr	72	Loiza	087			18.4474	-65.8994	
+PR	00773	Luquillo	Pr	72	Luquillo	089			18.366	-65.7081	
+PR	00674	Manati	Pr	72	Manati	091			18.4455	-66.4903	
+PR	00606	Maricao	Pr	72	Maricao	093			18.1729	-66.9441	
+PR	00707	Maunabo	Pr	72	Maunabo	095			18.007	-65.8987	
+PR	00680	Mayaguez	Pr	72	Mayaguez	097			18.213	-67.3034	
+PR	00681	Mayaguez	Pr	72	Mayaguez	097			18.2113	-67.3257	
+PR	00682	Mayaguez	Pr	72	Mayaguez	097			18.2142	-67.3357	
+PR	00676	Moca	Pr	72	Moca	099			18.3837	-67.0808	
+PR	00687	Morovis	Pr	72	Morovis	101			18.317	-66.4152	
+PR	00718	Naguabo	Pr	72	Naguabo	103			18.2214	-65.7783	
+PR	00744	Rio Blanco	Pr	72	Naguabo	103			18.2063	-65.7431	
+PR	00719	Naranjito	Pr	72	Naranjito	105			18.298	-66.2298	
+PR	00720	Orocovis	Pr	72	Orocovis	107			18.2269	-66.394	
+PR	00723	Patillas	Pr	72	Patillas	109			18.01	-66.0106	
+PR	00624	Penuelas	Pr	72	Penuelas	111			18.0235	-66.7262	
+PR	00715	Mercedita	Pr	72	Ponce	113			18.0119	-66.5637	
+PR	00716	Ponce	Pr	72	Ponce	113			18.002	-66.6074	
+PR	00717	Ponce	Pr	72	Ponce	113			18.002	-66.6074	
+PR	00728	Ponce	Pr	72	Ponce	113			18.002	-66.6074	
+PR	00730	Ponce	Pr	72	Ponce	113			18.002	-66.6074	
+PR	00731	Ponce	Pr	72	Ponce	113			18.0383	-66.6263	
+PR	00732	Ponce	Pr	72	Ponce	113			18.0218	-66.6137	
+PR	00733	Ponce	Pr	72	Ponce	113			18.0193	-66.6192	
+PR	00734	Ponce	Pr	72	Ponce	113			17.9995	-66.6439	
+PR	00780	Coto Laurel	Pr	72	Ponce	113			18.002	-66.6074	
+PR	00678	Quebradillas	Pr	72	Quebradillas	115			18.453	-66.9337	
+PR	00677	Rincon	Pr	72	Rincon	117			18.3358	-67.2525	
+PR	00721	Palmer	Pr	72	Rio Grande	119			18.3642	-65.7783	
+PR	00745	Rio Grande	Pr	72	Rio Grande	119			18.3673	-65.8166	
+PR	00637	Sabana Grande	Pr	72	Sabana Grande	121			18.0873	-66.9349	
+PR	00751	Salinas	Pr	72	Salinas	123			17.9985	-66.2648	
+PR	00636	Rosario	Pr	72	San German	125			18.1133	-67.0397	
+PR	00683	San German	Pr	72	San German	125			18.1133	-67.0397	
+PR	00901	San Juan	Pr	72	San Juan	127			18.4659	-66.1036	
+PR	00902	San Juan	Pr	72	San Juan	127			18.4105	-66.0605	
+PR	00906	San Juan	Pr	72	San Juan	127			18.4105	-66.0605	
+PR	00907	San Juan	Pr	72	San Juan	127			18.452	-66.0806	
+PR	00908	San Juan	Pr	72	San Juan	127			18.4105	-66.0605	
+PR	00909	San Juan	Pr	72	San Juan	127			18.4434	-66.0681	
+PR	00910	San Juan	Pr	72	San Juan	127			18.4105	-66.0605	
+PR	00911	San Juan	Pr	72	San Juan	127			18.4508	-66.0579	
+PR	00912	San Juan	Pr	72	San Juan	127			18.4442	-66.0599	
+PR	00913	San Juan	Pr	72	San Juan	127			18.4507	-66.0434	
+PR	00914	San Juan	Pr	72	San Juan	127			18.4105	-66.0605	
+PR	00915	San Juan	Pr	72	San Juan	127			18.4379	-66.0481	
+PR	00916	San Juan	Pr	72	San Juan	127			18.4105	-66.0605	
+PR	00917	San Juan	Pr	72	San Juan	127			18.4214	-66.0504	
+PR	00918	San Juan	Pr	72	San Juan	127			18.4191	-66.0623	
+PR	00919	San Juan	Pr	72	San Juan	127			18.4105	-66.0605	
+PR	00920	San Juan	Pr	72	San Juan	127			18.4068	-66.0919	
+PR	00921	San Juan	Pr	72	San Juan	127			18.3904	-66.0661	
+PR	00922	San Juan	Pr	72	San Juan	127			18.4105	-66.0605	
+PR	00923	San Juan	Pr	72	San Juan	127			18.4108	-66.0367	
+PR	00924	San Juan	Pr	72	San Juan	127			18.3964	-66.0115	
+PR	00925	San Juan	Pr	72	San Juan	127			18.4011	-66.0498	
+PR	00926	San Juan	Pr	72	San Juan	127			18.3694	-66.0628	
+PR	00927	San Juan	Pr	72	San Juan	127			18.3852	-66.072	
+PR	00928	San Juan	Pr	72	San Juan	127			18.4105	-66.0605	
+PR	00929	San Juan	Pr	72	San Juan	127			18.4105	-66.0605	
+PR	00930	San Juan	Pr	72	San Juan	127			18.4105	-66.0605	
+PR	00931	San Juan	Pr	72	San Juan	127			18.4105	-66.0605	
+PR	00933	San Juan	Pr	72	San Juan	127			18.4105	-66.0605	
+PR	00935	San Juan	Pr	72	San Juan	127			18.4105	-66.0605	
+PR	00936	San Juan	Pr	72	San Juan	127			18.3967	-66.0626	
+PR	00937	San Juan	Pr	72	San Juan	127			18.4105	-66.0605	
+PR	00938	San Juan	Pr	72	San Juan	127			18.4105	-66.0605	
+PR	00939	San Juan	Pr	72	San Juan	127			18.4105	-66.0605	
+PR	00940	San Juan	Pr	72	San Juan	127			18.4105	-66.0605	
+PR	00955	San Juan	Pr	72	San Juan	127			18.4105	-66.0605	
+PR	00968	Guaynabo	Pr	72	San Juan	127			18.4105	-66.0605	
+PR	00975	San Juan	Pr	72	San Juan	127			18.4105	-66.0605	
+PR	00979	Carolina	Pr	72	San Juan	127			18.4105	-66.0605	
+PR	00981	Carolina	Pr	72	San Juan	127			18.4105	-66.0605	
+PR	00982	Carolina	Pr	72	San Juan	127			18.4105	-66.0605	
+PR	00754	San Lorenzo	Pr	72	San Lorenzo	129			18.1876	-65.9624	
+PR	00685	San Sebastian	Pr	72	San Sebastian	131			18.3236	-66.9722	
+PR	00757	Santa Isabel	Pr	72	Santa Isabel	133			17.9912	-66.3955	
+PR	00953	Toa Alta	Pr	72	Toa Alta	135			18.3568	-66.257	
+PR	00954	Toa Alta	Pr	72	Toa Alta	135			18.3589	-66.2581	
+PR	00949	Toa Baja	Pr	72	Toa Baja	137			18.4319	-66.1997	
+PR	00950	Toa Baja	Pr	72	Toa Baja	137			18.4578	-66.1965	
+PR	00951	Toa Baja	Pr	72	Toa Baja	137			18.4578	-66.1965	
+PR	00952	Sabana Seca	Pr	72	Toa Baja	137			18.4578	-66.1965	
+PR	00976	Trujillo Alto	Pr	72	Trujillo Alto	139			18.3381	-65.9892	
+PR	00977	Trujillo Alto	Pr	72	Trujillo Alto	139			18.337	-65.9901	
+PR	00978	St Just	Pr	72	Trujillo Alto	139			18.337	-65.9901	
+PR	00611	Angeles	Pr	72	Utuado	141			18.2795	-66.8022	
+PR	00641	Utuado	Pr	72	Utuado	141			18.25	-66.699	
+PR	00692	Vega Alta	Pr	72	Vega Alta	143			18.4358	-66.3385	
+PR	00693	Vega Baja	Pr	72	Vega Baja	145			18.4431	-66.3983	
+PR	00694	Vega Baja	Pr	72	Vega Baja	145			18.4431	-66.3983	
+PR	00765	Vieques	Pr	72	Vieques	147			18.1233	-65.4604	
+PR	00766	Villalba	Pr	72	Villalba	149			18.1205	-66.4966	
+PR	00767	Yabucoa	Pr	72	Yabucoa	151			18.0455	-65.887	
+PR	00698	Yauco	Pr	72	Yauco	153			18.061	-66.8612	
+PR	00604	Aguadilla	Puerto Rico 	PR					18.493	-67.1396	
+PR	00680	Mayaguez	Puerto Rico 	PR					18.213	-67.3034	
+PR	00681	Mayaguez	Puerto Rico 	PR					18.2113	-67.3257	
+PR	00682	Mayaguez	Puerto Rico 	PR					18.2142	-67.3357	
+PR	00791	Humacao	Puerto Rico 	PR					18.1406	-65.803	
+PR	00907	San Juan	Puerto Rico 	PR					18.452	-66.0806	
+PR	00917	San Juan	Puerto Rico 	PR					18.4214	-66.0504	
+PR	00936	San Juan	Puerto Rico 	PR					18.3967	-66.0626	
+PR	00966	Guaynabo	Puerto Rico 	PR					18.3916	-66.1146	
+PR	00983	Carolina	Puerto Rico 	PR					18.4143	-65.9773	
+PR	00727	Caguas							18.2122	-66.0793	5

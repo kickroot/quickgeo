@@ -41,10 +41,10 @@ public class PostalDbFactory {
             Logger.getLogger(PostalDbFactory.class.getName()).info("Couldn't read line : " + ex.getMessage());
           }
         }
+        in.close();
       } catch (Exception ex) {
         Logger.getLogger(PostalDbFactory.class.getName()).info("Couldn't read source : " + ex.getMessage());
       }
-
     }
 
     return new PostalDb(set);

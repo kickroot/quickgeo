@@ -1,0 +1,1182 @@
+DK	0800	Høje Taastrup							55.65	12.2833	4
+DK	0877	Valby							55.7333	12.1729	4
+DK	0900	København C							55.6777	12.5709	4
+DK	0910	København C							55.6777	12.5709	4
+DK	0929	København C							55.6777	12.5709	4
+DK	1000	København K							55.6777	12.5709	4
+DK	1001	København K							55.6777	12.5709	4
+DK	1002	København K							55.6777	12.5709	4
+DK	1003	København K							55.6777	12.5709	4
+DK	1004	København K							55.6777	12.5709	4
+DK	1005	København K							55.6777	12.5709	4
+DK	1006	København K							55.6777	12.5709	4
+DK	1007	København K							55.6777	12.5709	4
+DK	1008	København K							55.6777	12.5709	4
+DK	1009	København K							55.6777	12.5709	4
+DK	1010	København K							55.6777	12.5709	4
+DK	1011	København K							55.6777	12.5709	4
+DK	1012	København K							55.6777	12.5709	4
+DK	1013	København K							55.6777	12.5709	4
+DK	1014	København K							55.6777	12.5709	4
+DK	1015	København K							55.6777	12.5709	4
+DK	1016	København K							55.6777	12.5709	4
+DK	1017	København K							55.6777	12.5709	4
+DK	1018	København K							55.6777	12.5709	4
+DK	1019	København K							55.6777	12.5709	4
+DK	1020	København K							55.6777	12.5709	4
+DK	1021	København K							55.6777	12.5709	4
+DK	1022	København K							55.6777	12.5709	4
+DK	1023	København K							55.6777	12.5709	4
+DK	1024	København K							55.6777	12.5709	4
+DK	1025	København K							55.6777	12.5709	4
+DK	1026	København K							55.6777	12.5709	4
+DK	1045	København K							55.6777	12.5709	4
+DK	1050	København K							55.6777	12.5709	4
+DK	1051	København K							55.6777	12.5709	4
+DK	1052	København K							55.6777	12.5709	4
+DK	1053	København K							55.6777	12.5709	4
+DK	1054	København K							55.6777	12.5709	4
+DK	1055	København K							55.6777	12.5709	4
+DK	1056	København K							55.6777	12.5709	4
+DK	1057	København K							55.6777	12.5709	4
+DK	1058	København K							55.6777	12.5709	4
+DK	1059	København K							55.6777	12.5709	4
+DK	1060	København K							55.6777	12.5709	4
+DK	1061	København K							55.6777	12.5709	4
+DK	1062	København K							55.6777	12.5709	4
+DK	1063	København K							55.6777	12.5709	4
+DK	1064	København K							55.6777	12.5709	4
+DK	1065	København K							55.6777	12.5709	4
+DK	1066	København K							55.6777	12.5709	4
+DK	1067	København K							55.6777	12.5709	4
+DK	1068	København K							55.6777	12.5709	4
+DK	1069	København K							55.6777	12.5709	4
+DK	1070	København K							55.6777	12.5709	4
+DK	1071	København K							55.6777	12.5709	4
+DK	1072	København K							55.6777	12.5709	4
+DK	1073	København K							55.6777	12.5709	4
+DK	1074	København K							55.6777	12.5709	4
+DK	1092	København K							55.6777	12.5709	4
+DK	1093	København K							55.6777	12.5709	4
+DK	1095	København K							55.6777	12.5709	4
+DK	1098	København K							55.6777	12.5709	4
+DK	1100	København K							55.6777	12.5709	4
+DK	1101	København K							55.6777	12.5709	4
+DK	1102	København K							55.6777	12.5709	4
+DK	1103	København K							55.6777	12.5709	4
+DK	1104	København K							55.6777	12.5709	4
+DK	1105	København K							55.6777	12.5709	4
+DK	1106	København K							55.6777	12.5709	4
+DK	1107	København K							55.6777	12.5709	4
+DK	1110	København K							55.6777	12.5709	4
+DK	1111	København K							55.6777	12.5709	4
+DK	1112	København K							55.6777	12.5709	4
+DK	1113	København K							55.6777	12.5709	4
+DK	1114	København K							55.6777	12.5709	4
+DK	1115	København K							55.6777	12.5709	4
+DK	1116	København K							55.6777	12.5709	4
+DK	1117	København K							55.6777	12.5709	4
+DK	1118	København K							55.6777	12.5709	4
+DK	1119	København K							55.6777	12.5709	4
+DK	1120	København K							55.6777	12.5709	4
+DK	1121	København K							55.6777	12.5709	4
+DK	1122	København K							55.6777	12.5709	4
+DK	1123	København K							55.6777	12.5709	4
+DK	1124	København K							55.6777	12.5709	4
+DK	1125	København K							55.6777	12.5709	4
+DK	1126	København K							55.6777	12.5709	4
+DK	1127	København K							55.6777	12.5709	4
+DK	1128	København K							55.6777	12.5709	4
+DK	1129	København K							55.6777	12.5709	4
+DK	1130	København K							55.6777	12.5709	4
+DK	1131	København K							55.6777	12.5709	4
+DK	1140	København K							55.6777	12.5709	4
+DK	1147	København K							55.6777	12.5709	4
+DK	1148	København K							55.6777	12.5709	4
+DK	1150	København K							55.6777	12.5709	4
+DK	1151	København K							55.6777	12.5709	4
+DK	1152	København K							55.6777	12.5709	4
+DK	1153	København K							55.6777	12.5709	4
+DK	1154	København K							55.6777	12.5709	4
+DK	1155	København K							55.6777	12.5709	4
+DK	1156	København K							55.6777	12.5709	4
+DK	1157	København K							55.6777	12.5709	4
+DK	1158	København K							55.6777	12.5709	4
+DK	1159	København K							55.6777	12.5709	4
+DK	1160	København K							55.6777	12.5709	4
+DK	1161	København K							55.6777	12.5709	4
+DK	1162	København K							55.6777	12.5709	4
+DK	1163	København K							55.6777	12.5709	4
+DK	1164	København K							55.6777	12.5709	4
+DK	1165	København K							55.6777	12.5709	4
+DK	1166	København K							55.6777	12.5709	4
+DK	1167	København K							55.6777	12.5709	4
+DK	1168	København K							55.6777	12.5709	4
+DK	1169	København K							55.6777	12.5709	4
+DK	1170	København K							55.6777	12.5709	4
+DK	1171	København K							55.6777	12.5709	4
+DK	1172	København K							55.6777	12.5709	4
+DK	1173	København K							55.6777	12.5709	4
+DK	1174	København K							55.6777	12.5709	4
+DK	1175	København K							55.6777	12.5709	4
+DK	1200	København K							55.6777	12.5709	4
+DK	1201	København K							55.6777	12.5709	4
+DK	1202	København K							55.6777	12.5709	4
+DK	1203	København K							55.6777	12.5709	4
+DK	1204	København K							55.6777	12.5709	4
+DK	1205	København K							55.6777	12.5709	4
+DK	1206	København K							55.6777	12.5709	4
+DK	1207	København K							55.6777	12.5709	4
+DK	1208	København K							55.6777	12.5709	4
+DK	1209	København K							55.6777	12.5709	4
+DK	1210	København K							55.6777	12.5709	4
+DK	1211	København K							55.6777	12.5709	4
+DK	1212	København K							55.6777	12.5709	4
+DK	1213	København K							55.6777	12.5709	4
+DK	1214	København K							55.6777	12.5709	4
+DK	1215	København K							55.6777	12.5709	4
+DK	1216	København K							55.6777	12.5709	4
+DK	1217	København K							55.6777	12.5709	4
+DK	1218	København K							55.6777	12.5709	4
+DK	1219	København K							55.6777	12.5709	4
+DK	1220	København K							55.6777	12.5709	4
+DK	1240	København K							55.6777	12.5709	4
+DK	1250	København K							55.6777	12.5709	4
+DK	1251	København K							55.6777	12.5709	4
+DK	1252	København K							55.6777	12.5709	4
+DK	1253	København K							55.6777	12.5709	4
+DK	1254	København K							55.6777	12.5709	4
+DK	1255	København K							55.6777	12.5709	4
+DK	1256	København K							55.6777	12.5709	4
+DK	1257	København K							55.6777	12.5709	4
+DK	1258	København K							55.6777	12.5709	4
+DK	1259	København K							55.6777	12.5709	4
+DK	1260	København K							55.6777	12.5709	4
+DK	1261	København K							55.6777	12.5709	4
+DK	1263	København K							55.6777	12.5709	4
+DK	1264	København K							55.6777	12.5709	4
+DK	1265	København K							55.6777	12.5709	4
+DK	1266	København K							55.6777	12.5709	4
+DK	1267	København K							55.6777	12.5709	4
+DK	1268	København K							55.6777	12.5709	4
+DK	1270	København K							55.6777	12.5709	4
+DK	1271	København K							55.6777	12.5709	4
+DK	1291	København K							55.6777	12.5709	4
+DK	1300	København K							55.6777	12.5709	4
+DK	1301	København K							55.6777	12.5709	4
+DK	1302	København K							55.6777	12.5709	4
+DK	1303	København K							55.6777	12.5709	4
+DK	1304	København K							55.6777	12.5709	4
+DK	1306	København K							55.6777	12.5709	4
+DK	1307	København K							55.6777	12.5709	4
+DK	1308	København K							55.6777	12.5709	4
+DK	1309	København K							55.6777	12.5709	4
+DK	1310	København K							55.6777	12.5709	4
+DK	1311	København K							55.6777	12.5709	4
+DK	1312	København K							55.6777	12.5709	4
+DK	1313	København K							55.6777	12.5709	4
+DK	1314	København K							55.6777	12.5709	4
+DK	1315	København K							55.6777	12.5709	4
+DK	1316	København K							55.6777	12.5709	4
+DK	1317	København K							55.6777	12.5709	4
+DK	1318	København K							55.6777	12.5709	4
+DK	1319	København K							55.6777	12.5709	4
+DK	1320	København K							55.6777	12.5709	4
+DK	1321	København K							55.6777	12.5709	4
+DK	1322	København K							55.6777	12.5709	4
+DK	1323	København K							55.6777	12.5709	4
+DK	1324	København K							55.6777	12.5709	4
+DK	1325	København K							55.6777	12.5709	4
+DK	1326	København K							55.6777	12.5709	4
+DK	1327	København K							55.6777	12.5709	4
+DK	1328	København K							55.6777	12.5709	4
+DK	1329	København K							55.6777	12.5709	4
+DK	1349	København K							55.6777	12.5709	4
+DK	1350	København K							55.6777	12.5709	4
+DK	1352	København K							55.6777	12.5709	4
+DK	1353	København K							55.6777	12.5709	4
+DK	1354	København K							55.6777	12.5709	4
+DK	1355	København K							55.6777	12.5709	4
+DK	1356	København K							55.6777	12.5709	4
+DK	1357	København K							55.6777	12.5709	4
+DK	1358	København K							55.6777	12.5709	4
+DK	1359	København K							55.6777	12.5709	4
+DK	1360	København K							55.6777	12.5709	4
+DK	1361	København K							55.6777	12.5709	4
+DK	1362	København K							55.6777	12.5709	4
+DK	1363	København K							55.6777	12.5709	4
+DK	1364	København K							55.6777	12.5709	4
+DK	1365	København K							55.6777	12.5709	4
+DK	1366	København K							55.6777	12.5709	4
+DK	1367	København K							55.6777	12.5709	4
+DK	1368	København K							55.6777	12.5709	4
+DK	1369	København K							55.6777	12.5709	4
+DK	1370	København K							55.6777	12.5709	4
+DK	1371	København K							55.6777	12.5709	4
+DK	1390	København K							55.6777	12.5709	4
+DK	1399	København K							55.6777	12.5709	4
+DK	1400	København K							55.6777	12.5709	4
+DK	1401	København K							55.6777	12.5709	4
+DK	1402	København K							55.6777	12.5709	4
+DK	1403	København K							55.6777	12.5709	4
+DK	1404	København K							55.6777	12.5709	4
+DK	1405	København K							55.6777	12.5709	4
+DK	1406	København K							55.6777	12.5709	4
+DK	1407	København K							55.6777	12.5709	4
+DK	1408	København K							55.6777	12.5709	4
+DK	1409	København K							55.6777	12.5709	4
+DK	1410	København K							55.6777	12.5709	4
+DK	1411	København K							55.6777	12.5709	4
+DK	1412	København K							55.6777	12.5709	4
+DK	1413	København K							55.6777	12.5709	4
+DK	1414	København K							55.6777	12.5709	4
+DK	1415	København K							55.6777	12.5709	4
+DK	1416	København K							55.6777	12.5709	4
+DK	1417	København K							55.6777	12.5709	4
+DK	1418	København K							55.6777	12.5709	4
+DK	1419	København K							55.6777	12.5709	4
+DK	1420	København K							55.6777	12.5709	4
+DK	1421	København K							55.6777	12.5709	4
+DK	1422	København K							55.6777	12.5709	4
+DK	1423	København K							55.6777	12.5709	4
+DK	1424	København K							55.6777	12.5709	4
+DK	1425	København K							55.6777	12.5709	4
+DK	1426	København K							55.6777	12.5709	4
+DK	1427	København K							55.6777	12.5709	4
+DK	1428	København K							55.6777	12.5709	4
+DK	1429	København K							55.6777	12.5709	4
+DK	1430	København K							55.6777	12.5709	4
+DK	1431	København K							55.6777	12.5709	4
+DK	1432	København K							55.6777	12.5709	4
+DK	1433	København K							55.6777	12.5709	4
+DK	1434	København K							55.6777	12.5709	4
+DK	1435	København K							55.6777	12.5709	4
+DK	1436	København K							55.6777	12.5709	4
+DK	1437	København K							55.6777	12.5709	4
+DK	1438	København K							55.6777	12.5709	4
+DK	1439	København K							55.6777	12.5709	4
+DK	1440	København K							55.6777	12.5709	4
+DK	1441	København K							55.6777	12.5709	4
+DK	1448	København K							55.6777	12.5709	4
+DK	1450	København K							55.6777	12.5709	4
+DK	1451	København K							55.6777	12.5709	4
+DK	1452	København K							55.6777	12.5709	4
+DK	1453	København K							55.6777	12.5709	4
+DK	1454	København K							55.6777	12.5709	4
+DK	1455	København K							55.6777	12.5709	4
+DK	1456	København K							55.6777	12.5709	4
+DK	1457	København K							55.6777	12.5709	4
+DK	1458	København K							55.6777	12.5709	4
+DK	1459	København K							55.6777	12.5709	4
+DK	1460	København K							55.6777	12.5709	4
+DK	1461	København K							55.6777	12.5709	4
+DK	1462	København K							55.6777	12.5709	4
+DK	1463	København K							55.6777	12.5709	4
+DK	1464	København K							55.6777	12.5709	4
+DK	1465	København K							55.6777	12.5709	4
+DK	1466	København K							55.6777	12.5709	4
+DK	1467	København K							55.6777	12.5709	4
+DK	1468	København K							55.6777	12.5709	4
+DK	1470	København K							55.6777	12.5709	4
+DK	1471	København K							55.6777	12.5709	4
+DK	1472	København K							55.6777	12.5709	4
+DK	1473	København K							55.6777	12.5709	4
+DK	1500	København V							55.6777	12.5709	4
+DK	1501	København V							55.6777	12.5709	4
+DK	1502	København V							55.6777	12.5709	4
+DK	1503	København V							55.6777	12.5709	4
+DK	1504	København V							55.6777	12.5709	4
+DK	1505	København V							55.6777	12.5709	4
+DK	1506	København V							55.6777	12.5709	4
+DK	1507	København V							55.6777	12.5709	4
+DK	1508	København V							55.6777	12.5709	4
+DK	1509	København V							55.6777	12.5709	4
+DK	1510	København V							55.6777	12.5709	4
+DK	1532	København V							55.6777	12.5709	4
+DK	1533	København V							55.6777	12.5709	4
+DK	1550	København V							55.6777	12.5709	4
+DK	1551	København V							55.6777	12.5709	4
+DK	1552	København V							55.6777	12.5709	4
+DK	1553	København V							55.6777	12.5709	4
+DK	1554	København V							55.6777	12.5709	4
+DK	1555	København V							55.6777	12.5709	4
+DK	1556	København V							55.6777	12.5709	4
+DK	1557	København V							55.6777	12.5709	4
+DK	1558	København V							55.6777	12.5709	4
+DK	1559	København V							55.6777	12.5709	4
+DK	1560	København V							55.6777	12.5709	4
+DK	1561	København V							55.6777	12.5709	4
+DK	1562	København V							55.6777	12.5709	4
+DK	1563	København V							55.6777	12.5709	4
+DK	1564	København V							55.6777	12.5709	4
+DK	1566	København V							55.6777	12.5709	4
+DK	1567	København V							55.6777	12.5709	4
+DK	1568	København V							55.6777	12.5709	4
+DK	1569	København V							55.6777	12.5709	4
+DK	1570	København V							55.6777	12.5709	4
+DK	1571	København V							55.6777	12.5709	4
+DK	1572	København V							55.6777	12.5709	4
+DK	1573	København V							55.6777	12.5709	4
+DK	1574	København V							55.6777	12.5709	4
+DK	1575	København V							55.6777	12.5709	4
+DK	1576	København V							55.6777	12.5709	4
+DK	1577	København V							55.6777	12.5709	4
+DK	1590	København V							55.6777	12.5709	4
+DK	1592	København V							55.6777	12.5709	4
+DK	1595	København V							55.6777	12.5709	4
+DK	1599	København V							55.6777	12.5709	4
+DK	1600	København V							55.6777	12.5709	4
+DK	1601	København V							55.6777	12.5709	4
+DK	1602	København V							55.6777	12.5709	4
+DK	1603	København V							55.6777	12.5709	4
+DK	1604	København V							55.6777	12.5709	4
+DK	1605	København V							55.6777	12.5709	4
+DK	1606	København V							55.6777	12.5709	4
+DK	1607	København V							55.6777	12.5709	4
+DK	1608	København V							55.6777	12.5709	4
+DK	1609	København V							55.6777	12.5709	4
+DK	1610	København V							55.6777	12.5709	4
+DK	1611	København V							55.6777	12.5709	4
+DK	1612	København V							55.6777	12.5709	4
+DK	1613	København V							55.6777	12.5709	4
+DK	1614	København V							55.6777	12.5709	4
+DK	1615	København V							55.6777	12.5709	4
+DK	1616	København V							55.6777	12.5709	4
+DK	1617	København V							55.6777	12.5709	4
+DK	1618	København V							55.6777	12.5709	4
+DK	1619	København V							55.6777	12.5709	4
+DK	1620	København V							55.6777	12.5709	4
+DK	1621	København V							55.6777	12.5709	4
+DK	1622	København V							55.6777	12.5709	4
+DK	1623	København V							55.6777	12.5709	4
+DK	1624	København V							55.6777	12.5709	4
+DK	1630	København V							55.6777	12.5709	4
+DK	1631	København V							55.6777	12.5709	4
+DK	1632	København V							55.6777	12.5709	4
+DK	1633	København V							55.6777	12.5709	4
+DK	1634	København V							55.6777	12.5709	4
+DK	1635	København V							55.6777	12.5709	4
+DK	1639	København V							55.6777	12.5709	4
+DK	1640	København V							55.6777	12.5709	4
+DK	1650	København V							55.6777	12.5709	4
+DK	1651	København V							55.6777	12.5709	4
+DK	1652	København V							55.6777	12.5709	4
+DK	1653	København V							55.6777	12.5709	4
+DK	1654	København V							55.6777	12.5709	4
+DK	1655	København V							55.6777	12.5709	4
+DK	1656	København V							55.6777	12.5709	4
+DK	1657	København V							55.6777	12.5709	4
+DK	1658	København V							55.6777	12.5709	4
+DK	1659	København V							55.6777	12.5709	4
+DK	1660	København V							55.6777	12.5709	4
+DK	1661	København V							55.6777	12.5709	4
+DK	1662	København V							55.6777	12.5709	4
+DK	1663	København V							55.6777	12.5709	4
+DK	1664	København V							55.6777	12.5709	4
+DK	1665	København V							55.6777	12.5709	4
+DK	1666	København V							55.6777	12.5709	4
+DK	1667	København V							55.6777	12.5709	4
+DK	1668	København V							55.6777	12.5709	4
+DK	1669	København V							55.6777	12.5709	4
+DK	1670	København V							55.6777	12.5709	4
+DK	1671	København V							55.6777	12.5709	4
+DK	1672	København V							55.6777	12.5709	4
+DK	1673	København V							55.6777	12.5709	4
+DK	1674	København V							55.6777	12.5709	4
+DK	1675	København V							55.6777	12.5709	4
+DK	1676	København V							55.6777	12.5709	4
+DK	1677	København V							55.6777	12.5709	4
+DK	1699	København V							55.6777	12.5709	4
+DK	1700	København V							55.6777	12.5709	4
+DK	1701	København V							55.6777	12.5709	4
+DK	1702	København V							55.6777	12.5709	4
+DK	1703	København V							55.6777	12.5709	4
+DK	1704	København V							55.6777	12.5709	4
+DK	1705	København V							55.6777	12.5709	4
+DK	1706	København V							55.6777	12.5709	4
+DK	1707	København V							55.6777	12.5709	4
+DK	1708	København V							55.6777	12.5709	4
+DK	1709	København V							55.6777	12.5709	4
+DK	1710	København V							55.6777	12.5709	4
+DK	1711	København V							55.6777	12.5709	4
+DK	1712	København V							55.6777	12.5709	4
+DK	1713	København V							55.6777	12.5709	4
+DK	1714	København V							55.6777	12.5709	4
+DK	1715	København V							55.6777	12.5709	4
+DK	1716	København V							55.6777	12.5709	4
+DK	1717	København V							55.6777	12.5709	4
+DK	1718	København V							55.6777	12.5709	4
+DK	1719	København V							55.6777	12.5709	4
+DK	1720	København V							55.6777	12.5709	4
+DK	1721	København V							55.6777	12.5709	4
+DK	1722	København V							55.6777	12.5709	4
+DK	1723	København V							55.6777	12.5709	4
+DK	1724	København V							55.6777	12.5709	4
+DK	1725	København V							55.6777	12.5709	4
+DK	1726	København V							55.6777	12.5709	4
+DK	1727	København V							55.6777	12.5709	4
+DK	1728	København V							55.6777	12.5709	4
+DK	1729	København V							55.6777	12.5709	4
+DK	1730	København V							55.6777	12.5709	4
+DK	1731	København V							55.6777	12.5709	4
+DK	1732	København V							55.6777	12.5709	4
+DK	1733	København V							55.6777	12.5709	4
+DK	1734	København V							55.6777	12.5709	4
+DK	1735	København V							55.6777	12.5709	4
+DK	1736	København V							55.6777	12.5709	4
+DK	1737	København V							55.6777	12.5709	4
+DK	1738	København V							55.6777	12.5709	4
+DK	1739	København V							55.6777	12.5709	4
+DK	1748	København V							55.6777	12.5709	4
+DK	1749	København V							55.6777	12.5709	4
+DK	1750	København V							55.6777	12.5709	4
+DK	1751	København V							55.6777	12.5709	4
+DK	1752	København V							55.6777	12.5709	4
+DK	1753	København V							55.6777	12.5709	4
+DK	1754	København V							55.6777	12.5709	4
+DK	1755	København V							55.6777	12.5709	4
+DK	1756	København V							55.6777	12.5709	4
+DK	1757	København V							55.6777	12.5709	4
+DK	1758	København V							55.6777	12.5709	4
+DK	1759	København V							55.6777	12.5709	4
+DK	1760	København V							55.6777	12.5709	4
+DK	1761	København V							55.6777	12.5709	4
+DK	1762	København V							55.6777	12.5709	4
+DK	1763	København V							55.6777	12.5709	4
+DK	1764	København V							55.6777	12.5709	4
+DK	1765	København V							55.6777	12.5709	4
+DK	1766	København V							55.6777	12.5709	4
+DK	1770	København V							55.6777	12.5709	4
+DK	1771	København V							55.6777	12.5709	4
+DK	1772	København V							55.6777	12.5709	4
+DK	1773	København V							55.6777	12.5709	4
+DK	1774	København V							55.6777	12.5709	4
+DK	1775	København V							55.6777	12.5709	4
+DK	1777	København V							55.6777	12.5709	4
+DK	1778	København V							55.6777	12.5709	4
+DK	1780	København V							55.6777	12.5709	4
+DK	1782	København V							55.6777	12.5709	4
+DK	1783	København V							55.6777	12.5709	4
+DK	1784	København V							55.6777	12.5709	4
+DK	1785	København V							55.6777	12.5709	4
+DK	1786	København V							55.6777	12.5709	4
+DK	1787	København V							55.6777	12.5709	4
+DK	1788	København V							55.6777	12.5709	4
+DK	1789	København V							55.6777	12.5709	4
+DK	1790	København V							55.6777	12.5709	4
+DK	1795	København V							55.6777	12.5709	4
+DK	1799	København V							55.6777	12.5709	4
+DK	1800	Frederiksberg C							55.6794	12.5346	4
+DK	1801	Frederiksberg C							55.6794	12.5346	4
+DK	1802	Frederiksberg C							55.6794	12.5346	4
+DK	1803	Frederiksberg C							55.6794	12.5346	4
+DK	1804	Frederiksberg C							55.6794	12.5346	4
+DK	1805	Frederiksberg C							55.6794	12.5346	4
+DK	1806	Frederiksberg C							55.6794	12.5346	4
+DK	1807	Frederiksberg C							55.6794	12.5346	4
+DK	1808	Frederiksberg C							55.6794	12.5346	4
+DK	1809	Frederiksberg C							55.6794	12.5346	4
+DK	1810	Frederiksberg C							55.6794	12.5346	4
+DK	1811	Frederiksberg C							55.6794	12.5346	4
+DK	1812	Frederiksberg C							55.6794	12.5346	4
+DK	1813	Frederiksberg C							55.6794	12.5346	4
+DK	1814	Frederiksberg C							55.6794	12.5346	4
+DK	1815	Frederiksberg C							55.6794	12.5346	4
+DK	1816	Frederiksberg C							55.6794	12.5346	4
+DK	1817	Frederiksberg C							55.6794	12.5346	4
+DK	1818	Frederiksberg C							55.6794	12.5346	4
+DK	1819	Frederiksberg C							55.6794	12.5346	4
+DK	1820	Frederiksberg C							55.6794	12.5346	4
+DK	1822	Frederiksberg C							55.6794	12.5346	4
+DK	1823	Frederiksberg C							55.6794	12.5346	4
+DK	1824	Frederiksberg C							55.6794	12.5346	4
+DK	1825	Frederiksberg C							55.6794	12.5346	4
+DK	1826	Frederiksberg C							55.6794	12.5346	4
+DK	1827	Frederiksberg C							55.6794	12.5346	4
+DK	1828	Frederiksberg C							55.6794	12.5346	4
+DK	1829	Frederiksberg C							55.6794	12.5346	4
+DK	1835	Frederiksberg C							55.6794	12.5346	4
+DK	1850	Frederiksberg C							55.6794	12.5346	4
+DK	1851	Frederiksberg C							55.6794	12.5346	4
+DK	1852	Frederiksberg C							55.6794	12.5346	4
+DK	1853	Frederiksberg C							55.6794	12.5346	4
+DK	1854	Frederiksberg C							55.6794	12.5346	4
+DK	1855	Frederiksberg C							55.6794	12.5346	4
+DK	1856	Frederiksberg C							55.6794	12.5346	4
+DK	1857	Frederiksberg C							55.6794	12.5346	4
+DK	1860	Frederiksberg C							55.6794	12.5346	4
+DK	1861	Frederiksberg C							55.6794	12.5346	4
+DK	1862	Frederiksberg C							55.6794	12.5346	4
+DK	1863	Frederiksberg C							55.6794	12.5346	4
+DK	1864	Frederiksberg C							55.6794	12.5346	4
+DK	1865	Frederiksberg C							55.6794	12.5346	4
+DK	1866	Frederiksberg C							55.6794	12.5346	4
+DK	1867	Frederiksberg C							55.6794	12.5346	4
+DK	1868	Frederiksberg C							55.6794	12.5346	4
+DK	1870	Frederiksberg C							55.6794	12.5346	4
+DK	1871	Frederiksberg C							55.6794	12.5346	4
+DK	1872	Frederiksberg C							55.6794	12.5346	4
+DK	1873	Frederiksberg C							55.6794	12.5346	4
+DK	1874	Frederiksberg C							55.6794	12.5346	4
+DK	1875	Frederiksberg C							55.6794	12.5346	4
+DK	1876	Frederiksberg C							55.6794	12.5346	4
+DK	1877	Frederiksberg C							55.6794	12.5346	4
+DK	1878	Frederiksberg C							55.6794	12.5346	4
+DK	1879	Frederiksberg C							55.6794	12.5346	4
+DK	1900	Frederiksberg C							55.6794	12.5346	4
+DK	1901	Frederiksberg C							55.6794	12.5346	4
+DK	1902	Frederiksberg C							55.6794	12.5346	4
+DK	1903	Frederiksberg C							55.6794	12.5346	4
+DK	1904	Frederiksberg C							55.6794	12.5346	4
+DK	1905	Frederiksberg C							55.6794	12.5346	4
+DK	1906	Frederiksberg C							55.6794	12.5346	4
+DK	1908	Frederiksberg C							55.6794	12.5346	4
+DK	1909	Frederiksberg C							55.6794	12.5346	4
+DK	1910	Frederiksberg C							55.6794	12.5346	4
+DK	1911	Frederiksberg C							55.6794	12.5346	4
+DK	1912	Frederiksberg C							55.6794	12.5346	4
+DK	1913	Frederiksberg C							55.6794	12.5346	4
+DK	1914	Frederiksberg C							55.6794	12.5346	4
+DK	1915	Frederiksberg C							55.6794	12.5346	4
+DK	1916	Frederiksberg C							55.6794	12.5346	4
+DK	1917	Frederiksberg C							55.6794	12.5346	4
+DK	1920	Frederiksberg C							55.6794	12.5346	4
+DK	1921	Frederiksberg C							55.6794	12.5346	4
+DK	1922	Frederiksberg C							55.6794	12.5346	4
+DK	1923	Frederiksberg C							55.6794	12.5346	4
+DK	1924	Frederiksberg C							55.6794	12.5346	4
+DK	1925	Frederiksberg C							55.6794	12.5346	4
+DK	1926	Frederiksberg C							55.6794	12.5346	4
+DK	1927	Frederiksberg C							55.6794	12.5346	4
+DK	1928	Frederiksberg C							55.6794	12.5346	4
+DK	1931	Frederiksberg C							55.6794	12.5346	4
+DK	1950	Frederiksberg C							55.6794	12.5346	4
+DK	1951	Frederiksberg C							55.6794	12.5346	4
+DK	1952	Frederiksberg C							55.6794	12.5346	4
+DK	1953	Frederiksberg C							55.6794	12.5346	4
+DK	1954	Frederiksberg C							55.6794	12.5346	4
+DK	1955	Frederiksberg C							55.6794	12.5346	4
+DK	1956	Frederiksberg C							55.6794	12.5346	4
+DK	1957	Frederiksberg C							55.6794	12.5346	4
+DK	1958	Frederiksberg C							55.6794	12.5346	4
+DK	1959	Frederiksberg C							55.6794	12.5346	4
+DK	1960	Frederiksberg C							55.6794	12.5346	4
+DK	1961	Frederiksberg C							55.6794	12.5346	4
+DK	1962	Frederiksberg C							55.6794	12.5346	4
+DK	1963	Frederiksberg C							55.6794	12.5346	4
+DK	1964	Frederiksberg C							55.6794	12.5346	4
+DK	1965	Frederiksberg C							55.6794	12.5346	4
+DK	1966	Frederiksberg C							55.6794	12.5346	4
+DK	1967	Frederiksberg C							55.6794	12.5346	4
+DK	1970	Frederiksberg C							55.6794	12.5346	4
+DK	1971	Frederiksberg C							55.6794	12.5346	4
+DK	1972	Frederiksberg C							55.6794	12.5346	4
+DK	1973	Frederiksberg C							55.6794	12.5346	4
+DK	1974	Frederiksberg C							55.6794	12.5346	4
+DK	1999	Frederiksberg C							55.6794	12.5346	4
+DK	2000	Frederiksberg							55.6794	12.5346	4
+DK	2100	København Ø							55.6777	12.5709	4
+DK	2200	København N							55.6777	12.5709	4
+DK	2300	København S							55.6777	12.5709	4
+DK	2400	København NV							55.6777	12.5709	4
+DK	2450	København SV							55.6777	12.5709	4
+DK	2500	Valby							55.65	12.5167	4
+DK	2600	Glostrup							55.6667	12.4	4
+DK	2605	Brøndby							55.65	12.4167	4
+DK	2610	Rødovre							55.6806	12.4537	4
+DK	2620	Albertslund							55.6569	12.3638	4
+DK	2625	Vallensbæk							55.6333	12.3667	4
+DK	2630	Taastrup							55.6517	12.2922	4
+DK	2633	Taastrup							55.6517	12.2922	4
+DK	2635	Ishøj							55.6154	12.3518	4
+DK	2640	Hedehusene							55.65	12.2	4
+DK	2650	Hvidovre							55.6572	12.4736	4
+DK	2660	Brøndby Strand							55.6167	12.35	4
+DK	2665	Vallensbæk Strand							55.6167	12.35	1
+DK	2670	Greve							55.5833	12.3	4
+DK	2680	Solrød Strand							55.5329	12.2223	4
+DK	2690	Karlslunde							55.5667	12.2333	4
+DK	2700	Brønshøj							55.7	12.5167	4
+DK	2720	Vanløse							55.6833	12.5	4
+DK	2730	Herlev							55.7237	12.44	4
+DK	2740	Skovlunde							55.7167	12.4	4
+DK	2750	Ballerup							55.7316	12.3633	4
+DK	2760	Måløv							55.75	12.3333	4
+DK	2765	Smørum							55.75	12.3333	1
+DK	2770	Kastrup							55.6333	12.65	4
+DK	2791	Dragør							55.5945	12.6664	4
+DK	2800	Kongens Lyngby							55.7704	12.5038	4
+DK	2820	Gentofte							55.75	12.55	4
+DK	2830	Virum							55.8	12.4667	4
+DK	2840	Holte							55.8167	12.4667	4
+DK	2850	Nærum							55.8167	12.55	4
+DK	2860	Søborg							55.7333	12.5167	4
+DK	2870	Dyssegård							55.7791	12.5029	1
+DK	2880	Bagsværd							55.7667	12.4667	4
+DK	2900	Hellerup							55.732	12.5709	4
+DK	2920	Charlottenlund							55.75	12.5833	4
+DK	2930	Klampenborg							55.7667	12.6	4
+DK	2942	Skodsborg							55.8167	12.5667	4
+DK	2950	Vedbæk							55.85	12.5667	4
+DK	2960	Rungsted Kyst							55.829	12.5526	1
+DK	2970	Hørsholm							55.8833	12.5	4
+DK	2980	Kokkedal							55.9	12.5167	4
+DK	2990	Nivå							55.9333	12.5167	4
+DK	3000	Helsingør							56.0361	12.6136	4
+DK	3050	Humlebæk							55.9618	12.5341	4
+DK	3060	Espergærde							56	12.5667	4
+DK	3070	Snekkersten							56	12.6	4
+DK	3080	Tikøb							56.0167	12.4667	4
+DK	3100	Hornbæk							56.0833	12.4667	4
+DK	3120	Dronningmølle							56.1	12.4	4
+DK	3140	Ålsgårde							56.0833	12.55	4
+DK	3150	Hellebæk							56.0667	12.5667	4
+DK	3200	Helsinge							56.0228	12.1975	4
+DK	3210	Vejby							56.0667	12.15	4
+DK	3220	Tisvildeleje							56.05	12.0833	4
+DK	3230	Græsted							56.0667	12.2833	4
+DK	3250	Gilleleje							56.1167	12.3167	4
+DK	3300	Frederiksværk							55.9707	12.0225	4
+DK	3310	Ølsted							55.9167	12.0833	4
+DK	3320	Skævinge							55.9167	12.1667	4
+DK	3330	Gørløse							55.8833	12.2	4
+DK	3360	Liseleje							56.0167	11.9833	4
+DK	3370	Melby							56	11.9833	4
+DK	3390	Hundested							55.9667	11.8667	4
+DK	3400	Hillerød							55.9267	12.3109	4
+DK	3450	Allerød							55.8667	12.3833	4
+DK	3460	Birkerød							55.8476	12.4279	4
+DK	3480	Fredensborg							55.9667	12.4	4
+DK	3490	Kvistgård							55.9833	12.5	4
+DK	3500	Værløse							55.7833	12.3833	4
+DK	3520	Farum							55.8086	12.3607	4
+DK	3540	Lynge							55.85	12.2833	4
+DK	3550	Slangerup							55.85	12.1833	4
+DK	3600	Frederikssund							55.8396	12.069	4
+DK	3630	Jægerspris							55.85	11.9833	4
+DK	3650	Ølstykke							55.8	12.1667	4
+DK	3660	Stenløse							55.7683	12.1972	4
+DK	3670	Veksø Sjælland							55.8145	12.104	1
+DK	3700	Rønne							55.1	14.7	4
+DK	3720	Aakirkeby							55.0708	14.9198	4
+DK	3730	Nexø							55.0667	15.15	4
+DK	3740	Svaneke							55.1357	15.1414	4
+DK	3751	Østermarie							55.1407	15.0125	4
+DK	3760	Gudhjem							55.2167	14.9833	4
+DK	3770	Allinge							55.2667	14.8167	4
+DK	3782	Klemensker							55.1667	14.8167	4
+DK	3790	Hasle							55.1833	14.7167	4
+DK	4000	Roskilde							55.6415	12.0803	4
+DK	4030	Tune							55.6	12.1833	4
+DK	4040	Jyllinge							55.75	12.1167	4
+DK	4050	Skibby							55.75	11.9667	4
+DK	4060	Kirke Såby							55.6167	11.8667	4
+DK	4070	Kirke Hyllinge							55.7	11.9167	4
+DK	4100	Ringsted							55.4426	11.7901	4
+DK	4105	Ringsted							55.4426	11.7901	4
+DK	4129	Ringsted							55.4426	11.7901	4
+DK	4130	Viby Sjælland							55.55	12.0333	4
+DK	4140	Borup							55.5	11.9833	4
+DK	4160	Herlufmagle							55.3167	11.7667	4
+DK	4171	Glumsø							55.35	11.7	4
+DK	4173	Fjenneslev							55.4333	11.7	4
+DK	4174	Jystrup Midtsj							55.3917	11.7	1
+DK	4180	Sorø							55.4318	11.5555	4
+DK	4190	Munke Bjergby							55.5	11.5333	4
+DK	4200	Slagelse							55.4028	11.3546	4
+DK	4220	Korsør							55.3299	11.1386	4
+DK	4230	Skælskør							55.25	11.3167	4
+DK	4241	Vemmelev							55.3667	11.2667	4
+DK	4242	Boeslunde							55.3	11.2833	4
+DK	4243	Rude							55.2333	11.4833	4
+DK	4250	Fuglebjerg							55.3	11.5667	4
+DK	4261	Dalmose							55.3	11.4333	4
+DK	4262	Sandved							55.2667	11.5333	4
+DK	4270	Høng							55.5116	11.2903	4
+DK	4281	Gørlev							55.5393	11.2271	4
+DK	4291	Ruds Vedby							55.55	11.3833	4
+DK	4293	Dianalund							55.5333	11.5	4
+DK	4295	Stenlille							55.5333	11.6	4
+DK	4296	Nyrup							55.4947	11.3623	4
+DK	4300	Holbæk							55.7167	11.7167	4
+DK	4320	Lejre							55.6046	11.9748	4
+DK	4330	Hvalsø							55.5917	11.8625	4
+DK	4340	Tølløse							55.6167	11.75	4
+DK	4350	Ugerløse							55.5833	11.6667	4
+DK	4360	Kirke Eskilstrup							55.5667	11.7667	4
+DK	4370	Store Merløse							55.55	11.7167	4
+DK	4390	Vipperød							55.6667	11.75	4
+DK	4400	Kalundborg							55.6795	11.0886	4
+DK	4420	Regstrup							55.6667	11.6167	4
+DK	4440	Mørkøv							55.6667	11.5167	4
+DK	4450	Jyderup							55.6667	11.4333	4
+DK	4460	Snertinge							55.7167	11.3833	4
+DK	4470	Svebølle							55.6333	11.3333	4
+DK	4480	Store Fuglede							55.5852	11.2454	4
+DK	4490	Jerslev Sjælland							55.6105	11.2406	4
+DK	4500	Nykøbing Sj							55.8181	11.5389	1
+DK	4520	Svinninge							55.8833	11.6167	4
+DK	4532	Gislinge							55.7333	11.55	4
+DK	4534	Hørve							55.75	11.4667	4
+DK	4540	Fårevejle							55.8	11.45	4
+DK	4550	Asnæs							55.8167	11.5167	4
+DK	4560	Vig							55.85	11.6	4
+DK	4571	Grevinge							55.8	11.5667	4
+DK	4572	Nørre Asmindrup							55.8833	11.6333	4
+DK	4573	Højby							55.9167	11.6167	4
+DK	4581	Rørvig							55.95	11.7667	4
+DK	4583	Sjællands Odde							55.95	11.7667	1
+DK	4591	Føllenslev							55.7167	11.3667	4
+DK	4592	Sejerø							55.7167	11.3417	1
+DK	4593	Eskebjerg							55.7167	11.3167	4
+DK	4600	Køge							55.458	12.1821	4
+DK	4621	Gadstrup							55.5667	12.1	4
+DK	4622	Havdrup							55.5333	12.1333	4
+DK	4623	Lille Skensved							55.5167	12.15	4
+DK	4632	Bjæverskov							55.45	12.0333	4
+DK	4640	Fakse							55.25	12.1333	4
+DK	4652	Hårlev							55.35	12.25	4
+DK	4653	Karise							55.3	12.2167	4
+DK	4654	Fakse Ladeplads							55.2167	12.1833	4
+DK	4660	Store Heddinge							55.3096	12.3888	4
+DK	4671	Strøby							55.3833	12.3	4
+DK	4672	Klippinge							55.35	12.3333	4
+DK	4673	Rødvig Stevns							55.3667	12.3167	1
+DK	4681	Herfølge							55.4167	12.1667	4
+DK	4682	Tureby							55.3667	12.0833	4
+DK	4683	Rønnede							55.25	12	4
+DK	4684	Holmegaard							55.3444	12.0833	1
+DK	4690	Haslev							55.3235	11.9639	4
+DK	4700	Næstved							55.2299	11.7609	4
+DK	4720	Præstø							55.1167	12.05	4
+DK	4733	Tappernøje							55.1667	11.9833	4
+DK	4735	Mern							55.05	12.0667	4
+DK	4736	Karrebæksminde							55.1833	11.6667	4
+DK	4750	Lundby							55.1167	11.8833	4
+DK	4760	Vordingborg							55.008	11.9106	4
+DK	4771	Kalvehave							55	12.1667	4
+DK	4772	Langebæk							55	12.1	4
+DK	4773	Stensved							55	12.0333	4
+DK	4780	Stege							54.9833	12.3	4
+DK	4791	Borre							55	12.4667	4
+DK	4792	Askeby							54.9167	12.1833	4
+DK	4793	Bogø By							54.9333	12.05	4
+DK	4800	Nykøbing F							54.7554	11.8434	1
+DK	4840	Nørre Alslev							54.9	11.9	4
+DK	4850	Stubbekøbing							54.8888	12.041	4
+DK	4862	Guldborg							54.8667	11.75	4
+DK	4863	Eskilstrup							54.85	11.9	4
+DK	4871	Horbelev							54.8167	12.0667	4
+DK	4872	Idestrup							54.7333	11.9667	4
+DK	4873	Væggerløse							54.7	11.9333	4
+DK	4874	Gedser							54.5764	11.93	4
+DK	4880	Nysted							54.6667	11.75	4
+DK	4891	Toreby L							54.6889	11.6278	1
+DK	4892	Kettinge							54.7	11.75	4
+DK	4894	Øster Ulslev							54.7	11.6333	4
+DK	4895	Errindlev							54.6667	11.5	4
+DK	4900	Nakskov							54.8333	11.15	4
+DK	4912	Harpelunde							54.8833	11.1	4
+DK	4913	Horslunde							54.9	11.2333	4
+DK	4920	Søllested							54.8167	11.2833	4
+DK	4930	Maribo							54.7766	11.5002	4
+DK	4941	Bandholm							54.8333	11.4833	4
+DK	4943	Torrig L							54.8333	11.4833	1
+DK	4944	Fejø							54.8333	11.4833	1
+DK	4951	Nørreballe							54.8	11.4333	4
+DK	4952	Stokkemarke							54.8333	11.3833	4
+DK	4953	Vesterborg							54.85	11.2833	4
+DK	4960	Holeby							54.7167	11.4667	4
+DK	4970	Rødby							54.7	11.4	4
+DK	4983	Dannemare							54.75	11.2	4
+DK	4990	Sakskøbing							54.8	11.65	4
+DK	5000	Odense C							55.3959	10.3883	4
+DK	5029	Odense C							55.3959	10.3883	4
+DK	5090	Odense C							55.3959	10.3883	4
+DK	5100	Odense C							55.3959	10.3883	4
+DK	5200	Odense V							55.3959	10.3883	4
+DK	5210	Odense NV							55.3959	10.3883	4
+DK	5220	Odense SØ							55.3959	10.3883	4
+DK	5230	Odense M							55.3959	10.3883	4
+DK	5240	Odense NØ							55.3959	10.3883	4
+DK	5250	Odense SV							55.3959	10.3883	4
+DK	5260	Odense S							55.3959	10.3883	4
+DK	5270	Odense N							55.3959	10.3883	4
+DK	5290	Marslev							55.3833	10.5167	4
+DK	5300	Kerteminde							55.449	10.6577	4
+DK	5320	Agedrup							55.4167	10.5	4
+DK	5330	Munkebo							55.45	10.5667	4
+DK	5350	Rynkeby							55.4	10.6167	4
+DK	5370	Mesinge							55.5	10.65	4
+DK	5380	Dalby							55.5167	10.6667	4
+DK	5390	Martofte							55.55	10.6667	4
+DK	5400	Bogense							55.5669	10.0886	4
+DK	5450	Otterup							55.5167	10.4	4
+DK	5462	Morud							55.45	10.1833	4
+DK	5463	Harndrup							55.4667	10.0333	4
+DK	5464	Brenderup Fyn							55.4667	10.0444	1
+DK	5466	Asperup							55.4833	9.9167	4
+DK	5471	Søndersø							55.4833	10.2667	4
+DK	5474	Veflinge							55.4833	10.1667	4
+DK	5485	Skamby							55.5167	10.2833	4
+DK	5491	Blommenslyst							55.3833	10.2667	4
+DK	5492	Vissenbjerg							55.3833	10.1333	4
+DK	5500	Middelfart							55.5059	9.7305	4
+DK	5540	Ullerslev							55.3667	10.6667	4
+DK	5550	Langeskov							55.3667	10.6	4
+DK	5560	Aarup							55.3833	10.0667	4
+DK	5580	Nørre Aaby							55.45	9.9	4
+DK	5591	Gelsted							55.4	9.9833	4
+DK	5592	Ejby							55.4333	9.95	4
+DK	5600	Faaborg							55.0951	10.2423	4
+DK	5610	Assens							55.2702	9.9008	4
+DK	5620	Glamsbjerg							55.2667	10.1167	4
+DK	5631	Ebberup							55.25	9.9833	4
+DK	5642	Millinge							55.1333	10.2167	4
+DK	5672	Broby							55.2212	10.1133	1
+DK	5683	Haarby							55.2167	10.1167	4
+DK	5690	Tommerup							55.3167	10.2167	4
+DK	5700	Svendborg							55.0598	10.6068	4
+DK	5750	Ringe							55.2333	10.4833	4
+DK	5762	Vester Skerninge							55.0667	10.45	4
+DK	5771	Stenstrup							55.1167	10.5167	4
+DK	5772	Kværndrup							55.1667	10.5333	4
+DK	5792	Årslev							55.3	10.4833	4
+DK	5800	Nyborg							55.3127	10.7896	4
+DK	5853	Ørbæk							55.2667	10.6833	4
+DK	5854	Gislev							55.2167	10.6167	4
+DK	5856	Ryslinge							55.25	10.55	4
+DK	5863	Ferritslev Fyn							55.3	10.6	4
+DK	5871	Frørup							55.25	10.7167	4
+DK	5874	Hesselager							55.1667	10.75	4
+DK	5881	Skårup Fyn							55.1222	10.7222	1
+DK	5882	Vejstrup							55.1	10.7167	4
+DK	5883	Oure							55.1167	10.7333	4
+DK	5884	Gudme							55.15	10.7167	4
+DK	5892	Gudbjerg Sydfyn							55.2129	10.6873	1
+DK	5900	Rudkøbing							54.9364	10.7102	4
+DK	5932	Humble							54.8333	10.7	4
+DK	5935	Bagenkop							54.75	10.6833	4
+DK	5953	Tranekær							55	10.85	4
+DK	5960	Marstal							54.85	10.5167	4
+DK	5970	Ærøskøbing							54.888	10.4112	4
+DK	5985	Søby Ærø							54.8763	10.6452	1
+DK	6000	Kolding							55.4904	9.4722	4
+DK	6040	Egtved							55.6167	9.3	4
+DK	6051	Almind							55.5667	9.5	4
+DK	6052	Viuf							55.5833	9.5	4
+DK	6064	Jordrup							55.55	9.3167	4
+DK	6070	Christiansfeld							55.35	9.4833	4
+DK	6091	Bjert							55.4167	9.5833	1
+DK	6092	Sønder Stenderup							55.4667	9.6167	4
+DK	6093	Sjølund							55.4	9.5333	4
+DK	6094	Hejls							55.3833	9.6	4
+DK	6100	Haderslev							55.2538	9.4898	4
+DK	6200	Aabenraa							55.0443	9.4174	4
+DK	6230	Rødekro							55.0667	9.35	4
+DK	6240	Løgumkloster							55.05	8.95	4
+DK	6261	Bredebro							55.05	8.8333	4
+DK	6270	Tønder							54.9331	8.8667	4
+DK	6280	Højer							54.9667	8.7167	4
+DK	6300	Gråsten							54.9167	9.6	4
+DK	6310	Broager							54.8833	9.6833	4
+DK	6320	Egernsund							54.9	9.6167	4
+DK	6330	Padborg							54.8167	9.3667	4
+DK	6340	Kruså							54.85	9.4167	4
+DK	6360	Tinglev							54.9333	9.25	4
+DK	6372	Bylderup-Bov							54.9333	9.0833	4
+DK	6392	Bolderslev							54.9833	9.3	4
+DK	6400	Sønderborg							54.9093	9.8074	4
+DK	6430	Nordborg							55.05	9.75	4
+DK	6440	Augustenborg							54.95	9.8833	4
+DK	6470	Sydals							54.9698	9.8136	1
+DK	6500	Vojens							55.25	9.3167	4
+DK	6510	Gram							55.2833	9.0667	4
+DK	6520	Toftlund							55.1833	9.0667	4
+DK	6534	Agerskov							55.1167	9.1333	4
+DK	6535	Branderup J							55.1167	9.1333	1
+DK	6541	Bevtoft							55.2	9.2167	4
+DK	6560	Sommersted							55.3167	9.3167	4
+DK	6580	Vamdrup							55.4167	9.2833	4
+DK	6600	Vejen							55.4833	9.15	4
+DK	6621	Gesten							55.5167	9.2	4
+DK	6622	Bække							55.5667	9.15	4
+DK	6623	Vorbasse							55.6333	9.0833	4
+DK	6630	Rødding							55.3667	9.0667	4
+DK	6640	Lunderskov							55.4833	9.3	4
+DK	6650	Brørup							55.4833	9.0167	4
+DK	6660	Lintrup							55.55	8.95	4
+DK	6670	Holsted							55.5	8.9167	4
+DK	6682	Hovborg							55.6	8.95	4
+DK	6683	Føvling							55.45	8.95	4
+DK	6690	Gørding							55.4833	8.8	4
+DK	6700	Esbjerg							55.4667	8.45	4
+DK	6701	Esbjerg							55.4667	8.45	4
+DK	6705	Esbjerg Ø							55.4667	8.45	1
+DK	6710	Esbjerg V							55.4061	8.6394	1
+DK	6715	Esbjerg N							55.4061	8.6394	1
+DK	6720	Fanø							55.4333	8.3833	4
+DK	6731	Tjæreborg							55.4667	8.5833	4
+DK	6740	Bramming							55.4667	8.7	4
+DK	6752	Glejbjerg							55.5667	8.8333	4
+DK	6753	Agerbæk							55.6	8.8	4
+DK	6760	Ribe							55.35	8.7667	4
+DK	6771	Gredstedbro							55.4	8.75	4
+DK	6780	Skærbæk							55.15	8.7667	4
+DK	6792	Rømø							55.1	8.55	4
+DK	6800	Varde							55.6211	8.4807	4
+DK	6818	Årre							55.5667	8.6667	4
+DK	6823	Ansager							55.7	8.75	4
+DK	6830	Nørre Nebel							55.7833	8.3	4
+DK	6840	Oksbøl							55.6333	8.2833	4
+DK	6851	Janderup Vestj							55.6333	8.2125	1
+DK	6852	Billum							55.6167	8.3333	4
+DK	6853	Vejers Strand							55.6333	8.1333	4
+DK	6854	Henne							55.7333	8.25	4
+DK	6855	Outrup							55.6333	8.2125	1
+DK	6857	Blåvand							55.55	8.1333	4
+DK	6862	Tistrup							55.7167	8.6	4
+DK	6870	Ølgod							55.8167	8.6167	4
+DK	6880	Tarm							55.9167	8.5333	4
+DK	6893	Hemmet							55.85	8.3833	4
+DK	6900	Skjern							55.95	8.5	4
+DK	6920	Videbæk							56.0833	8.6333	4
+DK	6933	Kibæk							56.0333	8.85	4
+DK	6940	Lem St							56.1026	8.4567	1
+DK	6950	Ringkøbing							56.0901	8.244	4
+DK	6960	Hvide Sande							55.9833	8.1333	4
+DK	6971	Spjald							56.1167	8.5167	4
+DK	6973	Ørnhøj							56.2	8.5833	4
+DK	6980	Tim							56.2	8.3167	4
+DK	6990	Ulfborg							56.2667	8.3333	4
+DK	7000	Fredericia							55.5657	9.7526	4
+DK	7007	Fredericia							55.5657	9.7526	4
+DK	7029	Fredericia							55.5657	9.7526	4
+DK	7080	Børkop							55.65	9.65	4
+DK	7100	Vejle							55.7093	9.5357	4
+DK	7120	Vejle Øst							55.7484	9.5235	1
+DK	7130	Juelsminde							55.7067	10.0153	4
+DK	7140	Stouby							55.7	9.8	4
+DK	7150	Barrit							55.7167	9.9	4
+DK	7160	Tørring							55.85	9.4833	4
+DK	7171	Uldum							55.85	9.6	4
+DK	7173	Vonge							55.8667	9.4333	4
+DK	7182	Bredsten							55.7	9.4	4
+DK	7183	Randbøl							55.7	9.2667	4
+DK	7184	Vandel							55.7	9.2167	4
+DK	7190	Billund							55.7335	9.1079	4
+DK	7200	Grindsted							55.75	8.9333	4
+DK	7250	Hejnsvig							55.6833	8.9833	4
+DK	7260	Sønder Omme							55.8333	8.9	4
+DK	7270	Stakroge							55.8833	8.85	4
+DK	7280	Sønder Felding							55.95	8.7833	4
+DK	7300	Jelling							55.75	9.4333	4
+DK	7321	Gadbjerg							55.7667	9.3333	4
+DK	7323	Give							55.85	9.25	4
+DK	7330	Brande							55.95	9.1167	4
+DK	7361	Ejstrupholm							55.9833	9.2833	4
+DK	7362	Hampen							56.0167	9.3667	4
+DK	7400	Herning							56.1393	8.9738	4
+DK	7401	Herning							56.1393	8.9738	4
+DK	7429	Herning							56.1393	8.9738	4
+DK	7430	Ikast							56.1388	9.1577	4
+DK	7441	Bording							56.15	9.2833	4
+DK	7442	Engesvang							56.1667	9.35	4
+DK	7451	Sunds							56.2	9.0167	4
+DK	7470	Karup J							56.1711	9.0329	1
+DK	7480	Vildbjerg							56.2	8.7667	4
+DK	7490	Aulum							56.2667	8.8	4
+DK	7500	Holstebro							56.3601	8.6161	4
+DK	7540	Haderup							56.3833	9	4
+DK	7550	Sørvad							56.2667	8.6667	4
+DK	7560	Hjerm							56.4333	8.65	4
+DK	7570	Vemb							56.35	8.35	4
+DK	7600	Struer							56.4912	8.5838	4
+DK	7620	Lemvig							56.5486	8.3102	4
+DK	7650	Bøvlingbjerg							56.4333	8.2167	4
+DK	7660	Bækmarksbro							56.4167	8.3167	4
+DK	7673	Harboøre							56.6175	8.1807	4
+DK	7680	Thyborøn							56.7	8.2167	4
+DK	7700	Thisted							56.9552	8.6949	4
+DK	7730	Hanstholm							57.1167	8.6167	4
+DK	7741	Frøstrup							57.0833	8.9833	4
+DK	7742	Vesløs							57.0167	8.9667	4
+DK	7752	Snedsted							56.9	8.5333	4
+DK	7755	Bedsted Thy							56.9	8.5333	1
+DK	7760	Hurup Thy							56.75	8.4167	4
+DK	7770	Vestervig							56.7667	8.3333	4
+DK	7790	Thyholm							56.9412	8.6493	1
+DK	7800	Skive							56.5667	9.0333	4
+DK	7830	Vinderup							56.4833	8.7833	4
+DK	7840	Højslev							56.5833	9.15	4
+DK	7850	Stoholm Jyll							56.5833	8.9875	1
+DK	7860	Spøttrup							56.5833	8.9875	1
+DK	7870	Roslev							56.7	8.9833	4
+DK	7884	Fur							56.5833	8.9875	1
+DK	7900	Nykøbing M							56.7625	8.6917	1
+DK	7950	Erslev							56.8333	8.7667	4
+DK	7960	Karby							56.75	8.5667	4
+DK	7970	Redsted M							56.7625	8.6917	1
+DK	7980	Vils							56.7667	8.7333	4
+DK	7990	Øster Assels							56.7	8.7	4
+DK	8000	Århus C							56.1567	10.2108	4
+DK	8011	Århus C							56.1567	10.2108	4
+DK	8100	Århus C							56.1567	10.2108	4
+DK	8200	Århus N							56.1567	10.2108	4
+DK	8210	Århus V							56.1567	10.2108	4
+DK	8220	Brabrand							56.1531	10.1057	4
+DK	8229	Risskov Ø							56.1531	10.1057	1
+DK	8230	Åbyhøj							56.1563	10.1653	4
+DK	8240	Risskov							56.1833	10.2333	4
+DK	8245	Risskov Ø							56.1833	10.2333	1
+DK	8250	Egå							56.2167	10.2667	4
+DK	8260	Viby J							56.162	10.2003	1
+DK	8270	Højbjerg							56.1112	10.2099	4
+DK	8300	Odder							55.9731	10.153	4
+DK	8305	Samsø							55.9731	10.153	1
+DK	8310	Tranbjerg J							56.1102	10.1175	1
+DK	8320	Mårslet							56.0667	10.1667	4
+DK	8330	Beder							56.0602	10.2118	4
+DK	8340	Malling							56.0333	10.1667	4
+DK	8350	Hundslund							55.9167	10.0667	4
+DK	8355	Solbjerg							56.05	10.0833	4
+DK	8361	Hasselager							56.1	10.1167	4
+DK	8362	Hørning							56.0833	10.05	4
+DK	8370	Hadsten							56.3282	10.0493	4
+DK	8380	Trige							56.25	10.1667	4
+DK	8381	Tilst							56.1938	10.1128	4
+DK	8382	Hinnerup							56.2667	10.0667	4
+DK	8400	Ebeltoft							56.1944	10.6821	4
+DK	8410	Rønde							56.3	10.4833	4
+DK	8420	Knebel							56.2167	10.5	4
+DK	8444	Balle							56.3	10.2667	4
+DK	8450	Hammel							56.25	9.8667	4
+DK	8462	Harlev J							56.35	10.05	1
+DK	8464	Galten							56.35	10.05	4
+DK	8471	Sabro							56.2167	10.05	4
+DK	8472	Sporup							56.2167	10.05	1
+DK	8500	Grenaa							56.4158	10.8782	4
+DK	8520	Lystrup							56.5	10.4833	4
+DK	8530	Hjortshøj							56.25	10.2667	4
+DK	8541	Skødstrup							56.2667	10.3167	4
+DK	8543	Hornslet							56.3167	10.3333	4
+DK	8544	Mørke							56.3333	10.3833	4
+DK	8550	Ryomgård							56.3833	10.5	4
+DK	8560	Kolind							56.3667	10.6	4
+DK	8570	Trustrup							56.35	10.7833	4
+DK	8581	Nimtofte							56.4167	10.5667	4
+DK	8585	Glesborg							56.4775	10.7233	4
+DK	8586	Ørum Djurs							56.4471	10.645	1
+DK	8592	Anholt							56.7	11.55	4
+DK	8600	Silkeborg							56.1697	9.5451	4
+DK	8620	Kjellerup							56.2833	9.4333	4
+DK	8632	Lemming							56.2333	9.55	4
+DK	8641	Sorring							56.1833	9.7833	4
+DK	8643	Ans By							56.1833	9.7833	1
+DK	8653	Them							56.0943	9.5487	4
+DK	8654	Bryrup							56.0167	9.5167	4
+DK	8660	Skanderborg							56.0399	9.9272	4
+DK	8670	Låsby							56.15	9.8167	4
+DK	8680	Ry							56.0833	9.7667	4
+DK	8700	Horsens							55.8607	9.8503	4
+DK	8721	Daugård							55.7333	9.7167	4
+DK	8722	Hedensted							55.7704	9.7011	4
+DK	8723	Løsning							55.8	9.7	4
+DK	8732	Hovedgård							55.95	9.9667	4
+DK	8740	Brædstrup							55.9667	9.6167	4
+DK	8751	Gedved							55.9333	9.85	4
+DK	8752	Østbirk							55.9667	9.7667	4
+DK	8762	Flemming							55.8667	9.6667	4
+DK	8763	Rask Mølle							55.8667	9.6167	4
+DK	8765	Klovborg							55.9333	9.5167	4
+DK	8766	Nørre Snede							55.9667	9.4167	4
+DK	8781	Stenderup							55.8	9.8167	4
+DK	8783	Hornsyld							55.75	9.85	4
+DK	8800	Viborg							56.4532	9.402	4
+DK	8830	Tjele							56.525	9.375	1
+DK	8831	Løgstrup							56.5	9.3333	4
+DK	8832	Skals							56.55	9.4167	4
+DK	8840	Rødkærsbro							56.35	9.5167	4
+DK	8850	Bjerringbro							56.3833	9.6667	4
+DK	8860	Ulstrup							56.4	9.8	4
+DK	8870	Langå							56.3833	9.9	4
+DK	8881	Thorsø							56.3	9.8	4
+DK	8882	Fårvang							56.2667	9.7333	4
+DK	8883	Gjern							56.2333	9.75	4
+DK	8900	Randers C							56.4667	10.05	4
+DK	8920	Randers NV							56.4905	10.2286	1
+DK	8930	Randers NØ							56.4905	10.2286	1
+DK	8940	Randers SV							56.4905	10.2286	1
+DK	8950	Ørsted							56.5	10.35	4
+DK	8960	Randers SØ							56.45	10.3583	1
+DK	8961	Allingåbro							56.4667	10.3333	4
+DK	8963	Auning							56.4333	10.3833	4
+DK	8970	Havndal							56.65	10.2	4
+DK	8981	Spentrup							56.55	10.0333	4
+DK	8983	Gjerlev J							56.55	10.0333	1
+DK	8990	Fårup							56.3667	10.25	4
+DK	9000	Aalborg							57.048	9.9187	4
+DK	9020	Aalborg							57.048	9.9187	4
+DK	9029	Aalborg							57.048	9.9187	4
+DK	9100	Aalborg							57.048	9.9187	4
+DK	9200	Aalborg SV							56.98	9.9833	1
+DK	9210	Aalborg SØ							56.98	9.9833	1
+DK	9220	Aalborg Øst							56.98	9.9833	1
+DK	9230	Svenstrup J							56.98	9.9833	1
+DK	9240	Nibe							56.9833	9.6333	4
+DK	9260	Gistrup							57	10	4
+DK	9270	Klarup							57.0167	10.05	4
+DK	9280	Storvorde							57	10.1	4
+DK	9293	Kongerslev							56.9	10.1333	4
+DK	9300	Sæby							57.3333	10.5333	4
+DK	9310	Vodskov							57.1	10.0333	4
+DK	9320	Hjallerup							57.1667	10.15	4
+DK	9330	Dronninglund							57.15	10.3	4
+DK	9340	Asaa							57.15	10.4167	4
+DK	9352	Dybvad							57.2833	10.3667	4
+DK	9362	Gandrup							57.05	10.1833	4
+DK	9370	Hals							57	10.3167	4
+DK	9380	Vestbjerg							57.1333	9.9833	4
+DK	9381	Sulsted							57.15	9.9667	4
+DK	9382	Tylstrup							57.1833	9.95	4
+DK	9400	Nørresundby							57.0667	9.9167	4
+DK	9430	Vadum							57.1167	9.8667	4
+DK	9440	Aabybro							57.15	9.75	4
+DK	9460	Brovst							57.1	9.5333	4
+DK	9480	Løkken							57.3667	9.7167	4
+DK	9490	Pandrup							57.2333	9.6833	4
+DK	9492	Blokhus							57.25	9.5833	4
+DK	9493	Saltum							57.2667	9.7	4
+DK	9500	Hobro							56.6431	9.7903	4
+DK	9510	Arden							56.7667	9.8833	4
+DK	9520	Skørping							56.8333	9.8833	4
+DK	9530	Støvring							56.8854	9.8384	4
+DK	9541	Suldrup							56.85	9.7	4
+DK	9550	Mariager							56.65	10	4
+DK	9560	Hadsund							56.7167	10.1167	4
+DK	9574	Bælum							56.8333	10.1167	4
+DK	9575	Terndrup							56.8167	10.0667	4
+DK	9600	Aars							56.804	9.5144	4
+DK	9610	Nørager							56.7333	9.6	4
+DK	9620	Aalestrup							56.7	9.5	4
+DK	9631	Gedsted							56.6833	9.35	4
+DK	9632	Møldrup							56.6167	9.5	4
+DK	9640	Farsø							56.7833	9.35	4
+DK	9670	Løgstør							56.9667	9.25	4
+DK	9681	Ranum							56.9	9.2333	4
+DK	9690	Fjerritslev							57.0833	9.2667	4
+DK	9700	Brønderslev							57.2702	9.941	4
+DK	9740	Jerslev J							57.3234	10.047	1
+DK	9750	Østervrå							57.35	10.25	4
+DK	9760	Vrå							57.35	9.95	4
+DK	9800	Hjørring							57.4642	9.9823	4
+DK	9830	Tårs							57.3833	10.1167	4
+DK	9850	Hirtshals							57.5881	9.9592	4
+DK	9870	Sindal							57.4667	10.2167	4
+DK	9881	Bindslev							57.55	10.2	4
+DK	9900	Frederikshavn							57.4407	10.5366	4
+DK	9940	Læsø							57.5581	10.4927	1
+DK	9970	Strandby							57.5	10.5	4
+DK	9981	Jerup							57.5333	10.4333	4
+DK	9982	Ålbæk							57.5956	10.4094	4
+DK	9990	Skagen							57.7209	10.5839	4

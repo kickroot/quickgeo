@@ -1,0 +1,4637 @@
+FI	00002	Helsinki							60.1756	24.9342	4
+FI	00003	Helsinki							60.1756	24.9342	4
+FI	00004	Helsinki							60.1756	24.9342	4
+FI	00006	Helsinki							60.1756	24.9342	4
+FI	00007	Helsinki							60.1756	24.9342	4
+FI	00010	Helsinki							60.1756	24.9342	4
+FI	00100	Helsinki							60.1685	24.9447	4
+FI	00101	Helsinki							60.1756	24.9342	4
+FI	00120	Helsinki							60.1667	24.9667	4
+FI	00121	Helsinki							60.1756	24.9342	4
+FI	00130	Helsinki							60.1628	24.9489	4
+FI	00131	Helsinki							60.1756	24.9342	4
+FI	00140	Helsinki							60.1756	24.9342	4
+FI	00141	Helsinki							60.1756	24.9342	4
+FI	00150	Helsinki							60.1756	24.9342	4
+FI	00151	Helsinki							60.1756	24.9342	4
+FI	00160	Helsinki							60.1658	24.9679	4
+FI	00161	Helsinki							60.1756	24.9342	4
+FI	00170	Helsinki							60.1756	24.9342	4
+FI	00171	Helsinki							60.1756	24.9342	4
+FI	00180	Helsinki							60.1612	24.9268	4
+FI	00181	Helsinki							60.1756	24.9342	4
+FI	00190	Helsinki							60.1756	24.9342	4
+FI	00191	Helsinki							60.1756	24.9342	4
+FI	00200	Helsinki							60.1756	24.9342	4
+FI	00201	Helsinki							60.1756	24.9342	4
+FI	00210	Helsinki							60.1756	24.9342	4
+FI	00211	Helsinki							60.1756	24.9342	4
+FI	00230	Helsinki							60.1756	24.9342	4
+FI	00231	Helsinki							60.1756	24.9342	4
+FI	00240	Helsinki							60.1756	24.9342	4
+FI	00241	Helsinki							60.1756	24.9342	4
+FI	00250	Helsinki							60.1756	24.9342	4
+FI	00251	Helsinki							60.1756	24.9342	4
+FI	00260	Helsinki							60.179	24.9279	4
+FI	00270	Helsinki							60.1756	24.9342	4
+FI	00271	Helsinki							60.1756	24.9342	4
+FI	00280	Helsinki							60.1756	24.9342	4
+FI	00281	Helsinki							60.1756	24.9342	4
+FI	00290	Helsinki							60.1756	24.9342	4
+FI	00300	Helsinki							60.1756	24.9342	4
+FI	00301	Helsinki							60.1756	24.9342	4
+FI	00310	Helsinki							60.1756	24.9342	4
+FI	00320	Helsinki							60.1762	24.9419	4
+FI	00321	Helsinki							60.1756	24.9342	4
+FI	00330	Helsinki							60.1925	24.8729	4
+FI	00331	Helsinki							60.1756	24.9342	4
+FI	00340	Helsinki							60.1756	24.9342	4
+FI	00341	Helsinki							60.1756	24.9342	4
+FI	00350	Helsinki							60.1756	24.9342	4
+FI	00351	Helsinki							60.1756	24.9342	4
+FI	00360	Helsinki							60.1756	24.9342	4
+FI	00370	Helsinki							60.1756	24.9342	4
+FI	00371	Helsinki							60.1756	24.9342	4
+FI	00380	Helsinki							60.1756	24.9342	4
+FI	00381	Helsinki							60.1756	24.9342	4
+FI	00390	Helsinki							60.1756	24.9342	4
+FI	00391	Helsinki							60.1756	24.9342	4
+FI	00400	Helsinki							60.1756	24.9342	4
+FI	00401	Helsinki							60.1756	24.9342	4
+FI	00410	Helsinki							60.1756	24.9342	4
+FI	00411	Helsinki							60.1756	24.9342	4
+FI	00420	Helsinki							60.1756	24.9342	4
+FI	00421	Helsinki							60.1756	24.9342	4
+FI	00430	Helsinki							60.1756	24.9342	4
+FI	00431	Helsinki							60.1756	24.9342	4
+FI	00440	Helsinki							60.1756	24.9342	4
+FI	00441	Helsinki							60.1756	24.9342	4
+FI	00500	Helsinki							60.1756	24.9342	4
+FI	00501	Helsinki							60.1756	24.9342	4
+FI	00510	Helsinki							60.1871	24.9484	4
+FI	00511	Helsinki							60.1756	24.9342	4
+FI	00520	Helsinki							60.1756	24.9342	4
+FI	00521	Helsinki							60.1756	24.9342	4
+FI	00530	Helsinki							60.1719	24.9591	4
+FI	00531	Helsinki							60.1756	24.9342	4
+FI	00550	Helsinki							60.1756	24.9342	4
+FI	00551	Helsinki							60.1756	24.9342	4
+FI	00560	Helsinki							60.1756	24.9342	4
+FI	00561	Helsinki							60.1756	24.9342	4
+FI	00570	Helsinki							60.1756	24.9342	4
+FI	00571	Helsinki							60.1756	24.9342	4
+FI	00580	Helsinki							60.1756	24.9342	4
+FI	00581	Helsinki							60.1756	24.9342	4
+FI	00600	Helsinki							60.1667	24.9667	4
+FI	00601	Helsinki							60.1756	24.9342	4
+FI	00610	Helsinki							60.1756	24.9342	4
+FI	00611	Helsinki							60.1756	24.9342	4
+FI	00620	Helsinki							60.1756	24.9342	4
+FI	00621	Helsinki							60.1756	24.9342	4
+FI	00630	Helsinki							60.1756	24.9342	4
+FI	00640	Helsinki							60.1756	24.9342	4
+FI	00641	Helsinki							60.1756	24.9342	4
+FI	00650	Helsinki							60.1756	24.9342	4
+FI	00660	Helsinki							60.1756	24.9342	4
+FI	00661	Helsinki							60.1756	24.9342	4
+FI	00670	Helsinki							60.1756	24.9342	4
+FI	00671	Helsinki							60.1756	24.9342	4
+FI	00680	Helsinki							60.1756	24.9342	4
+FI	00681	Helsinki							60.1756	24.9342	4
+FI	00690	Helsinki							60.1756	24.9342	4
+FI	00691	Helsinki							60.1756	24.9342	4
+FI	00700	Helsinki							60.1667	24.9667	4
+FI	00701	Helsinki							60.1756	24.9342	4
+FI	00710	Helsinki							60.1756	24.9342	4
+FI	00711	Helsinki							60.1756	24.9342	4
+FI	00720	Helsinki							60.1756	24.9342	4
+FI	00721	Helsinki							60.1756	24.9342	4
+FI	00730	Helsinki							60.1756	24.9342	4
+FI	00731	Helsinki							60.1756	24.9342	4
+FI	00740	Helsinki							60.1756	24.9342	4
+FI	00741	Helsinki							60.1756	24.9342	4
+FI	00750	Helsinki							60.1756	24.9342	4
+FI	00751	Helsinki							60.1756	24.9342	4
+FI	00760	Helsinki							60.1756	24.9342	4
+FI	00761	Helsinki							60.1756	24.9342	4
+FI	00770	Helsinki							60.1756	24.9342	4
+FI	00771	Helsinki							60.1756	24.9342	4
+FI	00780	Helsinki							60.1756	24.9342	4
+FI	00781	Helsinki							60.1756	24.9342	4
+FI	00800	Helsinki							60.1756	24.9342	4
+FI	00801	Helsinki							60.1756	24.9342	4
+FI	00810	Helsinki							60.1756	24.9342	4
+FI	00811	Helsinki							60.1756	24.9342	4
+FI	00819	Helsinki							60.1756	24.9342	4
+FI	00820	Helsinki							60.1756	24.9342	4
+FI	00821	Helsinki							60.1756	24.9342	4
+FI	00830	Helsinki							60.1756	24.9342	4
+FI	00831	Helsinki							60.1756	24.9342	4
+FI	00840	Helsinki							60.1756	24.9342	4
+FI	00841	Helsinki							60.1756	24.9342	4
+FI	00850	Helsinki							60.1756	24.9342	4
+FI	00851	Helsinki							60.1756	24.9342	4
+FI	00860	Helsinki							60.1756	24.9342	4
+FI	00861	Helsinki							60.1756	24.9342	4
+FI	00870	Helsinki							60.1756	24.9342	4
+FI	00880	Helsinki							60.1756	24.9342	4
+FI	00881	Helsinki							60.1756	24.9342	4
+FI	00900	Helsinki							60.1756	24.9342	4
+FI	00901	Helsinki							60.1756	24.9342	4
+FI	00910	Helsinki							60.1756	24.9342	4
+FI	00911	Helsinki							60.1756	24.9342	4
+FI	00920	Helsinki							60.1756	24.9342	4
+FI	00921	Helsinki							60.1756	24.9342	4
+FI	00930	Helsinki							60.1756	24.9342	4
+FI	00931	Helsinki							60.1756	24.9342	4
+FI	00940	Helsinki							60.1756	24.9342	4
+FI	00941	Helsinki							60.1756	24.9342	4
+FI	00950	Helsinki							60.1756	24.9342	4
+FI	00951	Helsinki							60.1756	24.9342	4
+FI	00960	Helsinki							60.1756	24.9342	4
+FI	00970	Helsinki							60.1756	24.9342	4
+FI	00971	Helsinki							60.1756	24.9342	4
+FI	00980	Helsinki							60.1756	24.9342	4
+FI	00981	Helsinki							60.1756	24.9342	4
+FI	00990	Helsinki							60.1756	24.9342	4
+FI	01002	Vantaa							60.3	24.85	4
+FI	01003	Vantaa							60.3	24.85	4
+FI	01009	Veikkaus							60.3	24.85	
+FI	01019	Ivo							60.3	24.85	
+FI	01100	Itäsalmi							60.2578	25.1928	4
+FI	01101	Itäsalmi							60.2578	25.1928	4
+FI	01120	Västerskog							60.2669	25.2947	4
+FI	01121	Västerskog							60.2669	25.2947	4
+FI	01130	Gumbostrand							60.2564	25.2917	4
+FI	01150	Söderkulla							60.3	25.3	4
+FI	01151	Söderkulla							60.3	25.3	4
+FI	01180	Kalkkiranta							60.2723	25.2667	
+FI	01190	Sipoo-Box							60.2723	25.2667	
+FI	01200	Vantaa							60.3	24.85	4
+FI	01201	Vantaa							60.3	24.85	4
+FI	01230	Vantaa							60.3	24.85	4
+FI	01231	Vantaa							60.3	24.85	4
+FI	01260	Vantaa							60.3	24.85	4
+FI	01261	Vantaa							60.3	24.85	4
+FI	01280	Vantaa							60.3	24.85	4
+FI	01300	Vantaa							60.3	24.85	4
+FI	01301	Vantaa							60.3	24.85	4
+FI	01305	Vantaa 30/Yritysposti							60.3	24.85	
+FI	01350	Vantaa							60.3	24.85	4
+FI	01351	Vantaa							60.3	24.85	4
+FI	01360	Vantaa							60.3	24.85	4
+FI	01361	Vantaa							60.3	24.85	4
+FI	01370	Vantaa							60.3	24.85	4
+FI	01380	Vantaa							60.3	24.85	4
+FI	01390	Vantaa							60.3	24.85	4
+FI	01391	Vantaa							60.3	24.85	4
+FI	01400	Vantaa							60.3	24.85	4
+FI	01401	Vantaa							60.3	24.85	4
+FI	01420	Vantaa							60.3	24.85	4
+FI	01450	Vantaa							60.3	24.85	4
+FI	01451	Vantaa							60.3	24.85	4
+FI	01480	Vantaa							60.3	24.85	4
+FI	01490	Vantaa							60.3	24.85	4
+FI	01510	Vantaa							60.3	24.85	4
+FI	01511	Vantaa							60.3	24.85	4
+FI	01520	Vantaa							60.3	24.85	4
+FI	01530	Vantaa							60.3	24.85	4
+FI	01531	Vantaa							60.3	24.85	4
+FI	01560	Maantiekylä							60.3375	25.0083	4
+FI	01590	Maisala							60.3063	24.8764	
+FI	01600	Vantaa							60.3	24.85	4
+FI	01601	Vantaa							60.3	24.85	4
+FI	01610	Vantaa							60.3	24.85	4
+FI	01611	Vantaa							60.3	24.85	4
+FI	01620	Vantaa							60.3	24.85	4
+FI	01621	Vantaa							60.3	24.85	4
+FI	01630	Vantaa							60.3	24.85	4
+FI	01640	Vantaa							60.3	24.85	4
+FI	01641	Vantaa							60.3	24.85	4
+FI	01650	Vantaa							60.3	24.85	4
+FI	01651	Vantaa							60.3	24.85	4
+FI	01660	Vantaa							60.3	24.85	4
+FI	01661	Vantaa							60.3	24.85	4
+FI	01670	Vantaa							60.3	24.85	4
+FI	01671	Vantaa							60.3	24.85	4
+FI	01680	Vantaa							60.3	24.85	4
+FI	01690	Vantaa							60.3	24.85	4
+FI	01700	Vantaa							60.3	24.85	4
+FI	01710	Vantaa							60.3	24.85	4
+FI	01711	Vantaa							60.3	24.85	4
+FI	01720	Vantaa							60.3	24.85	4
+FI	01721	Vantaa							60.3	24.85	4
+FI	01730	Vantaa							60.3	24.85	4
+FI	01731	Vantaa							60.3	24.85	4
+FI	01740	Vantaa							60.3	24.85	4
+FI	01741	Vantaa							60.3	24.85	4
+FI	01750	Vantaa							60.3	24.85	4
+FI	01760	Vantaa							60.3	24.85	4
+FI	01770	Vantaa							60.3	24.85	4
+FI	01800	Klaukkala							60.3833	24.75	4
+FI	01801	Klaukkala							60.3833	24.75	4
+FI	01810	Luhtajoki							60.3974	24.7217	
+FI	01820	Klaukkala							60.3833	24.75	4
+FI	01830	Lepsämä							60.3833	24.6333	4
+FI	01850	Haikala							60.4008	24.7469	4
+FI	01860	Perttula							60.45	24.7	4
+FI	01900	Nurmijärvi							60.4667	24.8	4
+FI	01901	Nurmijärvi							60.4667	24.8	4
+FI	01940	Palojoki							60.4333	24.8667	4
+FI	02002	Espoo							60.2167	24.6667	4
+FI	02003	Espoo							60.2167	24.6667	4
+FI	02007	Espoo							60.2167	24.6667	4
+FI	02010	Tapiola							60.9167	25.8167	4
+FI	02015	Tkk							60.9167	25.8167	
+FI	02020	Metsä							64.3	24.2	4
+FI	02044	Vtt							61.1733	24.8033	
+FI	02050	Radiolinja							61.1733	24.8033	
+FI	02100	Espoo							60.1858	24.6335	4
+FI	02101	Espoo							60.2167	24.6667	4
+FI	02110	Espoo							60.2167	24.6667	4
+FI	02111	Espoo							60.2167	24.6667	4
+FI	02120	Espoo							60.2167	24.6667	4
+FI	02130	Espoo							60.2167	24.6667	4
+FI	02131	Espoo							60.2167	24.6667	4
+FI	02140	Espoo							60.2167	24.6667	4
+FI	02141	Espoo							60.2167	24.6667	4
+FI	02150	Espoo							60.2167	24.6667	4
+FI	02151	Espoo							60.2167	24.6667	4
+FI	02160	Espoo							60.2167	24.6667	4
+FI	02170	Espoo							60.2167	24.6667	4
+FI	02171	Espoo							60.2167	24.6667	4
+FI	02180	Espoo							60.2167	24.6667	4
+FI	02181	Espoo							60.2167	24.6667	4
+FI	02200	Espoo							60.2167	24.6667	4
+FI	02201	Espoo							60.2167	24.6667	4
+FI	02210	Espoo							60.2167	24.6667	4
+FI	02211	Espoo							60.2167	24.6667	4
+FI	02230	Espoo							60.2167	24.6667	4
+FI	02231	Espoo							60.2167	24.6667	4
+FI	02240	Espoo							60.2167	24.6667	4
+FI	02241	Espoo							60.2167	24.6667	4
+FI	02260	Espoo							60.2167	24.6667	4
+FI	02261	Espoo							60.2167	24.6667	4
+FI	02270	Espoo							60.2167	24.6667	4
+FI	02271	Espoo							60.2167	24.6667	4
+FI	02280	Espoo							60.2167	24.6667	4
+FI	02281	Espoo							60.2167	24.6667	4
+FI	02290	Espoo							60.2167	24.6667	4
+FI	02300	Espoo							60.2167	24.6667	4
+FI	02320	Espoo							60.1858	24.6335	4
+FI	02321	Espoo							60.2167	24.6667	4
+FI	02330	Espoo							60.2167	24.6667	4
+FI	02340	Espoo							60.2167	24.6667	4
+FI	02341	Espoo							60.2167	24.6667	4
+FI	02360	Espoo							60.2167	24.6667	4
+FI	02361	Espoo							60.2167	24.6667	4
+FI	02380	Espoo							60.2167	24.6667	4
+FI	02400	Kirkkonummi							60.1167	24.4333	4
+FI	02401	Kirkkonummi							60.1167	24.4333	4
+FI	02410	Kirkkonummi							60.1167	24.4333	4
+FI	02411	Kirkkonummi							60.1167	24.4333	4
+FI	02420	Jorvas							60.1361	24.5164	4
+FI	02421	Jorvas							60.1361	24.5164	4
+FI	02430	Masala							60.1533	24.5289	4
+FI	02431	Masala							60.1533	24.5289	4
+FI	02440	Luoma							60.1667	24.5667	4
+FI	02460	Kantvik							60.0922	24.3944	4
+FI	02470	Upinniemi							60.0333	24.35	4
+FI	02471	Upinniemi							60.0333	24.35	4
+FI	02490	Pikkala							60.0911	24.3147	4
+FI	02510	Oitmäki							60.1969	24.2647	
+FI	02520	Lapinkylä							60.1969	24.2647	
+FI	02540	Kylmälä							60.2333	24.4	4
+FI	02550	Evitskog							60.1978	24.3489	4
+FI	02570	Siuntio kk							60.1969	24.2647	
+FI	02580	Siuntio as							60.1833	24.2	
+FI	02581	Siuntio							60.1833	24.2	4
+FI	02590	Lappers							60.1731	24.11	4
+FI	02600	Espoo							60.2167	24.6667	4
+FI	02601	Espoo							60.2167	24.6667	4
+FI	02610	Espoo							60.2167	24.6667	4
+FI	02611	Espoo							60.2167	24.6667	4
+FI	02620	Espoo							60.2167	24.6667	4
+FI	02621	Espoo							60.2167	24.6667	4
+FI	02630	Espoo							60.2168	24.6625	4
+FI	02631	Espoo							60.2167	24.6667	4
+FI	02660	Espoo							60.2167	24.6667	4
+FI	02661	Espoo							60.2167	24.6667	4
+FI	02680	Espoo							60.2167	24.6667	4
+FI	02700	Kauniainen							60.2172	24.7425	4
+FI	02701	Kauniainen							60.2172	24.7425	4
+FI	02710	Espoo							60.2167	24.6667	4
+FI	02711	Espoo							60.2167	24.6667	4
+FI	02720	Espoo							60.2167	24.6667	4
+FI	02721	Espoo							60.2167	24.6667	4
+FI	02730	Espoo							60.2167	24.6667	4
+FI	02731	Espoo							60.2167	24.6667	4
+FI	02740	Espoo							60.2167	24.6667	4
+FI	02741	Espoo							60.2167	24.6667	4
+FI	02750	Espoo							60.2167	24.6667	4
+FI	02760	Espoo							60.2167	24.6667	4
+FI	02761	Espoo							60.2167	24.6667	4
+FI	02770	Espoo							60.2167	24.6667	4
+FI	02771	Espoo							60.2167	24.6667	4
+FI	02780	Espoo							60.2167	24.6667	4
+FI	02781	Espoo							60.2167	24.6667	4
+FI	02810	Espoo							60.2167	24.6667	4
+FI	02811	Espoo							60.2167	24.6667	4
+FI	02820	Espoo							60.2166	24.6666	4
+FI	02821	Espoo							60.2167	24.6667	4
+FI	02860	Espoo							60.2167	24.6667	4
+FI	02861	Espoo							60.2167	24.6667	4
+FI	02880	Veikkola							60.2833	24.4	4
+FI	02881	Veikkola							60.2833	24.4	4
+FI	02920	Espoo							60.2167	24.6667	4
+FI	02921	Espoo							60.2167	24.6667	4
+FI	02940	Espoo							60.2167	24.6667	4
+FI	02941	Espoo							60.2167	24.6667	4
+FI	02970	Espoo							60.2167	24.6667	4
+FI	02971	Espoo							60.2167	24.6667	4
+FI	02980	Espoo							60.2167	24.6667	4
+FI	02981	Espoo							60.2167	24.6667	4
+FI	03007	Nummela							60.3333	24.3333	4
+FI	03100	Nummela							60.3333	24.3333	4
+FI	03101	Nummela							60.3333	24.3333	4
+FI	03150	Huhmari							60.3	24.35	4
+FI	03220	Tervalampi							60.3333	24.4333	4
+FI	03250	Ojakkala							60.3333	24.4333	
+FI	03300	Otalampi							60.4	24.5	4
+FI	03320	Selki							60.4333	24.5333	4
+FI	03400	Vihti							60.4167	24.3333	4
+FI	03401	Vihti							60.4167	24.3333	4
+FI	03430	Jokikunta							60.45	24.2	4
+FI	03600	Karkkila							60.5333	24.1833	4
+FI	03601	Karkkila							60.5333	24.1833	4
+FI	03607	Karkkila							60.5333	24.1833	4
+FI	03620	Karkkila							60.5333	24.1833	4
+FI	03621	Karkkila							60.5333	24.1833	4
+FI	03710	Uusitalo							60.5167	24.3333	4
+FI	03790	Vihtijärvi							60.5333	24.5167	4
+FI	03810	Ikkala							60.4833	24.1333	4
+FI	03850	Pusula							60.4667	23.9833	4
+FI	03870	Hyönölä							60.4667	23.9	4
+FI	03999	Helsinki							60.1756	24.9342	4
+FI	04110	Nikkilän Sairaala							60.3265	25.1214	
+FI	04130	Sipoo							60.3667	25.2667	4
+FI	04131	Sipoo							60.3667	25.2667	4
+FI	04150	Martinkylä							60.1561	24.7022	4
+FI	04170	Paippinen							60.4167	25.25	4
+FI	04200	Kerava							60.4	25.1167	4
+FI	04201	Kerava							60.4	25.1167	4
+FI	04207	Kerava							60.4	25.1167	4
+FI	04220	Kerava							60.4	25.1167	4
+FI	04221	Kerava							60.4	25.1167	4
+FI	04230	Kerava							60.4	25.1167	4
+FI	04231	Kerava							60.4	25.1167	4
+FI	04240	Talma							60.4	25.1167	
+FI	04250	Kerava							60.4	25.1167	4
+FI	04251	Kerava							60.4	25.1167	4
+FI	04260	Kerava							60.4	25.1167	4
+FI	04261	Kerava							60.4	25.1167	4
+FI	04300	Tuusula							60.4167	25.0333	4
+FI	04301	Tuusula							60.4167	25.0333	4
+FI	04310	Tuusula							60.4167	25.0333	4
+FI	04311	Tuusula							60.4167	25.0333	4
+FI	04320	Tuusula							60.4167	25.0333	4
+FI	04321	Riihikallio							60.3722	25.0075	4
+FI	04330	Lahela							60.3864	24.9839	4
+FI	04340	Tuusula							60.4167	25.0333	4
+FI	04350	Nahkela							60.4	24.95	4
+FI	04360	Tuusula							60.4167	25.0333	4
+FI	04370	Rusutjärvi							60.4167	24.9667	4
+FI	04380	Tuusula							60.4167	25.0333	4
+FI	04390	Jäniksenlinna							60.4861	24.9767	4
+FI	04400	Järvenpää							60.4667	25.1	4
+FI	04401	Järvenpää							60.4667	25.1	4
+FI	04407	Järvenpää							60.4667	25.1	4
+FI	04410	Järvenpää							60.4667	25.1	4
+FI	04420	Järvenpää							60.4667	25.1	4
+FI	04430	Järvenpää							60.4667	25.1	4
+FI	04431	Järvenpää							60.4667	25.1	4
+FI	04440	Järvenpää							60.4667	25.1	4
+FI	04441	Järvenpää							60.4667	25.1	4
+FI	04460	Nummenkylä							60.5	25.1	4
+FI	04480	Haarajoki							60.5	25.1667	4
+FI	04500	Kellokoski							60.55	25.1	4
+FI	04501	Kellokoski							60.55	25.1	4
+FI	04530	Ohkola							60.5667	25.15	4
+FI	04600	Mäntsälä							60.6333	25.3167	4
+FI	04601	Mäntsälä							60.6333	25.3167	4
+FI	04630	Sääkskylä							60.5833	25.4167	4
+FI	04660	Numminen							60.55	25.3	4
+FI	04680	Hirvihaara							60.6167	25.2333	4
+FI	04740	Sälinkää							60.7	25.2167	4
+FI	04770	Sahakylä							60.75	25.2	4
+FI	04820	Kaukalampi							60.6833	25.4	4
+FI	04840	Hautjärvi							60.7	25.4667	4
+FI	04920	Saarentaus							60.7167	25.4167	4
+FI	04940	Levanto							60.7667	25.45	4
+FI	05100	Röykkä							60.4833	24.65	4
+FI	05130	Röykän Sairaala							60.4833	24.65	
+FI	05131	Röykän Sairaala							60.4833	24.65	
+FI	05200	Rajamäki							60.5333	24.75	4
+FI	05201	Rajamäki							60.5333	24.75	4
+FI	05250	Kiljava							60.5	24.6667	4
+FI	05310	Raala							60.5	24.9	4
+FI	05400	Jokela							60.55	24.9833	4
+FI	05401	Jokela							60.55	24.9833	4
+FI	05430	Nuppulinna							60.5333	25.0167	4
+FI	05450	Nukari							60.5333	24.9167	4
+FI	05451	Nukari							60.5333	24.9167	4
+FI	05460	Hyvinkää							60.6333	24.8667	4
+FI	05470	Hyvinkää							60.6333	24.8667	4
+FI	05510	Hyvinkää							60.6333	24.8667	4
+FI	05620	Hyvinkää							60.6333	24.8667	4
+FI	05720	Hyvinkää							60.6333	24.8667	4
+FI	05800	Hyvinkää							60.6333	24.8667	4
+FI	05801	Hyvinkää							60.6333	24.8667	4
+FI	05807	Hyvinkää 7							60.6333	24.8667	
+FI	05820	Hyvinkää							60.6333	24.8667	4
+FI	05821	Hyvinkää							60.6333	24.8667	4
+FI	05830	Hyvinkää							60.6333	24.8667	4
+FI	05831	Hyvinkää							60.6333	24.8667	4
+FI	05840	Hyvinkää							60.6333	24.8667	4
+FI	05841	Hyvinkää							60.6333	24.8667	4
+FI	05850	Hyvinkää							60.6333	24.8667	4
+FI	05860	Hyvinkää							60.6333	24.8667	4
+FI	05870	Salpakangas							60.6333	24.8667	
+FI	05880	Hyvinkää							60.6333	24.8667	4
+FI	05881	Hyvinkää							60.6333	24.8667	4
+FI	05900	Hyvinkää							60.633	24.83	4
+FI	05901	Hyvinkää							60.6333	24.8667	4
+FI	05950	Hyvinkää							60.6333	24.8667	4
+FI	05999	Hyvinkää							60.6333	24.8667	4
+FI	06100	Porvoo							60.4	25.6667	4
+FI	06101	Porvoo							60.4	25.6667	4
+FI	06121	Vantaa							60.3	24.85	4
+FI	06150	Porvoo							60.4	25.6667	4
+FI	06151	Porvoo							60.4	25.6667	4
+FI	06200	Porvoo							60.4	25.6667	4
+FI	06400	Porvoo							60.4	25.6667	4
+FI	06401	Porvoo							60.4	25.6667	4
+FI	06450	Porvoo							60.4	25.6667	4
+FI	06451	Porvoo							60.4	25.6667	4
+FI	06500	Porvoo							60.4	25.6667	4
+FI	06530	Kerkkoo							60.45	25.6333	4
+FI	06550	Hamari							60.35	25.6667	4
+FI	06650	Hamari							60.35	25.6667	4
+FI	06750	Tolkkinen							60.3333	25.5833	4
+FI	06820	Kulloo							60.35	25.5	4
+FI	06830	Kulloonkylä							60.35	25.5	4
+FI	06831	Kulloby							60.35	25.5	4
+FI	06850	Kulloo							60.35	25.5	4
+FI	06880	Kärrby							60.2881	25.4994	4
+FI	06881	Kärrby							60.2881	25.4994	4
+FI	06950	Emäsalo							60.3695	25.5746	
+FI	06951	Emsalö							60.3695	25.5746	
+FI	07110	Hinthaara							60.4	25.4667	4
+FI	07130	Anttila							60.8667	25.9667	4
+FI	07150	Laukkoski							60.4333	25.4	4
+FI	07170	Pornainen							60.4667	25.3833	4
+FI	07171	Pornainen							60.4667	25.3833	4
+FI	07190	Halkia							60.5167	25.3167	4
+FI	07220	Kaarenkylä							60.4764	25.5431	4
+FI	07230	Monninkylä							60.5	25.55	4
+FI	07231	Monninkylä							60.5	25.55	4
+FI	07280	Ilola							60.3272	25.0319	4
+FI	07281	Ilola							60.3272	25.0319	4
+FI	07310	Sannäs							60.4169	25.8	4
+FI	07320	Jakari							60.2917	25.8694	
+FI	07340	Epoo							60.35	25.85	4
+FI	07350	Gäddrag							60.2833	25.8667	4
+FI	07360	Tirmo							60.25	25.9	4
+FI	07370	Pellinki							60.2333	25.9167	4
+FI	07380	Österby							60.2167	25.8833	4
+FI	07390	Suurpellinki							60.2917	25.8694	
+FI	07410	Kråkö							60.3	25.8667	
+FI	07450	Voolahti							60.3	25.8667	4
+FI	07451	Voolahti							60.3	25.8667	4
+FI	07500	Askola							60.5333	25.6	4
+FI	07510	Vakkola							60.5167	25.6	4
+FI	07530	Onkimaa							60.55	25.5833	4
+FI	07540	Korttia							60.6	25.6	4
+FI	07550	Torpinkylä							60.5729	25.6271	
+FI	07560	Pukkila							60.65	25.5667	4
+FI	07565	Kantele							60.65	25.65	4
+FI	07580	Tiilää							60.55	25.7	4
+FI	07590	Huuvari							60.5333	25.7167	4
+FI	07600	Myrskylä							60.6667	25.85	4
+FI	07601	Myrskylä							60.6667	25.85	4
+FI	07680	Juornaankylä							60.5667	25.75	4
+FI	07690	Kankkila							60.6167	25.75	4
+FI	07700	Koskenkylän Saha							60.4375	25.9542	
+FI	07701	Koskenkylän Saha							60.4375	25.9542	
+FI	07720	Malmgård							60.55	25.95	4
+FI	07740	Gammelby							60.5	25.9	4
+FI	07750	Isnäs							60.4	26	4
+FI	07780	Härkäpää							60.3	25.9667	4
+FI	07800	Lapinjärvi							60.6333	26.2167	4
+FI	07810	Ingermaninkylä							60.5967	26.1517	
+FI	07820	Porlammi							60.7	26.05	4
+FI	07830	Pukaro							60.6667	26.25	4
+FI	07840	Lindkoski							60.6333	26.2667	4
+FI	07850	Heikinkylä							60.5833	26.25	4
+FI	07870	Skinnarby							60.55	26.1333	4
+FI	07880	Liljendal							60.5667	26.05	4
+FI	07881	Liljendal							60.5667	26.05	4
+FI	07890	Mickelspiltom							60.6167	26.0167	4
+FI	07899	Loviisa							60.45	26.2333	4
+FI	07900	Loviisa							60.45	26.2333	4
+FI	07901	Loviisa							60.45	26.2333	4
+FI	07910	Valko							60.4167	26.25	4
+FI	07920	Loviisa							60.45	26.2333	4
+FI	07930	Pernaja							60.45	26.05	4
+FI	07940	Loviisa							60.45	26.2333	4
+FI	07945	Kuggom							60.4922	26.1864	4
+FI	07955	Tesjoki							60.4667	26.3167	4
+FI	07960	Ahvenkoski							60.5	26.5	4
+FI	07970	Ruotsinpyhtää							60.5333	26.45	4
+FI	07980	Kuninkaankylä							60.5833	26.45	4
+FI	07990	Ruotsinkylä							60.6167	26.4667	4
+FI	07999	Porvoo							60.4	25.6667	4
+FI	08007	Lohja							60.25	24.0833	4
+FI	08100	Lohja							60.25	24.0833	4
+FI	08101	Lohja							60.25	24.0833	4
+FI	08150	Lohja							60.25	24.0833	4
+FI	08151	Lohja							60.25	24.0833	4
+FI	08200	Lohja							60.25	24.0833	4
+FI	08201	Lohja							60.25	24.0833	4
+FI	08350	Routio							60.2833	24.0667	4
+FI	08360	Kisakallio							60.2833	24.0667	
+FI	08450	Hormajärvi							60.2667	24	4
+FI	08480	Karstu							60.3	23.9333	4
+FI	08500	Lohja As							60.25	24.0833	
+FI	08501	Lohja As							60.25	24.0833	
+FI	08550	Lohja							60.25	24.0833	4
+FI	08680	Muijala							60.2833	24.2	4
+FI	08681	Muijala							60.2833	24.2	4
+FI	08700	Virkkala							60.2	24	4
+FI	08701	Virkkala							60.2	24	4
+FI	08720	Virkkala							60.2	24	4
+FI	08800	Kirkniemi							60.251	24.0667	
+FI	09120	Karjalohja							60.25	23.7167	4
+FI	09140	Risteys							60.2167	23.6667	4
+FI	09220	Sammatti							60.3167	23.8167	4
+FI	09430	Saukkola							60.3833	23.9833	4
+FI	09520	Millola							60.35	24.05	4
+FI	09630	Koisjärvi							60.4167	24.0833	4
+FI	09710	Hyrsynummi							60.3833	24.0333	4
+FI	09810	Nummi							60.4	23.8833	4
+FI	09930	Leppäkorpi							60.4667	23.8167	4
+FI	09999	Lohja							60.25	24.0833	4
+FI	10120	Tähtelä							67.3667	26.6167	4
+FI	10140	Päivölä							60.1167	24.1333	4
+FI	10160	Degerby Ul							60.085	24.1872	
+FI	10161	Degerby							60.085	24.1872	4
+FI	10210	Inkoo							60.05	24.0167	4
+FI	10211	Inkoo							60.05	24.0167	4
+FI	10230	Inkoo As							60.0292	23.9417	
+FI	10250	Fagervik							60.0333	23.8333	4
+FI	10270	Barösund							59.9833	23.9	4
+FI	10300	Karjaa							60.0833	23.6667	4
+FI	10301	Karjaa							60.0833	23.6667	4
+FI	10320	Karjaa							60.0833	23.6667	4
+FI	10330	Pinjainen							60.0833	23.6167	4
+FI	10350	Meltolan Sairaala							60.1	23.69	
+FI	10360	Mustio							60.1667	23.8333	4
+FI	10380	Kaunislahti							60.1	23.69	
+FI	10410	Åminnefors							60.0833	23.5833	4
+FI	10411	Åminnefors							60.0833	23.5833	4
+FI	10420	Pohjankuru							60.1167	23.55	4
+FI	10421	Pohjankuru							60.1167	23.55	4
+FI	10440	Bollsta							60.1167	23.5639	
+FI	10441	Bollsta							60.1167	23.5639	
+FI	10470	Fiskari							60.1333	23.55	4
+FI	10480	Antskog							60.1667	23.5667	4
+FI	10520	Tenhola							60.0667	23.3	4
+FI	10570	Bromarv							59.9833	23.0333	4
+FI	10600	Tammisaari							59.9667	23.4333	4
+FI	10601	Tammisaari							59.9667	23.4333	4
+FI	10620	Högbacka							59.9667	23.4208	
+FI	10640	Dragsvik							59.9833	23.4833	4
+FI	10641	Dragsvik							59.9833	23.4833	4
+FI	10650	Tammisaari							59.9667	23.4333	4
+FI	10651	Tammisaari							59.9667	23.4333	4
+FI	10660	Tammisaari							59.9667	23.4333	4
+FI	10680	Skogby							59.9333	23.2333	4
+FI	10710	Snappertuna							60	23.65	4
+FI	10820	Lappohja							59.9	23.25	4
+FI	10850	Tvärminne							59.8333	23.2	4
+FI	10900	Hanko							59.8333	22.95	4
+FI	10901	Hanko							59.8333	22.95	4
+FI	10940	Hangonkylä							59.8333	22.95	4
+FI	10960	Hanko Pohjoinen							59.8333	22.95	
+FI	10961	Hanko Pohjoinen							59.8333	22.95	
+FI	11007	Riihimäki							60.75	24.7667	4
+FI	11100	Riihimäki							60.75	24.7667	4
+FI	11101	Riihimäki							60.75	24.7667	4
+FI	11110	Riihimäki							60.75	24.7667	4
+FI	11111	Riihimäki							60.75	24.7667	4
+FI	11120	Riihimäki							60.75	24.7667	4
+FI	11130	Riihimäki							60.75	24.7667	4
+FI	11131	Riihimäki							60.75	24.7667	4
+FI	11310	Riihimäki							60.75	24.7667	4
+FI	11311	Riihimäki							60.75	24.7667	4
+FI	11710	Riihimäki							60.75	24.7667	4
+FI	11711	Riihimäki							60.75	24.7667	4
+FI	11910	Riihimäki							60.75	24.7667	4
+FI	12100	Oitti							60.7833	25.0333	4
+FI	12101	Oitti							60.7833	25.0333	4
+FI	12130	Mommila							60.8833	25.05	4
+FI	12170	Hietoinen							60.8833	25.05	4
+FI	12210	Hausjärvi							60.7833	24.9333	4
+FI	12240	Hikiä							60.75	24.9167	4
+FI	12310	Ryttylä							60.8167	24.7667	4
+FI	12350	Turkhauta							60.8167	24.8167	4
+FI	12380	Leppäkoski							60.85	24.7333	4
+FI	12400	Tervakoski							60.8	24.6167	4
+FI	12401	Tervakoski							60.8	24.6167	4
+FI	12450	Vähikkälä							60.7833	24.5333	4
+FI	12520	Kormu							60.7333	24.65	4
+FI	12540	Launonen							60.75	24.5667	4
+FI	12600	Läyliäinen							60.6167	24.45	4
+FI	12630	Sajaniemi							60.6833	24.4667	4
+FI	12640	Jokiniemi							60.7	24.4667	4
+FI	12700	Loppi							60.7167	24.45	4
+FI	12701	Loppi							60.7167	24.45	4
+FI	12706	Marskinmaja							60.7167	24.45	
+FI	12750	Pilpala							60.6167	24.2833	4
+FI	12820	Räyskälä							60.7333	24.15	4
+FI	12920	Topeno							60.7667	24.2833	4
+FI	12950	Sokala							60.7583	24.525	
+FI	12999	Riihimäki							60.75	24.7667	4
+FI	13007	Hämeenlinna							61	24.45	4
+FI	13100	Hämeenlinna							61	24.45	4
+FI	13101	Hämeenlinna							61	24.45	4
+FI	13103	Jean sibeliuksen syntymäkoti							61	24.45	
+FI	13110	Hämeenlinna							61	24.45	4
+FI	13111	Hämeenlinna							61	24.45	4
+FI	13130	Hämeenlinna							61	24.45	4
+FI	13131	Hämeenlinna							61	24.45	4
+FI	13160	Hämeenlinna							61	24.45	4
+FI	13200	Hämeenlinna							61	24.45	4
+FI	13201	Hämeenlinna							61	24.45	4
+FI	13210	Hämeenlinna							61.014	24.46	4
+FI	13211	Hämeenlinna							61	24.45	4
+FI	13220	Hämeenlinna							61	24.45	4
+FI	13230	Aulanko							61.0333	24.45	4
+FI	13250	Hämeenlinna							61	24.45	4
+FI	13270	Hämeenlinna							61	24.45	4
+FI	13300	Hämeenlinna							61	24.45	4
+FI	13330	Harviala							60.95	24.5833	4
+FI	13400	Hämeenlinna							61	24.45	4
+FI	13430	Hämeenlinna							61	24.45	4
+FI	13500	Hämeenlinna							61	24.45	4
+FI	13501	Hämeenlinna							61	24.45	4
+FI	13530	Hämeenlinna							61	24.45	4
+FI	13600	Hämeenlinna							61	24.45	4
+FI	13700	Parolannummi							61.0667	24.3833	
+FI	13701	Parolannummi							61.0667	24.3833	
+FI	13706	Parolan panssarimuseo							61.0667	24.3833	
+FI	13720	Parola							61.0667	24.3833	4
+FI	13721	Parola							61.0667	24.3833	4
+FI	13800	Katinala							61.0333	24.4	4
+FI	13806	Hattulan vanha kirkko							61.0333	24.4	
+FI	13880	Hattula							61.0667	24.3833	4
+FI	13900	Pekola							64.35	28.6167	4
+FI	13930	Papinsalmi							64.35	28.6167	
+FI	14140	Jokimaa							60.8667	24.8833	4
+FI	14200	Turenki							60.9167	24.6333	4
+FI	14201	Turenki							60.9167	24.6333	4
+FI	14240	Janakkala							60.9	24.6	4
+FI	14300	Renko							60.9	24.2833	4
+FI	14301	Renko							60.9	24.2833	4
+FI	14330	Kaloinen							60.85	24.4	4
+FI	14370	Lukana							60.85	24.1833	4
+FI	14430	Vuohiniemi							60.95	24.1167	4
+FI	14450	Rimmilä							60.9833	24.05	4
+FI	14470	Eteläinen							61.0833	24.6833	4
+FI	14500	Iittala							61.1167	24.1667	4
+FI	14501	Iittala							61.1167	24.1667	4
+FI	14530	Leteensuo							61.1167	24.1222	
+FI	14580	Kuurila							61.1167	24.0333	4
+FI	14610	Lepaa							61.1167	24.35	4
+FI	14620	Tyrväntö							61.15	24.3333	4
+FI	14680	Alvettula							61.2	24.4833	4
+FI	14690	Torvoila							61.25	24.55	4
+FI	14700	Hauho							61.1667	24.55	4
+FI	14701	Hauho							61.1667	24.55	4
+FI	14760	Kokkila							61.1333	24.6667	4
+FI	14770	Eteläinen							61.0833	24.6833	4
+FI	14810	Pohjoinen							61.1	24.8833	4
+FI	14820	Tuulos							61.15	24.8	4
+FI	14840	Sairiala							61.15	24.7667	4
+FI	14870	Juttila							61.1667	24.7667	4
+FI	14930	Sappee							61.25	24.7	4
+FI	14960	Puutikkala							61.2833	24.7	4
+FI	14980	Kuohijoki							61.3	24.8	4
+FI	14999	Hämeenlinna							61	24.45	4
+FI	15007	Lahti							60.9667	25.6667	4
+FI	15100	Lahti							60.9667	25.6667	4
+FI	15101	Lahti							60.9667	25.6667	4
+FI	15110	Lahti							60.9667	25.6667	4
+FI	15111	Lahti							60.9667	25.6667	4
+FI	15140	Lahti							60.983	25.663	4
+FI	15141	Lahti							60.9667	25.6667	4
+FI	15150	Lahti							60.9667	25.6667	4
+FI	15151	Lahti							60.9667	25.6667	4
+FI	15170	Lahti							60.9667	25.6667	4
+FI	15171	Lahti							60.9667	25.6667	4
+FI	15200	Lahti							60.9667	25.6667	4
+FI	15201	Lahti							60.9667	25.6667	4
+FI	15210	Lahti							60.9667	25.6667	4
+FI	15211	Lahti							60.9667	25.6667	4
+FI	15230	Lahti							60.9667	25.6667	4
+FI	15240	Lahti							60.9667	25.6667	4
+FI	15241	Lahti							60.9667	25.6667	4
+FI	15250	Lahti							60.9667	25.6667	4
+FI	15251	Lahti							60.9667	25.6667	4
+FI	15270	Kukkila							61.05	25.6667	4
+FI	15300	Lahti							60.9667	25.6667	4
+FI	15320	Lahti							60.9667	25.6667	4
+FI	15321	Lahti							60.9667	25.6667	4
+FI	15340	Lahti							60.9667	25.6667	4
+FI	15440	Villähde							60.95	25.8667	4
+FI	15460	Mäkelä							61.0667	25.8333	4
+FI	15500	Lahti							60.9667	25.6667	4
+FI	15501	Lahti							60.9667	25.6667	4
+FI	15520	Lahti							60.9667	25.6667	4
+FI	15540	Villähde							60.95	25.8667	4
+FI	15541	Villähde							60.95	25.8667	4
+FI	15550	Nastola 2							60.9688	25.8271	
+FI	15551	Nastola 2							60.9688	25.8271	
+FI	15560	Nastola							60.95	25.9333	4
+FI	15561	Nastola							60.95	25.9333	4
+FI	15570	Nastola Kk							60.9688	25.8271	
+FI	15580	Ruuhijärvi							61.05	26.0167	4
+FI	15610	Lahti							60.9667	25.6667	4
+FI	15611	Lahti							60.9667	25.6667	4
+FI	15650	Lahti							60.9667	25.6667	4
+FI	15680	Lahti							60.9667	25.6667	4
+FI	15700	Lahti							60.9667	25.6667	4
+FI	15701	Lahti							60.9667	25.6667	4
+FI	15780	Lahti							60.9667	25.6667	4
+FI	15781	Lahti							60.9667	25.6667	4
+FI	15800	Lahti							60.9667	25.6667	4
+FI	15801	Lahti							60.9667	25.6667	4
+FI	15810	Lahti							60.9667	25.6667	4
+FI	15820	Lahti							60.9667	25.6667	4
+FI	15830	Lahti							60.9667	25.6667	4
+FI	15840	Lahti							60.9667	25.6667	4
+FI	15850	Lahti							60.9667	25.6667	4
+FI	15851	Lahti							60.9667	25.6667	4
+FI	15860	Hollola 2							61	25.5	
+FI	15861	Hollola							61	25.5	4
+FI	15870	Hollola							61	25.5	4
+FI	15871	Hollola							61	25.5	4
+FI	15880	Hollola 3							60.9758	25.6212	
+FI	15881	Hollola 3							60.9758	25.6212	
+FI	15900	Lahti							60.9667	25.6667	4
+FI	15901	Lahti							60.9667	25.6667	4
+FI	15950	Lahti							60.9667	25.6667	4
+FI	15951	Lahti							60.9667	25.6667	4
+FI	15980	Messilä							60.9667	25.6667	
+FI	16100	Uusikylä							60.9167	26.0167	4
+FI	16101	Uusikylä							60.9167	26.0167	4
+FI	16160	Okkeri							61.0333	26.0833	4
+FI	16200	Artjärvi							60.75	26.0833	4
+FI	16201	Artjärvi							60.75	26.0833	4
+FI	16210	Hiitelä							60.7167	25.95	4
+FI	16230	Artjärvi Kk							60.7778	26.05	
+FI	16260	Hietana							60.8	26.1333	4
+FI	16270	Villikkala							60.7833	26.0167	4
+FI	16280	Kuivanto							60.8667	26.0333	4
+FI	16300	Orimattila							60.8	25.75	4
+FI	16301	Orimattila							60.8	25.75	4
+FI	16310	Virenoja							60.85	25.7167	4
+FI	16320	Pennala							60.8833	25.7167	4
+FI	16330	Heinämaa							60.8667	25.8333	4
+FI	16350	Niinikoski							60.7833	25.9167	4
+FI	16380	Riihioja							60.8167	25.781	
+FI	16390	Pakaa							60.7333	25.7833	4
+FI	16450	Mallusjoki							60.7167	25.6	4
+FI	16500	Herrala							60.9	25.4667	4
+FI	16510	Luhtikylä							60.8667	25.4833	4
+FI	16540	Mertie							60.8167	25.3833	4
+FI	16560	Tienmutka							60.8333	25.35	4
+FI	16600	Järvelä							60.8667	25.2833	4
+FI	16601	Järvelä							60.8667	25.2833	4
+FI	16610	Kärkölä							60.9167	25.25	4
+FI	16630	Tennilä							60.95	25.35	4
+FI	16670	Lappila							60.85	25.1833	4
+FI	16710	Hollola							61.05	25.4333	4
+FI	16730	Kutajärvi							61.05	25.3667	
+FI	16740	Sairakkala							61	25.3167	4
+FI	16790	Manskivi							61.1	25.35	4
+FI	16800	Hämeenkoski							60.9083	25.5681	
+FI	16801	Hämeenkoski							60.9083	25.5681	
+FI	16900	Lammi							61.0833	25.0167	4
+FI	16901	Lammi							61.0833	25.0167	4
+FI	16940	Lieso							61.1667	24.9167	4
+FI	16960	Iso-Evo							61.1667	25.05	4
+FI	16970	Evo							61.1667	25.05	4
+FI	16980	Ronni							61.0833	25.1167	4
+FI	16999	Lahti							60.9667	25.6667	4
+FI	17110	Kalliola							61.0833	25.6333	4
+FI	17120	Paimela							61.1	25.65	4
+FI	17130	Vesivehmaa							61.1333	25.6667	4
+FI	17150	Urajärvi							61.1333	25.7833	4
+FI	17200	Vääksy 2							61.1833	25.55	
+FI	17201	Vääksy							61.1833	25.55	4
+FI	17210	Vuorenmylly							61.2	25.7667	4
+FI	17220	Pietilä							61.2333	25.75	4
+FI	17240	Kalkkinen							61.3	25.7	4
+FI	17300	Vääksy							61.1833	25.55	4
+FI	17301	Vääksy							61.1833	25.55	4
+FI	17320	Asikkala							61.2167	25.5	4
+FI	17410	Viitaila							61.1333	25.3667	4
+FI	17430	Kurhila							61.1833	25.3833	4
+FI	17440	Vähimaa							61.2167	25.3833	4
+FI	17450	Iso-Äiniö							61.2333	25.35	4
+FI	17470	Maakeski							61.2833	25.35	4
+FI	17500	Padasjoki							61.35	25.2833	4
+FI	17501	Padasjoki							61.35	25.2833	4
+FI	17510	Nyystölä							61.3333	25.3	4
+FI	17530	Arrakoski							61.3833	25.2	4
+FI	17610	Auttoinen							61.3	25.0833	4
+FI	17630	Vesijako							61.35	25.05	4
+FI	17710	Torittu							61.45	25.1	4
+FI	17740	Kasiniemi							61.4333	24.9167	4
+FI	17780	Harmoinen							61.4833	25.15	4
+FI	17800	Kuhmoinen							61.5667	25.1833	4
+FI	17801	Kuhmoinen							61.5667	25.1833	4
+FI	17840	Harjunsalmi							61.6667	25.2833	4
+FI	17850	Pihlajakoski							61.6833	25.35	4
+FI	17870	Ruolahti							61.6	25.3833	4
+FI	17930	Päijälä							61.6	24.8667	4
+FI	17950	Kylämä							61.65	25.0667	4
+FI	17970	Puukkoinen							61.7167	25.15	4
+FI	18100	Heinola							61.2167	26.0333	4
+FI	18101	Heinola							61.2167	26.0333	4
+FI	18108	Heinola leirintä							61.2167	26.0333	
+FI	18111	Heinola							61.2167	26.0333	4
+FI	18120	Heinola							61.2167	26.0333	4
+FI	18130	Heinola							61.2167	26.0333	4
+FI	18150	Heinola							61.2167	26.0333	4
+FI	18200	Heinola							61.2167	26.0333	4
+FI	18300	Heinola Kk							61.2104	26.0271	
+FI	18600	Myllyoja							61.1667	25.9833	4
+FI	19100	Vierumäki							61.1	25.95	4
+FI	19110	Vierumäki							61.1	25.95	4
+FI	19111	Vierumäki							61.1	25.95	4
+FI	19120	Vierumäki							61.1	25.95	4
+FI	19150	Vuolenkoski							61.0833	26.1333	4
+FI	19160	Huutotöyry							61.0833	26.1667	4
+FI	19210	Lusi							61.3	26.1	4
+FI	19220	Vahteristo							61.3333	26.05	4
+FI	19230	Onkiniemi							61.4167	26.0333	4
+FI	19250	Syrjäkoski							61.3833	26.2	4
+FI	19260	Paaso							61.3667	26.25	4
+FI	19310	Karilanmaa							61.35	25.6	4
+FI	19320	Nikkaroinen							61.4	25.65	4
+FI	19340	Ravioskorpi							61.35	25.8	4
+FI	19350	Ojankorva							61.4	25.8	4
+FI	19370	Nuoramoinen							61.45	25.8333	4
+FI	19380	Marjakylä							61.2833	25.9167	4
+FI	19410	Kuortti							61.4333	26.45	4
+FI	19420	Mansikkamäki							61.5	26.35	4
+FI	19430	Pertunmaa							61.5	26.4833	4
+FI	19460	Ruorasmäki							61.5833	26.4	4
+FI	19470	Lihavanpää							61.5333	26.5333	4
+FI	19480	Hartosenpää							61.5167	26.6167	4
+FI	19510	Lepsala							61.4333	26.1833	4
+FI	19520	Salajärvi							61.4667	26.1833	4
+FI	19530	Kuivajärvi							61.4667	26.1833	4
+FI	19540	Koitti							61.5167	26.2167	4
+FI	19560	Nokka							61.6	26.25	4
+FI	19600	Hartola							61.5833	26.0167	4
+FI	19601	Hartola							61.5833	26.0167	4
+FI	19610	Murakka							61.5333	26.1	4
+FI	19620	Pohela							61.5	25.9667	4
+FI	19630	Kalhonkylä							61.6452	26.0833	
+FI	19650	Joutsa							61.75	26.1167	4
+FI	19651	Joutsa							61.7333	26.1167	4
+FI	19670	Mieskonmäki							61.85	26.25	4
+FI	19700	Sysmä							61.5	25.6833	4
+FI	19701	Sysmä							61.5	25.6833	4
+FI	19710	Suopelto							61.5	25.5833	4
+FI	19730	Särkilampi							61.5833	25.65	4
+FI	19740	Liikola							61.5833	25.8	4
+FI	19770	Valittula							61.5333	25.85	4
+FI	19810	Siltasuo							61.6167	25.9333	4
+FI	19850	Putkijärvi							61.7333	25.8833	4
+FI	19910	Tammijärvi							61.8333	25.8667	4
+FI	19920	Pappinen							61.7333	25.8133	
+FI	19950	Luhanka							61.7833	25.7	4
+FI	19970	Putkilahti							61.8833	25.7167	4
+FI	19980	Oittila							61.95	25.75	4
+FI	19999	Heinola							61.2167	26.0333	4
+FI	20002	Turku							60.45	22.2833	4
+FI	20003	Turku							60.45	22.2833	4
+FI	20007	Turku							60.45	22.2833	4
+FI	20014	Turun Yliopisto							60.45	22.2833	
+FI	20075	Sampo							60.45	22.2833	
+FI	20100	Turku							60.4502	22.276	4
+FI	20101	Turku							60.45	22.2833	4
+FI	20110	Turku							60.4524	22.2711	4
+FI	20111	Turku							60.46	22.288	4
+FI	20120	Turku							60.45	22.2833	4
+FI	20140	Turku							60.45	22.2833	4
+FI	20141	Turku							60.45	22.2833	4
+FI	20173	Turun linna							60.45	22.2833	
+FI	20200	Turku							60.45	22.2833	4
+FI	20201	Turku							60.45	22.2833	4
+FI	20210	Turku							60.45	22.2833	4
+FI	20211	Turku							60.45	22.2833	4
+FI	20240	Turku							60.45	22.2833	4
+FI	20241	Turku							60.45	22.2833	4
+FI	20250	Turku							60.45	22.2833	4
+FI	20251	Turku							60.45	22.2833	4
+FI	20260	Raisio							60.4833	22.1833	4
+FI	20270	Ihala							60.4667	22.1833	4
+FI	20300	Turku							60.45	22.2833	4
+FI	20301	Turku							60.45	22.2833	4
+FI	20310	Turku							60.45	22.2833	4
+FI	20311	Turku							60.45	22.2833	4
+FI	20320	Turku							60.45	22.2833	4
+FI	20321	Turku							60.45	22.2833	4
+FI	20340	Turku							60.45	22.2833	4
+FI	20350	Turku							60.45	22.2833	4
+FI	20351	Turku							60.45	22.2833	4
+FI	20360	Turku							60.45	22.2833	4
+FI	20361	Turku							60.45	22.2833	4
+FI	20380	Turku							60.45	22.2833	4
+FI	20381	Turku							60.45	22.2833	4
+FI	20400	Turku							60.45	22.2833	4
+FI	20460	Turku							60.45	22.2833	4
+FI	20500	Turku							60.45	22.2833	4
+FI	20501	Turku							60.45	22.2833	4
+FI	20510	Turku							60.45	22.2833	4
+FI	20520	Turku							60.45	22.2833	4
+FI	20521	Turku							60.45	22.2833	4
+FI	20540	Turku							60.45	22.2833	4
+FI	20541	Turku							60.45	22.2833	4
+FI	20600	Turku							60.45	22.2833	4
+FI	20601	Turku							60.45	22.2833	4
+FI	20610	Turku							60.45	22.2833	4
+FI	20611	Turku							60.45	22.2833	4
+FI	20640	Ravattula							60.4667	22.3667	4
+FI	20660	Littoinen							60.4375	22.4022	4
+FI	20661	Littoinen							60.4375	22.4022	4
+FI	20700	Turku							60.45	22.2833	4
+FI	20701	Turku							60.45	22.2833	4
+FI	20703	Turku-luostarinmäki							60.45	22.2833	
+FI	20720	Turku							60.45	22.2833	4
+FI	20740	Turku							60.45	22.2833	4
+FI	20741	Turku							60.45	22.2833	4
+FI	20750	Turku							60.45	22.2833	4
+FI	20751	Turku							60.45	22.2833	4
+FI	20760	Piispanristi							60.4097	22.3353	4
+FI	20761	Piispanristi							60.4097	22.3353	4
+FI	20780	Kaarina							60.4167	22.4167	4
+FI	20781	Kaarina							60.4167	22.4167	4
+FI	20800	Turku							60.45	22.2833	4
+FI	20801	Turku							60.45	22.2833	4
+FI	20810	Turku							60.45	22.2833	4
+FI	20811	Turku							60.45	22.2833	4
+FI	20840	Turku							60.45	22.2833	4
+FI	20880	Turku							60.45	22.2833	4
+FI	20881	Turku							60.45	22.2833	4
+FI	20900	Turku							60.45	22.2833	4
+FI	20901	Turku							60.45	22.2833	4
+FI	20960	Turku							60.45	22.2833	4
+FI	20990	Turku							60.45	22.2833	4
+FI	21003	Raisio							60.4833	22.1833	4
+FI	21100	Naantali							60.46	22.0729	4
+FI	21101	Naantali							60.45	22.0333	4
+FI	21110	Naantali							60.45	22.0333	4
+FI	21111	Naantali							60.45	22.0333	4
+FI	21120	Raisio							60.4833	22.1833	4
+FI	21130	Poikko							60.4167	21.9167	4
+FI	21140	Rymättylä							60.3667	21.95	4
+FI	21150	Röölä							60.35	21.9667	4
+FI	21160	Merimasku							60.4833	21.8667	4
+FI	21180	Livonsaari							60.5167	21.75	4
+FI	21195	Velkua							60.4667	21.6667	4
+FI	21200	Raisio							60.4833	22.1833	4
+FI	21201	Raisio							60.4833	22.1833	4
+FI	21207	Raisio							60.4833	22.1833	4
+FI	21210	Raisio							60.4833	22.1833	4
+FI	21211	Raisio							60.4833	22.1833	4
+FI	21220	Raisio							60.4833	22.1833	4
+FI	21230	Lemu							60.5667	21.9667	4
+FI	21240	Askainen							60.6181	22.3322	4
+FI	21250	Masku							60.5667	22.1	4
+FI	21251	Masku							60.5667	22.1	4
+FI	21260	Raisio							60.4833	22.1833	4
+FI	21270	Nousiainen							60.6167	22.1333	4
+FI	21271	Nousiainen							60.6167	22.1333	4
+FI	21280	Raisio							60.4833	22.1833	4
+FI	21290	Rusko							60.5333	22.2167	4
+FI	21291	Rusko							60.5333	22.2167	4
+FI	21310	Vahto							60.6	22.3	4
+FI	21330	Paattinen							60.5833	22.3833	4
+FI	21340	Tortinmäki							60.6833	22.45	4
+FI	21350	Ilmarinen							60.5086	22.3881	4
+FI	21360	Lieto As							60.6298	22.4459	
+FI	21370	Aura Kk							60.6298	22.4459	
+FI	21380	Aura							60.6	22.5667	4
+FI	21381	Aura							60.6	22.5667	4
+FI	21390	Uusikartano							60.8333	22.4667	4
+FI	21410	Vanhalinna							60.4764	22.3806	4
+FI	21420	Lieto							60.5	22.45	4
+FI	21421	Lieto							60.5	22.45	4
+FI	21430	Yliskulma							60.5333	22.55	4
+FI	21450	Tarvasjoki							60.5833	22.7333	4
+FI	21470	Suurila							60.6167	22.75	4
+FI	21480	Prunkila							60.5667	22.8	4
+FI	21490	Marttila							60.5833	22.9	4
+FI	21500	Piikkiö							60.4333	22.5167	4
+FI	21501	Piikkiö							60.4333	22.5167	4
+FI	21510	Hevonpää							60.4333	22.6	4
+FI	21520	Naskarla							60.4348	22.6742	
+FI	21530	Paimio							60.45	22.7	4
+FI	21531	Paimio							60.45	22.7	4
+FI	21540	Preitilä							60.4667	22.75	4
+FI	21555	Taatila							60.5	22.7667	4
+FI	21560	Ollila							60.65	22.9167	4
+FI	21570	Sauvo							60.35	22.7	4
+FI	21571	Sauvo							60.35	22.7	4
+FI	21590	Karuna							60.2667	22.55	4
+FI	21600	Parainen							60.3	22.3	4
+FI	21601	Parainen							60.3	22.3	4
+FI	21610	Kirjala							60.3667	22.3667	4
+FI	21620	Kuusisto							60.3833	22.4167	4
+FI	21630	Lielahti Tl							60.2204	22.0944	
+FI	21650	Lillandet							60.1667	22.05	4
+FI	21660	Nauvo							60.1833	21.9167	4
+FI	21661	Nauvo							60.1833	21.9167	4
+FI	21670	Mattnäs							60.15	21.8167	4
+FI	21680	Nötö							59.95	21.7667	4
+FI	21710	Korppoo							60.1667	21.5667	4
+FI	21711	Korppoo							60.1667	21.5667	4
+FI	21720	Korpoström							60.1167	21.6167	4
+FI	21740	Utö							59.7667	21.3667	4
+FI	21750	Norrskata							60.2667	21.6	4
+FI	21760	Houtskär							60.2167	21.3833	4
+FI	21770	Mossala							60.2667	21.4167	4
+FI	21780	Nåtö							60.35	21.1667	4
+FI	21800	Kyrö							60.7	22.75	4
+FI	21801	Kyrö							60.7	22.75	4
+FI	21820	Kumila							60.7333	22.8	4
+FI	21830	Rahkio							60.7167	22.9	4
+FI	21840	Karinainen							60.6667	22.7667	4
+FI	21860	Auvainen							60.6667	22.5833	4
+FI	21870	Riihikoski							60.7167	22.6	4
+FI	21871	Riihikoski							60.7167	22.6	4
+FI	21880	Pöytyä							60.7667	22.6667	4
+FI	21890	Haveri							60.8167	22.6833	4
+FI	21900	Yläne							60.8833	22.4167	4
+FI	21901	Yläne							60.8833	22.4167	4
+FI	21930	Uusikartano							60.8333	22.4667	4
+FI	21970	Kolvaa							60.9333	22.2833	4
+FI	21999	Turku							60.45	22.2833	4
+FI	22100	Mariehamn							60.0833	19.9167	4
+FI	22101	Mariehamn							60.1	19.95	4
+FI	22120	Maarianhamina							60.1	19.95	4
+FI	22130	Gottby							60.1333	19.8333	4
+FI	22131	Gottby							60.1333	19.8333	4
+FI	22140	Mariehamn							60.1	19.95	4
+FI	22150	Jomala							60.15	19.9667	4
+FI	22151	Jomala							60.15	19.9667	4
+FI	22160	Mariehamn							60.1	19.95	4
+FI	22220	Emkarby							60.2111	19.8856	4
+FI	22240	Hammarland							60.2167	19.75	4
+FI	22260	Eckerö							60.2	19.6167	4
+FI	22270	Eckerö							60.2	19.6167	4
+FI	22271	Storby							60.2167	19.5667	4
+FI	22310	Pålsböle							60.2667	19.9333	4
+FI	22320	Ödkarby							60.3	19.9833	4
+FI	22330	Tjudö							60.3333	19.95	4
+FI	22340	Geta							60.3833	19.85	4
+FI	22410	Godby							60.2333	20	4
+FI	22411	Godby							60.2333	20	4
+FI	22430	Saltvik							60.2833	20.05	4
+FI	22520	Kastelholm							60.2364	20.2434	
+FI	22530	Sund							60.25	20.1167	4
+FI	22540	Bomarsund							60.2092	20.2303	4
+FI	22550	Vårdö							60.25	20.3833	4
+FI	22610	Lemland							60.0833	20.1	4
+FI	22630	Lumparland							60.1167	20.25	4
+FI	22710	Föglö							60.0167	20.4167	4
+FI	22720	Sottunga							60.1333	20.6667	4
+FI	22730	Kökar							59.9333	20.8833	4
+FI	22810	Seglinge							60.2	20.7	4
+FI	22820	Kumlinge							60.2667	20.7833	4
+FI	22830	Enklinge							60.3333	20.7667	4
+FI	22840	Lappoby-Åland							60.3167	20.9833	4
+FI	22910	Torsholma							60.3561	21.0692	4
+FI	22920	Brändö-Åland							60.339	20.7631	
+FI	22930	Fiskö							60.45	20.95	4
+FI	22940	Åva							60.45	21.0833	4
+FI	22950	Jurmo-Åland							60.339	20.7631	
+FI	22999	Mariehamn							60.1	19.95	4
+FI	23003	Uusikaupunki							60.8	21.4167	4
+FI	23100	Mynämäki							60.6667	22	4
+FI	23101	Mynämäki							60.6667	22	4
+FI	23110	Mynämäki As							60.7708	21.9333	
+FI	23120	Mietoinen							60.6333	21.9333	4
+FI	23140	Hietamäki							60.7708	21.9333	
+FI	23170	Kivikylä							61.1167	21.8	4
+FI	23200	Vinkkilä							60.6833	21.7167	4
+FI	23201	Vinkkilä							60.6833	21.7167	4
+FI	23210	Vehmaa							60.6833	21.6667	4
+FI	23240	Ennyinen							60.65	21.7667	4
+FI	23260	Rautila							60.6167	21.7	4
+FI	23310	Taivassalo							60.5667	21.6	4
+FI	23311	Taivassalo							60.5667	21.6	4
+FI	23360	Kustavi							60.55	21.35	4
+FI	23390	Iniö							60.4	21.4	4
+FI	23450	Lokalahti							60.6833	21.4667	4
+FI	23451	Lokalahti							60.6833	21.4667	4
+FI	23500	Uusikaupunki							60.8	21.4167	4
+FI	23501	Uusikaupunki							60.8	21.4167	4
+FI	23520	Uusikaupunki							60.8	21.4167	4
+FI	23530	Uusikaupunki							60.8	21.4167	4
+FI	23600	Kalanti							60.8167	21.5667	4
+FI	23601	Kalanti							60.8167	21.5667	4
+FI	23660	Kalanti As							60.8167	21.5667	
+FI	23800	Laitila							60.8833	21.6833	4
+FI	23801	Laitila							60.8833	21.6833	4
+FI	23840	Soukainen							60.9333	21.7	4
+FI	23880	Suontaka							60.9333	21.8167	4
+FI	23910	Raulio							60.9	21.4167	4
+FI	23930	Pyhämaa							60.95	21.3667	4
+FI	23940	Eilu							60.9458	21.4125	
+FI	23950	Pyhäranta							60.95	21.45	4
+FI	23960	Santtio							60.9833	21.4167	4
+FI	24003	Salo							60.3833	23.1333	4
+FI	24007	Salo							60.3833	23.1333	4
+FI	24100	Salo							60.3846	23.1306	4
+FI	24101	Salo							60.3833	23.1333	4
+FI	24105	Salo 10/Yritysposti							60.3833	23.1333	
+FI	24130	Salo							60.3833	23.1333	4
+FI	24240	Salo							60.3833	23.1333	4
+FI	24241	Salo							60.3833	23.1333	4
+FI	24260	Salo							60.3833	23.1333	4
+FI	24261	Salo							60.3833	23.1333	4
+FI	24280	Salo							60.3833	23.1333	4
+FI	24520	Inkere							60.4333	23.2833	4
+FI	24540	Romsila							60.4167	23.35	4
+FI	24800	Halikko							60.4	23.0833	4
+FI	24801	Halikko							60.4	23.0833	4
+FI	24910	Halikko As							60.3917	23.1524	
+FI	25003	Salo							60.3833	23.1333	4
+FI	25110	Kruusila							60.3833	23.45	4
+FI	25130	Muurla							60.35	23.2833	4
+FI	25160	Tuohittu							60.3	23.25	4
+FI	25170	Kotalato							60.3861	23.3167	
+FI	25180	Romsila							60.4167	23.35	4
+FI	25190	Inkere							60.4333	23.2833	4
+FI	25191	Inkere							60.4333	23.2833	4
+FI	25210	Vartsala							60.3333	23.0167	4
+FI	25230	Angelniemi							60.3	22.9	4
+FI	25240	Hajala							60.4333	22.9167	4
+FI	25250	Märynummi							60.3875	22.9542	
+FI	25260	Vaskio							60.4833	22.9833	4
+FI	25310	Impola							60.5167	23.2	4
+FI	25320	Raatala							60.55	23.1833	4
+FI	25330	Kuusjoki							60.5167	23.2	4
+FI	25340	Kanunki							60.55	23.3	4
+FI	25350	Häntälä							60.5833	23.3667	4
+FI	25360	Pertteli							60.4333	23.2667	4
+FI	25370	Hiisi							60.4667	23.3333	4
+FI	25380	Rekijoki							60.4833	23.45	4
+FI	25385	Hirvelä							60.5167	23.5	4
+FI	25390	Kiikala							60.4667	23.5667	4
+FI	25391	Kiikala							60.4667	23.5667	4
+FI	25410	Suomusjärvi							60.35	23.65	4
+FI	25420	Lahnajärvi							60.2972	23.5528	
+FI	25430	Kettula							60.4	23.7667	4
+FI	25450	Kurkela							60.3	23.55	4
+FI	25460	Toija							60.25	23.4333	4
+FI	25461	Toija							60.25	23.4333	4
+FI	25470	Kisko							60.2333	23.4833	4
+FI	25500	Perniö							60.2	23.1333	4
+FI	25501	Perniö							60.2	23.1333	4
+FI	25520	Perniö As							60.2433	23.1367	
+FI	25530	Ervelä							60.2433	23.1367	
+FI	25540	Knaapila							60.25	23.25	4
+FI	25550	Aijala							60.3167	23.2167	4
+FI	25560	Koski As							60.2433	23.1367	
+FI	25570	Teijo							60.25	22.95	4
+FI	25610	Ylönkylä							60.1667	23	4
+FI	25630	Särkisalo							60.1611	22.9833	
+FI	25640	Förby							60.1611	22.9833	
+FI	25650	Strömma							60.1611	22.9833	
+FI	25660	Mathildedal							60.2167	22.9167	4
+FI	25690	Gråböle							60.1	23.0333	4
+FI	25700	Kemiö							60.1667	22.75	4
+FI	25701	Kemiö							60.1667	22.75	4
+FI	25710	Vreta							60.1667	22.6833	4
+FI	25730	Mjösund							60.2	22.4833	4
+FI	25760	Kiila							60.25	22.8833	4
+FI	25770	Reku							60.1833	22.8	4
+FI	25780	Pederså							60.1333	22.8333	4
+FI	25810	Mark							60.07	22.6267	
+FI	25820	Vestlax							60.0667	22.7667	4
+FI	25830	Västanfjärd							60.05	22.6833	4
+FI	25840	Nivelax							60.0833	22.6333	4
+FI	25860	Björkboda							60.0833	22.5667	4
+FI	25870	Dragsfjärd							60.0667	22.4833	4
+FI	25900	Taalintehdas							60.0333	22.5167	4
+FI	25901	Taalintehdas							60.0333	22.5167	4
+FI	25910	Vänoxa							59.9667	22.6167	4
+FI	25930	Kasnäs							59.9167	22.4167	4
+FI	25940	Hiittinen							59.8833	22.5167	4
+FI	25950	Rosala							59.85	22.4333	4
+FI	25960	Högsåra							59.95	22.3667	4
+FI	25999	Salo							60.3833	23.1333	4
+FI	26003	Rauma							61.1333	21.5	4
+FI	26007	Rauma							61.1333	21.5	4
+FI	26100	Rauma							61.1273	21.5211	4
+FI	26101	Rauma							61.1333	21.5	4
+FI	26130	Rauma							61.1333	21.5	4
+FI	26131	Rauma							61.1333	21.5	4
+FI	26200	Rauma							61.1333	21.5	4
+FI	26201	Rauma							61.1333	21.5	4
+FI	26410	Kaaro							61.1108	21.54	
+FI	26411	Kaaro							61.1108	21.54	
+FI	26510	Rauma							61.1333	21.5	4
+FI	26511	Rauma							61.1333	21.5	4
+FI	26560	Kolla							61.1167	21.65	4
+FI	26660	Rauma							61.1333	21.5	4
+FI	26661	Rauma							61.1333	21.5	4
+FI	26700	Hinnerjoki							61	22	4
+FI	26720	Monnanummi							61.0417	21.8	
+FI	26740	Vasarainen							61.0833	21.6	4
+FI	26820	Rauma							61.1333	21.5	4
+FI	26840	Kortela							61.1	21.5	4
+FI	26910	Unaja							61.0833	21.5	4
+FI	26930	Vermuntila							61.0333	21.5833	4
+FI	26950	Voiluoto							61.0667	21.4667	4
+FI	27003	Rauma							61.1333	21.5	4
+FI	27100	Eurajoki							61.2	21.7333	4
+FI	27101	Eurajoki							61.2	21.7333	4
+FI	27110	Irjanne							61.2333	21.7833	4
+FI	27130	Eurajoki As							61.22	21.6967	
+FI	27150	Lapijoki							61.1833	21.65	4
+FI	27160	Olkiluoto							61.22	21.6967	
+FI	27170	Kuivalahti							61.2833	21.5833	4
+FI	27210	Kullanperä							61.1167	21.7167	4
+FI	27220	Ala-Kieri							61.0778	21.8639	
+FI	27230	Lappi							61.1	21.8333	4
+FI	27231	Lappi							61.1	21.8333	4
+FI	27240	Karhunselkä							61.0667	21.9167	4
+FI	27250	Kodiksami							61.05	21.95	4
+FI	27260	Kuolimaa							61.0333	21.9333	4
+FI	27310	Kodisjoki							61.0333	21.6833	4
+FI	27320	Ihode							60.9833	21.6	4
+FI	27340	Reila							61.0333	21.3667	4
+FI	27400	Kiukainen							61.2167	22.0833	4
+FI	27401	Kiukainen							61.2167	22.0833	4
+FI	27420	Panelia As							61.2267	22.0367	
+FI	27430	Panelia							61.2167	21.9667	4
+FI	27440	Saarenmaa							61.25	21.9167	4
+FI	27450	Harola							61.2333	22.1333	4
+FI	27500	Kauttua							61.1	22.1667	4
+FI	27501	Kauttua							61.1	22.1667	4
+FI	27510	Eura							61.1333	22.1333	4
+FI	27511	Eura							61.1333	22.1333	4
+FI	27600	Hinnerjoki							61	22	4
+FI	27640	Honkilahti Kk							60.9944	22.0944	
+FI	27650	Honkilahti							60.9667	22.1167	4
+FI	27670	Mannila							61.0167	22.1667	4
+FI	27710	Köyliö							61.1167	22.35	4
+FI	27711	Köyliö							61.1167	22.35	4
+FI	27730	Tuiskula							61.1667	22.2333	4
+FI	27740	Voitoinen							61.1267	22.34	
+FI	27750	Yttilä							61.1167	22.3833	4
+FI	27751	Yttilä							61.1167	22.3833	4
+FI	27800	Säkylä							61.0333	22.3333	4
+FI	27801	Säkylä							61.0333	22.3333	4
+FI	27820	Iso-Vimma							61.0542	22.4	
+FI	27821	Iso-Vimma							61.0542	22.4	
+FI	27840	Kakkuri							61.0833	22.4	4
+FI	27860	Vuori							61.0667	22.5333	4
+FI	27910	Huovinrinne							61.075	21.95	
+FI	27911	Huovinrinne							61.075	21.95	
+FI	27920	Otajoki							61.0167	22.4	4
+FI	27999	Rauma							61.1333	21.5	4
+FI	28003	Pori							61.4833	21.7833	4
+FI	28007	Pori							61.4833	21.7833	4
+FI	28100	Pori							61.4825	21.7911	4
+FI	28101	Pori							61.4833	21.7833	4
+FI	28120	Pori							61.4833	21.7833	4
+FI	28130	Pori							61.4833	21.7833	4
+FI	28131	Pori							61.4833	21.7833	4
+FI	28190	Pori							61.4833	21.7833	4
+FI	28191	Pori							61.4833	21.7833	4
+FI	28200	Pori							61.4833	21.7833	4
+FI	28201	Pori							61.4833	21.7833	4
+FI	28220	Pori							61.4833	21.7833	4
+FI	28221	Pori							61.4833	21.7833	4
+FI	28230	Pori							61.4833	21.7833	4
+FI	28240	Pori							61.4833	21.7833	4
+FI	28260	Harjunpää							61.5	21.9167	4
+FI	28280	Pori							61.4833	21.7833	4
+FI	28300	Pori							61.4833	21.7833	4
+FI	28330	Pori							61.4833	21.7833	4
+FI	28331	Pori							61.4833	21.7833	4
+FI	28360	Pori							61.4833	21.7833	4
+FI	28361	Pori							61.4833	21.7833	4
+FI	28370	Pori							61.4833	21.7833	4
+FI	28371	Pori							61.4833	21.7833	4
+FI	28400	Ulvila							61.4333	21.8833	4
+FI	28401	Ulvila							61.4333	21.8833	4
+FI	28430	Pori							61.4833	21.7833	4
+FI	28431	Pori							61.4833	21.7833	4
+FI	28450	Vanha-Ulvila							61.4333	21.8833	4
+FI	28451	Vanha-Ulvila							61.4333	21.8833	4
+FI	28500	Pori							61.4833	21.7833	4
+FI	28501	Pori							61.4833	21.7833	4
+FI	28540	Pori							61.4833	21.7833	4
+FI	28560	Pori							61.4833	21.7833	4
+FI	28580	Pori							61.4833	21.7833	4
+FI	28600	Pori							61.4833	21.7833	4
+FI	28601	Pori							61.4833	21.7833	4
+FI	28610	Pori							61.4833	21.7833	4
+FI	28611	Pori							61.4833	21.7833	4
+FI	28640	Pori							61.4833	21.7833	4
+FI	28660	Pori							61.4833	21.7833	4
+FI	28760	Pori							61.4833	21.7833	4
+FI	28800	Pori							61.4833	21.7833	4
+FI	28801	Pori							61.4833	21.7833	4
+FI	28840	Pori							61.4833	21.7833	4
+FI	28850	Yyteri							61.5667	21.5333	4
+FI	28880	Pori							61.4833	21.7833	4
+FI	28881	Pori							61.4833	21.7833	4
+FI	28900	Pori							61.4833	21.7833	4
+FI	29100	Luvia							61.35	21.6167	4
+FI	29101	Luvia							61.35	21.6167	4
+FI	29120	Verkkoranta							61.4333	21.5	4
+FI	29180	Peränkylä							61.3167	21.6667	4
+FI	29200	Harjavalta							61.3167	22.1333	4
+FI	29201	Harjavalta							61.3167	22.1333	4
+FI	29210	Merstola							61.3	22.1667	4
+FI	29220	Killanmaa							61.3333	22.069	
+FI	29230	Satalinna							61.3333	22.1	4
+FI	29250	Nakkila							61.3667	22	4
+FI	29251	Nakkila							61.3667	22	4
+FI	29270	Hormisto							61.3333	21.95	4
+FI	29280	Järvimaa							61.3333	22.069	
+FI	29310	Kaasmarkku							61.45	22.0167	4
+FI	29320	Leineperi							61.4333	22.1	4
+FI	29330	Levanpelto							61.4633	22.1067	
+FI	29340	Kullaa							61.4667	22.1667	4
+FI	29350	Palus							61.5	22.0667	4
+FI	29360	Koskenranta							61.4667	22.1833	4
+FI	29570	Söörmarkku							61.5833	21.8167	4
+FI	29580	Kellahti							61.6	21.7167	4
+FI	29600	Noormarkku							61.5833	21.8667	4
+FI	29601	Noormarkku							61.5833	21.8667	4
+FI	29630	Pomarkku							61.7	22	4
+FI	29631	Pomarkku							61.7	22	4
+FI	29640	Honkakoski							61.75	22.1333	4
+FI	29670	Rudanmaa							61.5833	22.0833	4
+FI	29680	Lassila							61.6167	22.25	4
+FI	29700	Ahlainen							61.6667	21.6167	4
+FI	29720	Lamppi							61.6667	21.7333	4
+FI	29740	Etelämaa							61.7833	21.6667	4
+FI	29750	Pohjansaha							61.7667	21.5833	4
+FI	29760	Köörtilä							61.7667	21.5333	4
+FI	29790	Tuorila							61.8667	21.6333	4
+FI	29810	Siikainen							61.8667	21.8333	4
+FI	29811	Siikainen							61.8667	21.8333	4
+FI	29830	Sammi							61.9	22.05	4
+FI	29850	Hirvivuori							61.8381	21.8762	
+FI	29860	Otamo							61.8167	21.7667	4
+FI	29870	Keskukylä							61.8333	21.8667	4
+FI	29880	Leväsjoki							61.8	21.8333	4
+FI	29890	Saarineva							61.7833	21.95	4
+FI	29900	Merikarvia							61.85	21.5	4
+FI	29901	Merikarvia							61.85	21.5	4
+FI	29910	Trolssi							61.8687	21.5833	
+FI	29920	Riispyy							61.95	21.4333	4
+FI	29930	Kasala							61.9667	21.3833	4
+FI	29940	Kuvaskangas							61.9333	21.6333	4
+FI	29960	Koittankoski							61.9833	21.7	4
+FI	29970	Lautjärvi							61.9333	21.7333	4
+FI	29999	Pori							61.4833	21.7833	4
+FI	30003	Forssa							60.8167	23.6333	4
+FI	30007	Forssa							60.8167	23.6333	4
+FI	30100	Forssa							60.8167	23.6333	4
+FI	30101	Forssa							60.8167	23.6333	4
+FI	30300	Forssa							60.8167	23.6333	4
+FI	30420	Forssa							60.8167	23.6333	4
+FI	30421	Forssa							60.8167	23.6333	4
+FI	30630	Latovainio							60.8833	23.5	4
+FI	30740	Forssa							60.8167	23.6333	4
+FI	30760	Koijärvi							60.9333	23.65	4
+FI	30920	Riihivalkama							60.75	23.7	4
+FI	30940	Letku							60.7	23.7167	4
+FI	30980	Torro							60.7167	23.6	4
+FI	31003	Forssa							60.8167	23.6333	4
+FI	31100	Forssa							60.8167	23.6333	4
+FI	31110	Matku							60.9667	23.5167	4
+FI	31120	Raitoo							60.9833	23.6167	4
+FI	31130	Koijärvi							60.9333	23.65	4
+FI	31140	Menonen							61.0167	23.4833	4
+FI	31150	Hanhisuo							61.0333	23.6	4
+FI	31160	Nuutajärvi							61.05	23.4333	4
+FI	31170	Savijoki							60.9667	23.7	4
+FI	31230	Susikas							60.8667	23.85	4
+FI	31240	Lautaporras							60.9167	23.8667	4
+FI	31250	Teuro							60.8667	23.9333	4
+FI	31300	Tammela							60.8	23.7667	4
+FI	31301	Tammela							60.8	23.7667	4
+FI	31310	Mustiala							60.8167	23.7667	4
+FI	31320	Tammelasaari							60.83	24.0533	
+FI	31330	Lepistö							60.9833	25.0333	4
+FI	31340	Porras							60.75	23.9333	4
+FI	31350	Liesjärvi							60.83	24.0533	
+FI	31360	Honka							60.83	24.0533	
+FI	31370	Eerikkilä							60.83	24.0533	
+FI	31380	Letku							60.83	24.0533	
+FI	31400	Somero							60.6167	23.5333	4
+FI	31401	Somero							60.6167	23.5333	4
+FI	31410	Ylöpirtti							60.6833	23.45	4
+FI	31430	Kultela							60.6333	23.5667	4
+FI	31450	Häntälä							60.5833	23.3667	4
+FI	31460	Hirsjärvi							60.6	23.6333	4
+FI	31461	Hirsjärvi							60.6	23.6333	4
+FI	31470	Somerniemi							60.5667	23.7167	4
+FI	31480	Kaskisto							60.5167	23.6333	4
+FI	31490	Terttilä							60.55	23.55	4
+FI	31500	Koski Tl							60.6533	23.1133	
+FI	31501	Koski Tl							60.6533	23.1133	
+FI	31520	Pitkäjärvi							60.6667	23.3	4
+FI	31530	Pyöli							60.65	23.4	4
+FI	31560	Ollila							60.65	22.9167	4
+FI	31570	Koivukylä							60.65	23.0333	4
+FI	31580	Vähä-Ollila							60.65	22.9167	4
+FI	31600	Jokioinen							60.8167	23.4667	4
+FI	31601	Jokioinen							60.8167	23.4667	4
+FI	31610	Vaulammi							60.8	23.4167	4
+FI	31620	Latovainio							60.8833	23.5	4
+FI	31630	Minkiö							60.8333	23.4667	4
+FI	31640	Humppila							60.9333	23.3667	4
+FI	31641	Humppila							60.9333	23.3667	4
+FI	31650	Venäjänkangas							60.875	23.4104	
+FI	31660	Murto							60.9833	23.2333	4
+FI	31670	Holkeri							60.875	23.4104	
+FI	31700	Urjala As							61.1133	23.4967	
+FI	31720	Urjalankylä							61.0833	23.4667	4
+FI	31730	Honkola							61.1167	23.45	4
+FI	31750	Kehro							61.2	23.5	4
+FI	31760	Urjala							61.0833	23.5333	4
+FI	31761	Urjala							61.0833	23.5333	4
+FI	31810	Oriniemi							61.15	23.2	4
+FI	31830	Halkivaha							61.2	23.3	4
+FI	31850	Koskioinen							61.1	23.2	4
+FI	31860	Tursa							61.1	23.2833	4
+FI	31900	Punkalaidun							61.1167	23.1	4
+FI	31901	Punkalaidun							61.1167	23.1	4
+FI	31910	Haviokoski							61.1333	23.0333	4
+FI	31930	Vanttila							61.15	22.95	4
+FI	31940	Jalasjoki							61.05	23.2	4
+FI	31950	Sadonmaa							61.0333	23.25	4
+FI	31960	Orisuo							61.0333	23.1333	4
+FI	31970	Kanteenmaa							61.05	22.9833	4
+FI	31999	Forssa							60.8167	23.6333	4
+FI	32003	Forssa							60.8167	23.6333	4
+FI	32100	Ypäjä							60.8	23.2833	4
+FI	32101	Ypäjä							60.8	23.2833	4
+FI	32110	Palikkala							60.7833	23.3667	4
+FI	32140	Ypäjä As							60.7944	23.3111	
+FI	32200	Loimaa							60.8667	22.9833	4
+FI	32201	Loimaa							60.8667	22.9833	4
+FI	32210	Loimaa Kk							60.92	23.0233	
+FI	32211	Loimaa kk							60.92	23.0233	
+FI	32250	Kojonkulma							60.95	22.9833	4
+FI	32260	Kojonperä							60.9833	23.0167	4
+FI	32270	Metsämaa							60.9333	23.15	4
+FI	32280	Metsäkorpi							60.92	23.0233	
+FI	32300	Mellilä							60.7667	22.95	4
+FI	32301	Mellilä							60.7667	22.95	4
+FI	32320	Hyry							60.75	23	4
+FI	32410	Niinijoki							60.8667	22.9	4
+FI	32420	Haaroinen							60.8667	22.8	4
+FI	32430	Ylhäinen							60.9	22.8667	4
+FI	32440	Alastaro							60.9333	22.9167	4
+FI	32441	Alastaro							60.9333	22.9167	4
+FI	32450	Tammiainen							61	22.8667	4
+FI	32500	Oripää							60.85	22.6833	4
+FI	32501	Oripää							60.85	22.6833	4
+FI	32520	Latva							60.9	22.6	4
+FI	32560	Virttaa							60.9333	22.6667	4
+FI	32610	Vampula							61.0167	22.7	4
+FI	32611	Vampula							61.0167	22.7	4
+FI	32620	Rutava							61.0667	22.7	4
+FI	32650	Kukonharja							61.0667	22.7833	4
+FI	32700	Huittinen							61.1833	22.7	4
+FI	32701	Huittinen							61.1833	22.7	4
+FI	32710	Sampu							61.2	22.7	4
+FI	32730	Keikyä							61.2667	22.7	4
+FI	32740	Äetsä							61.2833	22.6833	4
+FI	32741	Äetsä							61.2833	22.6833	4
+FI	32760	Suttila							61.15	22.9	4
+FI	32770	Huhtamo							61.0833	22.9167	4
+FI	32800	Kokemäki							61.25	22.35	4
+FI	32801	Kokemäki							61.25	22.35	4
+FI	32810	Peipohja							61.25	22.3	4
+FI	32830	Riste							61.2333	22.425	
+FI	32860	Korkeaoja							61.2333	22.425	
+FI	32899	Huittinen							61.1833	22.7	4
+FI	32910	Kauvatsa As							61.1	22.7417	
+FI	32920	Kauvatsa							61.3333	22.5	4
+FI	32999	Loimaa							60.8667	22.9833	4
+FI	33002	Tampere							61.5	23.75	4
+FI	33003	Tampere							61.5	23.75	4
+FI	33007	Tampere							61.5	23.75	4
+FI	33009	Tampere							61.5	23.75	4
+FI	33014	Tampereen yliopisto							61.5	23.75	
+FI	33100	Tampere							61.4986	23.7725	4
+FI	33101	Tampere							61.5	23.75	4
+FI	33180	Tampere							61.511	23.773	4
+FI	33191	Tampere							61.5	23.75	4
+FI	33200	Tampere							61.4933	23.7537	4
+FI	33201	Tampere							61.5	23.75	4
+FI	33210	Tampere							61.5	23.75	4
+FI	33211	Tampere							61.5	23.75	4
+FI	33230	Tampere							61.4941	23.731	4
+FI	33231	Tampere							61.5	23.75	4
+FI	33240	Tampere							61.5	23.75	4
+FI	33250	Tampere							61.5	23.75	4
+FI	33251	Tampere							61.5	23.75	4
+FI	33270	Tampere							61.5	23.75	4
+FI	33271	Tampere							61.5	23.75	4
+FI	33300	Tampere							61.5	23.75	4
+FI	33310	Tampere							61.5	23.75	4
+FI	33311	Tampere							61.5	23.75	4
+FI	33330	Tampere							61.5	23.75	4
+FI	33331	Tampere							61.5	23.75	4
+FI	33340	Tampere							61.5	23.75	4
+FI	33341	Tampere							61.5	23.75	4
+FI	33380	Pitkäniemi							61.4833	23.5833	4
+FI	33400	Tampere							61.5	23.75	4
+FI	33401	Tampere							61.5	23.75	4
+FI	33410	Tampere							61.5	23.75	4
+FI	33411	Tampere							61.5	23.75	4
+FI	33420	Tampere							61.5	23.75	4
+FI	33430	Vuorentausta							61.5233	23.685	
+FI	33431	Vuorentausta							61.5233	23.685	
+FI	33450	Siivikkala							61.5333	23.7	4
+FI	33470	Ylöjärvi							61.55	23.6	4
+FI	33471	Ylöjärvi							61.55	23.6	4
+FI	33480	Ylöjärvi							61.55	23.6	4
+FI	33481	Ylöjärvi							61.55	23.6	4
+FI	33500	Tampere							61.5	23.75	4
+FI	33501	Tampere							61.5	23.75	4
+FI	33520	Tampere							61.5	23.75	4
+FI	33521	Tampere							61.5	23.75	4
+FI	33530	Tampere							61.5	23.75	4
+FI	33531	Tampere							61.5	23.75	4
+FI	33540	Tampere							61.5	23.75	4
+FI	33541	Tampere							61.5	23.75	4
+FI	33560	Tampere							61.5	23.75	4
+FI	33561	Tampere							61.5	23.75	4
+FI	33580	Tampere							61.5	23.75	4
+FI	33581	Tampere							61.5	23.75	4
+FI	33610	Tampere							61.5	23.75	4
+FI	33611	Tampere							61.5	23.75	4
+FI	33680	Tampere							61.5	23.75	4
+FI	33700	Tampere							61.5	23.75	4
+FI	33701	Tampere							61.5	23.75	4
+FI	33710	Tampere							61.5	23.75	4
+FI	33711	Tampere							61.5	23.75	4
+FI	33720	Tampere							61.5	23.75	4
+FI	33721	Tampere							61.5	23.75	4
+FI	33730	Tampere							61.5	23.75	4
+FI	33731	Tampere							61.5	23.75	4
+FI	33800	Tampere							61.5	23.75	4
+FI	33801	Tampere							61.5	23.75	4
+FI	33820	Tampere							61.5	23.75	4
+FI	33821	Tampere							61.5	23.75	4
+FI	33840	Tampere							61.5	23.75	4
+FI	33841	Tampere							61.5	23.75	4
+FI	33850	Tampere							61.5	23.75	4
+FI	33851	Tampere							61.5	23.75	4
+FI	33880	Lempäälä							61.3167	23.75	4
+FI	33881	Sääksjärvi							61.4167	23.7667	4
+FI	33900	Tampere							61.4958	23.786	4
+FI	33901	Tampere							61.5	23.75	4
+FI	33920	Pirkkala							61.4667	23.5667	4
+FI	33940	Pirkkala							61.4667	23.5667	4
+FI	33950	Pirkkala							61.4667	23.5667	4
+FI	33960	Pirkkala							61.4667	23.5667	4
+FI	33961	Pirkkala							61.4667	23.5667	4
+FI	33970	Pirkkala							61.4667	23.5667	4
+FI	33980	Pirkkala							61.4667	23.5667	4
+FI	34110	Lakiala							61.6792	23.6	
+FI	34111	Lakiala							61.6792	23.6	
+FI	34120	Peräsilta							61.6	23.5833	4
+FI	34130	Ylinen							61.6792	23.6	
+FI	34140	Mutala							61.6667	23.5667	4
+FI	34150	Kyrönlahti							61.7	23.55	4
+FI	34180	Länsi-Teisko							61.75	23.7	4
+FI	34240	Kämmenniemi							61.6167	23.85	4
+FI	34260	Terälahti							61.7	23.9	4
+FI	34270	Velaatta							61.75	23.8833	4
+FI	34300	Kuru							61.8667	23.7333	4
+FI	34301	Kuru							61.8667	23.7333	4
+FI	34320	Parkkuu							61.8167	23.7	4
+FI	34330	Poikelus							61.8	23.6333	4
+FI	34410	Murole							61.8333	23.95	4
+FI	34420	Muroleen Kanava							61.8708	24.05	
+FI	34430	Kekkonen							61.85	24.0167	4
+FI	34450	Jäminkipohja							61.9	24.1167	4
+FI	34451	Jäminkipohja							61.9	24.1167	4
+FI	34510	Luode							61.9667	23.5167	4
+FI	34530	Länsi-Aure							61.9833	23.3833	4
+FI	34550	Itä-Aure							62.0667	23.4333	4
+FI	34600	Ruovesi							61.9833	24.0833	4
+FI	34601	Ruovesi							61.9833	24.0833	4
+FI	34610	Ruhala							61.95	24.1333	4
+FI	34620	Nenonen							61.9875	24.0833	
+FI	34640	Mustajärvi							62.0333	24.0333	4
+FI	34710	Vaskivesi							62.1333	23.6667	4
+FI	34730	Vaskuu							62.2167	23.55	4
+FI	34740	Koro							62.2167	23.65	4
+FI	34770	Kurjenkylä							62.2667	23.3833	4
+FI	34800	Virrat							62.2333	23.7833	4
+FI	34801	Virrat							62.2333	23.7833	4
+FI	34850	Jäähdyspohja							62.1833	23.8333	4
+FI	34870	Visuvesi							62.1333	23.9167	4
+FI	34910	Äijänneva							62.3333	23.55	4
+FI	34930	Liedenpohja							62.55	23.6667	4
+FI	34950	Ohtola							62.35	23.8167	4
+FI	34970	Toisvesi							62.3833	23.85	4
+FI	34980	Killinkoski							62.4	23.8667	4
+FI	34999	Tampere							61.5	23.75	4
+FI	35100	Orivesi As							61.8629	24.5552	
+FI	35220	Eräjärvi							61.5833	24.5667	4
+FI	35240	Ristakallio							61.55	24.6667	4
+FI	35260	Hoivamäki							61.6333	24.6	4
+FI	35270	Västilä							61.6333	24.7	4
+FI	35300	Orivesi							61.6833	24.35	4
+FI	35301	Orivesi							61.6833	24.35	4
+FI	35320	Hirsilä							61.7333	24.3333	4
+FI	35400	Längelmäki							61.6833	24.6833	4
+FI	35420	Talviainen							61.7333	24.65	4
+FI	35480	Längelmäki							61.6833	24.6833	4
+FI	35500	Korkeakoski							61.8	24.3667	4
+FI	35501	Korkeakoski							61.8	24.3667	4
+FI	35520	Pirttikangas							61.8667	24.4667	4
+FI	35530	Lyly							61.8833	24.4833	4
+FI	35531	Lyly							61.8833	24.4833	4
+FI	35540	Juupajoki							61.7833	24.45	4
+FI	35550	Salokunta							61.7667	24.45	4
+FI	35600	Halli							61.8667	24.8333	4
+FI	35601	Halli							61.8667	24.8333	4
+FI	35610	Pihlaisto							61.8833	24.7167	4
+FI	35630	Kuorevesi							61.85	24.7833	4
+FI	35700	Vilppula							62.0167	24.5167	4
+FI	35701	Vilppula							62.0167	24.5167	4
+FI	35740	Ylä-Vääri							61.95	24.3167	4
+FI	35750	Väärinmaja							61.95	24.2667	4
+FI	35800	Mänttä							62.0333	24.6333	4
+FI	35801	Mänttä							62.0333	24.6333	4
+FI	35807	Mänttä							62.0333	24.6333	4
+FI	35820	Mänttä							62.0333	24.6333	4
+FI	35821	Mänttä							62.0333	24.6333	4
+FI	35830	Mänttä							62.0333	24.6333	4
+FI	35850	Mustalahti							62.0167	24.6833	4
+FI	35860	Raja-Aho							62.0167	24.7	4
+FI	35930	Tamminiemi							62.05	24.3	4
+FI	35990	Kolho							62.1333	24.5167	4
+FI	36100	Kangasala As							61.5417	24.0833	
+FI	36110	Ruutana							61.5167	24.0333	4
+FI	36111	Ruutana							61.5167	24.0333	4
+FI	36120	Suinula							61.5333	24.05	4
+FI	36160	Siitama							61.6	24.2167	4
+FI	36200	Kangasala							61.4667	24.0833	4
+FI	36201	Kangasala							61.4667	24.0833	4
+FI	36220	Kangasala 2							61.4667	24.0833	
+FI	36221	Kangasala 2							61.4667	24.0833	
+FI	36240	Kangasala 4							61.4667	24.0833	
+FI	36241	Kangasala							61.4667	24.0833	4
+FI	36270	Kangasala							61.4667	24.0833	4
+FI	36280	Pikonlinna							61.4667	24.0833	
+FI	36340	Tohkala							61.5333	24.2667	4
+FI	36420	Sahalahti							61.4667	24.3167	4
+FI	36430	Sahalahti							61.4667	24.3167	4
+FI	36450	Salmentaka							61.4	24.4	4
+FI	36480	Pohjalahti							61.4167	24.3	4
+FI	36520	Raikku							61.4167	24.2	4
+FI	36570	Kaivanto							61.4167	24.15	4
+FI	36600	Pälkäne							61.3333	24.2667	4
+FI	36601	Pälkäne							61.3333	24.2667	4
+FI	36640	Iltasmäki							61.3	24.3333	4
+FI	36660	Laitikkala							61.2667	24.3667	4
+FI	36720	Aitoo							61.3333	24.5	4
+FI	36760	Luopioinen							61.3667	24.6667	4
+FI	36761	Luopioinen							61.3667	24.6667	4
+FI	36810	Kuhmalahti							61.5	24.5667	4
+FI	36840	Pohja							61.4833	24.7	4
+FI	36880	Vehkajärvi							61.5	24.8333	4
+FI	36910	Rautajärvi							61.4167	24.7	4
+FI	36930	Kyynärö							61.4	24.8	4
+FI	37007	Nokia							61.4667	23.5	4
+FI	37100	Nokia							61.4667	23.5	4
+FI	37101	Nokia							61.4667	23.5	4
+FI	37105	Nokia 10/PSP							61.4667	23.5	
+FI	37120	Nokia							61.4667	23.5	4
+FI	37121	Nokia							61.4667	23.5	4
+FI	37130	Nokia							61.4667	23.5	4
+FI	37140	Nokia							61.4667	23.5	4
+FI	37141	Nokia							61.4667	23.5	4
+FI	37150	Nokia							61.4667	23.5	4
+FI	37180	Sarkola							61.4	23.25	4
+FI	37200	Siuro							61.4667	23.35	4
+FI	37210	Kulovesi							61.4833	23.2667	4
+FI	37240	Linnavuori							61.5	23.35	4
+FI	37241	Linnavuori							61.5	23.35	4
+FI	37310	Tottijärvi							61.4	23.35	4
+FI	37350	Rämsöö							61.3333	23.3	4
+FI	37370	Narva							61.2833	23.5	4
+FI	37380	Krääkkiö							61.2333	23.4	4
+FI	37420	Valkkinen							61.2667	23.6667	4
+FI	37450	Onkemäki							61.25	23.5833	4
+FI	37470	Vesilahti							61.3167	23.6167	4
+FI	37500	Lempäälä							61.3167	23.75	4
+FI	37501	Lempäälä							61.3167	23.75	4
+FI	37530	Lempäälä							61.3167	23.75	4
+FI	37550	Lempäälä							61.3167	23.75	4
+FI	37551	Moisio							61.35	23.7833	4
+FI	37560	Lempäälä							61.3167	23.75	4
+FI	37600	Valkeakoski							61.2667	24.0333	4
+FI	37601	Valkeakoski							61.2667	24.0333	4
+FI	37607	Valkeakoski							61.2667	24.0333	4
+FI	37620	Valkeakoski							61.2667	24.0333	4
+FI	37630	Valkeakoski							61.2667	24.0333	4
+FI	37631	Valkeakoski							61.2667	24.0333	4
+FI	37640	Valkeakoski							61.2667	24.0333	4
+FI	37641	Valkeakoski							61.2667	24.0333	4
+FI	37650	Valkeakoski							61.2667	24.0333	4
+FI	37680	Valkeakoski							61.2667	24.0333	4
+FI	37700	Sääksmäki							61.2	24.0667	4
+FI	37720	Ritvala							61.1833	24.1667	4
+FI	37740	Haukila							61.1778	24.0778	
+FI	37770	Tarttila							61.15	24	4
+FI	37800	Toijala							61.1667	23.8667	4
+FI	37801	Toijala							61.1667	23.8667	4
+FI	37807	Toijala							61.1667	23.8667	4
+FI	37820	Nahkiala							61.2048	23.8571	
+FI	37830	Viiala							61.2167	23.7833	4
+FI	37831	Viiala							61.2167	23.7833	4
+FI	37850	Metsäkansa							61.2333	23.8833	4
+FI	37860	Kärjenniemi							61.2667	23.95	4
+FI	37900	Kylmäkoski As							61.15	23.6917	
+FI	37910	Kylmäkoski							61.1667	23.6833	4
+FI	37911	Kylmäkoski							61.1667	23.6833	4
+FI	37930	Tuomala							61.1333	23.6	4
+FI	37960	Sotkia							61.1333	23.8	4
+FI	38100	Karkku							61.4167	23.0167	4
+FI	38110	Nohkua							61.45	23.0667	4
+FI	38120	Kutala							61.4167	23.1333	4
+FI	38130	Ellivuori							61.4	23.0792	
+FI	38140	Kärppälä							61.3167	23.1	4
+FI	38150	Heinoo							61.4	23.0792	
+FI	38200	Vammala							61.3333	22.9	4
+FI	38201	Vammala							61.3333	22.9	4
+FI	38210	Vammala							61.3333	22.9	4
+FI	38211	Vammala							61.3333	22.9	4
+FI	38220	Stormi							61.3333	23.05	4
+FI	38230	Lantula							61.3333	23.1	4
+FI	38250	Roismala							61.3	22.9333	4
+FI	38270	Sammaljoki							61.2333	23.1333	4
+FI	38280	Illo							61.2167	23.0333	4
+FI	38300	Kiikka							61.3667	22.7167	4
+FI	38301	Kiikka							61.3667	22.7167	4
+FI	38320	Kiimajärvi							61.3667	22.7167	4
+FI	38350	Jaara							61.4333	22.5667	4
+FI	38360	Kiikoinen							61.45	22.5833	4
+FI	38370	Tervahauta							61.4833	22.5667	4
+FI	38420	Häijää							61.5	23.1	4
+FI	38460	Mouhijärvi							61.5	23.0167	4
+FI	38470	Hyynilä							61.5333	22.95	4
+FI	38490	Haukijärvi							61.5667	23.1	4
+FI	38510	Suodenniemi							61.5667	22.7833	4
+FI	38511	Suodenniemi							61.5667	22.7833	4
+FI	38540	Putaja							61.5	22.7	4
+FI	38600	Lavia							61.6	22.6	4
+FI	38601	Lavia							61.6	22.6	4
+FI	38610	Riuttala							61.5667	22.5333	4
+FI	38650	Yli-Putto							61.6167	22.475	
+FI	38660	Haunia							61.6167	22.4333	4
+FI	38670	Kalliala							61.6	22.4167	4
+FI	38680	Tuunajärvi							61.7167	22.2667	4
+FI	38690	Tuomisaari							61.6167	22.475	
+FI	38700	Kankaanpää							61.8	22.4167	4
+FI	38701	Kankaanpää							61.8	22.4167	4
+FI	38707	Kankaanpää 7							61.8	22.4167	
+FI	38710	Kankaanpää							61.8	22.4167	4
+FI	38711	Kankaanpää							61.8	22.4167	4
+FI	38720	Vihteljärvi							61.75	22.5333	4
+FI	38740	Hapuoja							61.7929	22.3762	
+FI	38750	Veneskoski							61.7833	22.2333	4
+FI	38760	Venesjärvi							61.8167	22.2	4
+FI	38770	Lohikko							61.7929	22.3762	
+FI	38800	Jämijärvi							61.8167	22.7	4
+FI	38801	Jämijärvi							61.8167	22.7	4
+FI	38840	Niinisalo							61.8333	22.4833	4
+FI	38841	Niinisalo							61.8333	22.4833	4
+FI	38860	Suurimaa							61.8833	22.6	4
+FI	38910	Ala-Honkajoki							61.9958	22.25	
+FI	38920	Vatajankoski							61.9333	22.2167	4
+FI	38950	Honkajoki							61.9833	22.2667	4
+FI	38951	Honkajoki							61.9833	22.2667	4
+FI	38970	Lauhala							62.0833	22.25	4
+FI	39100	Hämeenkyrö							61.6333	23.2	4
+FI	39101	Hämeenkyrö							61.6333	23.2	4
+FI	39110	Simuna							61.5905	23.281	
+FI	39120	Mahnala							61.5667	23.3333	4
+FI	39130	Sasi							61.5833	23.3667	4
+FI	39150	Pinsiö							61.5667	23.4333	4
+FI	39160	Julkujärvi							61.5905	23.281	
+FI	39170	Jumesniemi							61.55	23.2833	4
+FI	39180	Herttuala							61.6	23.15	4
+FI	39195	Kaipio							61.5905	23.281	
+FI	39200	Kyröskoski							61.6667	23.1833	4
+FI	39201	Kyröskoski							61.6667	23.1833	4
+FI	39220	Kostula							61.7	23.15	4
+FI	39230	Osara							61.7	23.1667	4
+FI	39290	Vesajärvi							61.65	22.8833	4
+FI	39310	Viljakkala							61.7	23.2667	4
+FI	39340	Karhe							61.7333	23.45	4
+FI	39360	Komi							61.6667	23.4333	4
+FI	39380	Lavajärvi							61.65	23.4667	4
+FI	39410	Luhalahti							61.7667	23.2833	4
+FI	39420	Iso-Röyhiö							61.8	23.3167	
+FI	39430	Röyhiö							61.8	23.3167	
+FI	39450	Sisättö							61.8333	23.35	4
+FI	39500	Ikaalinen							61.7667	23.05	4
+FI	39501	Ikaalinen							61.7667	23.05	4
+FI	39510	Ikaalinen							61.7667	23.05	4
+FI	39520	Sikuri							61.7333	23.15	4
+FI	39530	Kilvakkala							61.7667	23	4
+FI	39540	Jylli							61.7833	22.85	4
+FI	39550	Myllykarttu							61.8167	22.9667	4
+FI	39580	Riitiala							61.8667	22.9833	4
+FI	39590	Tevaniemi							61.85	23.0667	4
+FI	39610	Kovelahti							61.9	22.8333	4
+FI	39620	Kovesjoki							61.95	22.8917	
+FI	39660	Lapinneva							62	22.95	4
+FI	39700	Parkano							62.0167	23.0167	4
+FI	39701	Parkano							62.0167	23.0167	4
+FI	39710	Kylmäkoski							62.0417	23.0042	
+FI	39750	Kuivasjärvi							62.1667	22.9833	4
+FI	39770	Aureskoski							62.0417	23.0042	
+FI	39780	Alaskylä							61.9667	23	4
+FI	39810	Linnankylä							62.1167	23.0333	4
+FI	39820	Kihniö							62.2	23.1833	4
+FI	39821	Kihniö							62.2	23.1833	4
+FI	39880	Kihniö As							62.1722	23.1333	
+FI	39910	Tuulenkylä							62.1167	22.7333	4
+FI	39920	Suomijärvi							62.1	22.65	4
+FI	39930	Karvia							62.1333	22.5667	4
+FI	39931	Karvia							62.1333	22.5667	4
+FI	39940	Kantti							62.0833	22.5333	4
+FI	39960	Sarvela							62.1667	22.6	4
+FI	39965	Karviankylä							62.1667	22.6	
+FI	39980	Sara							62.25	22.6	4
+FI	39990	Alkkia							62.2	22.7667	4
+FI	40003	Jyväskylä							62.2333	25.7333	4
+FI	40007	Jyväskylä							62.2333	25.7333	4
+FI	40063	Laskunet							62.2333	25.7333	
+FI	40100	Jyväskylä							62.2336	25.7449	4
+FI	40101	Jyväskylä							62.2333	25.7333	4
+FI	40109	Jyväskylä							62.2333	25.7333	4
+FI	40200	Jyväskylä							62.2333	25.7333	4
+FI	40220	Keski-Palokka							62.2833	25.7167	4
+FI	40250	Jyväskylä							62.2333	25.7333	4
+FI	40251	Jyväskylä							62.2333	25.7333	4
+FI	40270	Palokka							62.2833	25.7167	4
+FI	40271	Palokka							62.2833	25.7167	4
+FI	40320	Jyväskylä							62.2333	25.7333	4
+FI	40321	Jyväskylä							62.2333	25.7333	4
+FI	40340	Jyväskylä							62.2333	25.7333	4
+FI	40341	Jyväskylä							62.2333	25.7333	4
+FI	40350	Jyväskylä							62.2333	25.7333	4
+FI	40351	Jyväskylä							62.2333	25.7333	4
+FI	40400	Jyväskylä							62.2333	25.7333	4
+FI	40401	Jyväskylä							62.2333	25.7333	4
+FI	40420	Jyskä							62.2333	25.8333	4
+FI	40450	Jyväskylä							62.2333	25.7333	4
+FI	40500	Jyväskylä							62.2333	25.7333	4
+FI	40520	Jyväskylä							62.2333	25.7333	4
+FI	40521	Jyväskylä							62.2333	25.7333	4
+FI	40530	Jyväskylä							62.2333	25.7333	4
+FI	40531	Jyväskylä							62.2333	25.7333	4
+FI	40600	Jyväskylä							62.2333	25.7333	4
+FI	40620	Jyväskylä							62.2333	25.7333	4
+FI	40621	Jyväskylä							62.2333	25.7333	4
+FI	40630	Jyväskylä							62.2333	25.7333	4
+FI	40631	Jyväskylä							62.2333	25.7333	4
+FI	40640	Jyväskylä							62.2333	25.7333	4
+FI	40660	Jyväskylä							62.2333	25.7333	4
+FI	40700	Jyväskylä							62.2333	25.7333	4
+FI	40701	Jyväskylä							62.2333	25.7333	4
+FI	40720	Jyväskylä							62.2333	25.7333	4
+FI	40740	Jyväskylä							62.257	25.6969	4
+FI	40800	Vaajakoski							62.2667	25.9	4
+FI	40801	Vaajakoski							62.2667	25.9	4
+FI	40820	Haapaniemi							63.0833	26	4
+FI	40900	Säynätsalo							62.1333	25.7667	4
+FI	40930	Kinkomaa							62.1333	25.7	
+FI	40931	Kinkomaa							62.1333	25.7	
+FI	40950	Muurame							62.1333	25.6667	4
+FI	40951	Muurame							62.1333	25.6667	4
+FI	40957	Muurame 7							62.1333	25.6667	
+FI	41120	Puuppola							62.4042	25.6333	
+FI	41140	Kuikka							62.3833	25.6	4
+FI	41160	Tikkakoski							62.4	25.6333	4
+FI	41161	Tikkakoski							62.4	25.6333	4
+FI	41180	Vehniä							62.4333	25.6667	4
+FI	41210	Jokihaara							62.4167	25.5167	4
+FI	41220	Höytiä							62.4167	25.3833	4
+FI	41230	Uurainen							62.5	25.45	4
+FI	41231	Uurainen							62.5	25.45	4
+FI	41240	Kyynämöinen							62.4833	25.3333	4
+FI	41260	Hoikankylä							62.4905	25.4476	
+FI	41270	Lannevesi							62.6	25.4	4
+FI	41290	Kangashäkki							62.5167	25.6	4
+FI	41310	Leppävesi							62.3333	25.8667	4
+FI	41315	Tiituspohja							62.3333	25.8667	
+FI	41325	Laukkavirta							62.4188	25.9229	
+FI	41330	Vihtavuori							62.3667	25.9	4
+FI	41331	Vihtavuori							62.3667	25.9	4
+FI	41340	Laukaa							62.4167	25.95	4
+FI	41341	Laukaa							62.4167	25.95	4
+FI	41350	Laukaa As							62.4188	25.9229	
+FI	41360	Valkola							62.4667	25.8167	4
+FI	41370	Kuusa							62.4667	25.95	4
+FI	41390	Äijälä							62.5167	26.05	4
+FI	41400	Lievestuore							62.2667	26.2	4
+FI	41401	Lievestuore							62.2667	26.2	4
+FI	41410	Kankainen							62.2	26.2667	4
+FI	41420	Taulu							62.3643	26.319	
+FI	41440	Ruuhimäki							62.2	26.1667	4
+FI	41450	Leppälahti							62.25	25.9667	4
+FI	41460	Iso-Oksala							62.3643	26.319	
+FI	41470	Saarilahti							62.3643	26.319	
+FI	41480	Simunankoski							62.3833	26.1833	4
+FI	41490	Niemisjärvi							62.9833	27.25	4
+FI	41500	Hankasalmi As							62.425	26.4292	
+FI	41501	Hankasalmi As							62.425	26.4292	
+FI	41520	Hankasalmi							62.3833	26.4333	4
+FI	41521	Hankasalmi							62.3833	26.4333	4
+FI	41530	Veneranta							62.425	26.4292	
+FI	41540	Ristimäki							62.4667	26.35	4
+FI	41550	Hannula							62.425	26.4292	
+FI	41560	Säkinmäki							62.4667	26.5	4
+FI	41580	Sauvamäki							62.425	26.4292	
+FI	41585	Hanka							62.425	26.4292	
+FI	41630	Oravasaari							62.1667	25.9167	4
+FI	41660	Toivakka							62.1	26.0833	4
+FI	41661	Toivakka							62.1	26.0833	4
+FI	41680	Särkiharju							62.1222	26.0278	
+FI	41710	Rutalahti							62	25.9833	4
+FI	41730	Kivisuo							61.9667	26.1222	
+FI	41750	Havumäki							61.9833	26.2667	4
+FI	41770	Leivonmäki							61.9167	26.1167	4
+FI	41800	Korpilahti							62.0167	25.55	4
+FI	41801	Korpilahti							62.0167	25.55	4
+FI	41820	Saakoski							61.9833	25.3833	4
+FI	41840	Moksi							62.1	25.4167	4
+FI	41860	Rannila							61.9917	25.5611	
+FI	41870	Putkilahti							61.8833	25.7167	4
+FI	41880	Oittila							61.95	25.75	4
+FI	41900	Petäjävesi							62.25	25.2	4
+FI	41901	Petäjävesi							62.25	25.2	4
+FI	41920	Kintaus							62.35	25.35	4
+FI	41925	Ylä-Kintaus							62.35	25.35	4
+FI	41930	Kuohu							62.2667	25.45	4
+FI	41940	Vesanka							62.2667	25.5667	4
+FI	41945	Nyrölä							62.3667	25.4667	4
+FI	41970	Huttula							62.2963	25.387	
+FI	41980	Kuivasmäki							62.3333	25.1667	4
+FI	41999	Jyväskylä							62.2333	25.7333	4
+FI	42100	Jämsä							61.8667	25.2	4
+FI	42101	Jämsä							61.8667	25.2	4
+FI	42120	Jämsä							61.8667	25.2	4
+FI	42140	Juokslahti							61.9333	25.3333	4
+FI	42220	Kaipola							61.8167	25.25	4
+FI	42250	Alhojärvi							61.8333	25.15	4
+FI	42280	Partalankoski							61.825	25.2	
+FI	42300	Jämsänkoski							61.9167	25.1833	4
+FI	42301	Jämsänkoski							61.9167	25.1833	4
+FI	42330	Haavisto							61.9833	25.15	4
+FI	42440	Koskenpää							62.0833	25.15	4
+FI	42490	Niemisjärvi							62.9833	27.25	4
+FI	42520	Asunta							62.2	24.7833	
+FI	42540	Kaleton							62.2	24.7833	
+FI	42541	Kaleton							62.2	24.7833	
+FI	42560	Pohjoisjärvi							62.2	24.7833	4
+FI	42600	Multia							62.4167	24.7833	4
+FI	42601	Multia							62.4167	24.7833	4
+FI	42660	Sahrajärvi							62.45	25.1	4
+FI	42700	Keuruu							62.2667	24.7	4
+FI	42701	Keuruu							62.2667	24.7	4
+FI	42720	Keuruu							62.2667	24.7	4
+FI	42721	Keuruu							62.2667	24.7	4
+FI	42730	Ketvelniemi							62.3033	24.6433	
+FI	42760	Keurusselkä							62.3033	24.6433	
+FI	42790	Liesjärvi							62.45	24.4167	4
+FI	42800	Haapamäki							62.25	24.4667	4
+FI	42801	Haapamäki							62.25	24.4667	4
+FI	42820	Riiho							62.2	24.4	4
+FI	42830	Ylä-Kolkki							62.2119	24.3095	
+FI	42840	Kolkki							62.1167	24.2	4
+FI	42850	Pohjaslahti							62.15	24.1333	4
+FI	42870	Kotala							62.2667	24.0333	4
+FI	42899	Haapamäki							62.25	24.4667	4
+FI	42910	Pihlajavesi							62.35	24.2833	4
+FI	42930	Katajamäki							62.9	24.1167	4
+FI	42999	Jämsä							61.8667	25.2	4
+FI	43100	Saarijärvi							62.7167	25.2667	4
+FI	43101	Saarijärvi							62.7167	25.2667	4
+FI	43130	Tarvaala							62.6667	25.3	4
+FI	43140	Summassaari							62.7208	25.3208	
+FI	43170	Häkkilä							62.7833	25.45	4
+FI	43220	Mahlu							62.65	25.0333	4
+FI	43240	Lehtola							62.7167	25.0333	4
+FI	43250	Kolkanlahti							62.7333	25.1667	4
+FI	43270	Kalmari							62.8	25.0667	4
+FI	43300	Kannonkoski							62.9667	25.25	4
+FI	43340	Kannonjärvi							62.9	25.2333	4
+FI	43380	Vuoskoski							63.05	25.3333	4
+FI	43390	Lokakylä							62.9722	25.2722	
+FI	43410	Soidinmäki							62.65	24.9333	4
+FI	43420	Kukko							62.6167	24.75	4
+FI	43430	Väätäiskylä							62.5833	24.6	4
+FI	43440	Pylkönmäki							62.6667	24.8	4
+FI	43480	Pääjärvi							62.7667	24.8333	4
+FI	43490	Kangasaho							62.6567	24.7833	
+FI	43500	Karstula							62.8667	24.7833	4
+FI	43501	Karstula							62.8667	24.7833	4
+FI	43520	Kiminki							62.9667	24.7	4
+FI	43540	Rantakylä							62.8667	24.7	4
+FI	43560	Vahanka							62.8667	24.5333	4
+FI	43610	Aho							62.5333	23.0833	4
+FI	43640	Humppi							62.9	24.9	4
+FI	43660	Vastinki							62.8667	24.9833	4
+FI	43680	Takkala							62.7667	24.3222	
+FI	43700	Kyyjärvi							63.0333	24.5667	4
+FI	43701	Kyyjärvi							63.0333	24.5667	4
+FI	43720	Kumpulainen							63.05	24.75	4
+FI	43740	Oikari							63	24.7	4
+FI	43800	Kivijärvi							63.0667	25.05	4
+FI	43801	Kivijärvi							63.0667	25.05	4
+FI	43840	Sompala							63.05	25.1	4
+FI	43900	Kinnula							65.15	27.7167	4
+FI	43901	Kinnula							65.15	27.7167	4
+FI	43940	Muhola							64.1667	28	4
+FI	43960	Saarensalmi							64.8222	27.8111	
+FI	44007	Äänekoski							62.6	25.7333	4
+FI	44100	Äänekoski							62.6	25.7333	4
+FI	44101	Äänekoski							62.6	25.7333	4
+FI	44120	Äänekoski							62.6	25.7333	4
+FI	44150	Äänekoski							62.6	25.7333	4
+FI	44151	Äänekoski							62.6	25.7333	4
+FI	44160	Huutomäki							62.6	25.7333	
+FI	44170	Hietama							62.6	25.7333	
+FI	44190	Parantala							62.6	25.7333	
+FI	44200	Suolahti							62.5667	25.8667	4
+FI	44201	Suolahti							62.5667	25.8667	4
+FI	44220	Suolahti							62.5667	25.8667	4
+FI	44250	Ääne-Koivisto							62.4833	25.9333	
+FI	44260	Vihijärvi							62.0667	26.0333	4
+FI	44280	Sumiainen							62.65	26.0333	4
+FI	44300	Konnevesi							62.6167	26.3167	4
+FI	44320	Sirkkamäki							62.5333	26.4	4
+FI	44330	Hytölä							62.5833	26.2	4
+FI	44350	Istunmäki							62.7	26.4833	4
+FI	44370	Mäntymäki							62.6083	26.35	
+FI	44400	Konginkangas							62.7667	25.8	4
+FI	44401	Konginkangas							62.7667	25.8	4
+FI	44420	Liimattala							62.7333	25.8	4
+FI	44440	Räihä							62.8167	25.8167	4
+FI	44460	Kalaniemi							62.8667	25.8333	4
+FI	44480	Niinilahti							62.9333	25.8	4
+FI	44500	Viitasaari							63.0667	25.8667	4
+FI	44501	Viitasaari							63.0667	25.8667	4
+FI	44520	Jurvansalo							63.0333	25.8	4
+FI	44530	Ilmolahti							62.9833	25.8667	4
+FI	44550	Ruuponsaari							63.0306	25.75	
+FI	44580	Huopanankoski							63.0667	25.5333	4
+FI	44590	Vuorilahti							62.9667	25.5667	4
+FI	44610	Kärnä							63.1667	25.95	4
+FI	44630	Kumpumäki							63.2	26.0833	4
+FI	44640	Kymönkoski							63.1167	25.95	4
+FI	44670	Suovanlahti							63.0167	26.0833	4
+FI	44680	Lahnanen							63.8167	26.3	4
+FI	44690	Haarala							62.9833	26.1833	4
+FI	44720	Pasala							63.2	25.9167	4
+FI	44730	Löytänä							63.25	25.6667	4
+FI	44740	Keitelepohja							63.2	25.6	4
+FI	44760	Keihärinkoski							63.1167	25.55	4
+FI	44770	Valkeisjärvi							63.1917	25.6833	
+FI	44790	Kotvala							63.1917	25.6833	
+FI	44800	Pihtipudas							63.3833	25.5667	4
+FI	44801	Pihtipudas							63.3833	25.5667	4
+FI	44820	Niemenharju							63.47	25.4167	
+FI	44860	Alvajärvi							63.4667	25.3167	4
+FI	44880	Muurasjärvi							63.5667	25.25	4
+FI	44890	Kojola							63.55	25.3833	4
+FI	44910	Elämäjärvi							63.4833	25.6667	4
+FI	44920	Peninki							63.4833	25.7667	4
+FI	44950	Kärväsjärvi							63.3667	25.7667	4
+FI	44970	Korppinen							63.35	25.9	4
+FI	45007	Kouvola							60.8667	26.7	4
+FI	45100	Kouvola							60.8667	26.7	4
+FI	45101	Kouvola							60.8667	26.7	4
+FI	45120	Kouvola							60.8667	26.7	4
+FI	45121	Kouvola							60.8667	26.7	4
+FI	45130	Kouvola							60.8667	26.7	4
+FI	45131	Kouvola							60.8667	26.7	4
+FI	45140	Kouvola							60.8667	26.7	4
+FI	45141	Kouvola							60.8667	26.7	4
+FI	45150	Kouvola							60.8667	26.7	4
+FI	45151	Kouvola							60.8667	26.7	4
+FI	45160	Kouvola							60.8667	26.7	4
+FI	45161	Kouvola							60.8667	26.7	4
+FI	45200	Kouvola							60.8667	26.7	4
+FI	45201	Kouvola							60.8667	26.7	4
+FI	45250	Kymenlaakson lajittelukeskus							60.8667	26.7	
+FI	45251	Kouvola							60.8667	26.7	4
+FI	45330	Harju							60.5333	27.5833	4
+FI	45360	Valkeala							60.95	26.8	4
+FI	45361	Valkeala							60.95	26.8	4
+FI	45370	Valkeala							60.95	26.8	4
+FI	45371	Valkeala							60.95	26.8	4
+FI	45410	Utti							60.8833	26.9333	4
+FI	45411	Utti							60.8833	26.9333	4
+FI	45460	Savero							60.8333	26.9833	4
+FI	45540	Lyöttilä							60.9667	26.45	4
+FI	45610	Koria							60.8333	26.6	4
+FI	45611	Koria							60.8333	26.6	4
+FI	45700	Kuusankoski							60.9	26.6333	4
+FI	45701	Kuusankoski							60.9	26.6333	4
+FI	45720	Kuusankoski							60.9	26.6333	4
+FI	45721	Kuusankoski							60.9	26.6333	4
+FI	45730	Kuusankoski							60.9	26.6333	4
+FI	45740	Kuusankoski							60.9	26.6333	4
+FI	45741	Kuusankoski							60.9	26.6333	4
+FI	45750	Sairaalamäki							60.9333	26.6333	4
+FI	45810	Pilkanmaa							60.9667	26.55	4
+FI	45910	Voikkaa							60.9667	26.6	
+FI	45911	Voikkaa							60.9667	26.6	
+FI	45940	Oravala							60.9667	26.6	4
+FI	46110	Tuohikotti							61.0833	27.0667	4
+FI	46140	Vekaranjärvi							61.0833	27.0667	
+FI	46141	Vekaranjärvi							61.0833	27.0667	
+FI	46230	Aro							61.05	26.8333	4
+FI	46250	Heinistö							61.05	26.8333	
+FI	46310	Toikkala							60.9667	26.9	4
+FI	46350	Inkerilä							61.0167	27.0667	4
+FI	46400	Kaipiainen							60.9	27.1167	4
+FI	46430	Tirva							60.95	27.05	4
+FI	46450	Enäjärvi							60.85	27.1333	4
+FI	46530	Kannuskoski							60.9667	27.25	4
+FI	46550	Kaitjärvi							60.9083	27.2833	
+FI	46570	Saaramaa							60.85	27.3167	4
+FI	46610	Hirvelänkylä							60.75	27.0331	4
+FI	46710	Sippola							60.7333	27	4
+FI	46730	Ruotila							60.6833	27.0833	4
+FI	46750	Liikkala							60.7	27.0167	4
+FI	46800	Anjalankoski							60.8441	26.9892	
+FI	46801	Anjalankoski							60.8441	26.9892	
+FI	46810	Anjalankoski							60.8441	26.9892	
+FI	46860	Anjalankoski							60.8441	26.9892	
+FI	46861	Anjalankoski							60.8441	26.9892	
+FI	46900	Anjalankoski							60.7125	26.7375	
+FI	46901	Anjalankoski							60.7125	26.7375	
+FI	46907	Anjalankoski 7							60.7125	26.7375	
+FI	46910	Anjalankoski							60.7125	26.7375	
+FI	46920	Anjalankoski							60.7125	26.7375	
+FI	46930	Huruksela							60.6667	26.7833	4
+FI	46950	Ahvio							60.6333	26.7333	4
+FI	46960	Muhniemi							60.6833	26.7333	4
+FI	46999	Kouvola							60.8667	26.7	4
+FI	47110	Löytty							60.65	26.5667	
+FI	47150	Raussila							60.65	26.5667	4
+FI	47200	Elimäki							60.7167	26.4667	4
+FI	47201	Elimäki							60.7167	26.4667	4
+FI	47210	Rahikkala							60.75	26.5667	4
+FI	47230	Teuroinen							60.8	26.45	4
+FI	47240	Lakiasuo							60.7233	26.4867	
+FI	47260	Ratula							60.6333	26.4833	4
+FI	47310	Haapa-Kimola							60.9136	26.4833	
+FI	47350	Kimonkylä							60.9136	26.4833	
+FI	47400	Kausala							60.9	26.3667	4
+FI	47401	Kausala							60.9	26.3667	4
+FI	47440	Valkama							60.85	26.2333	4
+FI	47450	Perheniemi							60.85	26.2	4
+FI	47460	Hiisiö							60.8833	26.2733	
+FI	47490	Mankala							60.9167	26.2	4
+FI	47520	Iitti							60.8667	26.3833	4
+FI	47540	Lyöttilä							60.9667	26.45	4
+FI	47610	Kymentaka							60.9833	26.35	4
+FI	47650	Kimola							61.05	26.3667	4
+FI	47710	Jaala							61.05	26.4833	4
+FI	47760	Huhdasjärvi							61.1667	26.55	4
+FI	47810	Selänpää							61.05	26.7333	4
+FI	47830	Hasula							61.05	26.7167	4
+FI	47850	Verla							61.0667	26.6333	4
+FI	47900	Vuohijärvi							61.0833	26.8	4
+FI	47901	Vuohijärvi							61.0833	26.8	4
+FI	47910	Hillosensalmi							61.0833	26.8	
+FI	48007	Kotka							60.4667	26.9167	4
+FI	48100	Kotka							60.4667	26.9333	4
+FI	48101	Kotka							60.4667	26.9167	4
+FI	48130	Kotka							60.4667	26.9167	4
+FI	48180	Kuutsalo							60.4333	27.05	4
+FI	48200	Kotka							60.4667	26.9167	4
+FI	48201	Kotka							60.4667	26.9167	4
+FI	48210	Kotka							60.4667	26.9167	4
+FI	48220	Kotka							60.4667	26.9167	4
+FI	48221	Kotka							60.4667	26.9167	4
+FI	48223	Langinkosken kalastusmaja							60.4667	26.9167	
+FI	48230	Kotka							60.4667	26.9167	4
+FI	48231	Kotka							60.4667	26.9167	4
+FI	48251	Kotka							60.4667	26.9167	4
+FI	48300	Kotka							60.4667	26.9167	4
+FI	48310	Kotka							60.4667	26.9167	4
+FI	48350	Kotka							60.4667	26.9167	4
+FI	48351	Kotka							60.4667	26.9167	4
+FI	48400	Kotka							60.4667	26.9167	4
+FI	48401	Kotka							60.4667	26.9167	4
+FI	48410	Kotka							60.4667	26.9167	4
+FI	48600	Karhula							60.4833	26.9667	4
+FI	48601	Karhula							60.5167	26.95	4
+FI	48700	Kyminlinna							60.5	26.9	4
+FI	48701	Kyminlinna							60.5	26.9	4
+FI	48710	Karhula							60.5167	26.95	4
+FI	48720	Kymi							60.5	26.9167	4
+FI	48750	Kotka							60.4667	26.9167	4
+FI	48770	Karhula							60.5167	26.95	4
+FI	48771	Karhula							60.5167	26.95	4
+FI	48800	Karhula							60.5167	26.95	4
+FI	48810	Karhula							60.5167	26.95	4
+FI	48900	Sunila							60.4833	26.95	4
+FI	48901	Kotka							60.4667	26.9167	4
+FI	48910	Kotka							60.4667	26.9167	4
+FI	48911	Kotka							60.4667	26.9167	4
+FI	48920	Halla							60.4833	26.9667	4
+FI	48930	Tiutinen							60.4667	26.9833	4
+FI	49200	Heinlahti							60.4667	26.8	4
+FI	49210	Huutjärvi							60.4822	26.7508	4
+FI	49220	Siltakylä							60.5	26.7167	4
+FI	49240	Purola							60.4667	26.65	4
+FI	49270	Pyhtää							60.4833	26.5333	4
+FI	49290	Vastila							60.6167	26.6667	4
+FI	49300	Tavastila							60.5667	26.9667	4
+FI	49340	Juurikorpi							60.6	26.95	4
+FI	49400	Hamina							60.5484	27.2362	4
+FI	49401	Hamina							60.5667	27.2	4
+FI	49407	Hamina							60.5667	27.2	4
+FI	49410	Poitsila							60.55	27.1667	4
+FI	49411	Poitsila							60.55	27.1667	4
+FI	49420	Hamina							60.5667	27.2	4
+FI	49460	Hamina							60.5667	27.2	4
+FI	49461	Hamina							60.5667	27.2	4
+FI	49470	Kivelä							60.5616	27.17	
+FI	49480	Summa							60.5667	27.1167	4
+FI	49490	Neuvoton							60.5497	27.05	4
+FI	49510	Husula							60.6167	27.1833	4
+FI	49520	Reitkalli							60.6167	27.1167	4
+FI	49540	Metsäkylä							60.6497	27.0667	4
+FI	49570	Kannusjärvi							60.6833	27.1831	4
+FI	49610	Sivatti							60.5833	27.2333	4
+FI	49630	Vehkajoki							60.661	27.2721	
+FI	49640	Paijärvi							60.6497	27.25	4
+FI	49660	Pyhältö							60.75	27.3331	4
+FI	49700	Miehikkälä							60.6667	27.7	4
+FI	49701	Miehikkälä							60.6667	27.7	4
+FI	49720	Hurttala							60.6833	27.75	4
+FI	49730	Muurikkala							60.65	27.8833	4
+FI	49750	Kalliokoski							60.6833	27.5667	4
+FI	49760	Suur-Miehikkälä							60.7167	27.5831	4
+FI	49770	Salo-Miehikkälä							60.7	27.45	4
+FI	49780	Onkamaa							60.65	27.4	4
+FI	49818	Hamina leirintä							60.5333	27.3444	
+FI	49840	Mäntlahti							60.5167	27.3667	4
+FI	49860	Klamila							60.5167	27.4667	4
+FI	49899	Hamina							60.5667	27.2	4
+FI	49900	Virolahti							60.5167	27.6831	4
+FI	49901	Virolahti							60.5167	27.6831	4
+FI	49930	Vaalimaa							60.5833	27.8167	4
+FI	49950	Virolahti Kk							60.5233	27.5299	
+FI	49960	Ala-Pihlaja							60.5233	27.5299	
+FI	49980	Ravijoki							60.5333	27.55	4
+FI	49999	Kotka							60.4667	26.9167	4
+FI	50007	Mikkeli							61.6833	27.25	4
+FI	50100	Mikkeli							61.689	27.27	4
+FI	50101	Mikkeli							61.6833	27.25	4
+FI	50120	Mikkeli							61.6833	27.25	4
+FI	50130	Mikkeli							61.6833	27.25	4
+FI	50131	Mikkeli							61.6833	27.25	4
+FI	50150	Mikkeli							61.6833	27.25	4
+FI	50151	Mikkeli							61.6833	27.25	4
+FI	50160	Mikkeli							61.6833	27.25	4
+FI	50170	Mikkeli							61.6833	27.25	4
+FI	50171	Mikkeli							61.6833	27.25	4
+FI	50180	Mikkeli							61.6833	27.25	4
+FI	50190	Mikkeli							61.6833	27.25	4
+FI	50350	Norola							61.7167	27.45	4
+FI	50500	Mikkeli							61.6833	27.25	4
+FI	50501	Mikkeli							61.6833	27.25	4
+FI	50520	Mikkeli							61.6833	27.25	4
+FI	50600	Mikkeli							61.6833	27.25	4
+FI	50670	Otava							61.65	27.0667	4
+FI	50770	Korpikoski							61.7167	27.0667	4
+FI	50970	Ihastjärvi							61.8667	27.1667	4
+FI	51130	Vanhamäki							61.8	26.9333	4
+FI	51200	Kangasniemi							61.9833	26.6333	4
+FI	51201	Kangasniemi							61.9833	26.6333	4
+FI	51260	Tahkomäki							62.0222	26.6667	
+FI	51270	Kutemajärvi							62.1	26.7333	4
+FI	51310	Levä							62.1708	26.025	
+FI	51330	Kortesalmi							62.1708	26.025	
+FI	51335	Kaihlamäki							62.1708	26.025	
+FI	51340	Hännilä							62.6667	25.1167	4
+FI	51350	Paappala							62.05	26.3833	4
+FI	51360	Koivula							61.8667	26.1	4
+FI	51380	Synsiö							62.1	26.5	4
+FI	51420	Harjumaa							61.9833	26.8833	4
+FI	51430	Läsäkoski							61.9	26.9167	4
+FI	51440	Vuojalahti							61.9667	26.7833	4
+FI	51450	Pajulankylä							61.9542	26.8875	
+FI	51460	Luusniemi							61.9667	26.9667	4
+FI	51520	Hiirola							61.9328	27.2387	
+FI	51540	Kalvitsa							61.9328	27.2387	
+FI	51600	Haukivuori							62.0167	27.2167	4
+FI	51601	Haukivuori							62.0167	27.2167	4
+FI	51620	Pitkäaho							62.05	27.1389	
+FI	51670	Nykälä							62.1167	26.9833	4
+FI	51720	Rahula							61.7	27.3833	4
+FI	51730	Asila							61.7333	27.5	4
+FI	51740	Huuhanaho							61.75	27.55	4
+FI	51760	Nuutilanmäki							61.8	27.6	4
+FI	51770	Pekurila							61.8167	27.6333	4
+FI	51780	Kuosmala							61.7667	27.65	4
+FI	51810	Maivala							61.8	27.7167	4
+FI	51820	Hatsola							61.8667	27.8	4
+FI	51830	Näärinki							61.9	27.6667	4
+FI	51840	Nevaintausta							61.8452	27.7357	
+FI	51850	Vuorenmaa							61.9833	27.5	4
+FI	51860	Narila							62.0167	27.5833	4
+FI	51880	Koikkala							61.7	27.9	4
+FI	51890	Risulahti							61.65	27.9833	4
+FI	51900	Juva							61.9	27.85	4
+FI	51901	Juva							61.9	27.85	4
+FI	51930	Paatela							61.9167	28.0333	4
+FI	51940	Härkälä							61.9528	27.775	
+FI	51960	Palokangas							62.55	27.6167	4
+FI	51980	Lauteala							61.7667	28.05	4
+FI	51999	Mikkeli							61.6833	27.25	4
+FI	52100	Anttola							61.5833	27.65	4
+FI	52110	Majavesi							61.6167	27.4667	4
+FI	52140	Ylivesi							61.6667	27.6667	4
+FI	52150	Hauhala							61.5333	27.7667	4
+FI	52200	Puumala							61.5333	28.1833	4
+FI	52201	Puumala							61.5333	28.1833	4
+FI	52230	Hurissalo							61.4833	27.8667	4
+FI	52240	Ruokotaipale							61.4333	27.9	4
+FI	52270	Ryhälä							61.6667	28.2333	4
+FI	52300	Ristiina							61.5	27.2667	4
+FI	52301	Ristiina							61.5	27.2667	4
+FI	52320	Vitsiälä							61.5667	27.2333	4
+FI	52330	Heimari							61.5833	27.3	4
+FI	52340	Hangastenmaa							61.5333	27.4	4
+FI	52350	Kalmo							61.5667	27.4	4
+FI	52360	Someenjärvi							61.4667	27.5333	4
+FI	52370	Suurlahti							61.4667	27.6667	4
+FI	52420	Pellosniemi							61.4953	27.1688	
+FI	52510	Hietanen							61.6389	26.8556	
+FI	52520	Syväsmäki							61.65	26.9667	4
+FI	52550	Hirvensalmi							61.6333	26.8	4
+FI	52551	Hirvensalmi							61.6333	26.8	4
+FI	52580	Hämeenmäki							61.6389	26.8556	
+FI	52610	Tuukkala							61.7167	26.5833	4
+FI	52620	Kuitula							61.75	26.5	4
+FI	52650	Pärnämäki							61.7667	26.35	4
+FI	52660	Marjotaipale							61.7	26.35	4
+FI	52700	Mäntyharju							61.4167	26.8833	4
+FI	52701	Mäntyharju							61.4167	26.8833	4
+FI	52710	Mäntyharju Kk							61.4306	26.85	
+FI	52720	Karankamäki							61.45	26.6333	4
+FI	52730	Koirakivi							61.4167	26.5667	4
+FI	52740	Tuustaipale							61.4306	26.85	
+FI	52760	Mynttilä							61.4306	26.85	
+FI	52770	Ollikkala							61.45	27	4
+FI	52780	Kuomiokoski							61.4333	27.1333	4
+FI	52810	Varpanen							61.3667	26.9167	4
+FI	52830	Suomenniemi							61.3167	27.45	4
+FI	52850	Halmeniemi							61.2833	27.2167	4
+FI	52870	Kinni							61.3	26.9	4
+FI	52890	Käävänkylä							61.2	27.1	4
+FI	52920	Voikoski							61.2667	26.8	4
+FI	52940	Hillosensalmi							61.2958	26.6417	
+FI	52960	Nurmaa							61.3	26.6667	4
+FI	52970	Pankalahti							61.3167	26.5833	4
+FI	52980	Ahvenainen							61.3	26.5167	4
+FI	53007	Lappeenranta							61.0667	28.1833	4
+FI	53100	Lappeenranta							61.0513	28.1983	4
+FI	53101	Lappeenranta							61.0667	28.1833	4
+FI	53130	Lappeenranta							61.0667	28.1833	4
+FI	53200	Lappeenranta							61.0667	28.1833	4
+FI	53300	Lappeenranta							61.0667	28.1833	4
+FI	53301	Lappeenranta							61.0667	28.1833	4
+FI	53400	Lappeenranta							61.0667	28.1833	4
+FI	53420	Lappeenranta							61.0667	28.1833	4
+FI	53440	Lappeenranta							61.0667	28.1833	4
+FI	53500	Lappeenranta							61.0667	28.1833	4
+FI	53501	Lappeenranta							61.0667	28.1833	4
+FI	53600	Lappeenranta							61.0667	28.1833	4
+FI	53601	Lappeenranta							61.0667	28.1833	4
+FI	53650	Lappeenranta							61.0667	28.1833	4
+FI	53800	Lappeenranta							61.0667	28.1833	4
+FI	53810	Lappeenranta							61.0667	28.1833	4
+FI	53830	Lappeenranta							61.0667	28.1833	4
+FI	53850	Lappeenranta							61.0667	28.1833	4
+FI	53851	Lappeenranta							61.0667	28.1833	4
+FI	53900	Lappeenranta							61.0667	28.1833	4
+FI	53901	Lappeenranta							61.0667	28.1833	4
+FI	53920	Lappeenranta							61.0667	28.1833	4
+FI	53950	Lappeenranta							61.0667	28.1833	4
+FI	54100	Joutseno							61.1	28.5	4
+FI	54101	Joutseno							61.1	28.5	4
+FI	54110	Lampikangas							61.0867	28.4967	
+FI	54120	Pulp							61.1333	28.4333	4
+FI	54160	Ala-Joutseno							61.0867	28.4967	
+FI	54180	Kähärilä							61.0667	28.5	4
+FI	54190	Konnunsuo							61.0333	28.55	4
+FI	54230	Nuijamaa							60.9667	28.5333	4
+FI	54250	Rapattila							60.95	28.4	4
+FI	54270	Vainikkala							60.8667	28.3	4
+FI	54310	Hytti							60.9667	28.1667	4
+FI	54330	Simola							60.9	28.1333	4
+FI	54340	Raippo							60.9292	28.0792	
+FI	54380	Tani							60.9167	28.05	4
+FI	54390	Pulsa							60.9333	27.9667	4
+FI	54410	Ylämaa							60.8	28	4
+FI	54430	Hujakkala							60.7	27.9333	4
+FI	54440	Väkevälä							60.6833	28	4
+FI	54450	Nurmela							60.6667	27.9833	4
+FI	54460	Ylijärvi							60.7667	27.9167	4
+FI	54480	Nokkala							60.8	27.6333	4
+FI	54490	Ahomäki							60.7361	27.9111	
+FI	54500	Taavetti							60.9167	27.5667	4
+FI	54501	Taavetti							60.9167	27.5667	4
+FI	54510	Uro							60.9333	27.6667	4
+FI	54530	Luumäki							60.9167	27.65	4
+FI	54550	Suo-Anttila							60.92	27.5767	
+FI	54580	Somerharju							60.9167	27.4333	4
+FI	54610	Ellola							60.9833	27.45	4
+FI	54620	Munteenkylä							61.05	27.3833	4
+FI	54630	Viuhkola							61.05	27.2833	4
+FI	54640	Pentti							61	27.5	4
+FI	54670	Hämäläinen							61.0208	27.4042	
+FI	54710	Lemi							61.05	27.8	4
+FI	54711	Lemi							61.05	27.8	4
+FI	54715	Nisola							61.05	27.8	
+FI	54720	Laksiainen							61.1167	27.6667	4
+FI	54740	Uimi							61.0833	27.6733	
+FI	54750	Välijoki							61.0667	27.5833	4
+FI	54770	Heituinlahti							61.1333	27.5167	4
+FI	54800	Savitaipale							61.2	27.7	4
+FI	54801	Savitaipale							61.2	27.7	4
+FI	54820	Kotimäki							61.1167	27.9	4
+FI	54840	Telamäki							61.0833	27.9333	4
+FI	54850	Kuukanniemi							61.1733	27.7833	
+FI	54880	Partakoski							61.2667	27.6833	4
+FI	54915	Saimaanharju							61.1958	28.0292	
+FI	54920	Taipalsaari							61.15	28.05	4
+FI	54921	Taipalsaari							61.15	28.05	4
+FI	54930	Levänen							61.1958	28.0292	
+FI	54940	Solkei							61.25	27.85	4
+FI	54950	Pettilä							61.3	27.75	4
+FI	54960	Vehkataipale							61.1667	28.2167	4
+FI	54980	Saimaanranta							61.2167	28.1	4
+FI	54990	Suur-Saimaa							61.2667	28.0333	4
+FI	54999	Lappeenranta							61.0667	28.1833	4
+FI	55007	Imatra							61.1667	28.7667	4
+FI	55100	Imatra							61.1712	28.7874	4
+FI	55101	Imatra							61.1667	28.7667	4
+FI	55120	Imatra							61.1667	28.7667	4
+FI	55121	Imatra							61.1667	28.7667	4
+FI	55300	Rauha							61.1833	28.7	4
+FI	55320	Rauha							61.1833	28.7	4
+FI	55330	Tiuruniemi							61.2	28.6667	4
+FI	55400	Imatra							61.1667	28.7667	4
+FI	55420	Imatra							61.1734	28.8047	4
+FI	55510	Imatra							61.1667	28.7667	4
+FI	55610	Imatra							61.1667	28.7667	4
+FI	55611	Imatra							61.1667	28.7667	4
+FI	55700	Imatra							61.1667	28.7667	4
+FI	55800	Imatra							61.1667	28.7667	4
+FI	55801	Imatra							61.1667	28.7667	4
+FI	55910	Imatra							61.1667	28.7667	4
+FI	55950	Imatra							61.1667	28.7667	4
+FI	56100	Ruokolahti							61.2833	28.8333	4
+FI	56101	Ruokolahti							61.2833	28.8333	4
+FI	56120	Salosaari							61.2792	28.725	
+FI	56130	Savilahti							61.25	28.65	4
+FI	56140	Äitsaari							61.3	28.5833	4
+FI	56210	Virmutjoki							61.3333	28.7667	4
+FI	56250	Erä							61.45	28.7667	4
+FI	56310	Syyspohja							61.4	28.65	4
+FI	56330	Utula							61.35	28.4833	4
+FI	56350	Kyläniemi							61.2833	28.1667	4
+FI	56370	Hauklappi							61.45	28.5	4
+FI	56410	Kaiturinpää							61.35	29	4
+FI	56440	Pohja-Lankila							61.35	29	
+FI	56510	Puntala							61.2667	28.9833	4
+FI	56550	Niska-Pietilä							61.2667	28.9833	
+FI	56610	Rautjärvi							61.4333	29.35	4
+FI	56620	Untamo							61.3417	29.2583	
+FI	56640	Purnujärvi							61.25	29.1667	4
+FI	56710	Miettilä							61.3	29.25	4
+FI	56730	Laikko							61.3667	29.2667	4
+FI	56800	Simpele							61.4333	29.3667	4
+FI	56801	Simpele							61.4333	29.3667	4
+FI	56810	Simpele As							61.4278	29.35	
+FI	56830	Änkilä							61.4167	29.3167	4
+FI	56999	Imatra							61.1667	28.7667	4
+FI	57007	Savonlinna							61.8667	28.8833	4
+FI	57100	Savonlinna							61.8667	28.8833	4
+FI	57101	Savonlinna							61.8667	28.8833	4
+FI	57120	Savonlinna							61.8667	28.8833	4
+FI	57130	Savonlinna							61.8666	28.8833	4
+FI	57131	Savonlinna							61.8667	28.8833	4
+FI	57150	Olavinlinna							61.8667	28.8833	
+FI	57170	Savonlinna							61.8667	28.8833	4
+FI	57200	Savonlinna							61.8667	28.8833	4
+FI	57201	Savonlinna							61.8667	28.8833	4
+FI	57210	Savonlinna							61.8667	28.8833	4
+FI	57220	Savonlinna							61.8667	28.8833	4
+FI	57230	Savonlinna							61.8667	28.8833	4
+FI	57231	Savonlinna							61.8667	28.8833	4
+FI	57310	Savonlinna							61.8667	28.8833	4
+FI	57510	Savonlinna							61.8667	28.8833	4
+FI	57600	Savonlinna							61.8667	28.8833	4
+FI	57710	Savonlinna							61.8667	28.8833	4
+FI	57810	Savonlinna							61.8667	28.8833	4
+FI	58130	Oravi							62.1167	28.6167	4
+FI	58140	Ahvensalmi							62.1667	28.4833	4
+FI	58150	Makkola							61.9667	28.9167	4
+FI	58160	Karvila							62.0333	28.8667	4
+FI	58170	Simanala							62.0667	28.9667	4
+FI	58175	Enonkoski							62.0833	28.9333	4
+FI	58180	Ihamaniemi							62.15	28.9	4
+FI	58200	Kerimäki							61.9167	29.2833	4
+FI	58201	Kerimäki							61.9167	29.2833	4
+FI	58220	Louhi							61.9333	29.05	4
+FI	58240	Seikanlampi							61.9375	29.2542	
+FI	58250	Hautalahti							61.9375	29.2542	
+FI	58260	Kumpuranta							61.9833	29.4	4
+FI	58300	Savonranta							62.1833	29.2	4
+FI	58320	Raikuu							62.0333	29.45	4
+FI	58350	Villala							62.05	29.5667	4
+FI	58360	Säimen							62.2667	29.2	4
+FI	58390	Rönkönvaara							62.3333	29.25	4
+FI	58410	Haapakallio							61.8667	29.1	4
+FI	58420	Silvola							61.8417	29.2458	
+FI	58430	Kulennoinen							61.8333	29.2167	4
+FI	58440	Päivinen							61.8667	29.2667	4
+FI	58450	Punkaharju							61.8	29.4	4
+FI	58451	Punkuharju							61.8	29.4	
+FI	58500	Punkaharju							61.8	29.4	4
+FI	58501	Punkaharju							61.8	29.4	4
+FI	58520	Hiukkajoki							61.7167	29.3633	
+FI	58550	Putikko							61.7167	29.4167	4
+FI	58570	Ruhvana							61.6667	29.3667	4
+FI	58580	Vuoriniemi							61.6	29.2333	4
+FI	58610	Telakanava							61.65	28.6	4
+FI	58620	Lohilahti							61.6167	28.6667	4
+FI	58630	Lohikoski							61.6167	28.75	4
+FI	58640	Lieviskä							61.5333	28.7	4
+FI	58650	Kiviapaja							61.7	28.75	4
+FI	58680	Piojärvi							61.6	28.95	4
+FI	58690	Ala-Särkilahti							61.55	29.0833	4
+FI	58700	Sulkava							61.7833	28.3833	4
+FI	58701	Sulkava							61.7833	28.3833	4
+FI	58720	Kaartilankoski							61.7167	28.4	4
+FI	58740	Kyrsyä							61.7917	28.4125	
+FI	58770	Pihlajalahti							61.8833	28.4833	4
+FI	58810	Kallislahti							61.9	28.6	4
+FI	58830	Parkumäki							61.9667	28.5167	4
+FI	58840	Päiviälä							61.9833	28.5333	4
+FI	58850	Hiltula							61.9667	28.3833	4
+FI	58900	Rantasalmi							62.0667	28.3	4
+FI	58901	Rantasalmi							62.0667	28.3	4
+FI	58910	Rantasalmi As							62.0067	28.3333	
+FI	58920	Kolkontaipale							62.05	28.1333	4
+FI	58940	Tuusmäki							61.9833	28.05	4
+FI	58999	Savonlinna							61.8667	28.8833	4
+FI	59100	Parikkala							61.55	29.5	4
+FI	59101	Parikkala							61.55	29.5	4
+FI	59110	Tiviä							61.55	29.5667	4
+FI	59130	Koitsanlahti							61.4667	29.4667	4
+FI	59210	Melkoniemi							61.55	29.3667	4
+FI	59220	Peruspohja							61.5167	29.3167	4
+FI	59310	Särkisalmi							61.6	29.4833	4
+FI	59320	Haapaoja							61.6167	29.5333	4
+FI	59410	Kirjavala							61.6667	29.65	4
+FI	59420	Kesusmaa							61.6333	29.7	4
+FI	59510	Saari							61.65	29.75	4
+FI	59511	Saari							61.65	29.75	4
+FI	59520	Saari							61.65	29.75	4
+FI	59530	Mikkolanniemi							61.6833	29.7833	4
+FI	59610	Tarnala							61.7167	29.75	4
+FI	59620	Rajavaara							61.75	29.65	4
+FI	59710	Kummunkylä							61.7667	29.8167	4
+FI	59720	Niukkala							61.7333	29.8833	4
+FI	59730	Uukuniemi							61.7833	30.0167	4
+FI	59800	Kesälahti							61.9	29.8333	4
+FI	59801	Kesälahti							61.9	29.8333	4
+FI	59810	Suurikylä							60.45	27.0333	4
+FI	59820	Purujärvi							61.7833	29.7	4
+FI	59830	Totkiniemi							61.5083	29.1	
+FI	59910	Luostarinen							61.9167	29.8	4
+FI	59999	Parikkala							61.55	29.5	4
+FI	60007	Seinäjoki							62.5667	23.0667	4
+FI	60100	Seinäjoki							62.5667	23.0667	4
+FI	60101	Seinäjoki							62.5667	23.0667	4
+FI	60110	Seinäjoki							62.5667	23.0667	4
+FI	60120	Seinäjoki							62.5667	23.0667	4
+FI	60150	Seinäjoki							62.5667	23.0667	4
+FI	60200	Seinäjoki							62.5667	23.0667	4
+FI	60201	Seinäjoki							62.5667	23.0667	4
+FI	60220	Seinäjoki							62.5667	23.0667	4
+FI	60280	Seinäjoki							62.5667	23.0667	4
+FI	60320	Seinäjoki							62.5667	23.0667	4
+FI	60420	Seinäjoki							62.5667	23.0667	4
+FI	60450	Munakka							62.5667	23.0667	
+FI	60510	Hyllykallio							61.8875	24.2542	
+FI	60511	Hyllykallio							61.8875	24.2542	
+FI	60530	Kivisaari							61.0333	28.45	4
+FI	60550	Nurmo							62.8333	22.9	4
+FI	60551	Nurmo							62.8333	22.9	4
+FI	60560	Halkosaari							60.85	22.7667	4
+FI	60601	Jalasjärvi							62.5	22.75	4
+FI	60640	Isokoski							62.5	22.75	
+FI	60720	Tuomikylä							62.7333	22.7167	4
+FI	60760	Pojanluoma							62.6833	22.7333	4
+FI	60800	Ilmajoki							62.7333	22.5667	4
+FI	60801	Ilmajoki							62.7333	22.5667	4
+FI	61100	Peräseinäjoki							62.5667	23.0667	4
+FI	61101	Peräseinäjoki							62.5667	23.0667	4
+FI	61110	Vuolle							62.6167	23	4
+FI	61120	Louko							62.5071	23.0238	
+FI	61140	Pasto							62.6167	23.1333	4
+FI	61150	Sydänmaa							61.9	22.6	4
+FI	61160	Koura							62.7167	23.1	4
+FI	61170	Sääskiniemi							62.5071	23.0238	
+FI	61180	Haapaluoma							62.5667	23.2	4
+FI	61220	Myllysalo							62.5556	22.6833	
+FI	61230	Luopa							62.5667	22.5333	4
+FI	61240	Opas							62.5667	22.6	4
+FI	61250	Jalasto							62.55	22.6667	4
+FI	61270	Luopajärvi							62.5833	22.75	4
+FI	61280	Jokipii							62.5167	22.6667	4
+FI	61290	Taivalmaa							62.55	22.8833	4
+FI	61300	Kurikka							62.6167	22.4167	4
+FI	61301	Kurikka							62.6167	22.4167	4
+FI	61310	Panttila							62.6667	22.4167	4
+FI	61330	Koskenkorva							62.6833	22.4667	4
+FI	61331	Koskenkorva							62.6833	22.4667	4
+FI	61340	Nopankylä							62.7167	22.2833	4
+FI	61350	Huissi							62.75	22.35	4
+FI	61360	Mieto							62.5667	22.3	4
+FI	61370	Lohiluoma							62.6537	22.363	
+FI	61380	Polvenkylä							62.5833	22.15	4
+FI	61400	Ylistaro							62.95	22.5167	4
+FI	61401	Ylistaro							62.95	22.5167	4
+FI	61410	Ylistaro As							62.9	22.7738	
+FI	61430	Isorehto							62.9	22.7738	
+FI	61440	Untamala							63.0667	22.5667	4
+FI	61450	Kylänpää							62.9667	22.5667	4
+FI	61460	Hanhikoski							62.9667	22.75	4
+FI	61470	Kitinoja							62.9	22.8	4
+FI	61480	Tenkkula							62.5	23.7	4
+FI	61500	Isokyrö							63	22.3167	4
+FI	61501	Isokyrö							63	22.3167	4
+FI	61510	Ruusupuro							62.9767	22.3733	
+FI	61520	Lehmäjoki							63.0667	22.45	4
+FI	61540	Akkaansilta							62.9767	22.3733	
+FI	61550	Orismala							62.95	22.4	4
+FI	61560	Orisberg							62.8667	22.3833	4
+FI	61600	Jalasjärvi							62.5	22.75	4
+FI	61601	Jalasjärvi							62.5	22.75	4
+FI	61620	Komsi							62.4833	22.8333	4
+FI	61630	Hirvijärvi							62.4667	22.8	4
+FI	61640	Ala-Valli							62.4857	22.8762	
+FI	61650	Kalakoski							62.4667	23.1167	4
+FI	61660	Kantola							62.5333	23.1	4
+FI	61670	Kulma							62.4857	22.8762	
+FI	61680	Mantila							62.45	22.7833	4
+FI	61710	Pentinmäki							62.3417	22.7833	
+FI	61720	Koskue							62.35	22.85	4
+FI	61730	Yli-Valli							62.3417	22.7833	
+FI	61760	Ilvesjoki							62.3333	22.7167	4
+FI	61800	Kauhajoki							62.4333	22.1833	4
+FI	61801	Kauhajoki							62.4333	22.1833	4
+FI	61810	Luomankylä							62.45	22.1167	4
+FI	61820	Kainasto							62.45	22.0333	4
+FI	61840	Norinkylä							62.5667	22.0333	4
+FI	61850	Kauhajoki As							62.4619	22.1976	
+FI	61851	Kauhajoki as							62.4619	22.1976	
+FI	61860	Harja							62.5	22.2833	4
+FI	61880	Ikkeläjärvi							62.4	22.55	4
+FI	61910	Nummijärvi							62.3	22.4167	4
+FI	61920	Nummikoski							62.25	22.5	4
+FI	61940	Hyyppä							62.3	22.2333	4
+FI	61950	Juonikylä							62.3306	22.4278	
+FI	61960	Kyrönlatva							62.2167	22.3	4
+FI	61980	Päntäne							62.35	22.05	4
+FI	61999	Seinäjoki							62.5667	23.0667	4
+FI	62100	Lapua							62.95	23	4
+FI	62101	Lapua							62.95	23	4
+FI	62110	Yli-Hella							62.9315	23.0148	
+FI	62130	Hellanmaa							63.0333	22.8	4
+FI	62140	Ala-Hella							62.9315	23.0148	
+FI	62150	Rintakangas							62.9315	23.0148	
+FI	62160	Karhunkylä							62.95	22.65	4
+FI	62165	Tiistenjoki							62.9	23.2333	4
+FI	62170	Lakaluoma							62.9167	23.35	4
+FI	62175	Ylikylä							62.85	23.2833	4
+FI	62185	Mäki-Paavola							62.9315	23.0148	
+FI	62190	Ruha							62.8833	22.9667	4
+FI	62195	Karhunmäki							62.95	22.85	4
+FI	62200	Kauhava							63.1	23.0833	4
+FI	62201	Kauhava							63.1	23.0833	4
+FI	62210	Kauhava Kk							63.1271	23.2396	
+FI	62220	Pernaa							63.0833	22.95	4
+FI	62230	Jylhä							63.6333	23.65	4
+FI	62240	Huhmarkoski							63.1271	23.2396	
+FI	62260	Hirvijoki							63.0833	23.2167	4
+FI	62270	Halmesmäki							63.1271	23.2396	
+FI	62280	Mustamaa							63.0167	23.2	4
+FI	62290	Hirvikylä							62.9833	23.3	4
+FI	62295	Kauhajärvi							63.0167	23.4333	4
+FI	62300	Härmä							63.2333	22.8667	4
+FI	62301	Härmä							63.2333	22.8667	4
+FI	62310	Voltti							63.2833	22.8333	4
+FI	62320	Huhtamäki							63.2278	22.7685	
+FI	62330	Vakkuri							63.2667	22.6667	4
+FI	62340	Kuoppa							63.2333	22.65	4
+FI	62350	Ekola							63.3333	22.7667	4
+FI	62360	Kivihuhta							63.1833	22.8	4
+FI	62370	Kangasto							63.15	22.7833	
+FI	62375	Ylihärmä							63.15	22.7833	4
+FI	62380	Kosolankylä							63.2278	22.7685	
+FI	62390	Vesiluoma							63.1333	22.6833	4
+FI	62395	Petterinmäki							63.1333	22.6833	
+FI	62410	Rintala							63.2167	23.15	4
+FI	62420	Kortesjärvi							63.3	23.1667	4
+FI	62421	Kortesjärvi							63.3	23.1667	4
+FI	62430	Peltotupa							63.2833	23.0333	
+FI	62435	Pirttinen							63.2833	23.0333	4
+FI	62440	Perkiömäki							63.3167	22.95	4
+FI	62470	Purmojärvi							63.2833	23.3333	4
+FI	62500	Evijärvi							63.3667	23.4833	4
+FI	62501	Evijärvi							63.3667	23.4833	4
+FI	62510	Kuoppa-Aho							63.1556	23.8722	
+FI	62520	Kautiainen							63.1556	23.8722	
+FI	62530	Lepistönmäki							63.1556	23.8722	
+FI	62540	Vasikka-Aho							62.7333	24.65	4
+FI	62570	Särkilä							63.1556	23.8722	
+FI	62600	Lappajärvi							63.2	23.6333	4
+FI	62601	Lappajärvi							63.2	23.6333	4
+FI	62610	Tarvola							63.2	23.55	4
+FI	62620	Ala-Seppä							63.1806	23.6083	
+FI	62630	Karvala							63.1333	23.55	4
+FI	62640	Savonkylä							63.1333	23.5333	4
+FI	62660	Itäkylä							63.2167	23.75	4
+FI	62710	Kurejoki							63	23.75	4
+FI	62720	Sissala							63.0167	23.6333	4
+FI	62730	Haukkala							63.0333	23.6667	4
+FI	62740	Koskenvarsi							62.95	23.7333	4
+FI	62750	Saukonkylä							62.99	23.67	
+FI	62760	Menkijärvi							62.95	23.5667	4
+FI	62800	Vimpeli							63.15	23.8	4
+FI	62801	Vimpeli							63.15	23.8	4
+FI	62810	Savonjoki							63.1476	23.8929	
+FI	62820	Teerineva							63.1476	23.8929	
+FI	62830	Luoma-Aho							63.0833	23.8833	4
+FI	62840	Lakaniemi							63.1167	23.8333	4
+FI	62850	Pokela							63.1167	24.0167	4
+FI	62860	Sahi							63.1476	23.8929	
+FI	62870	Vinni							63.2	23.9333	4
+FI	62880	Sääksvesi							63.2167	23.9833	4
+FI	62900	Alajärvi							63	23.8167	4
+FI	62901	Alajärvi							63	23.8167	4
+FI	62920	Levijoki							63.0233	23.9333	
+FI	62940	Hoisko							63.0333	23.8833	4
+FI	62950	Paalijärvi							63.05	23.9	4
+FI	62990	Möksy							63.0333	24.25	4
+FI	63100	Kuortane							62.8	23.5	4
+FI	63101	Kuortane							62.8	23.5	4
+FI	63120	Leppälänkylä							62.7833	23.6167	4
+FI	63130	Mäyry							62.7667	23.5333	4
+FI	63140	Länsiranta							62.8167	23.45	4
+FI	63150	Ruona							62.8333	23.4833	4
+FI	63160	Salmi							62.8667	23.4167	4
+FI	63170	Kuortaneen Urheiluopisto							62.8095	23.5	
+FI	63210	Niinimaa							62.8	24	
+FI	63230	Lentilä							62.8	24	
+FI	63250	Rantala							62.8	24	4
+FI	63300	Alavus							62.5833	23.6167	4
+FI	63301	Alavus							62.5833	23.6167	4
+FI	63320	Kattelus							62.4833	23.7667	4
+FI	63330	Pahajoki							62.525	23.6111	
+FI	63340	Sapsalampi							62.45	23.65	4
+FI	63350	Sulkavankylä							62.45	23.55	4
+FI	63355	Seinäjärvi							62.45	23.55	
+FI	63360	Kuivaskylä							62.6	23.4667	4
+FI	63370	Taipalus							62.525	23.6111	
+FI	63400	Alavus As							62.6667	23.65	
+FI	63401	Alavus As							62.6667	23.65	
+FI	63410	Rantatöysä							62.6333	23.65	4
+FI	63430	Kätkänjoki							62.7	23.65	4
+FI	63450	Löyä							62.6667	23.65	
+FI	63500	Lehtimäki							62.7833	23.9167	4
+FI	63501	Lehtimäki							62.7833	23.9167	4
+FI	63510	Lehtimäki Kk							62.8033	23.9167	
+FI	63530	Länsikylä							62.8333	23.7667	4
+FI	63540	Hernesmaa							62.8333	23.95	4
+FI	63550	Suninsalmi							62.7833	24.0333	4
+FI	63600	Töysä							62.6333	23.8167	4
+FI	63601	Töysä							62.6333	23.8167	4
+FI	63610	Tuuri							62.6	23.75	4
+FI	63630	Kitula							62.6667	23.85	4
+FI	63640	Ritola							62.7333	22.65	4
+FI	63660	Ähtärinranta							62.7	24.0167	4
+FI	63680	Hakojärvi							62.6611	23.65	
+FI	63700	Ähtäri							62.5667	24.1	4
+FI	63701	Ähtäri							62.5667	24.1	4
+FI	63706	Ähtärin eläinpuisto							62.5667	24.1	
+FI	63760	Vääräkoski							62.5167	24.0333	4
+FI	63770	Peränne							62.4667	23.9833	4
+FI	63780	Alastaipale							62.5292	24.0542	
+FI	63800	Soini							62.8667	24.2167	4
+FI	63801	Soini							62.8667	24.2167	4
+FI	63810	Laasalanmäki							62.8833	24.0833	4
+FI	63830	Keisala							62.95	24.1667	4
+FI	63880	Kukonkylä							62.8	24.1167	4
+FI	63890	Hautakylä							62.75	24.1667	4
+FI	63900	Myllymäki							62.5333	24.2833	4
+FI	63910	Inhan Tehtaat							62.5222	24.2056	
+FI	63920	Inha							62.5167	24.1667	4
+FI	63921	Inha							62.5167	24.1667	4
+FI	63950	Vehunkylä							62.5222	24.2056	
+FI	64100	Kristiinankaupunki							62.2833	21.3833	4
+FI	64101	Kristiinankaupunki							62.2833	21.3833	4
+FI	64120	Kristiinankaupunki							62.2833	21.3833	4
+FI	64140	Tiukka							62.3	21.45	4
+FI	64170	Lålby							62.2667	21.4667	4
+FI	64200	Närpes							62.4667	21.3333	4
+FI	64201	Närpes							62.4667	21.3333	4
+FI	64210	Kalax							62.4833	21.2667	4
+FI	64220	Yttermark							62.55	21.4	4
+FI	64230	Närpes St							62.4458	21.3104	
+FI	64240	Böle							62.4333	21.35	4
+FI	64250	Pjelax							62.4	21.3667	4
+FI	64260	Kaskinen							62.3833	21.2167	4
+FI	64261	Kaskinen							62.3833	21.2167	4
+FI	64300	Lapväärtti							62.25	21.5333	4
+FI	64301	Lappfjärd							62.25	21.5333	4
+FI	64310	Perus							62.25	21.5833	4
+FI	64320	Dagsmark							62.2333	21.6333	4
+FI	64330	Ohriluoma							62.2333	21.75	4
+FI	64340	Karikannas							62.2667	21.7833	4
+FI	64350	Karijoki							62.3	21.7	4
+FI	64351	Karijoki							62.3	21.7	4
+FI	64360	Ylimaa							62.3333	21.7333	4
+FI	64370	Myrkky							62.3833	21.55	4
+FI	64420	Uttermossa							62.1333	21.5667	4
+FI	64430	Pakankylä							62.1	21.5333	4
+FI	64440	Metsälä							62.0833	21.5333	4
+FI	64450	Kallträsk							62.0333	21.5333	4
+FI	64460	Härkmeri							62.1667	21.4333	4
+FI	64470	Dalen							62.0952	21.4714	
+FI	64480	Skaftung							62.1167	21.3667	4
+FI	64490	Siipyy							62.0333	21.3333	4
+FI	64510	Nämpnäs							62.5	21.2	4
+FI	64530	Norrnäs							62.5833	21.2167	4
+FI	64550	Rangsby							62.6	21.25	4
+FI	64610	Övermark							62.6167	21.4667	4
+FI	64611	Övermark							63.2667	23.75	4
+FI	64700	Teuva							62.4833	21.7333	4
+FI	64701	Teuva							62.4833	21.7333	4
+FI	64720	Perälä							62.4667	21.6	4
+FI	64740	Horo							62.6	21.6333	4
+FI	64750	Kauppila							62.5	21.75	4
+FI	64760	Peltola							62.5	21.8333	4
+FI	64770	Äystö							62.4833	21.9333	4
+FI	64810	Vanhakylä							62.1833	21.7833	4
+FI	64820	Kärjenkoski							62.1333	21.6833	4
+FI	64830	Villamo							62.1667	21.8667	4
+FI	64840	Heikkilänjoki							62.1833	21.9167	4
+FI	64850	Möykky							62.1833	21.9833	4
+FI	64900	Isojoki							62.1167	21.9667	4
+FI	64901	Isojoki							62.1167	21.9667	4
+FI	64920	Polvi							62.0667	22.0333	4
+FI	64930	Kodesjärvi							62.05	22.0667	4
+FI	64960	Kaukoranta							62.0833	21.7167	4
+FI	64999	Kristiinankaupunki							62.2833	21.3833	4
+FI	65001	Vaasa							63.1	21.6	4
+FI	65007	Vaasa							63.1	21.6	4
+FI	65100	Vaasa							63.096	21.6297	4
+FI	65101	Vaasa							63.1	21.6	4
+FI	65120	Vaasa							63.1	21.6	4
+FI	65130	Vaasa							63.1	21.6	4
+FI	65140	Vaasa							63.1	21.6	4
+FI	65170	Vaasa							63.093	21.5821	4
+FI	65200	Vaasa							63.1	21.6	4
+FI	65201	Vaasa							63.1	21.6	4
+FI	65210	Vaasa							63.1	21.6	4
+FI	65230	Vaasa							63.1	21.6	4
+FI	65231	Vaasa							63.1	21.6	4
+FI	65240	Vasa							63.1	21.6	4
+FI	65250	Vaasa							63.1	21.6	4
+FI	65280	Vaasa							63.1	21.6	4
+FI	65290	Vaasa							63.1	21.6	4
+FI	65300	Vaasa							63.1	21.6	4
+FI	65301	Vaasa							63.1	21.6	4
+FI	65320	Vaasa							63.1	21.6	4
+FI	65321	Vaasa							63.1	21.6	4
+FI	65350	Vaasa							63.1	21.6	4
+FI	65351	Vaasa							63.1	21.6	4
+FI	65370	Vaasa							63.1	21.6	4
+FI	65380	Vaasa							63.1	21.6	4
+FI	65381	Vaasa							63.1	21.6	4
+FI	65410	Sundom							63.0333	21.5667	4
+FI	65430	Kronvik							63.0667	21.5167	4
+FI	65450	Sulva							63.0167	21.6333	4
+FI	65451	Sulva							63.0167	21.6333	4
+FI	65460	Tölby							63.0167	21.7	4
+FI	65470	Rimal							62.95	21.7667	4
+FI	65480	Vikby							63.0333	21.7333	4
+FI	65520	Helsingby							63.0333	21.8	4
+FI	65540	Tuovila							63.0333	21.8167	4
+FI	65610	Mustasaari							63.0907	21.6652	4
+FI	65611	Mustasaari							63.1167	21.7167	4
+FI	65630	Karperö							63.1667	21.7	4
+FI	65650	Koskö							63.1833	21.7167	4
+FI	65710	Singsby							63.1667	21.65	4
+FI	65730	Jungsund							63.1833	21.625	
+FI	65760	Iskmo							63.2	21.6	4
+FI	65800	Raippaluoto							63.25	21.4167	4
+FI	65801	Raippaluoto							63.25	21.4167	4
+FI	65870	Björköby							63.35	21.3167	4
+FI	65920	Norra Vallgrund							63.2	21.3	4
+FI	65930	Södra Vallgrund							63.1833	21.2833	4
+FI	65970	Söderudden							63.2833	21.1167	4
+FI	66100	Malax							62.9333	21.5667	4
+FI	66101	Malax							62.9333	21.5667	4
+FI	66140	Övermalax							62.9167	21.6167	4
+FI	66141	Övermalax							62.9167	21.6167	4
+FI	66160	Långåminne							62.9	21.7333	4
+FI	66200	Korsnäs							62.7833	21.2	4
+FI	66201	Korsnäs							62.7833	21.2	4
+FI	66210	Molpe							62.8667	21.3167	4
+FI	66220	Bergö							62.9667	21.2	4
+FI	66230	Korsbäck							62.7833	21.2833	4
+FI	66240	Petalax							62.8333	21.4167	4
+FI	66241	Petalax							62.8333	21.4167	4
+FI	66250	Nyby							62.8	21.4667	4
+FI	66260	Svarvar							62.8	21.6667	4
+FI	66270	Pörtom							62.7	21.6167	4
+FI	66271	Pörtom							62.7	21.6167	4
+FI	66275	Sidbäck							62.6667	21.6667	4
+FI	66280	Taklax							62.7167	21.3	4
+FI	66290	Harrström							62.7167	21.1833	4
+FI	66295	Töjby							62.6667	21.1667	4
+FI	66300	Jurva							62.6833	21.9833	4
+FI	66301	Jurva							62.6833	21.9833	4
+FI	66320	Niemenkylä							62.7167	21.9167	4
+FI	66330	Hakko							62.7024	21.9119	
+FI	66340	Sarvijoki							62.8167	21.8	4
+FI	66350	Tainus							62.7167	22.0833	4
+FI	66360	Kesti							62.6333	21.8667	4
+FI	66370	Närvijoki							62.6667	21.75	4
+FI	66400	Laihia							62.9667	22.0167	4
+FI	66401	Laihia							62.9667	22.0167	4
+FI	66410	Laihia As							62.9426	22.0815	
+FI	66420	Ruto							63	21.9	4
+FI	66430	Vedenoja							62.9426	22.0815	
+FI	66440	Tervajoki							63	22.1667	4
+FI	66441	Tervajoki							63	22.1667	4
+FI	66450	Jakkula							62.9333	22.0833	4
+FI	66460	Haapala							62.9	22.0667	4
+FI	66470	Jukaja							62.8667	22.1833	4
+FI	66490	Jokisalo							62.85	22.1333	4
+FI	66500	Vähäkyrö							63.0667	22.1	4
+FI	66501	Vähäkyrö							63.0667	22.1	4
+FI	66510	Merikaarto							63.0667	21.9833	4
+FI	66520	Veikkaala							63.0833	21.8833	4
+FI	66530	Koivulahti							63.1667	21.8333	4
+FI	66531	Kvevlax							63.1667	21.8333	4
+FI	66540	Petsmo							63.2333	21.7833	4
+FI	66550	Västerhankmo							63.2167	21.85	4
+FI	66560	Österhankmo							63.14	21.935	
+FI	66580	Kuni							63.15	21.9667	4
+FI	66590	Vassor							63.1833	22.0167	4
+FI	66600	Vöyri							63.15	22.25	4
+FI	66601	Vöyri							63.15	22.25	4
+FI	66610	Rökiö							63.15	22.2667	4
+FI	66620	Lotlax							63.1833	22.2167	4
+FI	66630	Kärklax							63.2	22.1167	4
+FI	66640	Maxmo							63.2167	22.0667	4
+FI	66641	Maksamaa							63.2167	22.0667	4
+FI	66650	Tottesund							63.2333	22.05	4
+FI	66660	Bertby							63.2167	22.2333	4
+FI	66670	Tuckur							63.2	22.3	4
+FI	66680	Kaurajärvi							63.1167	22.5	4
+FI	66690	Rekipelto							63.1167	22.2833	4
+FI	66710	Kaitsor							63.2667	22.2667	4
+FI	66720	Karvat							63.2667	22.2833	4
+FI	66730	Oxkangar							63.2667	22.275	
+FI	66760	Särkimo							63.2667	22.275	
+FI	66800	Oravainen							63.3	22.3833	4
+FI	66801	Oravais							63.3	22.3833	4
+FI	66810	Kimo							63.25	22.4333	4
+FI	66820	Komossa							63.2167	22.55	4
+FI	66830	Oravaisten Tehdas							63.3	22.3833	
+FI	66831	Oravainen							63.3	22.3833	4
+FI	66840	Pensala							63.35	22.5667	4
+FI	66850	Jepua							63.4	22.6167	4
+FI	66860	Kujala							63.15	22.7667	4
+FI	66880	Åvist							63.4	22.8833	4
+FI	66900	Uusikaarlepyy							63.5333	22.5333	4
+FI	66901	Uusikaarlepyy							63.5333	22.5333	4
+FI	66910	Soklot							63.5667	22.5667	4
+FI	66930	Kovjoki							63.5333	22.7167	4
+FI	66950	Munsala							63.45	22.4333	4
+FI	66970	Hirvlax							63.4167	22.3333	4
+FI	66980	Monå							63.3833	22.4	4
+FI	66999	Vaasa							63.1	21.6	4
+FI	67007	Kokkola							63.2833	23.1333	4
+FI	67100	Kokkola							63.2833	23.1333	4
+FI	67101	Kokkola							63.2833	23.1333	4
+FI	67200	Kokkola							63.2833	23.1333	4
+FI	67300	Kokkola							63.2833	23.1333	4
+FI	67400	Kokkola							63.2833	23.1333	4
+FI	67401	Kokkola							63.2833	23.1333	4
+FI	67410	Kokkola							63.2833	23.1333	4
+FI	67500	Rimmi							63.9	23.4	4
+FI	67600	Kokkola							63.2833	23.1333	4
+FI	67601	Kokkola							63.2833	23.1333	4
+FI	67700	Kokkola							63.2833	23.1333	4
+FI	67701	Kokkola							63.2833	23.1333	4
+FI	67800	Kokkola							63.2833	23.1333	4
+FI	67801	Kokkola							63.2833	23.1333	4
+FI	67900	Kokkola							63.2833	23.1333	4
+FI	67901	Kokkola							63.2833	23.1333	4
+FI	68100	Himanka							64.0667	23.65	4
+FI	68101	Himanka							64.0667	23.65	4
+FI	68150	Hillilä							64.0167	23.7333	4
+FI	68210	Marinkainen							63.9333	23.4333	4
+FI	68220	Karhi							63.9833	23.4333	4
+FI	68230	Lohtaja							64.0167	23.5	4
+FI	68231	Lohtaja							64.0167	23.5	4
+FI	68240	Ala-Viirre							64.0167	23.6167	4
+FI	68300	Kälviä							63.8667	23.4333	4
+FI	68301	Kälviä							63.8667	23.4333	4
+FI	68310	Suonperä							63.8333	23.3833	4
+FI	68320	Ruotsalo							63.9	23.3333	4
+FI	68340	Joki-Vuolle							63.7944	23.5861	
+FI	68370	Ullava							63.7	23.9	4
+FI	68380	Yli-Ullava							63.7944	23.5861	
+FI	68390	Rahkonen							63.6	24.0333	4
+FI	68410	Ala-Veteli							63.6833	23.3667	
+FI	68420	Tast							63.6833	23.3667	4
+FI	68500	Kruunupyy							63.7167	23.0333	4
+FI	68501	Kruunupyy							63.7167	23.0333	4
+FI	68530	Lepplax							63.6667	22.9	4
+FI	68550	Öja							63.8333	22.9167	4
+FI	68551	Öja							63.8333	22.9167	4
+FI	68555	Bosund							63.8167	22.8667	4
+FI	68560	Eugmo							63.8167	22.8167	4
+FI	68570	Larsmo							63.75	22.8	4
+FI	68571	Luoto							63.75	22.8	4
+FI	68580	Furuholmen							63.7	22.75	4
+FI	68600	Pietarsaari							63.6667	22.7	4
+FI	68601	Pietarsaari							63.6667	22.7	4
+FI	68607	Pietarsaari							63.6667	22.7	4
+FI	68620	Pietarsaari							63.6667	22.7	4
+FI	68630	Pietarsaari							63.6667	22.7	4
+FI	68660	Pietarsaari							63.6667	22.7	4
+FI	68690	Sundby							63.5833	22.6833	4
+FI	68700	Teerijärvi							63.5333	23.5	4
+FI	68701	Teerijärvi							63.5333	23.5	4
+FI	68710	Hästbacka							63.5333	23.4167	4
+FI	68730	Kortjärvi							63.5333	23.6167	4
+FI	68740	Högnabba							63.5333	23.5083	
+FI	68750	Småbönders							63.5333	23.5083	
+FI	68800	Kolppi							63.6167	22.9167	4
+FI	68801	Kolppi							63.6167	22.9167	4
+FI	68810	Ytteresse							63.6167	23.0333	4
+FI	68820	Ähtävä							63.5833	23.05	4
+FI	68830	Bäckby							63.6167	23.1167	4
+FI	68840	Nederlappfors							63.5167	23.1833	4
+FI	68850	Jeppo							63.4	22.6167	4
+FI	68870	Edsevö							63.6333	22.8667	4
+FI	68910	Pännäinen							63.6	22.8	4
+FI	68911	Pännäinen							63.6	22.8	4
+FI	68920	Forsby							63.4833	22.55	4
+FI	68930	Purmo							63.5167	22.95	4
+FI	68940	Lillby							63.4944	22.8778	
+FI	68970	Överpurmo							63.4833	23.0333	4
+FI	68999	Kokkola							63.2833	23.1333	4
+FI	69100	Kannus							63.9	23.9	4
+FI	69101	Kannus							63.9	23.9	4
+FI	69150	Eskola							63.9167	24.1667	4
+FI	69170	Yli-Kannus							63.9042	23.9667	
+FI	69199	Kannus							63.9	23.9	4
+FI	69210	Roikola							63.9	23.85	4
+FI	69240	Väliviirre							63.95	23.7167	4
+FI	69300	Toholampi							63.7667	24.25	4
+FI	69301	Toholampi							63.7667	24.25	4
+FI	69310	Laitala							63.7333	24.2917	
+FI	69330	Määttälä							63.7167	24.3	4
+FI	69340	Purontaka							63.6833	24.3667	4
+FI	69410	Sykäräinen							63.6167	24.4167	4
+FI	69420	Syri							63.5667	24.5167	4
+FI	69440	Lestijärvi							63.5333	24.65	4
+FI	69450	Yli-Lesti							63.4833	24.7667	4
+FI	69510	Halsua							63.4667	24.1667	4
+FI	69540	Marjusaari							63.4833	24.3	4
+FI	69550	Kanala							63.4667	24.4167	4
+FI	69570	Karvonen							63.4	24.2167	4
+FI	69600	Kaustinen							63.5333	23.7	4
+FI	69601	Kaustinen							63.5333	23.7	4
+FI	69610	Nikula							63.5833	23.6	4
+FI	69620	Salonkylä							62.7167	23.75	4
+FI	69660	Köyhäjoki							63.5667	23.95	4
+FI	69700	Veteli							63.4667	23.7667	4
+FI	69701	Veteli							63.4667	23.7667	4
+FI	69720	Torppa							63.4583	23.8083	
+FI	69730	Tunkkari							63.4833	23.75	4
+FI	69750	Sillanpää							63.4167	23.95	4
+FI	69810	Isoharju							63.3611	23.8944	
+FI	69820	Räyrinki							63.4	23.7833	4
+FI	69830	Pulkkinen							63.3667	23.9667	4
+FI	69850	Patana							63.3167	23.9333	4
+FI	69910	Kivikangas							63.3167	24.2	4
+FI	69920	Oksakoski							63.2667	24.3	4
+FI	69950	Perho							63.2167	24.4167	4
+FI	69951	Perho							63.2167	24.4167	4
+FI	69970	Salamajärvi							63.3333	24.5833	4
+FI	69980	Möttönen							63.1833	24.4833	4
+FI	69999	Kannus							63.0667	23.6333	4
+FI	70007	Kuopio							62.9	27.6833	4
+FI	70009	Kuopio							62.9	27.6833	4
+FI	70100	Kuopio							62.887	27.6952	4
+FI	70101	Kuopio							62.9	27.6833	4
+FI	70110	Kuopio							62.898	27.6806	4
+FI	70111	Kuopio							62.9	27.6833	4
+FI	70150	Kuopio							62.9	27.6833	4
+FI	70151	Kuopio							62.9	27.6833	4
+FI	70200	Kuopio							62.9	27.6833	4
+FI	70201	Kuopio							62.9	27.6833	4
+FI	70210	Kuopio							62.9	27.6833	4
+FI	70211	Kuopio							62.9	27.6833	4
+FI	70240	Kuopio							62.9	27.6833	4
+FI	70260	Kuopio							62.9	27.6833	4
+FI	70280	Kuopio							62.9	27.6833	4
+FI	70300	Kuopio							62.9	27.6833	4
+FI	70301	Kuopio							62.9	27.6833	4
+FI	70340	Kuopio							62.9	27.6833	4
+FI	70341	Kuopio							62.9	27.6833	4
+FI	70400	Kuopio							62.9	27.6833	4
+FI	70408	Kuopio leirintä							62.9	27.6833	
+FI	70420	Kuopio							62.9	27.6833	4
+FI	70421	Kuopio							62.9	27.6833	4
+FI	70460	Kuopio							62.9	27.6833	4
+FI	70461	Kuopio							62.9	27.6833	4
+FI	70500	Kuopio							62.9	27.6833	4
+FI	70501	Kuopio							62.9	27.6833	4
+FI	70600	Kuopio							62.9	27.6833	4
+FI	70601	Kuopio							62.9	27.6833	4
+FI	70620	Kuopio							62.9	27.6833	4
+FI	70621	Kuopio							62.9	27.6833	4
+FI	70700	Kuopio							62.8666	27.6449	4
+FI	70701	Kuopio							62.9	27.6833	4
+FI	70750	Kuopio							62.9	27.6833	4
+FI	70780	Kuopio							62.9	27.6833	4
+FI	70781	Kuopio							62.9	27.6833	4
+FI	70800	Kuopio							62.9	27.6833	4
+FI	70801	Siilinjärvi							63.0833	27.6667	4
+FI	70820	Kuopio							62.9	27.6833	4
+FI	70821	Kuopio							62.9	27.6833	4
+FI	70870	Hiltulanlahti							62.8	27.6167	4
+FI	70871	Hiltulanlahti							62.8	27.6167	4
+FI	70900	Toivala							62.95	27.75	4
+FI	70901	Toivala							62.95	27.75	4
+FI	70910	Vuorela							62.9583	27.7917	
+FI	70911	Vuorela							62.9583	27.7917	
+FI	70940	Jännevirta							62.9667	27.8333	4
+FI	70941	Jännevirta							62.9667	27.8333	4
+FI	71130	Kortejoki							62.9375	28.35	
+FI	71150	Vartiala							62.9833	28.7667	4
+FI	71160	Riistavesi							62.9167	28.1333	4
+FI	71161	Riistavesi							62.9167	28.1333	4
+FI	71170	Laukka-Aho							62.9333	28.3667	4
+FI	71200	Tuusniemi							62.8167	28.5	4
+FI	71201	Tuusniemi							62.8167	28.5	4
+FI	71210	Tuusjärvi							62.85	28.2833	4
+FI	71240	Paakkila							62.7833	28.65	4
+FI	71260	Juurikkamäki							62.7333	28.4167	4
+FI	71270	Ruskila							62.7	28.45	4
+FI	71280	Kosula							62.65	28.5	4
+FI	71310	Vehmersalmi							62.7667	28.0333	4
+FI	71320	Enonlahti							62.6833	28.0833	4
+FI	71330	Räsälä							62.7167	27.95	4
+FI	71360	Litmaniemi							62.75	28.2333	4
+FI	71380	Mustinlahti							62.7	28.3	4
+FI	71460	Paukarlahti							62.6333	27.6167	4
+FI	71470	Oravikoski							62.5667	27.6	4
+FI	71480	Kurkimäki							62.6444	27.5444	
+FI	71490	Airaksela							62.7333	27.4167	4
+FI	71520	Kaislastenlahti							62.8333	27.1417	
+FI	71570	Syvänniemi							62.85	27.1667	4
+FI	71580	Koskislahti							62.8333	27.1417	
+FI	71590	Punnonmäki							62.8167	27.1167	4
+FI	71610	Salonkulma							63.0812	27.1479	
+FI	71630	Riuttasenpää							62.9833	27.1	4
+FI	71640	Talluskylä							63.0333	27	4
+FI	71650	Hirvilahti							63.0167	27.35	4
+FI	71660	Leinolanlahti							63.0333	27.25	4
+FI	71670	Kurolanlahti							63.0833	27.1833	4
+FI	71680	Pulkonkoski							63.1167	27.1833	4
+FI	71690	Varpasmaa							63.15	27.0833	4
+FI	71695	Jylänki							63.2333	27.0333	4
+FI	71720	Käärmelahti							63.1	27.4167	4
+FI	71730	Kinnulanlahti							63.1167	27.3667	4
+FI	71740	Tavinsalmi							63.1	27.2667	4
+FI	71745	Haatala							63.15	27.25	4
+FI	71750	Maaninka							63.15	27.3	4
+FI	71760	Ahkionlahti							63.1796	27.2389	
+FI	71770	Vianta							63.2167	27.2	4
+FI	71775	Tuovilanlahti							63.2333	27.1	4
+FI	71780	Hovinmäki							63.2667	27.05	4
+FI	71790	Leppäjoki							63.2833	27.2	4
+FI	71800	Siilinjärvi							63.0833	27.6667	4
+FI	71801	Siilinjärvi							63.0833	27.6667	4
+FI	71807	Siilinjärvi							63.0833	27.6667	4
+FI	71810	Aappola							63.0952	27.6619	
+FI	71820	Pöljä							63.1333	27.6	4
+FI	71840	Kuuslahti							63.1333	27.7833	4
+FI	71850	Leppäkaarre							63.0952	27.6619	
+FI	71860	Jälä							63.0952	27.6619	
+FI	71870	Harjamäki							63.0952	27.6619	
+FI	71880	Tarinaharju							63.0667	27.6667	4
+FI	71890	Hamula							63.0833	27.5833	4
+FI	71910	Alapitkä							63.2	27.5333	4
+FI	71920	Pajujärvi							63.25	27.4667	4
+FI	71930	Karvasalmi							63.2667	27.3667	4
+FI	71950	Lammasaho							63.2167	27.8	4
+FI	71960	Lukkarila							63.3	27.6833	4
+FI	71999	Kuopio							62.9	27.6833	4
+FI	72100	Karttula							62.85	27.1667	4
+FI	72101	Karttula							62.85	27.1667	4
+FI	72140	Itä-Karttula							62.9333	27.1333	4
+FI	72210	Tervo							62.95	26.75	4
+FI	72211	Tervo							62.95	26.75	4
+FI	72220	Eliaksela							62.95	26.75	
+FI	72300	Vesanto							62.9333	26.4167	4
+FI	72301	Vesanto							62.9333	26.4167	4
+FI	72310	Niinivesi							62.8833	26.4067	
+FI	72330	Tiitilänkylä							62.8667	26.6	4
+FI	72350	Pienola							62.8833	26.4067	
+FI	72360	Närhilä							62.8167	26.35	4
+FI	72380	Horontaipale							62.8667	26.25	4
+FI	72400	Pielavesi							63.2333	26.75	4
+FI	72401	Pielavesi							63.2333	26.75	4
+FI	72430	Kumpula							63.3167	26.8167	4
+FI	72480	Panka							63.1833	26.9667	4
+FI	72490	Saarinen							63.2417	26.8208	
+FI	72510	Jokijärvi							63.0833	26.7	4
+FI	72530	Säviäntaipale							62.5833	26.8778	
+FI	72550	Säviä							63.2	26.6667	4
+FI	72570	Mäntylä							61.4667	27.2667	4
+FI	72600	Keitele							63.1833	26.3667	4
+FI	72601	Keitele							63.1833	26.3667	4
+FI	72630	Kuusela							66.5167	25.7667	4
+FI	72650	Rajala							63.8167	26.5	4
+FI	72710	Vaaraslahti							63.3667	26.7167	4
+FI	72740	Laukkala							63.3833	26.55	4
+FI	72810	Jylhänkylä							63.2667	26.55	4
+FI	72840	Saarela							63.3333	26.4167	4
+FI	72880	Koivujoki							63.3	26.4833	
+FI	72930	Tossavanlahti							63.2833	26.25	4
+FI	72950	Porttila							63.3333	26.2	4
+FI	72980	Petäjäkylä							63.4167	26.2	4
+FI	73100	Lapinlahti							63.3667	27.4	4
+FI	73101	Lapinlahti							63.3667	27.4	4
+FI	73110	Mäntylahti							63.3528	27.275	
+FI	73120	Nerkoo							63.4167	27.35	4
+FI	73130	Taipale							63.1167	26.75	4
+FI	73140	Onkilahti							63.3667	27.2	4
+FI	73160	Horsmanmäki							63.4833	27.55	4
+FI	73200	Varpaisjärvi							63.3667	27.75	4
+FI	73201	Varpaisjärvi							63.3667	27.75	4
+FI	73230	Syvärinpää							63.4333	27.8333	4
+FI	73250	Korpijärvi							63.45	27.9833	4
+FI	73270	Karsanlahti							63.4042	27.8292	
+FI	73300	Nilsiä							63.2	28.0833	4
+FI	73301	Nilsiä							63.2	28.0833	4
+FI	73310	Tahkovuori							63.1667	28.0042	
+FI	73350	Haluna							63.1333	28	4
+FI	73360	Pajulahti							63.1333	27.85	4
+FI	73410	Pieksänkoski							63.0833	27.9333	4
+FI	73420	Tihvonjärvi							63.0278	28.1333	
+FI	73460	Muuruvesi							63.0167	28.2	4
+FI	73470	Västinniemi							62.9833	28.2667	4
+FI	73500	Juankoski							63.0667	28.35	4
+FI	73501	Juankoski							63.0667	28.35	4
+FI	73600	Kaavi							62.9833	28.5	4
+FI	73601	Kaavi							62.9833	28.5	4
+FI	73610	Rasilampi							63.0167	28.55	4
+FI	73620	Kortteinen							63.0333	28.6667	4
+FI	73630	Kortteiskylä							62.9667	28.75	4
+FI	73640	Sivakkavaara							62.9667	28.75	4
+FI	73645	Niinivaara							63	28.8667	4
+FI	73655	Onnivaara							62.9333	28.9833	4
+FI	73670	Luikonlahti							62.9167	28.65	4
+FI	73710	Viitaniemi							63.1333	28.4833	4
+FI	73730	Losomäki							63.15	28.6167	4
+FI	73750	Pisankoski							63.1833	28.4	4
+FI	73770	Säyneinen							63.1333	28.4833	4
+FI	73810	Palonurmi							63.2833	28.2	4
+FI	73820	Raatti							63.2667	28.2667	4
+FI	73830	Siikajärvi							63.2833	28.35	4
+FI	73850	Ala-Luosta							63.2778	28.2722	
+FI	73860	Pykälikkö							63.2778	28.2722	
+FI	73880	Ala-Siikajärvi							63.2778	28.2722	
+FI	73890	Aholansaari							63.2778	28.2722	
+FI	73900	Rautavaara							63.4833	28.3	4
+FI	73901	Rautavaara							63.4833	28.3	4
+FI	73970	Riitasalo							63.4556	28.2444	
+FI	73990	Kangaslahti							63.4	28.1333	4
+FI	74007	Iisalmi							63.5667	27.1833	4
+FI	74100	Iisalmi							63.5825	27.206	4
+FI	74101	Iisalmi							63.5667	27.1833	4
+FI	74120	Iisalmi							63.5667	27.1833	4
+FI	74121	Iisalmi							63.5667	27.1833	4
+FI	74130	Iisalmi							63.5667	27.1833	4
+FI	74131	Iisalmi							63.5667	27.1833	4
+FI	74160	Koljonvirta							63.6	27.15	4
+FI	74170	Soinlahti							63.6333	27.2167	4
+FI	74200	Vieremä							63.75	27.0167	4
+FI	74210	Valkeiskylä							63.6667	27.0667	4
+FI	74230	Salahmi							63.8	26.9333	4
+FI	74240	Marttisenjärvi							63.8833	26.9167	4
+FI	74250	Nissilä							63.95	26.8333	4
+FI	74270	Kauppilanmäki							63.7	27.2167	4
+FI	74285	Kainuunmäki							63.7667	27.3333	4
+FI	74300	Sonkajärvi							63.6667	27.5167	4
+FI	74301	Sonkajärvi							63.6667	27.5167	4
+FI	74340	Sukeva							63.8667	27.4333	4
+FI	74341	Sukeva							63.8667	27.4333	4
+FI	74345	Kalliosuo							63.8667	27.4333	
+FI	74360	Sonkakoski							63.7333	27.5	4
+FI	74380	Jyrkkä							63.7833	27.8	4
+FI	74390	Laakajärvi							63.7639	27.5333	
+FI	74420	Hernejärvi							63.5333	27.5	4
+FI	74470	Paloinen							63.5	27.85	4
+FI	74490	Koirakoski							63.6	27.8	4
+FI	74510	Peltosalmi							63.5333	27.25	4
+FI	74530	Nerohvirta							63.4833	27.2	4
+FI	74540	Kotikylä							63.45	27.1167	4
+FI	74550	Pörsänmäki							63.4	27.0833	4
+FI	74560	Sourunsalo							63.49	27.1	
+FI	74590	Kurenpolvi							63.5833	26.85	
+FI	74595	Runni							63.5833	26.85	4
+FI	74610	Honkaranta							63.6	26.75	4
+FI	74620	Ryönänjoki							63.5125	26.5708	
+FI	74630	Heinäkylä							63.55	26.7167	4
+FI	74640	Sulkavanjärvi							63.3333	26.2167	4
+FI	74670	Rapakkojoki							63.5667	26.6	4
+FI	74680	Myllyniemi							63.5125	26.5708	
+FI	74700	Kiuruvesi							63.65	26.6167	4
+FI	74701	Kiuruvesi							63.65	26.6167	4
+FI	74720	Niemiskylä							63.6167	26.5167	4
+FI	74740	Aittojärvi							63.6667	26.4	4
+FI	74770	Kalliokylä							63.5833	26.4167	4
+FI	74790	Paloharju							63.5167	26.25	4
+FI	74840	Koppeloharju							63.7667	26.7667	4
+FI	74860	Turhala							63.75	26.5667	4
+FI	74899	Kiuruvesi							63.65	26.6167	4
+FI	74940	Remeskylä							63.8	26.4333	4
+FI	74980	Tihilänkangas							63.8667	26.4167	4
+FI	74999	Iisalmi							63.5667	27.1833	4
+FI	75500	Nurmes							63.55	29.1167	4
+FI	75501	Nurmes							63.55	29.1167	4
+FI	75507	Nurmes 7							63.55	29.1167	
+FI	75520	Nurmes							63.55	29.1167	4
+FI	75530	Nurmes 3							63.55	29.1333	
+FI	75531	Nurmes 3							63.55	29.1333	
+FI	75550	Bomba							63.55	29.1333	
+FI	75570	Paljakka							63.55	29.1833	4
+FI	75650	Savikylä							63.5333	28.8833	4
+FI	75680	Ylä-Luosta							63.4417	28.75	
+FI	75690	Luostanlinna							63.35	28.6167	4
+FI	75700	Valtimo							63.6667	28.8	4
+FI	75701	Valtimo							63.6667	28.8	4
+FI	75710	Karhunpää							63.6167	28.9	4
+FI	75740	Pajukoski							63.6167	28.75	4
+FI	75770	Puukari							63.75	28.7	4
+FI	75790	Rumo							63.8	28.55	4
+FI	75810	Hirvikoski							63.6167	29.1167	4
+FI	75840	Ylä-Valtimo							63.6833	29.1056	
+FI	75850	Merilä							63.7333	28.9833	4
+FI	75860	Sivakka							63.6833	29.1056	
+FI	75890	Saramo							63.7	29.2167	4
+FI	75910	Imanne							63.6167	29.2	4
+FI	75920	Ronkeli							63.65	29.2333	4
+FI	75930	Petäiskylä							63.6833	29.3667	4
+FI	75940	Mujejärvi							63.8167	29.4833	4
+FI	75960	Kuokanvaara							63.5833	29.5444	
+FI	75970	Kohtavaara							63.25	30.55	4
+FI	75990	Höljäkkä							63.4833	29.4333	4
+FI	76007	Pieksämäki							62.3	27.1333	4
+FI	76100	Pieksämäki							62.3	27.1333	4
+FI	76101	Pieksämäki							62.3	27.1333	4
+FI	76120	Pieksämäki							62.3	27.1333	4
+FI	76130	Pieksämäki							62.3	27.1333	4
+FI	76131	Pieksämäki							62.3	27.1333	4
+FI	76140	Pieksämäki							62.3	27.1333	4
+FI	76150	Pieksämäki							62.3	27.1333	4
+FI	76151	Pieksämäki							62.3	27.1333	4
+FI	76280	Partaharju							62.4636	27.1909	
+FI	76620	Pyhitty							62.4636	27.1909	
+FI	76720	Meijerhovi							64.0333	27.7833	
+FI	76780	Lamminmäki							64.0333	27.7833	4
+FI	76850	Naarajärvi							62.4636	27.1909	
+FI	76851	Naarajärvi							62.4636	27.1909	
+FI	76940	Nenonpelto							62.3667	27.1167	4
+FI	77110	Paltanen							62.3333	26.75	
+FI	77120	Venetmäki							62.3333	26.75	4
+FI	77140	Huumala							62.3333	26.75	
+FI	77160	Ilmakka							62.3333	26.75	
+FI	77210	Niskamäki							62.2333	27.0167	4
+FI	77220	Neuvola							64.1	28.1667	4
+FI	77240	Halkokumpu							62.1667	26.8333	4
+FI	77320	Hurskaala							62.1267	27.37	
+FI	77330	Virtasalmi							62.15	27.4667	4
+FI	77340	Hällinmäki							62.0833	27.5333	4
+FI	77350	Montola							62.1667	27.3	4
+FI	77360	Väisälä							62.1167	27.3333	4
+FI	77380	Kantala							62.1167	27.2167	4
+FI	77430	Siikamäki							62.3167	27.3667	4
+FI	77460	Maavesi							62.3167	27.3667	
+FI	77480	Savuniemi							62.3167	27.3667	
+FI	77520	Haapakoski							62.45	27.1667	4
+FI	77540	Kotamäki							62.4167	27.3	4
+FI	77570	Jäppilä							62.3833	27.4333	4
+FI	77580	Tihusniemi							62.35	27.5833	4
+FI	77600	Suonenjoki							62.6167	27.1333	4
+FI	77601	Suonenjoki							62.6167	27.1333	4
+FI	77630	Lempyy							62.6333	27.3833	4
+FI	77690	Suontee							62.6222	27.2167	
+FI	77700	Rautalampi							62.6333	26.8333	4
+FI	77701	Rautalampi							62.6333	26.8333	4
+FI	77760	Sulasalmi							62.5833	26.8056	
+FI	77770	Myhinpää							62.4833	26.75	4
+FI	77777	Korvatunturi							62.4833	26.75	
+FI	77800	Iisvesi							62.6667	27.0333	4
+FI	77899	Suonenjoki							62.6167	27.1333	4
+FI	77910	Vaajasalmi							62.7167	26.9	4
+FI	77930	Kerkonjoensuu							62.7667	26.6833	4
+FI	77960	Pakarila							62.6667	26.6167	4
+FI	77980	Istunmäki							62.7	26.4833	4
+FI	77999	Pieksämäki							62.3	27.1333	4
+FI	78007	Varkaus							62.3167	27.9167	4
+FI	78200	Varkaus							62.3167	27.9167	4
+FI	78201	Varkaus							62.3167	27.9167	4
+FI	78210	Varkaus							62.3167	27.9167	4
+FI	78211	Varkaus							62.3167	27.9167	4
+FI	78250	Varkaus							62.315	27.892	4
+FI	78251	Varkaus							62.3167	27.9167	4
+FI	78300	Varkaus							62.3167	27.9167	4
+FI	78310	Varkaus							62.3167	27.9167	4
+FI	78400	Varkaus							62.3167	27.9167	4
+FI	78480	Timola							62.3833	27.8667	4
+FI	78500	Varkaus							62.3167	27.9167	4
+FI	78610	Varkaus							62.3167	27.9167	4
+FI	78710	Varkaus							62.3167	27.9167	4
+FI	78850	Varkaus							62.3167	27.9167	4
+FI	78870	Varkaus							62.3167	27.9167	4
+FI	78880	Kuvansi							62.3167	27.9167	
+FI	78890	Akonlahti							62.3167	27.9167	
+FI	78900	Varkaus							62.3167	27.9167	4
+FI	79100	Leppävirta							62.4833	27.7833	4
+FI	79101	Leppävirta							62.4833	27.7833	4
+FI	79130	Sorsakoski							62.45	27.6667	4
+FI	79140	Kotalahti							62.55	27.55	4
+FI	79150	Konnuslahti							62.5333	27.9	4
+FI	79160	Saamaiskylä							62.6333	27.8167	4
+FI	79180	Tuppurinmäki							62.6333	28	4
+FI	79190	Valkeamäki							62.65	28	4
+FI	79230	Moninmäki							62.1667	28.2667	
+FI	79255	Kurjala							61.3	28.6333	4
+FI	79265	Puponmäki							62.5833	28.1	4
+FI	79290	Leppämäki							62.6167	28.0667	4
+FI	79330	Näädänmaa							62.4833	28.2333	4
+FI	79340	Huovilansalmi							62.5	28.35	4
+FI	79350	Itä-Soisalo							62.4917	28.2917	
+FI	79400	Kuopio							62.9	27.6833	4
+FI	79410	Niinimäki							62.3833	28.2	4
+FI	79480	Kangaslampi							62.3	28.25	4
+FI	79510	Kurenlahti							61.2	28.0167	4
+FI	79520	Viljolahti							62.25	28.5	4
+FI	79530	Hevonlahti							62.25	28.5833	4
+FI	79600	Joroinen							62.1833	27.8333	4
+FI	79601	Joroinen							62.1833	27.8333	4
+FI	79620	Huutokoski							62.12	27.83	
+FI	79630	Kolma							62.12	27.83	
+FI	79650	Kerisalonsaari							62.12	27.83	
+FI	79660	Kerisalo							62.1	27.9667	4
+FI	79680	Lahnalahti							62.0833	27.7833	4
+FI	79690	Kaitainen							62.05	27.7333	4
+FI	79700	Heinävesi							62.4333	28.6	4
+FI	79701	Heinävesi							62.4333	28.6	4
+FI	79710	Heinävesi As							62.41	28.5567	
+FI	79720	Säynetkoski							62.41	28.5567	
+FI	79750	Koivumäki							62.4167	28.6667	4
+FI	79770	Rummukkala							62.45	28.4	4
+FI	79780	Malkkila							62.3167	28.5167	4
+FI	79810	Karvion Kanava							62.5167	28.6361	
+FI	79820	Varistaival							62.55	28.6333	4
+FI	79830	Palokki							62.5667	28.6	4
+FI	79850	Uusi-Valamo							62.5167	28.6361	
+FI	79860	Suuraho							62.5167	28.6361	
+FI	79870	Juojärvi							62.5333	29.05	4
+FI	79880	Lepikkomäki							62.5	28.7	4
+FI	79885	Eteläpetruma							62.5	28.7	
+FI	79895	Sarvikumpu							62.4667	29.05	4
+FI	79899	Leppävirta							62.4833	27.7833	4
+FI	79910	Kerma							62.35	28.6167	
+FI	79940	Vihtari							62.3833	29.0667	4
+FI	79970	Poikiinaho							62.35	28.8667	4
+FI	79999	Varkaus							62.3167	27.9167	4
+FI	80007	Joensuu							62.6	29.7667	4
+FI	80100	Joensuu							62.5767	29.7931	4
+FI	80101	Joensuu							62.6	29.7667	4
+FI	80110	Joensuu							62.6	29.7667	4
+FI	80120	Joensuu							62.6	29.7667	4
+FI	80130	Joensuu							62.6	29.7667	4
+FI	80131	Joensuu							62.6	29.7667	4
+FI	80140	Joensuu							62.6	29.7667	4
+FI	80141	Joensuu							62.6	29.7667	4
+FI	80150	Joensuu							62.6	29.7667	4
+FI	80160	Joensuu							62.6	29.7667	4
+FI	80161	Joensuu							62.6	29.7667	4
+FI	80170	Joensuu							62.6	29.7667	4
+FI	80200	Joensuu							62.6	29.7667	4
+FI	80201	Joensuu							62.6	29.7667	4
+FI	80210	Joensuu							62.6	29.7667	4
+FI	80220	Joensuu							62.6	29.7667	4
+FI	80230	Joensuu							62.6	29.7667	4
+FI	80260	Joensuu							62.6	29.7667	4
+FI	80261	Joensuu							62.6	29.7667	4
+FI	80330	Reijola							62.6292	29.7609	
+FI	80400	Ylämylly							62.6167	29.5667	4
+FI	80401	Ylämylly							62.6167	29.5667	4
+FI	80410	Jyri							62.6167	29.5667	
+FI	80411	Jyri							62.6167	29.5667	
+FI	80420	Honkalampi							62.6167	29.5667	
+FI	80510	Onttola							62.65	29.6833	4
+FI	80511	Onttola							62.65	29.6833	4
+FI	80580	Kunnasniemi							62.7167	29.6167	4
+FI	80710	Lehmo							62.6667	29.8	4
+FI	80770	Kontiolahti							62.7667	29.85	4
+FI	80780	Kontioniemi							62.75	29.8167	4
+FI	80790	Kontioranta							62.7167	29.7833	4
+FI	80791	Kontioranta							62.7167	29.7833	4
+FI	80850	Paihola							62.65	29.95	4
+FI	80910	Kulho							62.6167	29.9167	4
+FI	81100	Kontiolahti							62.7667	29.85	4
+FI	81101	Kontiolahti							62.7667	29.85	4
+FI	81120	Katajaranta							62.8667	29.8167	4
+FI	81130	Riihiaho							62.8667	29.7667	4
+FI	81140	Hovi							62.9167	29.75	4
+FI	81150	Riihikangas							62.881	29.8167	
+FI	81160	Romppala							62.9833	29.7667	4
+FI	81190	Heraniemi							63	29.9167	4
+FI	81200	Eno							62.8	30.15	4
+FI	81201	Eno							62.8	30.15	4
+FI	81210	Louhioja							62.8	30.1	4
+FI	81220	Jakokoski							62.7333	29.9833	4
+FI	81230	Mönni							62.6833	30.1	4
+FI	81235	Lehtoi							62.6333	30.1333	4
+FI	81260	Ahveninen							62.95	30.0667	4
+FI	81270	Paukkaja							62.8667	30.2167	4
+FI	81280	Uimaharju							62.9167	30.25	4
+FI	81281	Uimaharju							62.9167	30.25	4
+FI	81290	Ukkola							62.95	30.2	4
+FI	81295	Haapalahti							62.9667	30.1167	4
+FI	81320	Kuismavaara							62.75	30.4667	4
+FI	81330	Luhtapohja							62.75	30.5167	4
+FI	81350	Tokrajärvi							62.7667	30.6	4
+FI	81360	Sarvinki							62.6833	30.2833	4
+FI	81390	Revonkylä							62.6333	30.5167	4
+FI	81420	Tyrjänsaari							62.8833	30.5833	4
+FI	81430	Kivilahti							62.9667	30.5	4
+FI	81450	Huhus							62.85	30.7667	4
+FI	81460	Käenkoski							62.9167	30.95	4
+FI	81470	Naarva							63.0667	31.0667	4
+FI	81560	Vuonisjärvi							63.15	30.1167	4
+FI	81570	Kelvä							63.0667	30.1	4
+FI	81580	Lapalie							63.1222	30.0722	
+FI	81590	Vuonislahti							63.15	30	4
+FI	81640	Sikovaara							63.2667	30.4833	4
+FI	81650	Hattuvaara							63.2833	30.5333	4
+FI	81660	Lehmikylä							63.275	30.5083	
+FI	81700	Lieksa							63.3167	30.0167	4
+FI	81701	Lieksa							63.3167	30.0167	4
+FI	81707	Lieksa							63.3167	30.0167	4
+FI	81720	Lieksa							63.3167	30.0167	4
+FI	81730	Lieksa							63.3167	30.0167	4
+FI	81750	Pankakoski							63.3167	30.15	4
+FI	81770	Tiensuu							63.2667	30.1167	4
+FI	81810	Jamali							63.3333	29.8833	4
+FI	81820	Kylänlahti							63.3667	29.75	4
+FI	81840	Viekki							63.3625	29.8125	
+FI	81850	Mätäsvaara							63.4333	29.6	4
+FI	81860	Viekijärvi							63.3625	29.8125	
+FI	81899	Lieksa							63.3167	30.0167	4
+FI	81950	Pankajärvi							63.45	30.1	4
+FI	81970	Jongunjoki							63.5167	29.9667	4
+FI	81999	Joensuu							63.2333	29.3333	4
+FI	82110	Heinävaara							62.55	30.1667	4
+FI	82120	Keskijärvi							62.5833	30.3	4
+FI	82140	Kiihtelysvaara							62.4833	30.25	4
+FI	82150	Palo							62.4833	30.35	4
+FI	82160	Oskola							62.4167	30.5	4
+FI	82165	Oskolankoski							62.4167	30.5	
+FI	82170	Uskali							62.3667	30.45	4
+FI	82180	Huhtilampi							62.4167	30.4	4
+FI	82190	Viesimo							62.3833	30.3167	4
+FI	82200	Hammaslahti							62.4333	29.9667	4
+FI	82201	Hammaslahti							62.4333	29.9667	4
+FI	82210	Suhmura							62.4833	29.9	4
+FI	82220	Niittylahti							62.5167	29.8	4
+FI	82250	Repola							62.4333	30.0167	4
+FI	82255	Kuusvaara							62.4667	30.1	4
+FI	82270	Karjakumpu							62.4333	29.8833	4
+FI	82290	Nieminen							62.35	29.75	4
+FI	82300	Rääkkylä							62.3167	29.6167	4
+FI	82301	Rääkkylä							62.3167	29.6167	4
+FI	82310	Oravisalo							62.35	29.5333	4
+FI	82315	Varpasalo							62.3	29.4	4
+FI	82320	Hypönniemi							62.3667	29.4333	4
+FI	82335	Rasivaara							62.2667	29.75	4
+FI	82350	Tikkala							62.35	30.1	4
+FI	82360	Onkamo							62.3333	30.0333	4
+FI	82361	Onkamo							62.3333	30.0333	4
+FI	82380	Tolosenmäki							62.1333	30.0667	4
+FI	82395	Haarajärvi							62.1833	30.1833	4
+FI	82430	Puhos							62.0833	29.9	4
+FI	82435	Kokkoaho							62.1	29.8333	4
+FI	82440	Puhossalo							62.15	29.7	4
+FI	82450	Kontiovaara							62.1167	29.7333	4
+FI	82460	Hummovaara							62.1	29.65	4
+FI	82470	Leinovaara							62.1167	29.65	4
+FI	82490	Heinoniemi							62.1333	29.55	4
+FI	82500	Kitee							62.1	30.15	4
+FI	82501	Kitee							62.1	30.15	4
+FI	82510	Kiteenlahti							62.05	30.2833	4
+FI	82530	Ruunamäki							62.0667	30.3833	4
+FI	82580	Juurikka							61.9833	30.0667	4
+FI	82590	Närsäkkälä							61.9	30.1167	4
+FI	82600	Tohmajärvi							62.1833	30.3833	4
+FI	82601	Tohmajärvi							62.1833	30.3833	4
+FI	82610	Tohmajärvi As							62.1944	30.4722	
+FI	82650	Patsola							62.2167	30.6	4
+FI	82655	Värtsilä							62.2	30.4667	4
+FI	82660	Uusi-Värtsilä							62.2	30.4667	4
+FI	82670	Kaurila							62.1833	30.5333	4
+FI	82675	Niirala							62.1833	30.5333	
+FI	82685	Littilä							62.1944	30.4722	
+FI	82710	Kovero							62.55	30.55	4
+FI	82720	Huosiovaara							62.5	30.4667	4
+FI	82725	Konnunniemi							62.4833	30.5	4
+FI	82730	Tuupovaara							62.4833	30.6	4
+FI	82731	Tuupovaara							62.4833	30.6	4
+FI	82750	Öllölä							62.3833	30.75	4
+FI	82760	Hoilola							62.3333	30.8333	4
+FI	82780	Saarilampi							62.4595	30.6143	
+FI	82810	Heinäaho							62.5667	30.6167	4
+FI	82815	Marjovaara							62.6	30.7333	4
+FI	82820	Maukkula							62.6167	30.85	4
+FI	82830	Haukivaara							62.5667	30.9167	4
+FI	82840	Pirttiaho							62.5063	30.8042	
+FI	82850	Kinnasniemi							62.5	30.7333	4
+FI	82855	Kinnas							62.5	30.7333	
+FI	82865	Kokinvaara							62.45	30.8167	4
+FI	82870	Luutalahti							62.3833	30.85	4
+FI	82880	Mannervaara							62.3667	30.9167	4
+FI	82900	Ilomantsi							62.6667	30.9167	4
+FI	82901	Ilomantsi							62.6667	30.9167	4
+FI	82915	Sonkaja							62.7	30.7667	4
+FI	82950	Kuikkalampi							62.7	31.0667	
+FI	82960	Lehtovaara							62.8	31.1167	4
+FI	82967	Hattu							62.9167	31.3	4
+FI	82980	Möhkö							62.6333	31.2833	4
+FI	82995	Nehvonniemi							62.5167	31.1667	4
+FI	82997	Mutalahti							62.5167	31.1667	
+FI	83100	Liperi							62.5333	29.3667	4
+FI	83101	Liperi							62.5333	29.3667	4
+FI	83130	Salokylä							62.5667	29.4667	4
+FI	83140	Puromäki							62.55	29.5167	4
+FI	83150	Roukalahti							62.4833	29.5167	4
+FI	83160	Tutjunniemi							62.4	29.6	4
+FI	83250	Rinteelä							63.1333	28.9833	4
+FI	83320	Risti							62.55	29.1667	4
+FI	83330	Kaatamo							62.55	29.2167	4
+FI	83340	Kaarnalampi							62.6	29.15	4
+FI	83350	Ristinpohja							62.5667	29.1778	
+FI	83400	Viinijärvi							62.65	29.2333	4
+FI	83430	Käsämä							62.65	29.3333	4
+FI	83450	Vaivio							62.6667	29.5167	4
+FI	83460	Harinjärvi							62.65	29.3	
+FI	83480	Ahonkylä							62.6333	29.1167	4
+FI	83500	Outokumpu							62.7333	29.0167	4
+FI	83501	Outokumpu							62.7333	29.0167	4
+FI	83510	Sievi as.							62.7667	29.02	
+FI	83520	Outokumpu							62.7333	29.0167	4
+FI	83540	Maarianvaara							62.85	28.8667	4
+FI	83550	Kokonvaara							62.7833	29.1833	4
+FI	83620	Viuruniemi							62.6167	28.9	4
+FI	83630	Kuusjärvi							62.7	28.9333	4
+FI	83660	Varislahti							62.7333	28.7	4
+FI	83700	Polvijärvi							62.85	29.3667	4
+FI	83701	Polvijärvi							62.85	29.3667	4
+FI	83710	Suojapuro							62.8083	29.3667	
+FI	83720	Kuorevaara							62.8	29.45	4
+FI	83750	Sotkuma							62.7333	29.4333	4
+FI	83760	Sola							62.7833	29.3333	4
+FI	83780	Horsmanaho							62.8333	29.25	4
+FI	83815	Haaralanniemi							62.9	29.3833	4
+FI	83820	Mutkanvaara							62.8333	29.15	4
+FI	83825	Kinahmo							62.8667	29.5167	4
+FI	83830	Hukkala							62.8833	29.1667	4
+FI	83835	Ruvaslahti							62.95	29.5667	4
+FI	83840	Saarivaara							62.9333	29.1	4
+FI	83845	Sammakkovaara							62.95	29.3667	4
+FI	83855	Martonvaara							62.95	29.35	4
+FI	83865	Timovaara							63.1167	29.2667	4
+FI	83870	Polvela							63.15	29.2	4
+FI	83875	Petrovaara							63.1167	29.0833	4
+FI	83880	Kajoo							63.15	28.8667	4
+FI	83900	Juuka							63.2333	29.25	4
+FI	83901	Juuka							63.2333	29.25	4
+FI	83907	Juuka 7							63.2333	29.25	
+FI	83910	Paalasmaa							63.3	29.4333	4
+FI	83915	Vihtasuo							63.3167	29.2167	4
+FI	83940	Nunnanlahti							63.1833	29.4333	4
+FI	83950	Ahmovaara							63.0833	29.6167	4
+FI	83955	Kopravaara							63.0333	29.7	4
+FI	83960	Koli							63.1	29.8	4
+FI	83965	Loma-Koli							63.1	29.8	
+FI	83970	Ylä-Koli							63.155	29.48	
+FI	83980	Kuhnusta							63.0667	29.5	4
+FI	83985	Tuopanjoki							63	29.6	4
+FI	84007	Ylivieska							64.0833	24.55	4
+FI	84100	Ylivieska							64.0833	24.55	4
+FI	84101	Ylivieska							64.0833	24.55	4
+FI	84320	Ylivieska							64.0833	24.55	4
+FI	84330	Ylivieska							64.0833	24.55	4
+FI	84460	Ylivieska							64.0833	24.55	4
+FI	84540	Ylivieska							64.0833	24.55	4
+FI	84650	Ylivieska							64.0833	24.55	4
+FI	84770	Ylivieska							64.0833	24.55	4
+FI	84880	Ylivieska							64.0833	24.55	4
+FI	85100	Kalajoki							64.25	23.95	4
+FI	85101	Kalajoki							64.25	23.95	4
+FI	85106	Kalajoen hiekkasärkät							64.25	23.95	
+FI	85110	Vasankari							64.35	23.9667	4
+FI	85120	Metsä							64.3	24.2	4
+FI	85140	Tynkä							64.2	24.05	4
+FI	85150	Typpö							64.1333	24.15	4
+FI	85160	Rautio							64.0667	24.2	4
+FI	85180	Rahja							64.1833	23.7333	4
+FI	85200	Alavieska							64.1667	24.3	4
+FI	85201	Alavieska							64.1667	24.3	4
+FI	85210	Kähtävä							64.1333	24.3167	4
+FI	85230	Talus							64.1556	24.3056	
+FI	85240	Somerkylä							64.1556	24.3056	
+FI	85310	Sievi As							63.8917	24.3	
+FI	85320	Markkula							63.85	24.1667	4
+FI	85340	Jyrinki							63.9333	24.4333	4
+FI	85410	Sievi							63.9	24.5	4
+FI	85411	Sievi							63.9	24.5	4
+FI	85430	Koivisto							63.9167	24.5833	4
+FI	85450	Joenkylä							63.8875	24.5417	
+FI	85470	Kiiskilampi							63.8333	24.5833	4
+FI	85500	Nivala							63.9167	24.9667	4
+FI	85501	Nivala							63.9167	24.9667	4
+FI	85520	Korpiranta							63.8833	25.0167	
+FI	85530	Haikara							63.8833	25.0167	
+FI	85540	Mönkö							63.8833	25.0167	
+FI	85560	Ainastalo							63.85	25	4
+FI	85580	Karvoskylä							63.85	25.1333	4
+FI	85620	Sarja							63.9333	25.0833	
+FI	85630	Sarjanahde							63.9333	25.0833	
+FI	85640	Maliskylä							63.9333	25.0833	4
+FI	85660	Ruuskankylä							63.9333	25.0833	
+FI	85710	Parkkila							63.8333	25.4167	4
+FI	85730	Tulppo							63.8833	25.55	4
+FI	85800	Haapajärvi							63.75	25.3333	4
+FI	85801	Haapajärvi							63.75	25.3333	4
+FI	85820	Oksava							63.8167	25.2667	4
+FI	85840	Kuona							63.7722	25.3111	
+FI	85860	Kumiseva							63.7722	25.3111	
+FI	85880	Kalakangas							63.7722	25.3111	
+FI	85900	Reisjärvi							63.6167	24.9	4
+FI	85901	Reisjärvi							63.6167	24.9	4
+FI	85920	Tolpankangas							63.7233	24.8367	
+FI	85930	Kangaskylä							63.6667	24.7833	4
+FI	85940	Räisälänmäki							63.6333	25.05	4
+FI	85980	Köyhänperä							63.7233	24.8367	
+FI	85999	Ylivieska							64.0833	24.55	4
+FI	86100	Pyhäjoki							64.4667	24.2333	4
+FI	86101	Pyhäjoki							64.4667	24.2333	4
+FI	86110	Parhalahti							64.4833	24.3333	4
+FI	86160	Pirttikoski							64.4167	24.3	4
+FI	86170	Yppäri							64.4	24.1	4
+FI	86210	Petäjäskoski							64.25	24.5833	4
+FI	86220	Merijärvi							64.3	24.45	4
+FI	86230	Ylipää							64.3333	24.55	4
+FI	86240	Pyhänkoski							64.35	24.4	4
+FI	86300	Oulainen							64.2667	24.8	4
+FI	86301	Oulainen							64.2667	24.8	4
+FI	86310	Oulaskangas							64.3167	24.9042	
+FI	86350	Kilpua							64.35	24.9833	4
+FI	86360	Ilveskorpi							64.3833	25.0333	4
+FI	86400	Vihanti							64.4833	25	4
+FI	86401	Vihanti							64.4833	25	4
+FI	86440	Lampinsaari							64.4167	25.15	4
+FI	86460	Alpua							64.4167	25.2167	4
+FI	86470	Lumimetsä							64.35	25.2333	4
+FI	86480	Karhukangas							64.3333	25.45	4
+FI	86510	Matkaniva							64.25	25.0167	4
+FI	86530	Annonen							64.2167	25.05	4
+FI	86550	Mieluskylä							64.1667	25.1667	4
+FI	86600	Haapavesi							64.1333	25.3667	4
+FI	86601	Haapavesi							64.1333	25.3667	4
+FI	86610	Humaloja							64.15	25.3	4
+FI	86630	Ainali							64.2167	25.4333	4
+FI	86650	Kytökylä							64.1167	25.4833	4
+FI	86660	Joutenniva							64.1119	25.3738	
+FI	86680	Vatjusjärvi							64.0833	25.3	4
+FI	86690	Karsikas							63.95	25.3667	4
+FI	86710	Kärsämäki							63.9667	25.7667	4
+FI	86711	Kärsämäki							63.9667	25.7667	4
+FI	86750	Saviselkä							64.0333	26.0333	4
+FI	86760	Miiluranta							63.9667	25.9833	4
+FI	86770	Luomajoki							63.9667	25.8667	
+FI	86790	Venetpalo							63.9	25.7833	4
+FI	86800	Pyhäsalmi							63.6833	25.9833	4
+FI	86801	Pyhäsalmi							63.6833	25.9833	4
+FI	86810	Pyhäjärvi							63.6667	25.9	4
+FI	86820	Lamminaho							63.65	25.85	4
+FI	86840	Kätkytniemi							63.6694	25.9111	
+FI	86850	Hiidenniemi							63.55	25.8	4
+FI	86870	Vesikoski							63.7833	25.95	4
+FI	86900	Pyhäkumpu							63.8222	25.7056	
+FI	86920	Kuusenmäki							63.7	26.2	4
+FI	86980	Väliaho							63.5	26.1167	4
+FI	86999	Oulainen							64.2667	24.8	4
+FI	87007	Kajaani							64.2333	27.6833	4
+FI	87100	Kajaani							64.2333	27.6833	4
+FI	87101	Kajaani							64.2333	27.6833	4
+FI	87140	Kajaani							64.2333	27.6833	4
+FI	87150	Kajaani							64.2333	27.6833	4
+FI	87200	Kajaani							64.2261	27.7416	4
+FI	87250	Kajaani							64.2333	27.6833	4
+FI	87300	Kajaani							64.2333	27.6833	4
+FI	87400	Kajaani							64.2333	27.6833	4
+FI	87401	Kajaani							64.2333	27.6833	4
+FI	87500	Kajaani							64.2333	27.6833	4
+FI	87600	Kajaani							64.2333	27.6833	4
+FI	87601	Kajaani							64.2333	27.6833	4
+FI	87700	Kajaani							64.2333	27.6833	4
+FI	87701	Kajaani							64.2333	27.6833	4
+FI	87750	Kajaani							64.2333	27.6833	4
+FI	87830	Nakertaja							64.2833	27.7333	
+FI	87850	Paltaniemi							64.2833	27.7333	4
+FI	87910	Linnantaus							64.25	27.75	4
+FI	87930	Salmijärvi							64.2778	27.8278	
+FI	87950	Kuluntalahti							64.2667	27.8667	4
+FI	87970	Jormua							64.3167	27.8667	4
+FI	88110	Korholanmäki							64.1667	27.8	4
+FI	88120	Tuhkakylä							64.1667	27.8	
+FI	88200	Otanmäki							64.1167	27.1	4
+FI	88201	Otanmäki							64.1167	27.1	4
+FI	88210	Vuottolahti							64.1167	27.2833	4
+FI	88250	Kytökoski							64.12	27.08	
+FI	88260	Saaresmäki							64.0667	26.9	4
+FI	88270	Vuolijoki							64.1833	27.0167	4
+FI	88300	Paltamo							64.4167	27.8333	4
+FI	88301	Paltamo							64.4167	27.8333	4
+FI	88310	Melalahti							64.4167	27.6167	4
+FI	88320	Hakasuo							64.4233	27.7467	
+FI	88340	Manamansalo							64.4233	27.7467	
+FI	88350	Kivesjärvi							64.4667	27.4667	4
+FI	88380	Mieslahti							64.4	27.9833	4
+FI	88400	Ristijärvi							64.5	28.2167	4
+FI	88401	Ristijärvi							64.5	28.2167	4
+FI	88420	Uva							64.5833	28.05	4
+FI	88440	Jokikylä							64.55	28.3167	4
+FI	88460	Hiisijärvi							64.3667	28.65	4
+FI	88470	Kontiomäki							64.35	28.15	4
+FI	88490	Pohjavaara							64.25	28.05	4
+FI	88530	Paakki							64.2919	28.3032	
+FI	88600	Sotkamo							64.1333	28.4167	4
+FI	88601	Sotkamo							64.1333	28.4167	4
+FI	88607	Sotkamo							64.1333	28.4167	4
+FI	88610	Vuokatti							64.1167	28.25	4
+FI	88615	Vuokatin Urheiluopisto							64.1167	28.25	
+FI	88620	Korholanmäki							64.1667	27.8	4
+FI	88640	Ontojoki							64.1367	28.26	
+FI	88670	Juurikkalahti							64.1367	28.26	
+FI	88690	Maanselkä							64.1367	28.26	
+FI	88730	Yli-Vieksi							64.4333	29.5333	
+FI	88740	Härmänkylä							64.4333	29.5333	
+FI	88760	Iivantiira							64.4333	29.5333	4
+FI	88820	Katerma							64.15	28.95	4
+FI	88899	Kuhmo							64.1333	29.5167	4
+FI	88900	Kuhmo							64.1333	29.5167	4
+FI	88901	Kuhmo							64.1333	29.5167	4
+FI	88910	Pajakkakylä							64.3333	29.7033	
+FI	88920	Vartius							64.5	29.9833	4
+FI	88925	Kostamus							64.5	29.9833	
+FI	88930	Lentiira							64.35	29.8333	4
+FI	88940	Kuumu							64.55	29.6667	4
+FI	88950	Kalliojoki							64.3333	29.7033	
+FI	88999	Kajaani							64.3333	29.7033	
+FI	89110	Törmämäki							64.65	27.9667	
+FI	89140	Kotila							64.65	27.9667	4
+FI	89200	Puolanka							64.9	27.5	4
+FI	89201	Puolanka							64.9	27.5	4
+FI	89210	Puokiovaara							64.75	27.3	4
+FI	89320	Joukokylä							65.0333	28.0333	4
+FI	89330	Suolijärvi							65.15	28.0667	4
+FI	89350	Lylykylä							64.95	28.05	4
+FI	89400	Hyrynsalmi							64.6667	28.5333	4
+FI	89401	Hyrynsalmi							64.6667	28.5333	4
+FI	89430	Hoikka							64.7333	28.6	4
+FI	89440	Sakara							64.6889	28.5556	
+FI	89540	Moisiovaara							64.6	29.15	4
+FI	89560	Karhuvaara							64.6	29.15	
+FI	89600	Suomussalmi							64.9	29	4
+FI	89601	Ämmänsaari							64.8833	28.9167	4
+FI	89605	Siikaranta							64.8833	28.9833	4
+FI	89607	Ämmänsaari							64.8833	28.9167	4
+FI	89610	Jumaliskylä							65.0214	28.5333	
+FI	89620	Pitämä							65.0214	28.5333	
+FI	89640	Pesiökylä							65.0214	28.5333	
+FI	89660	Takalo							65.2167	27.1667	4
+FI	89670	Näljänkä							65.2167	28.4	4
+FI	89680	Vaaranniva							65.1667	28.35	4
+FI	89730	Ahjola							65.2917	29.0417	
+FI	89740	Kianta							65.1667	29.1	4
+FI	89750	Haapovaara							65.2667	29.0167	4
+FI	89760	Piispajärvi							65.3333	29	4
+FI	89770	Peranka							65.4	29.05	4
+FI	89780	Kaikkonen							65.2917	29.0417	
+FI	89800	Suomussalmi kk							64.9736	28.4882	
+FI	89830	Ala-Vuokki							64.9736	28.4882	
+FI	89840	Yli-Vuokki							64.9736	28.4882	
+FI	89920	Ruhtinansalmi							65.1667	29.5	4
+FI	89999	Suomussalmi							64.8833	29.0833	4
+FI	90003	Oulu							65.0167	25.4667	4
+FI	90007	Oulu							65.0167	25.4667	4
+FI	90009	Oulu							65.0167	25.4667	4
+FI	90014	Oulun yliopisto							65.0167	25.4667	
+FI	90015	Oulun kaupunki							65.0167	25.4667	
+FI	90029	Oys							65.0167	25.4667	
+FI	90100	Oulu							65.0147	25.4962	4
+FI	90101	Oulu							65.0167	25.4667	4
+FI	90120	Oulu							65.0167	25.4667	4
+FI	90121	Oulu							65.0167	25.4667	4
+FI	90140	Oulu							65.0167	25.4667	4
+FI	90141	Oulu							65.0167	25.4667	4
+FI	90150	Oulu							65.0167	25.4667	4
+FI	90151	Oulu							65.0167	25.4667	4
+FI	90160	Oulu							65.0167	25.4667	4
+FI	90210	Oulu							65.0167	25.4667	4
+FI	90220	Oulu							65.0167	25.4667	4
+FI	90221	Oulu							65.0167	25.4667	4
+FI	90230	Oulu							65.0167	25.4667	4
+FI	90231	Oulu							65.0167	25.4667	4
+FI	90240	Oulu							65.0167	25.4667	4
+FI	90241	Oulu							65.0167	25.4667	4
+FI	90250	Oulu							65.0167	25.4667	4
+FI	90251	Oulu							65.0167	25.4667	4
+FI	90310	Oulu							65.0167	25.4667	4
+FI	90360	Oulu							65.0167	25.4667	4
+FI	90400	Oulu							65.0167	25.4667	4
+FI	90401	Oulu							65.0167	25.4667	4
+FI	90420	Oulu							65.0167	25.4667	4
+FI	90440	Kempele							64.9167	25.5	4
+FI	90441	Kempele							64.9167	25.5	4
+FI	90450	Kempele							64.9167	25.5	4
+FI	90451	Kempele							64.9167	25.5	4
+FI	90460	Oulunsalo							64.9333	25.4167	4
+FI	90461	Oulunsalo							64.9333	25.4167	4
+FI	90470	Varjakka							64.9	25.1333	4
+FI	90480	Hailuoto							65	24.7167	4
+FI	90500	Oulu							65.025	25.414	4
+FI	90501	Oulu							65.0167	25.4667	4
+FI	90508	Oulu leirintä							65.0167	25.4667	
+FI	90520	Oulu							65.0167	25.4667	4
+FI	90521	Oulu							65.0167	25.4667	4
+FI	90530	Oulu							65.0167	25.4667	4
+FI	90540	Oulu							65.0167	25.4667	4
+FI	90550	Oulu							65.0167	25.4667	4
+FI	90551	Oulu							65.0167	25.4667	4
+FI	90560	Oulu							65.0167	25.4667	4
+FI	90570	Oulu							65.0167	25.4667	4
+FI	90571	Oulu							65.0167	25.4667	4
+FI	90580	Oulu							65.0167	25.4667	4
+FI	90581	Oulu							65.0167	25.4667	4
+FI	90600	Oulu							65.0167	25.4667	4
+FI	90630	Oulu							65.0167	25.4667	4
+FI	90631	Oulu							65.0167	25.4667	4
+FI	90650	Oulu							65.0167	25.4667	4
+FI	90651	Oulu							65.0167	25.4667	4
+FI	90740	Lapinkangas							65.0336	25.4513	
+FI	90800	Oulu							65.0167	25.4667	4
+FI	90810	Kiviniemi							65.1333	25.3333	4
+FI	90820	Kello							65.1333	25.3333	4
+FI	90821	Kello							65.1333	25.3333	4
+FI	90830	Haukipudas							65.1674	25.4048	4
+FI	90831	Haukipudas							65.1833	25.35	4
+FI	90840	Haukipudas							65.1833	25.35	4
+FI	90850	Martinniemi							65.2167	25.3	4
+FI	90860	Halosenniemi							65.25	25.3167	4
+FI	90900	Kiiminki							65.1333	25.7333	4
+FI	90901	Kiiminki							65.1333	25.7333	4
+FI	90910	Kontio							65.15	25.6	4
+FI	90940	Jääli							65.1	25.6833	4
+FI	90941	Jääli							65.1	25.6833	4
+FI	91100	Ii							65.3167	25.3667	4
+FI	91101	Ii							65.3167	25.3667	4
+FI	91108	Ii leirintä							65.3167	25.3667	
+FI	91110	Ii As							65.3667	25.3722	
+FI	91140	Olhava							65.4667	25.3833	4
+FI	91150	Yli-Olhava							65.3667	25.3722	
+FI	91200	Yli-Ii							65.3667	25.8333	4
+FI	91201	Yli-ii							65.3667	25.8333	4
+FI	91210	Jakkukylä							65.3	25.6167	4
+FI	91240	Tannila							65.4833	25.9833	4
+FI	91260	Pahkakoski							65.35	26.0833	4
+FI	91270	Räinä							65.2667	25.35	4
+FI	91300	Ylikiiminki							65.0333	26.1167	4
+FI	91310	Arkala							65	26.2083	
+FI	91370	Vepsänkylä							64.9667	26.3	4
+FI	91410	Jokirinne							64.8333	26.05	
+FI	91430	Leppiniemi							64.8333	26.05	4
+FI	91500	Muhos							64.7667	26.1	4
+FI	91501	Muhos							64.7667	26.1	4
+FI	91510	Rova							64.7056	26.1556	
+FI	91560	Kylmälänkylä							64.5833	26.2667	4
+FI	91600	Utajärvi							64.75	26.3833	4
+FI	91601	Utajärvi							64.75	26.3833	4
+FI	91620	Sanginkylä							64.8667	26.65	4
+FI	91630	Juorkuna							64.95	26.9667	4
+FI	91640	Särkijärvi							64.9333	27.1833	4
+FI	91660	Ahmas							64.6167	26.4333	4
+FI	91670	Rokua							64.8111	26.6667	
+FI	91700	Vaala							64.4333	26.8	4
+FI	91701	Vaala							64.4333	26.8	4
+FI	91710	Jylhämä							64.5667	26.8	4
+FI	91720	Oterma							64.6667	27.0667	4
+FI	91730	Kankari							64.5167	26.9167	
+FI	91740	Jaalanka							64.55	27.25	4
+FI	91750	Liminpuro							64.5167	26.9167	
+FI	91760	Säräisniemi							64.45	26.7833	4
+FI	91780	Neittävä							64.5167	26.9167	
+FI	91790	Nuojua							64.5167	26.9167	
+FI	91800	Tyrnävä							64.7667	25.65	4
+FI	91801	Tyrnävä							64.7667	25.65	4
+FI	91810	Ängeslevä							64.7833	25.6833	4
+FI	91900	Liminka							64.8167	25.4	4
+FI	91901	Liminka							64.8167	25.4	4
+FI	91910	Tupos							64.8667	25.4667	4
+FI	91930	Ala-Temmes							64.8357	25.3857	
+FI	91950	Temmes							64.6667	25.6	4
+FI	91980	Lumijoki							64.8333	25.1833	4
+FI	91981	Lumijoki							64.8333	25.1833	4
+FI	91999	Oulu							65.0167	25.4667	4
+FI	92007	Raahe							64.6833	24.4833	4
+FI	92100	Raahe							64.6833	24.4833	4
+FI	92101	Raahe							64.6833	24.4833	4
+FI	92120	Raahe							64.6833	24.4833	4
+FI	92130	Raahe							64.6833	24.4833	4
+FI	92140	Pattijoki							64.7	24.5833	4
+FI	92150	Raahe							64.6833	24.4833	4
+FI	92160	Saloinen							64.65	24.4667	4
+FI	92170	Raahensalo							64.6792	24.4875	
+FI	92180	Lapaluoto							64.6667	24.4333	4
+FI	92210	Arkkukari							64.6	24.4	4
+FI	92220	Piehinki							64.5667	24.4	4
+FI	92230	Mattilanperä							64.5833	24.6333	4
+FI	92240	Lasikangas							64.59	24.55	
+FI	92250	Äyrinmäki							64.6167	24.6167	4
+FI	92260	Kopsa							64.5833	24.7	4
+FI	92320	Siikajoki							64.8333	24.7333	4
+FI	92330	Karinkanta							64.8667	24.95	4
+FI	92350	Revonlahti							64.7167	24.9667	4
+FI	92400	Ruukki							64.6667	25.1	4
+FI	92401	Ruukki							64.6667	25.1	4
+FI	92430	Paavola							64.6	25.2	4
+FI	92440	Saarikoski							64.6333	25.4	4
+FI	92450	Luohua							64.55	25.2833	4
+FI	92470	Tuomioja							64.6	25.0167	4
+FI	92500	Rantsila							64.5167	25.65	4
+FI	92501	Rantsila							64.5167	25.65	4
+FI	92520	Sipola							64.4	25.85	4
+FI	92530	Mankila							64.55	25.5	4
+FI	92600	Pulkkila							64.2667	25.8667	4
+FI	92601	Pulkkila							64.2667	25.8667	4
+FI	92610	Vorna							64.35	25.9667	4
+FI	92620	Piippola							63.85	26.35	4
+FI	92640	Leskelä							64.1833	25.8	4
+FI	92650	Laakkola							64.1833	25.97	
+FI	92700	Kestilä							64.35	26.2833	4
+FI	92701	Kestilä							64.35	26.2833	4
+FI	92710	Kestilä							64.35	26.2833	4
+FI	92810	Pelsonsuo							64.5	26.45	4
+FI	92830	Veneheitto							64.45	26.55	4
+FI	92910	Tavastkenkä							64.1667	26.4167	4
+FI	92920	Ahokylä							63.9833	26.55	4
+FI	92930	Pyhäntä							64.1	26.3167	4
+FI	92931	Pyhäntä							64.1	26.3167	4
+FI	93100	Pudasjärvi							65.3833	26.9167	4
+FI	93101	Pudasjärvi							65.3833	26.9167	4
+FI	93117	Pudasjärvi							65.3833	26.9167	4
+FI	93140	Kipinä							65.2667	26.5333	4
+FI	93145	Kollaja							65.3333	26.5833	4
+FI	93150	Uutela							65.6	27.6167	4
+FI	93160	Hetejärvi							65.1833	26.7333	4
+FI	93170	Yli-Kollaja							65.4037	26.8185	
+FI	93180	Ikosenniemi							65.5167	26.55	4
+FI	93187	Ala-Siurua							65.5167	26.55	
+FI	93190	Yli-Siurua							65.5833	26.6	4
+FI	93195	Kokkokylä							65.5833	26.6	
+FI	93220	Livo							65.6167	27.1833	4
+FI	93225	Pärjänsuo							65.55	27.2167	4
+FI	93240	Rytinki							65.6833	27.3167	4
+FI	93250	Sarajärvi							65.8	27.35	4
+FI	93270	Sotkajärvi							65.3833	27.35	4
+FI	93277	Iinattijärvi							65.4833	27.5	4
+FI	93280	Syöte							65.5667	27.369	
+FI	93290	Pintamo							65.45	27.6667	4
+FI	93320	Ervasti							65.3167	27.4	4
+FI	93340	Siivikko							65.3167	27.5917	
+FI	93350	Jaurakkajärvi							65.3167	27.5917	
+FI	93390	Puhoskylä							65.3167	27.7833	4
+FI	93400	Taivalkoski							65.5667	28.25	4
+FI	93401	Taivalkoski							65.5667	28.25	4
+FI	93420	Jurmu							65.5	27.9667	4
+FI	93440	Loukusa							65.7333	27.9667	4
+FI	93470	Inget							65.7333	28.5667	4
+FI	93540	Tyrövaara							65.4833	28.75	4
+FI	93590	Vanhala							61.7833	27.1167	4
+FI	93600	Kuusamo							65.9834	29.1716	4
+FI	93601	Kuusamo							65.9667	29.1833	4
+FI	93607	Kuusamo							65.9667	29.1833	4
+FI	93608	Kuusamo leirintä							65.9667	29.1833	
+FI	93620	Kuusamo							65.9667	29.1833	4
+FI	93630	Kuoliovaara							65.8333	28.8333	4
+FI	93640	Penttilänvaara							65.9786	29.0071	
+FI	93650	Purnuvaara							65.9786	29.0071	
+FI	93670	Haataja							66.0667	28.75	4
+FI	93680	Vasaraperä							66.0833	28.7333	4
+FI	93690	Rönni							65.9786	29.0071	
+FI	93695	Mustosenvaara							65.9786	29.0071	
+FI	93720	Kemilä							65.85	29.5667	4
+FI	93730	Poussu							65.7167	29.6333	4
+FI	93760	Murtovaara							65.6667	29.35	4
+FI	93770	Kurvisenkylä							65.6	29.5333	4
+FI	93780	Teeriranta							65.5167	29.5	4
+FI	93790	Irni							65.6	29.3167	4
+FI	93820	Aikkila							66.1333	29.2	4
+FI	93825	Rukatunturi							66.1333	29.2	
+FI	93830	Kitka							66.25	28.95	4
+FI	93840	Patoniemi							66.2625	29.2083	
+FI	93850	Käylä							66.3	29.15	4
+FI	93855	Liikasenvaara							66.3667	29.5333	4
+FI	93860	Ruvanaho							66.2625	29.2083	
+FI	93875	Jyrävä							66.2625	29.2083	
+FI	93880	Takkusalmi							66.2625	29.2083	
+FI	93899	Pudasjärvi							66.2625	29.2083	
+FI	93920	Määttälänvaara							66.0833	29.5167	4
+FI	93940	Vuotunki							66.15	29.5833	4
+FI	93980	Heikkilänniemi							66.0333	29.5208	
+FI	93990	Kärpänkylä							65.9333	29.8	4
+FI	93999	Kuusamo							65.9667	29.1833	4
+FI	94007	Kemi							65.8167	24.5333	4
+FI	94100	Kemi							65.738	24.559	4
+FI	94101	Kemi							65.8167	24.5333	4
+FI	94130	Kemi							65.8167	24.5333	4
+FI	94200	Kemi							65.8167	24.5333	4
+FI	94300	Kemi							65.8167	24.5333	4
+FI	94400	Keminmaa							65.8167	24.5333	4
+FI	94401	Keminmaa							65.8167	24.5333	4
+FI	94430	Kaakamo							65.8	24.45	4
+FI	94450	Keminmaa 2							65.8111	24.5056	
+FI	94451	Keminmaa 2							65.8111	24.5056	
+FI	94500	Lautiosaari							65.8	24.5833	4
+FI	94600	Kemi							65.8167	24.5333	4
+FI	94601	Kemi							65.8167	24.5333	4
+FI	94700	Kemi							65.8167	24.5333	4
+FI	94701	Kemi							65.8167	24.5333	4
+FI	94720	Kemi							65.8167	24.5333	4
+FI	94800	Kemi							65.8167	24.5333	4
+FI	94830	Kemi							65.8167	24.5333	4
+FI	94831	Kemi							65.8167	24.5333	4
+FI	94900	Kemi							65.8167	24.5333	4
+FI	95100	Kuivaniemi							65.5833	25.1833	4
+FI	95101	Kuivaniemi							65.5833	25.1833	4
+FI	95110	Kuivaniemi Kk							65.59	25.4833	
+FI	95120	Myllykangas							65.5333	25.2667	4
+FI	95130	Hyryoja							65.59	25.4833	
+FI	95140	Luola-Aapa							65.59	25.4833	
+FI	95160	Oijärvi							65.6333	25.95	4
+FI	95170	Lamminperä							65.59	25.4833	
+FI	95180	Ruohola							65.6167	25.8333	4
+FI	95200	Simo							65.6667	25.05	4
+FI	95201	Simo							65.6667	25.05	4
+FI	95210	Filpus							65.8	25.0167	4
+FI	95220	Simoniemi							65.6667	24.9167	4
+FI	95225	Viantie							65.6833	24.95	4
+FI	95230	Maksniemi							65.6667	24.7833	4
+FI	95240	Vilmi							65.7426	25.1593	
+FI	95250	Soikko							65.75	25.2833	4
+FI	95255	Alaniemi							65.8333	25.3	4
+FI	95260	Tainionjoki							65.7426	25.1593	
+FI	95270	Yli-Kärppä							65.7426	25.1593	
+FI	95280	Näverrys							65.7426	25.1593	
+FI	95285	Yli-Hosio							65.7426	25.1593	
+FI	95290	Leppiaho							65.95	26.0833	
+FI	95295	Rovastinaho							65.95	26.0833	4
+FI	95300	Tervola							66.0833	24.8	4
+FI	95301	Tervola							66.0833	24.8	4
+FI	95310	Liedakkala							65.8667	24.6	4
+FI	95315	Törmä							65.8667	24.6	
+FI	95325	Paakkola							66.0167	24.75	4
+FI	95330	Kaisajoki							66.15	24.75	
+FI	95335	Varejoki							66.15	24.75	4
+FI	95340	Loue							66.1204	24.7796	
+FI	95350	Peura							66.1833	25.25	
+FI	95355	Koivu							66.1833	25.25	4
+FI	95360	Ilmola							65.8667	24.6333	4
+FI	95365	Maula							66.8667	24.6667	4
+FI	95370	Itäkoski							65.9667	24.7667	4
+FI	95375	Yli-Paakkola							65.9667	24.7667	
+FI	95400	Tornio							65.8333	24.1667	4
+FI	95401	Tornio							65.8333	24.1667	4
+FI	95407	Tornio							65.8333	24.1667	4
+FI	95410	Kiviranta							65.8241	24.1796	
+FI	95420	Tornio							65.8333	24.1667	4
+FI	95421	Tornio							65.8333	24.1667	4
+FI	95430	Tornio							65.8333	24.1667	4
+FI	95440	Kyläjoki							65.8333	24.2833	4
+FI	95450	Tornio							65.8333	24.1667	4
+FI	95470	Pirkkiö							65.8241	24.1796	
+FI	95490	Röyttä							65.75	24.1667	4
+FI	95500	Vojakkala							65.9333	24.1333	4
+FI	95520	Kukkola							65.9833	24.0667	4
+FI	95530	Karunki							66.0333	24.0167	4
+FI	95540	Korpikylä							66.15	23.95	4
+FI	95560	Aapajoki							66.0167	24.1	4
+FI	95565	Kourilehto							65.9667	24.1833	4
+FI	95580	Apt 4							66.0143	24.119	
+FI	95590	Arpela							66.0167	24.3833	4
+FI	95600	Ylitornio							66.3	23.6667	4
+FI	95601	Ylitornio							66.3	23.6667	4
+FI	95610	Kainuunkylä							66.2	23.8	
+FI	95615	Pekanpää							66.2	23.8	4
+FI	95620	Aavasaksa							66.3833	23.7167	4
+FI	95630	Kuivakangas							66.4167	23.6667	4
+FI	95635	Kaulinranta							66.4167	23.6667	
+FI	95640	Juoksenki							66.5667	23.8833	4
+FI	95645	Turtola							66.65	23.8833	4
+FI	95655	Etelä-Portimojärvi							66.4197	23.9864	
+FI	95660	Kantomaanpää							66.4167	24.0667	4
+FI	95670	Pessalompolo							66.5333	24.6333	
+FI	95675	Meltosjärvi							66.5333	24.6333	4
+FI	95680	Lohijärvi							66.45	24.3667	4
+FI	95690	Mellakoski							66.4	24.5	4
+FI	95700	Pello							66.7833	23.9167	4
+FI	95701	Pello							66.7833	23.9167	4
+FI	95710	Naamijoki							66.8	24.1352	
+FI	95720	Jarhoinen							66.8	24.1352	
+FI	95730	Väylänpää							67.05	23.7333	4
+FI	95750	Orajärvi							66.8833	24.1	4
+FI	95760	Konttajärvi							66.8333	24.3833	4
+FI	95770	Lankojärvi							66.7167	24.3333	4
+FI	95780	Sirkkakoski							66.6833	24.4	4
+FI	95790	Lampsijärvi							66.6833	24.5167	4
+FI	95793	Pello							66.7833	23.9167	4
+FI	95800	Sieppijärvi							67.15	23.9833	4
+FI	95810	Sammalvaara							67.05	24.05	4
+FI	95830	Vaattojärvi							67.2167	24.2	4
+FI	95840	Venejärvenkylä							67.2833	24.2333	4
+FI	95850	Ruokojärvi							67.1667	24.4333	4
+FI	95860	Pasmajärvi							67.1	24.4	4
+FI	95900	Kolari							67.3333	23.8	4
+FI	95901	Kolari							67.3333	23.8	4
+FI	95910	Lappea							67.1667	23.5667	4
+FI	95920	Saaripudas							67.4444	23.8389	
+FI	95930	Äkäsjoensuu							67.45	23.7	4
+FI	95940	Tapojärvi							67.5333	23.6333	4
+FI	95950	Kihlanki							67.5833	23.55	4
+FI	95970	Äkäslompolo							67.6	24.15	4
+FI	95971	Äkäslompolo							67.6	24.15	4
+FI	95980	Ylläsjärvi							67.4444	23.8389	
+FI	95990	Kurtakko							67.4	24.2	4
+FI	95999	Kemi							67.4	24.2	
+FI	96007	Rovaniemi							66.5	25.7167	4
+FI	96100	Rovaniemi							66.5	25.7167	4
+FI	96101	Rovaniemi							66.5	25.7167	4
+FI	96190	Rovaniemi							66.5	25.7167	4
+FI	96200	Rovaniemi							66.5019	25.7299	4
+FI	96201	Rovaniemi							66.5	25.7167	4
+FI	96300	Rovaniemi							66.5	25.7167	4
+FI	96301	Rovaniemi							66.5	25.7167	4
+FI	96320	Rovaniemi							66.5	25.7167	4
+FI	96400	Rovaniemi							66.5	25.789	4
+FI	96420	Rovaniemi							66.5	25.7167	4
+FI	96440	Rovaniemi							66.5	25.7167	4
+FI	96441	Rovaniemi							66.5	25.7167	4
+FI	96460	Rovaniemi							66.5	25.7167	4
+FI	96500	Rovaniemi							66.5	25.7167	4
+FI	96580	Rovaniemi							66.5	25.7167	4
+FI	96600	Rovaniemi							66.5	25.7167	4
+FI	96700	Rovaniemi							66.5	25.7167	4
+FI	96800	Rovaniemi							66.5	25.7167	4
+FI	96900	Saarenkylä							66.5167	25.8	4
+FI	96910	Rovaniemi							66.5	25.7167	4
+FI	96911	Rovaniemi							66.5	25.7167	4
+FI	96930	Napapiiri Rovaniemi							66.5033	25.7333	
+FI	96960	Rovaniemi							66.5	25.7167	4
+FI	96961	Rovaniemi							66.5	25.7167	4
+FI	97110	Rautionsaari							64.4278	24.5889	
+FI	97130	Hirvas							60.6333	23	4
+FI	97140	Muurola							66.3833	25.4	4
+FI	97145	Totonvaara							66.3833	25.4	
+FI	97160	Petäjäinen							64.4278	24.5889	
+FI	97170	Jaatila							66.2667	25.3667	4
+FI	97190	Pisa							64.4278	24.5889	
+FI	97220	Sinettä							66.65	25.4667	4
+FI	97240	Sonka							66.6333	25.2333	4
+FI	97250	Raanujärvi							66.65	24.7167	4
+FI	97270	Romakkaniemi							66.7	24.6667	4
+FI	97280	Tapio							66.7	25.45	4
+FI	97290	Marraskoski							66.6667	25.1067	
+FI	97310	Patokoski							66.8667	25.4667	4
+FI	97320	Marrasjärvi							66.9	25.1333	4
+FI	97330	Rattosjärvi							66.85	24.8833	4
+FI	97335	Ruuhivaara							66.85	24.8833	
+FI	97340	Meltaus							66.9	25.3667	4
+FI	97350	Jääskö							67.0333	25.1167	4
+FI	97360	Perttaus							67.0167	25.5333	4
+FI	97370	Unarin-Luusua							66.9762	25.2929	
+FI	97380	Kukasranta							66.9762	25.2929	
+FI	97390	Kierinki							67.2667	25.55	4
+FI	97420	Lohiniva							67.1667	24.9667	4
+FI	97430	Taapajärvi							67.1167	24.7	4
+FI	97440	Helppi							67.2167	24.85	4
+FI	97450	Tuuliharju							67.25	24.85	4
+FI	97460	Paloselkä							67.22	24.85	
+FI	97470	Alakylä							67.35	24.8833	4
+FI	97510	Vikajärvi							66.6167	26.2	4
+FI	97520	Nampa							66.75	26.25	4
+FI	97530	Yli-Nampa							66.7542	26.45	
+FI	97540	Tiainen							66.7542	26.45	
+FI	97560	Käyrämö							66.9667	26.2833	4
+FI	97580	Misi							66.7542	26.45	
+FI	97590	Raajärvi							66.6833	27.0667	4
+FI	97610	Oikarainen							66.3167	26.7083	
+FI	97615	Tennirova							66.3167	26.7083	
+FI	97620	Viiri							66.3833	26.5833	4
+FI	97625	Vanttauskoski							66.3833	26.5833	
+FI	97630	Pekkala							66.35	26.9	4
+FI	97635	Juuniemi							66.35	26.9	
+FI	97645	Juujärvi							66.4	27.3	4
+FI	97650	Juotas							66.3167	27.1	
+FI	97655	Autti							66.3167	27.1	4
+FI	97660	Piittisjärvi							66.25	26.8333	4
+FI	97665	Pohjasperä							66.2167	26.8667	4
+FI	97667	Putkimäki							66.2333	26.85	
+FI	97670	Kivitaipale							66.3333	25.95	4
+FI	97675	Narkaus							66.2833	26.1333	4
+FI	97680	Saari-Kämä							66.3167	26.7083	
+FI	97685	Siika-Kämä							66.3167	26.7083	
+FI	97690	Sulaoja							66.3167	26.7083	
+FI	97700	Ranua							65.9167	26.5333	4
+FI	97701	Ranua							65.9167	26.5333	4
+FI	97715	Raiskio							66	26.2	4
+FI	97720	Yli-Simo							65.925	26.7604	
+FI	97740	Aitakumpu							65.925	26.7604	
+FI	97745	Rousamo							65.925	26.7604	
+FI	97750	Kuha							65.9	26.7167	4
+FI	97755	Sääskilahti							66.0667	27.15	4
+FI	97760	Saariharju							65.9667	27.2167	
+FI	97765	Impiö							65.9667	27.2167	4
+FI	97770	Petäjäjärvi							65.8333	26.7833	4
+FI	97780	Kuukasjärvi							65.8	26.95	4
+FI	97785	Kelankylä							65.8	26.95	
+FI	97810	Suorsa							66.1833	27.6	
+FI	97815	Pernu							66.1833	27.6	4
+FI	97820	Perä-Posio							66.2917	28.0278	
+FI	97840	Lehtiniemi							66.25	27.95	4
+FI	97850	Ristilä							66.2917	28.0278	
+FI	97860	Aittaniemi							66.3667	27.8833	4
+FI	97870	Jumisko							66.3333	28.15	4
+FI	97880	Nolimo							66.2917	28.0278	
+FI	97890	Karjalaisenniemi							66.25	28.2	4
+FI	97895	Mourujärvi							66.3667	28.3833	4
+FI	97900	Posio							66.1833	27.8833	4
+FI	97901	Posio							66.1833	27.8833	4
+FI	97920	Suonnankylä							66.2167	28.7167	
+FI	97925	Tolva							66.2167	28.7167	4
+FI	97940	Lohiranta							66.0417	28.1889	
+FI	97950	Säikkä							66.0417	28.1889	
+FI	97960	Kuloharju							65.9167	28.1333	4
+FI	97965	Kynsilä							65.9	28.35	4
+FI	97970	Sirniö							65.85	28.1667	4
+FI	97980	Anetjärvi							66.0417	28.1889	
+FI	97999	Rovaniemi							66.0417	28.1889	
+FI	98007	Kemijärvi							66.6667	27.4167	4
+FI	98100	Kemijärvi							66.6667	27.4167	4
+FI	98101	Kemijärvi							66.6667	27.4167	4
+FI	98120	Kemijärvi							66.6667	27.4167	4
+FI	98121	Kemijärvi							66.6667	27.4167	4
+FI	98220	Karsimus							65.3333	27.9278	
+FI	98230	Luusua							66.2167	27.8833	4
+FI	98260	Kuusivaara							63.0667	29.05	4
+FI	98280	Sammale							66.7167	26.85	4
+FI	98310	Kemijärvi							66.6667	27.4167	4
+FI	98330	Javarus							66.9	26.9667	4
+FI	98350	Tapionniemi							66.8667	27.45	4
+FI	98360	Vuostimo							66.95	27.5333	4
+FI	98370	Vuostimojärvi							66.8767	27.3867	
+FI	98390	Autioniemi							67	27.5667	4
+FI	98400	Isokylä							66.7167	27.6	4
+FI	98420	Ryti-Lehtola							66.7944	27.5111	
+FI	98440	Kallaanvaara							66.7944	27.5111	
+FI	98450	Kostamo							66.7833	27.45	4
+FI	98470	Oinaankylä							66.8833	27.4833	4
+FI	98500	Pelkosenniemi							67.1108	27.5106	4
+FI	98510	Saunavaara							67.05	27.5167	4
+FI	98520	Saukkoaapa							67.162	27.4298	
+FI	98530	Pyhätunturi							67.162	27.4298	
+FI	98540	Kultakero							67.162	27.4298	
+FI	98550	Suvanto							67.1517	27.2769	4
+FI	98560	Kairala							67.1922	27.4425	4
+FI	98570	Aapajärvi							67.2506	27.2986	4
+FI	98580	Luiro							67.2167	27.5333	4
+FI	98600	Kursu							66.7833	28.1333	4
+FI	98620	Pahkakumpu							66.8917	28.0833	
+FI	98630	Ahvenselkä							67	28.0333	4
+FI	98660	Salmivaara							66.8917	28.0833	
+FI	98710	Joutsijärvi							66.6667	28	4
+FI	98720	Suomulahti							66.5556	28.25	
+FI	98730	Tonkopuro							66.5556	28.25	
+FI	98740	Morottaja							66.5556	28.25	
+FI	98760	Hirvasvaara							66.55	28.6	4
+FI	98770	Aholanvaara							66.5556	28.25	
+FI	98780	Maaninkavaara							66.5556	28.25	
+FI	98790	Paloperä							66.45	28.15	4
+FI	98800	Savukoski							67.2925	28.1581	4
+FI	98810	Lunkkaus							67.2456	27.9036	4
+FI	98820	Värriö							67.4669	27.9867	4
+FI	98830	Martti							67.4747	28.3722	4
+FI	98840	Ruuvaoja							67.6575	28.7092	4
+FI	98850	Kuosku							67.2356	28.3956	4
+FI	98860	Nousu							67.1583	28.6408	4
+FI	98900	Salla							66.8333	28.6667	4
+FI	98901	Salla							66.8333	28.6667	4
+FI	98920	Kelloselkä							66.9333	28.8333	4
+FI	98930	Kotalankylä							66.7845	28.684	
+FI	98950	Saija							67.0925	28.8219	4
+FI	98960	Naruska							66.7845	28.684	
+FI	98970	Onkamojärvi							66.75	29.1	4
+FI	98980	Kallunki							66.65	28.9333	4
+FI	98995	Hautajärvi							66.5167	29.0333	4
+FI	98999	Kemijärvi							66.6667	27.4167	4
+FI	99100	Kittilä							67.6667	24.9	4
+FI	99101	Kittilä							67.6667	24.9	4
+FI	99110	Kaukonen							67.4833	24.9	4
+FI	99120	Kallo							67.4167	24.5	4
+FI	99130	Sirkka							67.8667	24.8333	4
+FI	99131	Sirkka							67.8167	24.8	4
+FI	99135	Rauhala							67.9	24.2167	4
+FI	99140	Köngäs							67.8667	24.8667	4
+FI	99150	Tepasto							68	24.6833	4
+FI	99160	Lompolo							68.0833	24.8167	4
+FI	99170	Pulju							68.2333	24.8333	4
+FI	99180	Rautusjärvi							67.8667	24.9667	4
+FI	99190	Hanhimaa							67.9167	25.05	4
+FI	99195	Pokka							68.15	25.7833	4
+FI	99210	Pitkäkumpu							67.6667	25.5125	
+FI	99220	Vittakumpu							67.6667	25.5125	
+FI	99230	Jeesiöjärvi							67.6667	25.5125	
+FI	99240	Kuivasalmi							67.7167	25.4167	4
+FI	99250	Kiistala							67.8667	25.3333	4
+FI	99270	Hormakumpu							67.6667	25.5125	
+FI	99280	Tepsa							67.5667	25.6833	4
+FI	99290	Kelontekemä							67.5167	25.6167	4
+FI	99300	Muonio							67.9233	23.7476	4
+FI	99301	Muonio							67.95	23.7	4
+FI	99310	Yli-Muonio							67.9933	23.74	
+FI	99320	Kätkäsuvanto							68.1167	23.35	4
+FI	99330	Pallastunturi							67.9933	23.74	
+FI	99340	Raattama							68.1333	24.25	4
+FI	99360	Kangosjärvi							67.8167	23.7	4
+FI	99380	Jerisjärvi							67.9933	23.74	
+FI	99400	Enontekiö							68.3833	23.6333	4
+FI	99401	Enontekiö							68.3833	23.6333	4
+FI	99410	Vuontisjärvi							68.4333	24.0167	4
+FI	99420	Peltovuoma							68.3833	24.1833	4
+FI	99430	Nunnanen							68.4	24.5167	4
+FI	99440	Leppäjärvi							68.5	23.3	4
+FI	99450	Palojoensuu							68.2833	23.0833	4
+FI	99460	Kuttanen							68.3833	22.85	4
+FI	99470	Karesuvanto							68.3937	23.6521	
+FI	99490	Kilpisjärvi							68.3937	23.6521	
+FI	99510	Raudanjoki							67.2233	26.6033	
+FI	99520	Seipäjärvi							67.1667	26.2333	4
+FI	99530	Vuojärvi							67.1	26.6	4
+FI	99540	Torvinen							67.2	26.6333	4
+FI	99550	Aska							67.3	26.7	4
+FI	99555	Luosto							67.3	26.7	
+FI	99560	Orakylä							67.35	26.85	4
+FI	99600	Sodankylä							67.4167	26.6	4
+FI	99601	Sodankylä							67.4167	26.6	4
+FI	99607	Sodankylä							67.4167	26.6	4
+FI	99610	Siurunmaa							67.45	26.85	4
+FI	99620	Kelujärvi							67.465	27.0311	4
+FI	99640	Tanhua							67.5281	27.5392	4
+FI	99645	Lokka							67.82	27.7372	4
+FI	99650	Sattanen							67.5	26.6167	4
+FI	99655	Sattasvaara							67.5	26.6167	
+FI	99660	Kersilö							67.5833	26.7167	4
+FI	99665	Moskuvaara							67.6	26.8833	4
+FI	99670	Petkula							67.6667	26.6833	4
+FI	99680	Yli-kitinen							67.5803	26.9159	
+FI	99690	Vuotso							68.1	27.1333	4
+FI	99695	Tankavaara							68.1	27.1333	
+FI	99710	Vaalajärvi							67.4333	26.2167	4
+FI	99720	Riipi							67.3333	26.05	4
+FI	99740	Syväjärvi							67.3	25.9333	4
+FI	99750	Sassali							67.2667	25.8333	4
+FI	99760	Uimaniemi							67.1833	25.7333	4
+FI	99770	Jeesiö							67.5	26.0167	4
+FI	99790	Jääkärinkangas							67.3361	25.9639	
+FI	99800	Ivalo							68.65	27.6	4
+FI	99801	Ivalo							68.65	27.6	4
+FI	99820	Kaunispää							68.4333	27.45	4
+FI	99830	Saariselkä							68.7306	27.5	
+FI	99831	Saariselkä							68.7306	27.5	
+FI	99835	Laanila							68.7306	27.5	
+FI	99860	Nellim							68.85	28.3167	4
+FI	99870	Inari							68.9	27.0167	4
+FI	99871	Inari							68.9	27.0167	4
+FI	99880	Menesjärvi							68.7306	27.5	
+FI	99885	Lemmenjoki							68.7306	27.5	
+FI	99890	Lisma							68.7306	27.5	
+FI	99910	Kaamanen							69.1	27.2	4
+FI	99920	Partakko							69.6278	26.8407	
+FI	99930	Sevettijärvi							69.5167	28.6333	4
+FI	99940	Näätämö							69.6278	26.8407	
+FI	99941	Näätämö							69.6278	26.8407	
+FI	99950	Karigasniemi							69.4	25.8333	4
+FI	99951	Karigasniemi							69.4	25.8333	4
+FI	99960	Outakoski							69.6	25.9667	4
+FI	99970	Nuvvus							69.7833	26.25	4
+FI	99980	Utsjoki							69.8833	27	4
+FI	99981	Utsjoki							69.8833	27	4
+FI	99990	Nuorgam							70.0833	27.85	4
+FI	99999	Korvatunturi							70.0833	27.85	
