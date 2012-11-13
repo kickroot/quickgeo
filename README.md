@@ -25,8 +25,24 @@ Because it's awesome. Here's why:
 You choose exactly which countries you want to include.  Want Estonia, Iceland, and Australia?  No problem.
 
 ### It uses Maven
-so managing all those country specific jar files is not your problem
+Managing all those country specific jar files is not your problem
 
 ### It's Open Source
 [Hello Mozilla Public License v2.0](http://www.mozilla.org/MPL/)
 
+
+## How do I use this in my Maven based app?
+I'm glad you asked!  You'll need to add some dependencies to your project as such:
+
+ ```xml
+     <dependency>
+      <groupId>org.quickgeo</groupId>
+      <artifactId>quickgeo-core</artifactId>
+      <version>0.1.0-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+      <groupId>org.quickgeo</groupId>
+      <artifactId>quickgeo-us</artifactId>
+      <version>0.1.0-SNAPSHOT</version>
+    </dependency>
+ ```
