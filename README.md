@@ -10,13 +10,23 @@ Rather than give you a dry feature list, let's quickly examine the types of ques
 4. What cities/towns/villages have the postal code "18431"?
 5. Give me a bounding box that covers 29 miles (or kilometers) in each direction around New Delhi, India
 
-**Why in-memory and not a web service**
-Because it's awesome.  
-Here's why:
+**Why in-memory and not a web service?**  
+Because it's awesome. Here's why:
 
 1. No need to have an Internet connection
 2. No third party service to yank your API access if your app suddenly goes viral
-3. Your Android phone can easiliy handle the memory requirements for multiple countries (you get to choose which you include in your app)
+3. Your Android phone can easily handle the memory requirements for multiple countries (you get to choose which you include in your app)
 4. Lookup is *fast*. Hello Twitter Bootstrap TypeAhead!
 5. Lookups are an inexpensive operation and can be done as the user types (see item 4).
+
+## Other cool things about QuickGeo
+
+### It's modular
+You choose exactly which countries you want to include.  Want Estonia, Iceland, and Australia?  No problem.
+
+### It uses Maven
+so managing all those country specific jar files is not your problem
+
+### It's Open Source
+[Hello Mozilla Public License v2.0](http://www.mozilla.org/MPL/)
 
