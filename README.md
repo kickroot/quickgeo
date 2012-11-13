@@ -55,11 +55,20 @@ I'm glad you asked!  You'll need to add some dependencies to your project as suc
   <artifactId>quickgeo-ca</artifactId>
   <version>0.1.0-SNAPSHOT</version>
 </dependency>
+```
 
 There are quite a few countries to choose from, and each one gets it's own Maven project within QuickGeo.
 
 ***At the moment this project is not hosted in Maven Central, I'm working on that.***  
 This means to use QuickGeo you'll need to clone the repo and build it yourself.  Seriously it takes like 2 minutes.
+
+***To actually use this in your app***  
+Just instantiate a PostalDb object:
+```java
+PostalDb db = PostalDbFactory.build();
+```
+
+The PostalDb instance has all the methods you need to start making useful queries.  Detailed usage to be added later. JavaDocs need to be written first.
 
 
 ##Where did you get the postal code data from?  
