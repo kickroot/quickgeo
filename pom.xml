@@ -30,6 +30,7 @@
   <scm>
     <url>scm:git:git@github.com:kickroot/quickgeo.git</url>
     <connection>scm:git:git@github.com:kickroot/quickgeo.git</connection>
+    <developerConnection>scm:git:git@github.com:kickroot/quickgeo.git</developerConnection>
   </scm>
   
   <modules>
