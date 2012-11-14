@@ -10,7 +10,41 @@ import java.io.Serializable;
 import javax.annotation.concurrent.Immutable;
 
 /**
- *
+ * Represents a physical village, town, city, etc.  Place instances are immutable
+ * and may be freely shared amongst threads.
+ * 
+ * This class is a container for place information as defined by the GeoNames 
+ * source at http://download.geonames.org/export/zip/
+ * <pre>
+ * country code      : iso country code, 2 characters
+ * postal code       : varchar(20)
+ * place name        : varchar(180)
+ * admin name1       : 1. order subdivision (state) varchar(100)
+ * admin code1       : 1. order subdivision (state) varchar(20)
+ * admin name2       : 2. order subdivision (county/province) varchar(100)
+ * admin code2       : 2. order subdivision (county/province) varchar(20)
+ * admin name3       : 3. order subdivision (community) varchar(100)
+ * admin code3       : 3. order subdivision (community) varchar(20)
+ * latitude          : estimated latitude (wgs84)
+ * longitude         : estimated longitude (wgs84)
+ * accuracy          : accuracy of lat/lng from 1=estimated to 6=centroid
+ * </pre>
+ * 
+ * Member names aren't exactly obvious, but in the US they are mapped as such:
+ * 
+ * <pre>
+ * postal code = zip Code
+ * place name = city name
+ * adminName1 = state name (Washington)
+ * adminCode1 = state abbreviation (WA)
+ * adminName2 = county (King)
+ * adminCode2 = county code (33)
+ * adminName3 = unused
+ * adminCode3 = unused
+ * </pre>
+ * 
+ * @since 0.1.0
+ * @author Jason Nichols (jason@kickroot.com
  */
 @Immutable
 public final class Place implements Serializable {

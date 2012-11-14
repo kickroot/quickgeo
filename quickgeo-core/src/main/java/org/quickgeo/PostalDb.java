@@ -11,13 +11,23 @@ import com.google.common.collect.Lists;
 import java.util.Iterator;
 import java.util.LinkedHashSet;
 import java.util.List;
+import java.util.logging.Level;
 import java.util.logging.Logger;
 import java.util.regex.Pattern;
 import javax.annotation.concurrent.Immutable;
 import javax.annotation.concurrent.ThreadSafe;
 
 /**
- *
+ * The PostalDb instance is the primary interface for the QuickGeo API.  
+ * 
+ * Instances of this class are expensive to instantiate and store, so only one
+ * per VM is advisable. To encourage this. all instances of PostalDb must be
+ * obtained through a {@link PostalDbFactory}.  The PostalDbFactory uses
+ * a static initializer to ensure that only once instance of PostalDb is 
+ * created per VM.
+ * 
+ * @since 0.1.0
+ * @author Jason Nichols (jason@kickroot.com)
  */
 @Immutable
 @ThreadSafe
@@ -80,11 +90,21 @@ public final class PostalDb {
   
   protected PostalDb(LinkedHashSet<Place> places) {
     this.places = places;
-    Logger.getLogger(getClass().getName()).info("Initialized DB with " + places.size() + " zips" );
+    Logger.getLogger(getClass().getName()).log(Level.INFO, "Initialized DB with {0} zips", places.size());
   }
   
   ////////////////////////////////// Methods \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\   
   
+  /**
+   * Search the in-memory database for all places within a given radius of the
+   * supplied origin.
+   * 
+   * @param latitude The latitude of the origin
+   * @param longitude The longitude of the origin
+   * @param rangeInMiles The radius to use when finding places.
+   * @since 0.1.0
+   * @return A list of all places within the specified range.
+   */
   public List<Place> withinMilesOf(double latitude, double longitude, int rangeInMiles) {
     
     List<Place> list = Lists.newArrayList();
@@ -114,10 +134,29 @@ public final class PostalDb {
     
   }
   
+  /**
+   * Search the in-memory database for all places within a given radius of the
+   * supplied origin.
+   * 
+   * @param p The place to use as the origin for the search
+   * @param rangeInMiles The radius to use when finding places.
+   * @since 0.1.0
+   * @return A list of all places within the specified range.
+   */  
   public List<Place> withinMilesOf(Place p, int rangeInMiles) {
     return withinMilesOf(p.getLatitude(), p.getLongitude(), rangeInMiles);
   }
 
+  /**
+   * Search the in-memory database for all places within a given radius of the
+   * supplied origin.
+   * 
+   * @param latitude The latitude of the origin
+   * @param longitude The longitude of the origin
+   * @param rangeInKilometers The radius to use when finding places.
+   * @since 0.1.0
+   * @return A list of all places within the specified range.
+   */  
   public List<Place> withinKilometersOf(double latitude, double longitude, int rangeInKilometers) {
     
     List<Place> list = Lists.newArrayList();
@@ -132,8 +171,7 @@ public final class PostalDb {
         list.add(p);
       }
     }
-    
-    
+        
     // Trim to exact cutoff
     Iterator<Place> iter = list.iterator();
     while(iter.hasNext()) {
@@ -143,19 +181,33 @@ public final class PostalDb {
       }
     }
     
-    return list;
-    
+    return list;    
   }
   
+  /**
+   * Search the in-memory database for all places within a given radius of the
+   * supplied origin.
+   * 
+   * @param p The place to use as the origin for the search
+   * @param rangeInKilometers The radius to use when finding places.
+   * @since 0.1.0
+   * @return A list of all places within the specified range.
+   */  
   public List<Place> withinKilometersOf(Place p, int rangeInKilometers) {
     return withinKilometersOf(p.getLatitude(), p.getLongitude(), rangeInKilometers);
   }
   
   
-  public List<Place> byPostalCode(String postalCode) {
+  /**
+   * Search the in-memory database for all places matching the given postal code.
+   * @param regex A regex pattern of the postal codes to search.  
+   * @return A list of {@link Place Places} matching the supplied postal code pattern.
+   * @since 0.1.0
+   */
+  public List<Place> byPostalCode(String regex) {
     List<Place> list = Lists.newArrayList();
     
-    Pattern p = Pattern.compile(postalCode, Pattern.CASE_INSENSITIVE);
+    Pattern p = Pattern.compile(regex, Pattern.CASE_INSENSITIVE);
     
     for (Place place : places) {
       if (p.matcher(place.getPostalCode()).matches()) {
@@ -166,6 +218,12 @@ public final class PostalDb {
     return list;    
   }
   
+  /**
+   * Search the in-memory database for all places matching the given name.
+   * @param regex A regex pattern of places to search.  
+   * @return A list of {@link Place Places} matching the supplied place name pattern.
+   * @since 0.1.0
+   */  
   public List<Place> byName(String regex) {
     List<Place> list = Lists.newArrayList();
     
@@ -190,15 +248,25 @@ public final class PostalDb {
   //---------------------------- Utility Methods ------------------------------
   
   /**
-   * Compute the distance in Miles between two Places.
+   * Compute the distance in miles between two Places.
    * @param p1 The first place
    * @param p2 The second place
    * @return The distance in miles between the two places.
+   * @since 0.1.0
    */
   public double distanceInMiles(Place p1, Place p2) {
     return distanceInMiles(p1.getLatitude(), p1.getLongitude(), p2.getLatitude(),p2.getLongitude());
   }
   
+  /**
+   * Compute the distance in miles between two sets of coordinates.
+   * @param lat1 The latitude for the first place
+   * @param lon1 The longitude for the first place
+   * @param lat2 The latitude for the second place
+   * @param lon2 The longitude for the second place
+   * @return The distance in miles between the sets of coordinates.
+   * @since 0.1.0
+   */
   public double distanceInMiles(double lat1, double lon1, double lat2, double lon2) {
     return GeoMath.greatCircleDistance(lat1, lon1, lat2, lon2) * MEAN_RADIUS_IN_MILES;    
   }
@@ -208,15 +276,33 @@ public final class PostalDb {
    * @param p1 The first place
    * @param p2 The second place
    * @return The distance in kilometers between the two places.
+   * @since 0.1.0
    */
   public double distanceInKilometers(Place p1, Place p2) {
     return distanceInKilometers(p1.getLatitude(), p1.getLongitude(), p2.getLatitude(),p2.getLongitude());
   }  
   
+  /**
+   * Compute the distance in kilometers between two sets of coordinates.
+   * @param lat1 The latitude for the first place
+   * @param lon1 The longitude for the first place
+   * @param lat2 The latitude for the second place
+   * @param lon2 The longitude for the second place
+   * @return The distance in kilometers between the sets of coordinates.
+   * @since 0.1.0
+   */  
   public double distanceInKilometers(double lat1, double lon1, double lat2, double lon2) {
     return GeoMath.greatCircleDistance(lat1, lon1, lat2, lon2) * MEAN_RADIUS_IN_KILOMETERS;        
   }
   
+  /**
+   * Get a {@link GeoRect} that represents the bounding box for the supplied origin and radius.
+   * @param latitude The latitude of the origin
+   * @param longitude The longitude of the origin
+   * @param radiusInMiles The radius in miles to cover in each direction.
+   * @return  A {@link GeoRect} that represents the area of the bounding box.
+   * @since 0.1.0
+   */
   public GeoRect boundingBoxInMiles(double latitude, double longitude, int radiusInMiles) {
     
     // Length of one arc degree in miles
@@ -234,6 +320,14 @@ public final class PostalDb {
             latitude-latDelta, longitude + lonDelta);    
   }
   
+  /**
+   * Get a {@link GeoRect} that represents the bounding box for the supplied origin and radius.
+   * @param latitude The latitude of the origin
+   * @param longitude The longitude of the origin
+   * @param radiusInKilometers The radius in miles to cover in each direction.
+   * @return  A {@link GeoRect} that represents the area of the bounding box.
+   * @since 0.1.0
+   */  
   public GeoRect boundingBoxInKilometers(double latitude, double longitude, int radiusInKilometers) {
     
     // Length of one arc degree in miles
@@ -253,6 +347,10 @@ public final class PostalDb {
   
   //---------------------------- Property Methods -----------------------------     
   
+  /**
+   * Get the number of {@link Place places} stored by this database.
+   * @since 0.1.0
+   */
   public int getSize() {
     return places.size();
   }

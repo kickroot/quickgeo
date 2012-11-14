@@ -11,7 +11,11 @@ import com.google.common.collect.Lists;
 import javax.annotation.concurrent.Immutable;
 
 /**
- *
+ * An internally used factory class that generates {@link Place} instances
+ * from a line of text.  More than likely you have no need to interact with this class.
+ * 
+ * @since 0.1.0
+ * @author Jason Nichols (jason@kickroot.com)
  */
 @Immutable
 public final class PlaceFactory {
