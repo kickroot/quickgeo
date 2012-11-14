@@ -68,7 +68,29 @@ Just instantiate a PostalDb object:
 PostalDb db = PostalDbFactory.build();
 ```
 
-The PostalDb instance has all the methods you need to start making useful queries.  Detailed usage to be added later. JavaDocs need to be written first.
+The PostalDb instance has all the methods you need to start making useful queries:
+
+```java
+  db.byName("Seattle");
+```
+
+Returns 67 different entries for Seattle, WA!  This may seem crazy, but GeoNames uses a different Place instance for each zip/postal code.  This means that users will always have greater accuracy (especially in metro areas) if they search by postal code instead of place name.  
+
+Let's find all places within 50 miles of 98177 (a random Seattle zip code)
+```java
+	Place p = db.byPostalCode("98177").get(0);
+	List<Place> nearby = db.withinMilesOf(p, 50);
+```
+How about finding all places that have the work 'lake' in it?  All regex queries are case insensitive.
+
+```java
+	List<Place> nicePlaces = db.byName(".*lake.*");
+```
+
+This returns 634 entries for the US and Canada.  Your values will vary depending on database inclusion and versioning.
+
+
+
 
 
 ##Where did you get the postal code data from?  
