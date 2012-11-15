@@ -38,12 +38,12 @@ I'm glad you asked!  You'll need to add some dependencies to your project as suc
 <dependency>
   <groupId>org.quickgeo</groupId>
   <artifactId>quickgeo-core</artifactId>
-  <version>0.1.0-SNAPSHOT</version>
+  <version>0.1.0</version>
 </dependency>
 <dependency>
   <groupId>org.quickgeo</groupId>
   <artifactId>quickgeo-us</artifactId>
-  <version>0.1.0-SNAPSHOT</version>
+  <version>0.1.0</version>
 </dependency>
 ```
 
@@ -53,19 +53,16 @@ I'm glad you asked!  You'll need to add some dependencies to your project as suc
 <dependency>
   <groupId>org.quickgeo</groupId>
   <artifactId>quickgeo-ca</artifactId>
-  <version>0.1.0-SNAPSHOT</version>
+  <version>0.1.0</version>
 </dependency>
 ```
 
-There are quite a few countries to choose from, and each one gets it's own Maven project within QuickGeo.
-
-***At the moment this project is not hosted in Maven Central, I'm working on that.***  
-This means to use QuickGeo you'll need to clone the repo and build it yourself.  Seriously it takes like 2 minutes.
+There are quite a few countries to choose from, and each one gets it's own Maven project within QuickGeo.  QuickGeo is hosted on Maven Central, so you don't need to add additional repos to your project pom.xml.
 
 ***To actually use this in your app***  
 Just instantiate a PostalDb object:
 ```java
-PostalDb db = PostalDbFactory.build();
+PostalDb db = PostalDbFactory.getPostalDb();
 ```
 
 The PostalDb instance has all the methods you need to start making useful queries:
